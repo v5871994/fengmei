@@ -1,0 +1,362 @@
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>一元云购</title>
+	<meta name="description" content="1元夺宝，就是指只需1元就有机会获得一件商品，是基于网易邮箱平台孵化的新项目，好玩有趣，不容错过。" />
+    <meta name="keywords" content="1元,一元,1元夺宝,1元购,1元购物,1元云购,一元夺宝,一元购,一元购物,一元云购,夺宝奇兵" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width">
+ 
+
+        <link  rel="stylesheet"  href="../addons/feng_duobao/template/css/abc.css">
+        <link href="http://mimg.127.net/p/yymobile/1601121713/css/index.css" rel="stylesheet" />
+</head>
+
+
+
+<style>
+.w-goodsList-brief .w-goodsList-item {
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+}
+</style>
+
+<body>
+<img src="http://mimg.127.net/p/images/yy/common/share.jpg" alt="网易一元夺宝" style="position:absolute;left:0;top:-2000px"/>
+<div class="g-header">
+    <div class="m-header">
+        <div class="g-wrap">
+            <h1 class="m-header-logo">一元云购<a class="m-header-logo-link" href="{php echo $this->createMobileUrl('index')}"><i class="ico ico-logo"></i></a></h1>
+            <div class="m-header-toolbar">
+                
+                <a class="m-header-toolbar-btn userpageBtn" href="{php echo $this->createMobileUrl('profile')}" title="我的夺宝"><i class="ico ico-userpage"></i></a>
+            </div>
+        </div>
+    </div>
+    <!-- 导航栏 -->
+    <div class="m-nav">
+        <div class="g-wrap">
+            <ul class="m-nav-list">
+                    <li class="selected"><a href="{php echo $this->createMobileUrl('index')}"><span>首页<span></a></li>
+                    <li ><a href="{php echo $this->createMobileUrl('introduction')}"><span>参与说明<span></a></li>
+                    <li ><a href="{php echo $this->createMobileUrl('myorder')}"><span>夺宝记录<span></a></li>
+                    <li ><a href="{php echo $this->createMobileUrl('profile')}"><span>会员中心<span></a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="g-body">
+    <div class="m-index">
+        <div class="g-body-hd">
+            <div class="w-slide m-index-promot">
+                <div class="w-slide-wrap" style="width:100%">
+                    <ul class="w-slide-wrap-list" data-pro="list">
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2015/12/31/5/8e3e17d0cda502c8d48c31669d6530ed.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://mimg.127.net/hd/all2/151230_lottery/mobile_banner.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2016/1/20/6/489e2857952333dfe1ab2d9065873c9d.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2016/1/21/6/94087ac5e16ffccf27e826629b968d79.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2015/12/31/5/8e3e17d0cda502c8d48c31669d6530ed.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2015/9/1/4/5dc3aa087ef0c7c0fe2452255d21a833.jpg" /></a>
+                            </li>
+                            <li data-pro="item" class="w-slide-wrap-list-item" style="background-color: #ffffff">
+                                <a class="frame" href="{php echo $this->createMobileUrl('index')}" title=""><img src="http://res.126.net/p/dbqb/resupload/onlinepath/2016/1/21/6/4cac2e735c32295fc754bafffb51fb82.jpg" /></a>
+                            </li>
+                    </ul>
+                </div>
+                <div class="w-slide-controller">
+                    <div class="w-slide-controller-nav" data-pro="controllerNav"></div>
+                </div>
+            </div>
+        </div>
+        <div class="g-wrap g-body-bd">
+            <div class="m-index-mod m-index-reveal">
+               
+                <div class="m-index-mod-bd"></div>
+            </div>
+            <div class="m-index-mod m-index-newArrivals">
+                <div class="m-index-mod-hd">
+                    <h3>上架新品</h3>
+                    
+                </div>
+                <div class="m-index-mod-bd">
+                    <ul class="w-goodsList w-goodsList-brief m-index-newArrivals-list">
+					{loop $s_pos $gid $pos}
+                            <li class="w-goodsList-item">
+    <div class="w-goods w-goods-brief">
+        <div class="w-goods-pic">
+            <a href="
+{php echo $this->createMobileUrl('details', array('id' => $pos['id']))}
+
+
+" title="(第{$pos['periods']}期){$pos['title']}">
+                <img alt="(第{$pos['periods']}期){$pos['title']}" src="{$_W['attachurl']}{$pos['picarr']}" data-src="{$_W['attachurl']}{$pos['picarr']}" onerror="this.src='{$_W['attachurl']}{$pos['picarr']}'" />
+            </a>
+        </div>
+        <p class="w-goods-title f-txtabb"><a title="(第{$pos['periods']}期){$pos['title']}" href="
+{php echo $this->createMobileUrl('details', array('id' => $pos['id']))}
+
+
+">(第{$pos['periods']}期){$pos['title']}</a></p>
+    </div>
+                            </li>
+							{/loop}	
+                           
+                    </ul>
+                </div>
+            </div>
+            <div class="m-index-mod m-index-popular">
+                <div class="m-index-mod-hd">
+                    <h3>今日热门商品</h3>
+                 
+                </div>
+                <div class="m-index-mod-bd">
+                    <ul class="w-goodsList w-goodsList-s m-index-popular-list">
+					{loop $goodses $goodsid $goods}
+                            <li class="w-goodsList-item">
+            <div class="w-goods w-goods-ing" data-gid="897" data-period="301223801" data-price="6488" data-buyUnit="1">
+        <div class="w-goods-pic">
+            <a href="
+{php echo $this->createMobileUrl('details', array('id' => $goods['id']))}
+
+
+">
+                <img alt="(第{$goods['periods']}期){$goods['title']}" src="{$_W['attachurl']}{$goods['picarr']}" data-src="{$_W['attachurl']}{$goods['picarr']}" onerror="this.src='{$_W['attachurl']}{$goods['picarr']}'" />
+            </a>
+        </div>
+        <div class="w-goods-info">
+            <p class="w-goods-title f-txtabb"><a href="
+{php echo $this->createMobileUrl('details', array('id' => $goods['id']))}
+
+
+">(第{$goods['periods']}期){$goods['title']}</a></p>
+            <div class="w-progressBar">
+                <p class="txt">已参与：{$goods['canyurenshu']}次<br /><strong>剩余：{$goods['shengyurenshu']}次</strong></p>
+               
+            </div>
+        </div>
+        <div class="w-goods-shortFunc">
+		<a href="{php echo $this->createMobileUrl('details', array('id' => $goods['id']))}">
+                    <button class="w-button w-button-round w-button-addToCart"></button></a>
+        </div>
+    </div>
+                            </li>
+                            {/loop}	
+                    </ul>
+                    <div class="w-more">
+                        <a href="######">我们一直在进步 !!!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="g-footer">
+    <div class="g-wrap">
+        <p style="margin-bottom: 7px;border-bottom: #DCDCDC 1px dotted;padding: 2px 6px;">特别说明：每期夺宝完成后，系统将自动进入下一期<br />参与次数越多，中奖的几率会越大哦！</p>
+            <ul class="m-state f-clear">
+                <li><i class="ico ico-state ico-state-1"></i>公平公正公开</li>
+                <li><i class="ico ico-state ico-state-2"></i>正品保证</li>
+                <li class="last"><i class="ico ico-state ico-state-3"></i>权益保障</li>
+            </ul>
+        <p class="m-link">
+            <!--a href="{php echo $this->createMobileUrl('introduction')}">什么是一元夺宝？</a>
+            <!--a href="http://1.163.com/client?from=app_wapfooter" target="_blank" style="color:#0079fe">下载APP</a-->
+        </p>
+        <!--p class="m-copyright">ICP证浙B2-20090185 <span>网易公司版权所有 © 1997-2015</span></p-->
+    </div>
+</div>			
+
+<script src="http://mimg.127.net/p/tools/requirejs/require2.min.js"></script>
+
+<script type="text/javascript">
+var G = {
+    isLogin : 0,
+    cid : '0',
+    uid : '',
+    alias: "",
+    nickname : '',
+    hasMobile: false,
+    serverTime : 1453453155601,
+    
+    
+    environment: 'release',
+    dftimg : 'http://mimg.127.net/p/t.gif',
+    host : 'http://m.1.163.com',
+    homeUrl: 'http://m.1.163.com/',
+    url: 'http://mimg.127.net/p/yymobile/',
+    comp: 'http://mimg.127.net/hd/lib/',
+    imgver: '1601121713',
+    hasEpay: 0,
+    ver: 'wap',
+    specials: {
+        // 通用第三方合作渠道推广弹框
+        'youdaodict': {
+            'base': 'plugin-hd/150226_cooperation/',
+            'index': 'Index.v2',
+            'siteName': '有道词典'
+        },
+        // 不中返2特权弹框
+        'makeup2': {
+            'base': 'plugin-hd/150311_makeup2/',
+            'index': 'Index.v2',
+            'cart': 'Cart.v2',
+            'order': 'Order'
+        },
+        // APP充值活动
+        'appchargeprize': {
+            'base': 'plugin-hd/150507_appchargeprize/',
+            'index': 'Index.v4'
+        },
+        // 易信充值活动
+        'yixincharge': {
+            'base': 'plugin-hd/150415_yixincharge/',
+            'recharge': 'Recharge'
+        },
+        // 榴莲or苹果
+        'ranprompt': {
+            'base': 'plugin-hd/150521_ranprompt/',
+            'detail': 'Detail'
+        },
+        // 星期一活动
+        'happymonday': {
+            'base': 'plugin-hd/150604_monday/',
+            'recharge': 'Recharge',
+            'rechargeResult': 'RechargeResult'
+        },
+        // 充值送物
+        'rechargegift': {
+            'base': 'plugin-hd/150812_condom/',
+            'rechargeResult': 'RechargeResult_v2'
+        },
+        // 群红包
+        'rpspread': {
+            'base': 'plugin-hd/150707_rpspread/',
+            'rechargeResult': 'RechargeResult.v2',
+            'result': 'Result.v2'
+        },
+        // 占卜送红包
+        'divine': {
+            'base': 'plugin-hd/150709_divine/',
+            'index': 'Index.v2',
+            'detail': 'Detail.v3'
+        },
+        //enjoysummer
+        'enjoysummer':{
+            'base':'plugin-hd/150713_enjoysummer/',
+            'cart':'cart',
+            'order':'order',
+            'result':'result'
+        },
+        // 友宝微信支付
+        'youbao':{
+            'base':'plugin-hd/150723_youbao/',
+            'result':'result'
+        },
+        // 年尾开仓放粮
+        'openwact': {
+            'base': 'plugin-hd/160111_lottery/',
+            'rechargeResult': 'rechargeResult_v1'
+        },
+        // 召唤财神得红包
+        'callCaishen': {
+            'base': 'plugin-hd/160107_caishen/',
+            'result': 'result'
+        }
+    }
+};
+</script>
+<script type="text/javascript" src="http://mimg.127.net/p/yymobile/1601121713/js/fix_v5.min.js"></script>
+<script src="http://mimg.127.net/p/yymobile/1601121713/js/base.js"></scrip>
+    <script type="text/javascript">
+        require(['controller/index/Index','common/Log'], function(Controller, Log){
+            try{
+                new Controller();
+            }catch(e){
+                Log.error(e);
+            }
+        });
+    </script>
+<script type="text/javascript">
+wx.ready(function () {
+	var shareData = {
+		title: "{$share_data['share_title']}",
+		desc: "{$share_data['share_desc']}",
+		link: "{$to_url}",
+		imgUrl: "{$_W['attachurl']}{$share_data['share_image']}",
+	};
+//分享朋友
+	wx.onMenuShareAppMessage({
+	    title: shareData.title,
+	  	desc: shareData.desc,
+	  	link: shareData.link,
+	  	imgUrl:shareData.imgUrl,
+	  	trigger: function (res) {
+	  	},
+	  	success: function (res) {
+	    	window.location.href =adurl;
+	  	},
+	  	cancel: function (res) {
+	  	},
+	  	fail: function (res) {
+	    	alert(JSON.stringify(res));
+	  	}
+	});
+	//朋友圈
+	wx.onMenuShareTimeline({
+	  	title: shareData.title+"---"+shareData.desc,
+	  	link: shareData.link,
+	  	imgUrl:shareData.imgUrl,
+	  	trigger: function (res) {
+	  	},
+	  	success: function (res) {
+	    	window.location.href =adurl;
+	  	},
+	  	cancel: function (res) {
+	  	},
+	  	fail: function (res) {
+	    	alert(JSON.stringify(res));
+	  	}
+	});   
+
+});
+//dijiqi 第几期，qishu：共几期，shengyu:剩余次数，url：夺宝页面
+//function duobao(dijiqi,qishu,shengyu,url)
+    //{
+	    //if((dijiqi-qishu)<=0/*&&parseInt(shengyu)>0*/)
+		//{
+            //location = url;
+       // }
+        //else
+       // {
+           // alert('哎呀，亲来晚了！本轮期数或参与人数已满，请下次再来参与！');
+       // }
+ //   }
+</script>
+<!--script type="text/javascript" > 
+alert("一元夺宝界面改版了，有建议请反馈到群里或M我。谢谢！");
+ </script--> 
+</body>
+</html>
+
+
+
+
+
+

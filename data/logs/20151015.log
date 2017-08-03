@@ -1,0 +1,105 @@
+2015-10-15 11:41:21 trace :
+------------
+Array:
+from : osaPDwFfzcRMVmH_zfr0pyDwLL_w ;
+to : gh_0111060d45fe ;
+time : 1444880480 ;
+type : text ;
+event :  ;
+tousername : gh_0111060d45fe ;
+fromusername : osaPDwFfzcRMVmH_zfr0pyDwLL_w ;
+createtime : 1444880480 ;
+msgtype : text ;
+content : 1 ;
+msgid : 6205714408438064049 ;
+redirection :  ;
+source :  ;
+
+2015-10-15 11:41:21 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 157 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-15 11:41:21 response :
+------------
+Array:
+FromUserName : gh_0111060d45fe ;
+ToUserName : osaPDwFfzcRMVmH_zfr0pyDwLL_w ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-15 17:45:08 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444902308 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444902308 ;
+msgtype : text ;
+content : Xd ;
+msgid : 6205808158995297629 ;
+redirection :  ;
+source :  ;
+
+2015-10-15 17:45:08 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-15 17:45:08 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-15 17:52:23 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444902742 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444902742 ;
+msgtype : text ;
+content : 约跑有礼 ;
+msgid : 6205810023011104233 ;
+redirection :  ;
+source :  ;
+
+2015-10-15 17:52:23 params :
+------------
+Array:
+message : Array ;
+module : j_run ;
+rule : 159 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-15 17:52:23 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

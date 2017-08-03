@@ -1,0 +1,175 @@
+2015-09-27 08:58:37 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443315517 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443315517 ;
+msgtype : text ;
+content : 兔子 ;
+msgid : 6198992943541426290 ;
+redirection :  ;
+source :  ;
+
+2015-09-27 08:58:37 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 26 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-27 08:58:37 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-27 09:06:10 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443315970 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443315970 ;
+msgtype : text ;
+content : 奖品 ;
+msgid : 6198994889161611514 ;
+redirection :  ;
+source :  ;
+
+2015-09-27 09:06:10 params :
+------------
+Array:
+message : Array ;
+module : mon_zjp ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-27 09:06:10 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-27 09:26:25 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443317185 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443317185 ;
+msgtype : text ;
+content : 图 ;
+msgid : 6199000107546876651 ;
+redirection :  ;
+source :  ;
+
+2015-09-27 09:26:25 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-27 09:26:25 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-27 09:50:15 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443318615 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443318615 ;
+msgtype : text ;
+content : 招聘 ;
+msgid : 6199006249350110512 ;
+redirection :  ;
+source :  ;
+
+2015-09-27 09:50:15 params :
+------------
+Array:
+message : Array ;
+module : jy_wei ;
+rule : 28 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-27 09:50:15 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-27 10:39:43 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443321583 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443321583 ;
+msgtype : text ;
+content : 人才 ;
+msgid : 6199018996813046106 ;
+redirection :  ;
+source :  ;
+
+2015-09-27 10:39:43 params :
+------------
+Array:
+message : Array ;
+module : thinkidea_rencai ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-27 10:39:43 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

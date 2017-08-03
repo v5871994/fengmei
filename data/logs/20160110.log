@@ -1,0 +1,175 @@
+2016-01-10 08:50:19 trace :
+------------
+Array:
+from : o49xAwkwkWy6-TgW9PmDnUZsQqWw ;
+to : gh_8a5f70a28b90 ;
+time : 1452387028 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkwkWy6-TgW9PmDnUZsQqWw ;
+createtime : 1452387028 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+menuid : 401201303 ;
+
+2016-01-10 08:50:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-01-10 08:50:19 response :
+------------
+
+2016-01-10 08:50:52 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[gsOEPFQr0n50Bhv4KCXG//lVPtZeHGRpceQUn/fBp0h5xXmjZqYaMJ5F2Cq7XKtwd2EL3CL1LM993iFFN1fhyYJqrNVk9xSQm6Eb1+bVHGhfD0yN0/cTlZMNWnDNS7Ts5h1pRhtTb49jHk2cCQI1z3pPAh5c19/Ljw2OQOWn5Q2PmR8QuiFsVB6K/8l+u97JJ0cCZJEulFaMAukeecyvpSlhlUJuk4E9VGjD6fPjk+1435+wUm7dUQp6wxYhIM6FofWJamaGBuDEhtjLTb4nz6B8WGJlsGeBwc16pgECk2c8bayzjKRMDwdVGThgSIXIlJKA5KkTP4UYn2OCKUebUfrGpw+hgmjeER+e/k4uBDaOaFFbw0F6vYAXDXRqO1nxuPSzpU3wGFdQ6WFUV1nKBrfASg88ypFKY28GkfINNY0tnSAt+aGQeUh8kVMYdd21X8uT7QkzKf7v3tvGZp3aAQ==]]></Encrypt>
+</xml>
+
+
+2016-01-10 09:10:54 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[7BCjYO362e2AnT0ubIhRHs3/pjsOX7Inwu11SzLSrIFpYTZl5Ib87SAIQ3d/0MHFLadzc5jzBSA3Px4EkkNt6AgHeb5Nz6PsPFeDkpFGwZTDq/dUw8VWpf87MQGTKQng0JbrgZmGCYmWai7Gp3tnH67q6JJ41WxPUMbpAHzVSqb5gKwyfDkl2uBnyT+eHU6WRgpOYTLiL8OpYx96dhvW1tExrqUruIlTtOmnAxmlrehPV4P2Sq8WBI2x+QSXxmvMJnO3FhyQHuGMOch7QJow7pP3P/7MEiYngjn9YWqb0V4IgcLw8kksG+g/sV/37lSbm/MspLktK+dotBMYVd42ehnQnmy9+2Ic2uiqKJeDe92pfX+57H/X4E9W/pYbqjkMtrrF+UnaL8GfUg10ED2d+JdxsRkdlSXmp7M7xDHfArhk/zTVuP1OaPf3MaSMcV1YRxuFTB1BDf3wGHQ9xxvOIA==]]></Encrypt>
+</xml>
+
+
+2016-01-10 09:20:53 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[VQbMA/1yZjCaNibpMl4L9TFMMibLpratgMPjVGYmf/dMcjVPqtcdGE+GdZzWKWxZbm9o3xkSHwUrwZ8jZQvPR4HVXjVBJV/VnAdXHgIL1bbbKOK7XlrEZ13J74SLZar598pj/xHMNCWYrg6k9yr4B2LXgYVAckDCLW9Qv4YhwWEltBTkXXAzOvtQ4gKMmvuGzevvtOqVmdJqUNpjA8zyRWkM/L8n/YTxb1OsPT8b9hc9ATfWBRLO+MWjBCSuCxfIN6/tip340X9pP2ixOCwYiod1375elFt85fHL1s7bFFs2w/R/fdXio0mHe0QkRFw3Y3ndi8yla4AQDLpP4L2uk/g2zB9JZA2eJvxtGye33E6RMM+DQ6dJDLDbElS/6XERnLYPPGFRyiHMTxrMtt3PfIRRbipI8eNlcLZifZJgo5ECPrDoQE473n0wXOPVaX+L0EFKdxp0tKCX+GNrB4si3w==]]></Encrypt>
+</xml>
+
+
+2016-01-10 09:30:53 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[dqy+e3q2tiXVOtKtoZDHJ7uJ3y+1Jlj4wg3191cK6qwUcnTAijwu+H1FlEcZ28FFgkUyqC3WYxPJhIOG9JXCSfxA61mqvitjnw8GbYpainSUTEj1d8BnsjJB6zi+wSCZMYEJkXF6q/yC+HHag6GOOUkXRK0IRPNG8R0EyQ9JGtIKzaHVdjH9R+CcgGCfFwOsovZKTMDnXOz3z9Rq7Gh9yQJ/xI/wUestHYbdML1bRg/0Tdgv2Eb4QszrgeL+f2LEuPN+sEGgLyu2lMgMJjJTP1Boe9D3gAHPVJDHmWMb7sgcSGDY+k+A3AZuc9Vc3OpafF12wywTqRUimLDDxBGQ4rVCeMcck96UhKVnAfKnqjyjYRSeqTJp0Bxbhqv9ebwi2MO/P1XFkKCAlihUr/P7eqEJRb0zuDpALWmugNd/vDVVjzgop2sQ+oC9ZNdDIs+8vKnJyZ1EkgrtesEPL6GrtA==]]></Encrypt>
+</xml>
+
+
+2016-01-10 09:40:56 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[/0uSNBHxuP0KUFDYWI528RLsntM9aK1QCZwlRMq6TinGQWAxJ8RWYKQ8YpkfGhOt6hNA8sP6u6hrfopEkrOwR6lcsfVnChFuHcWqMRPfYjOGRT2k65dDzftKTmaPozF0AGnyh322lkIiRVEZQvAkU19xlI3h3W1vcc8cL+Lqt5fwG3pT3isWHitaMzpVU995jryLpcJ7Pmpci52yuIatDuyD6ikt9lEHhhkc2vJoHaAaCkDyTE0PW/wiDy7+Ju3Mp/xAVPGC0B+APtjc3OIkNNTaR2stnTbQVMBQDTRdsLlF4LWtDXMQKZd3mKJu/5wTiIdijCTagk4Z4mEHs36OUjsu10zkRCYsM7vTEmKDMGznZ6zwhFCaqNpVpJuOb3FP+FflYKIiVCi4O368yNP80u7yLk4lwRd6IpWI1AUcKQsectolPhSzq02cDRjAdSPh3sxScNB4WhI41BrOLcUvXQ==]]></Encrypt>
+</xml>
+
+
+2016-01-10 09:50:53 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[7M/03lSvG/2Nd8zMIU+zcWWRK/QBsdnY2M44aXpCb6oCY/ibJ2FftIYoCWZwIPaPdo5D2i+VhM9gFJtdLaTi5myG2pPPvjoSKHQCTCjGidXGYgRQfMjTGBndHIEixHZvPFV/Sh2D2S7Y5xbSzJX6Mkn/ZLhCM4CdGDPrfXu+6j7EY+klCGH0yQ0zE02bK91RvUVtRlrnQQXGJ5EnnTo4nm3OiZOwZgT61R9cAM1WYi7sEsiXGefQ2XdvlYd3scO2ZD3kTUere5zAuf1L4oosgILwwtgoL9UXUNDD9ubPEELMbyAW8r5jyzh8fDNSdoqRv9dYY+VPLuuEuu+M7L+CxPiVbjm4mT3t0EpjHQMOdIsQCYjN7yVOK1laRNNZiF5Gn63EBEr1Oeg60D6PfXR6EN4hcOQEBTPBVxBstKgx8J8EdxIVOoSCU6EBKhIAG34xB9icoN8lhPkAqQW1XQRl4g==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:00:57 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[rCikFYK9yVlquYguiWtbhOhGhUidUTzMbUV2HmFBmahwv+eVmsdBB38MrYIoEVvSinj4QhO+bVV0tFpmiq4bXCdtY/FyNznyUa9SR187laQNIBNQAvogr/jwbCzlpRqCsU8RgahWipaXkY9yxfUU1pEOzIlYjjQZIBdAzwYfEsn8NIiQ+qRzZAC38Bkr9EHNP8+JC+3n7NVLKAJVyfR3gnWreyjaOkX2zG58Yqn+RIZPvbiDvKsv2z5yB9y0f0XKN8ZmtkJ0AIXCZKVeTrNo5wXVWGj62K2aCoYgEMF5sxGxuRHNBiBRP/z9FZ6WEmaL4m0+aWdszSgmBb8CI05JlfKaBhKI1Pb9X+hECFsWPA36sC1FXadB78oFVzfdiFz5fc/Ahufk1yOQmSOcd0mKONJpANRApzJBxzS3W/k86Ir8it5k+EtMPF0Zf12SoF6dltmNqkjm8sP/tgFDnE8l0g==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:10:54 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[W8DacwsDfx3Z0+5KunBPrbWGvQuRHaYVW1BxBk+KrNT/vR/CuPGk6U54YGEFRIKTbMTj9qYJoG8FKtwlLKfISkgvebTYtZd+q2gPl5FgQrdKEaHmA8mlB8Akz3wSGCgYMwWTzbR27hZN4iWDcuinCJ3wPe08Czl34S///1FOr7C7UOPU5ryiNQSjLWkgDOacWeyobbicOsR1q8tT82JbE0ph8OaT2zWQAH1gLUuzc8n98RXI77DEuzj3rylTGTKXIS7b9P3t0pO/qyyulwjvl+ZgVY9OtTpK1EG2+HOPseifG9DRlXPnt9nwMfuDKG0VAlsJi9+w+reJZXVOohv1X1Sr7GOOeaTarRo/UcdfLqH63LyJ4JczjKPVSb50bwFgTFgAGDdQvo7PP/woxjqaDNGprpcV30C3l9CfzQD10jKU2L/TiZyXysWIoLuhK4/nCp672BcGbGbDmOL3ZwfmuA==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:20:54 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[uuESQLjxYYUahUnl5dauPG8XwIeAPrtAnXvZskZR3t2YndeA2jIHypF25svhWjyZhJdX+HnTv5cyGdQ5QctbcYOOFmsXBdN6mPf00ny6lkQozrLIni8yLZuGVZeO9H7QOLx0j6qTDP9t/P75uPoO9FPllznlIFwxg4m2HfQEi2nqh5b+2SS8e8xQWKdn4sLiGStgWIwGbv/hQhbskAxZ0djD+vZNqSgyISXu4UFewu1rV6l55Z9/o4jeNBv1Ttekjlk2l5i7N6kcdM+pvOV2N7UQ1Wh9hHLoNniOwzB0Zz2JtLLVzvqEq9RYNVsaDfBZVTBPHeZn8fBw/Td1W/s0sUO1EtQWPzA6qOHHv7+vDAzlts3hyZjjlnckorzwKvvz/deoXHWES0WRK7RVVnOdHFKJVnAksAu8UR1KKmZ4Umt91sktgibT4zAztNn5YEw0SpYzjk1IPnzK35CXxFBa6A==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:30:55 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[zAFgpw+6eWJaNRy6ydav4BMo6ZwuJ/PEnr7bQH1WvSviHI2m9MlNL5Rm2Zn936xCyTYwZXer8IVqjGGVymnsFVPZlmBMKlMa2GhcJZhXf9oTP4+vC6UMAjgYkl+TmfVD684y+x4hCTZYk0+xbxA505zo6R+/vmGh5ULD7aE33RQt09OIgVXYPVa2yhrrznj+JzeqoDLRMujtmWSIGbHTwHexJjst2jiwRLMnKsMFKa2mbdYZWFTbo5ekCwNVBOIxBfSo5xElQdbQzZJd2X+s0Boq4pwg9a/Mbl3U0YV3TELlyY4ynGHXWnXvnIMOjPxFCMdOeKNaqKfqq1zX0BAYqgZzeOXj37uaLIRj09o1MSvuH59DU5W7wr2VIzN+inDT7LtzK1kT0mHdfafBaGqlXm89pRHLAPPbY65lYP1SyGeCXK3aSrME93t+EqxtzGnWlPmiXOEKCZZOYuVBlEk7Zg==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:40:55 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[fHeqj7/dqLjlHCKAIOtr+faF/SZDhlOLrHPpCSz/TDEXqbCCYUJgmkYFWbv8na6e2gC7w6haohAOw+U/cxdzBMalTq1kyJHIFTEUf5/oEfP9e53CSb7NblQ5BFDuDZXJWgqj20J9Q22l4Onkqvk00woPg57L+OtD0wSlMEpJ7NwNVMJKZdU5rY4/dY7tpmOaZ8cgwAz+lWs/Yyd3yqZBGpQppWJLjBlNYMjtrk/D141shYo5EcSMAOrr6Lr4m3V5WLeqqI8KEb3i3Aw167rFNZdXiPp4BSEojc2/hKGviNmj8Rhk6D0fq7uOK5d8cVoAWqfor3jBNhe5RCCHgsBCK4Wq1EY8l1oJcl2kqZRQazgMqRtvEkVGpG5aNPJ/DpoJuN4V2UWkx4X3Wib4AAbSGcIT2AR6PQNqHn4l2wQupaGCkUqQFaWpdK2cFh2ZQyJjRat3yPxYgS8R5y9dvc8rMA==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:50:58 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[pA84vLJrexJGzmQmdFccucPsRmWuPU6LQwAXLD3gNhK5ViqnKyCGE/ApimOuVYoj+TdiMLAKeZz3W5P5B+PckL+Rqhi/MMfMarRriKomS4QPG/vCQx5Nu41XHdV5SgHSZs9Itbx3AkIBquDFYNAKYdh8IBV7Z0SiJA8Nbv2uen/xF86Venrm3higDzL/eYNm7D2VWGJq390TpK9XXpUdgkB4orC75aDPIRrKskG1bXQJnyY05AZtpFrnUWc80ycVgfjNk1Jycsdj74s2voL+0Wy94FTa8vq+tH+IjsvNXnDjwC7gx+MG89f+FXENTW8ITc2GPoOtPHdC1DDevzLg+EXdq0HsZ5FGR0tDX2xDM61HzaX8ti+vDsB0fQWebBihVDW24wCx+uMocCdo7Gh47kpmCIV0j5AANCcbYLsl3+g9lPvxX401nov+lgxLOdB3UTq6HI15vOvkcUARIyzTuw==]]></Encrypt>
+</xml>
+
+
+2016-01-10 10:59:58 trace :
+------------
+Array:
+from : oywoswOKbi5mmk8GxwR8i0RUqVHU ;
+to : gh_594b4a77030d ;
+time : 1452394808 ;
+type : event ;
+event : subscribe ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOKbi5mmk8GxwR8i0RUqVHU ;
+createtime : 1452394808 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-01-10 10:59:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-01-10 10:59:58 response :
+------------
+
+2016-01-10 11:00:56 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Z+mbzTnhAHPgvJRmyMab5Q9H6zzX+hUSWf5ENOdxSS0sq6sT+8UjjZ9S+HjUFbas3KvLdyyh2EQcDfupHhZtQrdsnPnLbVcqO5zyEHTcjZcKk/jRLa3ixYFVF2Sr9HEatv9fr0iZ46U4HrpyEjJbIxuM8e0QlO1Xcgm8uNzD9mlqaRKr8PFaIphcPqtbdRxCgcxgAguYaOqa3lsdCQXssfsJib4gTf6C59lyV+NY1pRMYl9kRdRFJ4XguP4dixRNY2fP7KQSQJy+Iah0vlGTg4FLEU2A0qxY04HaF0pkw4SQ1wVmwM+8gylvIvYjuTNql35j9eTCjfTHBQabsvdZLIVQ9iDbv2iS9QCBr9OMmRiBfok6YLpiuK66Qqc1oSvfcREHV+9+uonMoke8Snlhr4iQDjrm/RPgW8F5xckkydGU0G+Kyb3jPg1Ss6nwPoQIjW4jbhVPF7uf3H8Pma20Sg==]]></Encrypt>
+</xml>
+
+
+2016-01-10 11:10:54 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[MESTXsMWD5dwu6iQpqZfuNPjWAbbZR1y61ID9C/PbdglTIwRQ3cFbfSJTmRWWCoK1rrzGmzaSeGOsbcEL+7lRQxxmgZADQXWDZdEWb1lTd3uGj79lMQtrTqzNRXNONkuteW6bHpfs6YsjNjoG9LF+apforj1XgqdTahQg+0nkMqN4u/zbdP4bzdGxYTheYYo0TdZPL3AEZPd4KLQElH6PQ0E00YTQhg5ls9b0+Od4n2QMWXoWQdFPjs8MRjiUPPqWOLnAUbLs55WfWqOjehEM9Nwhl14MaXDGE5QoJ/ra3IZmRsJ8LXJ9fnJGPA2vk53nJ9eyZR+LBZI1FjXTBHyFTWHOQKGoXdwJQ5SUDSLRPfzFlu7AcIchZXeTCZkXFG7zaFRj+lkp+0HHSbIHDj3UgyRAFSuuDlUuEfLnB8KbOw68Bf9R9luoz4ut4dv8OVv6jw6q9EYxdWhn3dUgHgOyA==]]></Encrypt>
+</xml>
+
+

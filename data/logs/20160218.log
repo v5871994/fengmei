@@ -1,0 +1,255 @@
+2016-02-18 11:08:56 trace :
+------------
+Array:
+from : o49xAwrPskQvyA5dkPnbOPBpve-w ;
+to : gh_8a5f70a28b90 ;
+time : 1455764986 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrPskQvyA5dkPnbOPBpve-w ;
+createtime : 1455764986 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+menuid : 401201303 ;
+
+2016-02-18 11:08:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 11:08:56 response :
+------------
+
+2016-02-18 14:33:07 trace :
+------------
+Array:
+from : od9jLwvYgQpRS45I48dZqH9WwQII ;
+to : gh_ed9cc7248212 ;
+time : 1455777237 ;
+type : text ;
+event :  ;
+tousername : gh_ed9cc7248212 ;
+fromusername : od9jLwvYgQpRS45I48dZqH9WwQII ;
+createtime : 1455777237 ;
+msgtype : text ;
+content : 【收到不支持的消息类型，暂无法显示】 ;
+msgid : 6252515623579062560 ;
+redirection :  ;
+source :  ;
+
+2016-02-18 14:33:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 14:33:07 response :
+------------
+
+2016-02-18 14:33:12 trace :
+------------
+Array:
+from : od9jLwvYgQpRS45I48dZqH9WwQII ;
+to : gh_ed9cc7248212 ;
+time : 1455777242 ;
+type : text ;
+event :  ;
+tousername : gh_ed9cc7248212 ;
+fromusername : od9jLwvYgQpRS45I48dZqH9WwQII ;
+createtime : 1455777242 ;
+msgtype : text ;
+content : 有人在么 ;
+msgid : 6252515645053899041 ;
+redirection :  ;
+source :  ;
+
+2016-02-18 14:33:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 14:33:12 response :
+------------
+
+2016-02-18 15:16:27 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779837 ;
+type : event ;
+event : subscribe ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779837 ;
+msgtype : event ;
+eventkey : qrscene_8449 ;
+ticket : gQFs8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL28wTjFYQVhsSUtSWmtRak9zMjk3AAIE9VU8VgMEAAAAAA== ;
+scene : 8449 ;
+
+2016-02-18 15:16:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:16:27 response :
+------------
+
+2016-02-18 15:16:32 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779843 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779843 ;
+msgtype : event ;
+eventkey : http://wap.koudaitong.com/v2/feature/61eyw9yn ;
+menuid : 208916756 ;
+
+2016-02-18 15:16:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:16:32 response :
+------------
+
+2016-02-18 15:16:48 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779859 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779859 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=index_info&id=2 ;
+menuid : 208916756 ;
+
+2016-02-18 15:16:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:16:48 response :
+------------
+
+2016-02-18 15:16:57 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779868 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779868 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=index_info&id=2 ;
+menuid : 208916756 ;
+
+2016-02-18 15:16:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:16:57 response :
+------------
+
+2016-02-18 15:16:57 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779868 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779868 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzA4OTM2MjM2Nw==&mid=208916332&idx=2&sn=ddc0bed8b7ab3030d2cae6e7cb1c2647&scene=18#rd ;
+menuid : 208916756 ;
+
+2016-02-18 15:16:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:16:57 response :
+------------
+
+2016-02-18 15:17:38 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779909 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779909 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=fensi ;
+menuid : 208916756 ;
+
+2016-02-18 15:17:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:17:38 response :
+------------
+
+2016-02-18 15:17:46 trace :
+------------
+Array:
+from : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+to : gh_2c27a8e247f9 ;
+time : 1455779917 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juEu8ByXB2PlhcKRKHTlqjb4 ;
+createtime : 1455779917 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=member&refresh=1 ;
+menuid : 208916756 ;
+
+2016-02-18 15:17:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-18 15:17:46 response :
+------------
+

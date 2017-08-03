@@ -1,0 +1,3406 @@
+2017-07-17 09:28:21 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500254900 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500254900 ;
+msgtype : event ;
+latitude : 30.671633 ;
+longitude : 104.066551 ;
+precision : 110.000000 ;
+location_x : 30.671633 ;
+location_y : 104.066551 ;
+
+2017-07-17 09:28:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 09:28:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 09:28:23 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500254903 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500254903 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 09:28:23 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 09:28:23 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 10:41:38 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500259298 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500259298 ;
+msgtype : event ;
+latitude : 30.671803 ;
+longitude : 104.066383 ;
+precision : 420.000000 ;
+location_x : 30.671803 ;
+location_y : 104.066383 ;
+
+2017-07-17 10:41:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 10:41:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 10:53:37 trace :
+------------
+Array:
+from : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+to : gh_e86b5de80d72 ;
+time : 1500260017 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+createtime : 1500260017 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 10:53:37 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 10:53:37 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 10:53:40 trace :
+------------
+Array:
+from : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+to : gh_e86b5de80d72 ;
+time : 1500260017 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+createtime : 1500260017 ;
+msgtype : event ;
+latitude : 30.671803 ;
+longitude : 104.066383 ;
+precision : 420.000000 ;
+location_x : 30.671803 ;
+location_y : 104.066383 ;
+
+2017-07-17 10:53:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 10:53:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 11:00:59 trace :
+------------
+Array:
+from : oKmKPxHKada16OFkyJGj0lHWMHqk ;
+to : gh_e86b5de80d72 ;
+time : 1500260459 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxHKada16OFkyJGj0lHWMHqk ;
+createtime : 1500260459 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 11:00:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 11:00:59 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxHKada16OFkyJGj0lHWMHqk ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 11:03:53 trace :
+------------
+Array:
+from : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+to : gh_e86b5de80d72 ;
+time : 1500260633 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+createtime : 1500260633 ;
+msgtype : event ;
+latitude : 31.469761 ;
+longitude : 104.747902 ;
+precision : 40.000000 ;
+location_x : 31.469761 ;
+location_y : 104.747902 ;
+
+2017-07-17 11:03:53 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 11:03:53 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 11:03:56 trace :
+------------
+Array:
+from : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+to : gh_e86b5de80d72 ;
+time : 1500260636 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+createtime : 1500260636 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 11:03:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 11:03:56 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 11:04:38 trace :
+------------
+Array:
+from : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+to : gh_e86b5de80d72 ;
+time : 1500260675 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxEq7_-cpGp2EPHELvzQBIyc ;
+createtime : 1500260675 ;
+msgtype : event ;
+latitude : 31.469761 ;
+longitude : 104.747902 ;
+precision : 40.000000 ;
+location_x : 31.469761 ;
+location_y : 104.747902 ;
+
+2017-07-17 11:04:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 11:04:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 11:11:08 trace :
+------------
+Array:
+from : oKmKPxNH-tFR5wDW7hO1Ty_OhNIo ;
+to : gh_e86b5de80d72 ;
+time : 1500261067 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxNH-tFR5wDW7hO1Ty_OhNIo ;
+createtime : 1500261067 ;
+msgtype : event ;
+latitude : 30.671978 ;
+longitude : 104.066620 ;
+precision : 65.000000 ;
+location_x : 30.671978 ;
+location_y : 104.066620 ;
+
+2017-07-17 11:11:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 11:11:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 11:11:08 trace :
+------------
+Array:
+from : oKmKPxNH-tFR5wDW7hO1Ty_OhNIo ;
+to : gh_e86b5de80d72 ;
+time : 1500261068 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxNH-tFR5wDW7hO1Ty_OhNIo ;
+createtime : 1500261068 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 11:11:08 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 11:11:08 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxNH-tFR5wDW7hO1Ty_OhNIo ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 12:58:00 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500267480 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500267480 ;
+msgtype : event ;
+latitude : 30.671803 ;
+longitude : 104.066383 ;
+precision : 420.000000 ;
+location_x : 30.671803 ;
+location_y : 104.066383 ;
+
+2017-07-17 12:58:00 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 12:58:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 13:54:11 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500270851 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500270851 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 13:54:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 13:54:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 13:59:52 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271191 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271191 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 13:59:52 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 13:59:52 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:00:40 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271239 ;
+type : event ;
+event : subscribe ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271239 ;
+msgtype : event ;
+eventkey :  ;
+
+2017-07-17 14:00:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:00:40 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:00:43 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271242 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271242 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:00:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:00:43 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:00:48 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271244 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271244 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:00:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:00:48 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:02:02 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271322 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271322 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:02:02 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:02:02 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:02:03 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271322 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271322 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:02:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:02:03 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:04:16 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271455 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271455 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:04:16 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:04:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:04:16 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271456 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271456 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:04:16 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:04:16 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:06:16 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271575 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271575 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:06:16 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:06:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:06:16 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271576 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271576 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:06:16 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:06:16 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:06:35 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271595 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271595 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 500.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:06:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:06:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:06:36 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271596 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271596 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:06:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:06:36 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:06:47 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500271606 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500271606 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 900.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:06:47 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:06:47 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:35:01 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273300 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273300 ;
+msgtype : event ;
+latitude : 22.635332 ;
+longitude : 114.045937 ;
+precision : 900.000000 ;
+location_x : 22.635332 ;
+location_y : 114.045937 ;
+
+2017-07-17 14:35:01 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:35:01 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:35:01 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273301 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273301 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:35:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:35:01 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:36:40 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273399 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273399 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 760.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:36:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:36:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:36:45 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273401 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273401 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 14:36:45 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:36:45 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:36:45 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273404 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273404 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 760.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:36:45 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:36:45 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:36:46 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273405 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273405 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:36:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:36:46 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:39:21 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273560 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273560 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 14:39:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:39:21 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:39:22 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273558 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273558 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:39:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:39:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:39:27 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273566 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273566 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:39:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:39:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:39:33 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273567 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273567 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:39:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:39:33 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:39:44 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273583 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273583 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:39:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:39:44 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:39:46 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273582 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273582 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:39:46 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:39:46 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:39:56 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273596 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273596 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:39:56 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:39:56 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:40:40 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273640 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273640 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:40:40 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:40:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:40:55 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273655 ;
+type : event ;
+event : CLICK ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273655 ;
+msgtype : event ;
+eventkey : 民治配送 ;
+
+2017-07-17 14:40:55 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 173 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:40:55 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-07-17 14:40:56 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273652 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273652 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:40:56 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:40:56 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:41:06 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273665 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273665 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:41:06 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:41:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:41:15 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273671 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273671 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:41:15 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:41:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:41:22 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273682 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273682 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:41:22 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:41:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:41:52 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273711 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273711 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:41:52 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:41:52 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:41:57 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500273716 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500273716 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 760.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:41:57 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-07-17 14:41:57 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:55:52 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500274552 ;
+type : event ;
+event : subscribe ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500274552 ;
+msgtype : event ;
+eventkey :  ;
+
+2017-07-17 14:55:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:55:52 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:55:54 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500274553 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500274553 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:55:54 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:55:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 14:55:56 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500274555 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500274555 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:55:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:55:56 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:56:22 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500274581 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500274581 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 14:56:22 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 14:56:22 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 14:56:24 trace :
+------------
+Array:
+from : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+to : gh_e86b5de80d72 ;
+time : 1500274580 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxJJjxV2jmiT2_UoDI3qK4Lc ;
+createtime : 1500274580 ;
+msgtype : event ;
+latitude : 22.635466 ;
+longitude : 114.049896 ;
+precision : 420.000000 ;
+location_x : 22.635466 ;
+location_y : 114.049896 ;
+
+2017-07-17 14:56:24 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 14:56:24 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:06:13 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500275172 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500275172 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:06:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:06:13 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:15:09 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500275705 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500275705 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 15:15:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:15:09 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:18:38 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500275917 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500275917 ;
+msgtype : event ;
+latitude : 22.635912 ;
+longitude : 114.048363 ;
+precision : 65.000000 ;
+location_x : 22.635912 ;
+location_y : 114.048363 ;
+
+2017-07-17 15:18:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:18:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:18:38 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500275918 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500275918 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 15:18:38 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:18:38 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:19:05 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500275945 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500275945 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 15:19:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:19:05 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:21:48 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500276107 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500276107 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 15:21:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:21:48 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:24:33 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500276269 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500276269 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 15:24:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:24:33 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:35:05 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276905 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276905 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 15:35:05 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:35:05 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:35:06 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276905 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276905 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:35:06 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:35:06 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:35:13 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276913 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276913 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 15:35:13 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:35:13 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:35:18 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276917 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276917 ;
+msgtype : event ;
+latitude : 30.671745 ;
+longitude : 104.066620 ;
+precision : 90.000000 ;
+location_x : 30.671745 ;
+location_y : 104.066620 ;
+
+2017-07-17 15:35:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:35:18 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:35:18 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276918 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276918 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:35:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:35:18 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:36:14 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276973 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276973 ;
+msgtype : event ;
+latitude : 30.671745 ;
+longitude : 104.066620 ;
+precision : 90.000000 ;
+location_x : 30.671745 ;
+location_y : 104.066620 ;
+
+2017-07-17 15:36:14 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:36:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:36:18 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500276978 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500276978 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:36:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:36:18 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:38:08 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277088 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277088 ;
+msgtype : event ;
+latitude : 30.671808 ;
+longitude : 104.066612 ;
+precision : 70.000000 ;
+location_x : 30.671808 ;
+location_y : 104.066612 ;
+
+2017-07-17 15:38:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:38:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:38:12 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277088 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277088 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:38:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:38:12 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:38:51 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277130 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277130 ;
+msgtype : event ;
+latitude : 30.671808 ;
+longitude : 104.066612 ;
+precision : 70.000000 ;
+location_x : 30.671808 ;
+location_y : 104.066612 ;
+
+2017-07-17 15:38:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:38:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:38:52 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277132 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277132 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:38:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:38:52 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 15:45:45 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277544 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277544 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 15:45:45 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 15:45:45 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 15:45:46 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500277545 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500277545 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 15:45:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 15:45:46 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:12:59 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500279178 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500279178 ;
+msgtype : event ;
+latitude : 22.635832 ;
+longitude : 114.048256 ;
+precision : 65.000000 ;
+location_x : 22.635832 ;
+location_y : 114.048256 ;
+
+2017-07-17 16:12:59 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:12:59 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:13:00 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500279179 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500279179 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 16:13:00 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:13:00 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:15:15 trace :
+------------
+Array:
+from : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+to : gh_e86b5de80d72 ;
+time : 1500279311 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxFDxDL62T-vps2rjMNrL97k ;
+createtime : 1500279311 ;
+msgtype : event ;
+latitude : 30.671810 ;
+longitude : 104.066643 ;
+precision : 90.000000 ;
+location_x : 30.671810 ;
+location_y : 104.066643 ;
+
+2017-07-17 16:15:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:15:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:19:07 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500279546 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500279546 ;
+msgtype : event ;
+latitude : 22.635902 ;
+longitude : 114.047852 ;
+precision : 65.000000 ;
+location_x : 22.635902 ;
+location_y : 114.047852 ;
+
+2017-07-17 16:19:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:19:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:19:32 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500279571 ;
+type : event ;
+event : subscribe ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500279571 ;
+msgtype : event ;
+eventkey :  ;
+
+2017-07-17 16:19:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:19:32 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:22:19 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500279738 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500279738 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 16:22:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:22:19 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:22:19 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500279739 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500279739 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 16:22:19 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:22:19 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:22:39 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500279758 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500279758 ;
+msgtype : event ;
+latitude : 30.671783 ;
+longitude : 104.066628 ;
+precision : 90.000000 ;
+location_x : 30.671783 ;
+location_y : 104.066628 ;
+
+2017-07-17 16:22:39 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:22:39 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:22:40 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500279759 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500279759 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 16:22:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:22:40 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:34:11 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500280451 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500280451 ;
+msgtype : event ;
+latitude : 22.635849 ;
+longitude : 114.048302 ;
+precision : 65.000000 ;
+location_x : 22.635849 ;
+location_y : 114.048302 ;
+
+2017-07-17 16:34:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:34:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:34:14 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500280453 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500280453 ;
+msgtype : event ;
+latitude : 22.635885 ;
+longitude : 114.048386 ;
+precision : 65.000000 ;
+location_x : 22.635885 ;
+location_y : 114.048386 ;
+
+2017-07-17 16:34:14 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 16:34:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 16:34:15 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500280455 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500280455 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 16:34:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:34:15 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 16:51:52 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500281508 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500281508 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 16:51:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 16:51:52 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 17:22:35 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500283354 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500283354 ;
+msgtype : event ;
+latitude : 30.671747 ;
+longitude : 104.066620 ;
+precision : 90.000000 ;
+location_x : 30.671747 ;
+location_y : 104.066620 ;
+
+2017-07-17 17:22:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 17:22:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 17:22:35 trace :
+------------
+Array:
+from : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+to : gh_e86b5de80d72 ;
+time : 1500283354 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+createtime : 1500283354 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 17:22:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 17:22:35 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxOZqKVeJeyZ0e0SsH_hdUAU ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 18:50:58 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500288657 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500288657 ;
+msgtype : event ;
+latitude : 22.536737 ;
+longitude : 114.025230 ;
+precision : 65.000000 ;
+location_x : 22.536737 ;
+location_y : 114.025230 ;
+
+2017-07-17 18:50:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 18:50:58 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 18:51:09 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500288668 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500288668 ;
+msgtype : event ;
+latitude : 22.536737 ;
+longitude : 114.025230 ;
+precision : 65.000000 ;
+location_x : 22.536737 ;
+location_y : 114.025230 ;
+
+2017-07-17 18:51:09 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 18:51:09 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 18:51:27 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500288687 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500288687 ;
+msgtype : event ;
+latitude : 22.536737 ;
+longitude : 114.025230 ;
+precision : 65.000000 ;
+location_x : 22.536737 ;
+location_y : 114.025230 ;
+
+2017-07-17 18:51:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2017-07-17 18:51:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-07-17 18:51:41 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500288701 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500288701 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 18:51:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 18:51:41 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 18:52:05 trace :
+------------
+Array:
+from : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+to : gh_e86b5de80d72 ;
+time : 1500288725 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+createtime : 1500288725 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 18:52:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 18:52:05 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxCB9ZaVQD3xaCsSQef021JI ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 21:52:44 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500299563 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500299563 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 21:52:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 21:52:44 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:42:07 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306126 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306126 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 23:42:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:42:07 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:42:18 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306137 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306137 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 23:42:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:42:18 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:47:48 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306468 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306468 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 23:47:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:47:48 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:47:55 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306460 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306460 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 23:47:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:47:55 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:47:58 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306460 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306460 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=838 ;
+menuid : 601494847 ;
+
+2017-07-17 23:47:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:47:58 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:47:59 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306473 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306473 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 23:47:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:47:59 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+
+2017-07-17 23:48:01 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1500306477 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1500306477 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 601494847 ;
+
+2017-07-17 23:48:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-07-17 23:48:01 response :
+------------
+Array:
+FromUserName : gh_e86b5de80d72 ;
+ToUserName : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+MsgType : text ;
+Content : 欢迎关注丰媒！/:rose/:rose
+
+丰媒已经开通的深圳配送区： 
+民治南景新村，民治樟坑一区，民治沙吓社区（14:00前下单，当天配送到社区合作点门口）
+
+产地源头鲜果直摘配送，丰媒让您足不出户就能享受到全国各地丰富有营养的、特色的时令水果 ;
+

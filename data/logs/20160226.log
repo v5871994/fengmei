@@ -1,0 +1,1941 @@
+2016-02-26 08:54:09 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448117 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448117 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6255397031237182358 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:54:10 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 113 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 08:54:10 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 活动已经结束了！ ;
+
+2016-02-26 08:58:19 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448367 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448367 ;
+msgtype : text ;
+content : 北京天气 ;
+msgid : 6255398104979006393 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:58:20 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 1 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 08:58:20 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 北京今日天气
+今天白天多云，8摄氏度。
+无持续风向，≤3
+今天夜间晴，-2摄氏度。
+无持续风向，≤3
+==================
+【穿衣指数】：风衣、大衣、夹大衣、外套、毛衣、毛套装、西服套装、薄棉外套
+
+【感冒指数】：易发期天气很凉，季节转换的气候，慎重增加衣服；较易引起感冒；
+
+【空调指数】：建议开启空调
+
+【污染物扩散条件】：轻度对空气污染物扩散无明显影响
+
+【洗车指数】：非常适宜洗车后至少未来4天内没有降水、大风、沙尘天气，保洁时间长，非常适宜洗车。注意洗车当日气温不能太低以免结冰。
+
+【运动指数】：不适宜虽然晴空万里，但是户外运动时会感到很凉；
+
+【紫外线指数】：弱紫外线弱
+
+【体感度指数】：较凉老年、幼儿、体弱者外出需要带上薄围巾、薄手套。
+ ;
+
+2016-02-26 08:58:36 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448384 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448384 ;
+msgtype : text ;
+content : 百科 ;
+msgid : 6255398177993450428 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:58:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 08:58:36 response :
+------------
+
+2016-02-26 08:59:01 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448408 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448408 ;
+msgtype : text ;
+content : 百科王健林 ;
+msgid : 6255398281072665536 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:59:01 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 2 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 08:59:01 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : news ;
+ArticleCount : 9 ;
+Articles : Array ;
+
+2016-02-26 08:59:26 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448433 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448433 ;
+msgtype : text ;
+content : 23 ;
+msgid : 6255398388446847937 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:59:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 08:59:26 response :
+------------
+
+2016-02-26 08:59:36 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448444 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448444 ;
+msgtype : text ;
+content : 23号 ;
+msgid : 6255398435691488195 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:59:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 08:59:36 response :
+------------
+
+2016-02-26 08:59:49 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448457 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448457 ;
+msgtype : text ;
+content : 日历 ;
+msgid : 6255398491526063044 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 08:59:49 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 4 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 08:59:49 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 今天是 2016年2月26日 星期五==================
+农历: 正月19日 丙申年 庚寅月 戊寅日==================
+宜: 
+纳采:缔结婚姻的仪式、受授聘金。
+会亲友:指宴会亲朋之事
+竖柱:竖立建筑物的柱子。
+上梁:装上建筑物屋顶的梁木。同架马。
+立券:订立各种契约。
+入殓:将尸体放入棺材之意。
+移柩:举行葬仪时、将棺木移出屋外之事。
+安葬:举行埋葬等仪式。
+启攒:指「洗骨」之事。俗谓「拾金」也。
+==================
+忌: 
+祭祀:指祠堂之祭祀、即拜祭祖先或庙寺的祭拜、拜神明等事。
+移徙:指搬家迁移人主所之意。
+入宅:即迁入新宅、所谓“新居落成典礼”也:即迁入新宅、所谓“新居落成典礼”也:即迁入新宅、所谓「新居落成典礼」也。
+动土:阳宅建筑时，按所择日时，用锄头在吉方锄下第一锄土的时间称“动土”
+破土:仅指埋葬用的破土，与一般建筑房屋的「动土」不同。即「破土」属阴宅，「动土」指阳宅也。现今社会上多已滥用，择日时，须辨别之。
+ ;
+
+2016-02-26 09:00:03 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448470 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448470 ;
+msgtype : text ;
+content : 新闻 ;
+msgid : 6255398547360637896 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 09:00:03 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 5 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 09:00:03 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : news ;
+ArticleCount : 9 ;
+Articles : Array ;
+
+2016-02-26 09:00:35 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448503 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448503 ;
+msgtype : text ;
+content : 顺丰134590085772 ;
+msgid : 6255398689094558667 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 09:00:35 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 6 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 09:00:35 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 没有查找到相关的数据, 错误信息为: 快递公司参数异常：单号不存在或者已经过期. 请检查您的输入格式, 正确格式为: 快递公司+空格+单号, 例如: 申通 2309381801 ;
+
+2016-02-26 09:01:01 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456448528 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456448528 ;
+msgtype : text ;
+content : 顺丰 134590085772 ;
+msgid : 6255398796468741071 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 09:01:01 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 6 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-02-26 09:01:01 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 没有查找到相关的数据, 错误信息为: 快递公司参数异常：单号不存在或者已经过期. 请检查您的输入格式, 正确格式为: 快递公司+空格+单号, 例如: 申通 2309381801 ;
+
+2016-02-26 10:23:22 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456453469 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456453469 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-02-26 10:23:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 10:23:22 response :
+------------
+
+2016-02-26 11:09:57 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456264 ;
+type : event ;
+event : subscribe ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456264 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-26 11:09:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:09:57 response :
+------------
+
+2016-02-26 11:10:13 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456281 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456281 ;
+msgtype : event ;
+eventkey : 新品发布 ;
+
+2016-02-26 11:10:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:10:13 response :
+------------
+
+2016-02-26 11:10:19 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456286 ;
+type : event ;
+event : VIEW ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456286 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=10&j=10&c=entry&rid=14&do=photosvoteview&m=fm_photosvote ;
+menuid : 402333412 ;
+
+2016-02-26 11:10:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:10:19 response :
+------------
+
+2016-02-26 11:10:25 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456292 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456292 ;
+msgtype : event ;
+eventkey : 首页 ;
+
+2016-02-26 11:10:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:10:25 response :
+------------
+
+2016-02-26 11:10:30 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456297 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456297 ;
+msgtype : event ;
+eventkey : 公司简介 ;
+
+2016-02-26 11:10:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:10:30 response :
+------------
+
+2016-02-26 11:11:08 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456336 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456336 ;
+msgtype : event ;
+eventkey : 新品发布 ;
+
+2016-02-26 11:11:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:11:08 response :
+------------
+
+2016-02-26 11:13:03 trace :
+------------
+Array:
+from : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456456450 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs8855QldQZiN6CAp9-kQNDo ;
+createtime : 1456456450 ;
+msgtype : event ;
+eventkey : 公司简介 ;
+
+2016-02-26 11:13:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 11:13:03 response :
+------------
+
+2016-02-26 12:26:13 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456460841 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456460841 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 12:26:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 12:26:13 response :
+------------
+
+2016-02-26 15:56:32 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456473460 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456473460 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1896483 ;
+
+2016-02-26 15:56:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 15:56:32 response :
+------------
+
+2016-02-26 16:34:58 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456475766 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456475766 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 16:34:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 16:34:58 response :
+------------
+
+2016-02-26 16:35:08 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456475776 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456475776 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user_message ;
+menuid : 401385425 ;
+
+2016-02-26 16:35:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 16:35:08 response :
+------------
+
+2016-02-26 16:35:12 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456475781 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456475781 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user&act=login ;
+menuid : 401385425 ;
+
+2016-02-26 16:35:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 16:35:12 response :
+------------
+
+2016-02-26 16:42:58 trace :
+------------
+Array:
+from : o7SFQs2IsCJHACKJEN8RwthhAepQ ;
+to : gh_f8ef5613cc37 ;
+time : 1456476246 ;
+type : event ;
+event : CLICK ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs2IsCJHACKJEN8RwthhAepQ ;
+createtime : 1456476246 ;
+msgtype : event ;
+eventkey : 招纳贤才 ;
+
+2016-02-26 16:42:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 16:42:58 response :
+------------
+
+2016-02-26 17:11:21 trace :
+------------
+Array:
+from : o7SFQs89wg_6iMkjfFvNV_BSlLDo ;
+to : gh_f8ef5613cc37 ;
+time : 1456477949 ;
+type : event ;
+event : subscribe ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs89wg_6iMkjfFvNV_BSlLDo ;
+createtime : 1456477949 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-26 17:11:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 17:11:21 response :
+------------
+
+2016-02-26 17:48:51 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456480200 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456480200 ;
+msgtype : text ;
+content : 转盘 ;
+msgid : 6255534826672945822 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 17:48:51 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 121 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 17:48:51 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-26 18:39:08 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456483217 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456483217 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 18:39:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 18:39:08 response :
+------------
+
+2016-02-26 18:39:13 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483221 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483221 ;
+msgtype : text ;
+content : 虎头 ;
+msgid : 6255547801769147354 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:13 params :
+------------
+Array:
+message : Array ;
+module : hx_lottery ;
+rule : 124 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:13 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-26 18:39:18 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483226 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483226 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255547823243983835 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:22 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456483230 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456483230 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255547840423853021 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:22 trace :
+------------
+Array:
+from : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+to : gh_cf305f6ee642 ;
+time : 1456483230 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+createtime : 1456483230 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255547840423853022 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:22 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483230 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483230 ;
+msgtype : text ;
+content : 20161 ;
+msgid : 6255547840423853023 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 18:39:22 response :
+------------
+
+2016-02-26 18:39:22 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:22 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdka1ExSzZ3SDNNcmdxSXNfbElPUGIwIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzE1OCwiaGFzaCI6ImI0MzcxMDcwMjQ2YmJjNzM3MTdiY2NjZjE2NzE3Zjc1In0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89Z2V0bW9iaWxlcmVhbG5hbWUmbT1tZWVwb19iaWd3YWxs&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2016-02-26 18:39:22 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:22 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdXT1JJN253Ml9pVDJRMmR0OXFBUm5vIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzE2MiwiaGFzaCI6IjhkMjA3YmZmZTBhNDdjOTQwMjNhYzA1NmQxMmExMWJmIn0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89Z2V0bW9iaWxlcmVhbG5hbWUmbT1tZWVwb19iaWd3YWxs&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2016-02-26 18:39:22 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:22 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdRMTNOMFBCRHhnWEhCXzEteml3WGlJIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzE2MiwiaGFzaCI6IjAxYTU0OGQ3ZGU2YTY0OTkxOTdkMjYxZDBkY2Q0MjY4In0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89Z2V0bW9iaWxlcmVhbG5hbWUmbT1tZWVwb19iaWd3YWxs&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2016-02-26 18:39:37 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483245 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483245 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255547904848362470 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:37 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:37 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdmY2JrbUwxcXFJWEdFMnNENWxYX0lzIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzE3NywiaGFzaCI6IjJhZWViMzJkY2IzNTRhZTNlZTY5N2U3ZGMzOTNhNzdkIn0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89Z2V0bW9iaWxlcmVhbG5hbWUmbT1tZWVwb19iaWd3YWxs&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2016-02-26 18:39:58 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456483266 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456483266 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255547995042675692 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:39:58 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:39:58 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdYbGE2aUlJYlFHUkZ3ZWZXTDl3M1RFIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzE5OCwiaGFzaCI6ImU2Y2EyZDBhYWMwMDY4Mjc2NTFkZTRmMDBhMzQwZDg1In0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89Z2V0bW9iaWxlcmVhbG5hbWUmbT1tZWVwb19iaWd3YWxs&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2016-02-26 18:40:01 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483269 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483269 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255548007927577582 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:01 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:40:01 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！ ;
+
+2016-02-26 18:40:02 trace :
+------------
+Array:
+from : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+to : gh_cf305f6ee642 ;
+time : 1456483271 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+createtime : 1456483271 ;
+msgtype : text ;
+content : 201601 ;
+msgid : 6255548016517512176 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:02 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 18:40:02 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！ ;
+
+2016-02-26 18:40:24 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456483293 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456483293 ;
+msgtype : text ;
+content : 签到 ;
+msgid : 6255548111006792692 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:24 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:24 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+MsgType : text ;
+Content : 签到成功，请多多关注大屏幕！ ;
+
+2016-02-26 18:40:25 trace :
+------------
+Array:
+from : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+to : gh_cf305f6ee642 ;
+time : 1456483293 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+createtime : 1456483293 ;
+msgtype : text ;
+content : 签到/::,@ ;
+msgid : 6255548111006792694 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:25 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:25 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+MsgType : text ;
+Content : 签到成功，请多多关注大屏幕！ ;
+
+2016-02-26 18:40:25 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483294 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483294 ;
+msgtype : text ;
+content : 签到你好 ;
+msgid : 6255548115301759991 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:25 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:25 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 签到成功，请多多关注大屏幕！ ;
+
+2016-02-26 18:40:32 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483300 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483300 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user_message ;
+menuid : 401385425 ;
+
+2016-02-26 18:40:32 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:32 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2016-02-26 18:40:37 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483305 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483305 ;
+msgtype : text ;
+content : 你好 ;
+msgid : 6255548162546400270 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:37 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:37 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2016-02-26 18:40:45 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483313 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483313 ;
+msgtype : text ;
+content : 你好 ;
+msgid : 6255548196906138640 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:45 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:45 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2016-02-26 18:40:50 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483318 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483318 ;
+msgtype : text ;
+content : 签到你好 ;
+msgid : 6255548218380975122 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:50 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:50 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 签到成功，请多多关注大屏幕！ ;
+
+2016-02-26 18:40:54 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456483323 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456483323 ;
+msgtype : text ;
+content : 签到/::D/::D/::D ;
+msgid : 6255548239855811604 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:40:54 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:40:54 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+MsgType : text ;
+Content : 签到成功，请多多关注大屏幕！ ;
+
+2016-02-26 18:44:11 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456483519 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456483519 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6255549081669401629 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:44:11 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:44:11 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 进入摇一摇后等待游戏开始，主持人点击开始游戏，倒计时后用您吃奶的劲尽情狂欢吧！<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdka1ExSzZ3SDNNcmdxSXNfbElPUGIwIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzQ1MSwiaGFzaCI6Ijk2ZjZhOTM4ZmM4MDUwNTI3Y2QxMjAxNzIzYTdkZjAyIn0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89c2hha2VoYW5kcyZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入摇一摇</a> ;
+
+2016-02-26 18:44:11 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456483520 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456483520 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6255549085964368927 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:44:11 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:44:11 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 进入摇一摇后等待游戏开始，主持人点击开始游戏，倒计时后用您吃奶的劲尽情狂欢吧！<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdmY2JrbUwxcXFJWEdFMnNENWxYX0lzIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzQ1MSwiaGFzaCI6ImQ4OWYxODNlY2FjYTE5NjU0NzU0Nzk2MzI5MzU1YmVlIn0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89c2hha2VoYW5kcyZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入摇一摇</a> ;
+
+2016-02-26 18:44:20 trace :
+------------
+Array:
+from : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+to : gh_cf305f6ee642 ;
+time : 1456483528 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+createtime : 1456483528 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6255549120324107297 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:44:20 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:44:20 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwQ13N0PBDxgXHB_1-ziwXiI ;
+MsgType : text ;
+Content : 进入摇一摇后等待游戏开始，主持人点击开始游戏，倒计时后用您吃奶的劲尽情狂欢吧！<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdRMTNOMFBCRHhnWEhCXzEteml3WGlJIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzQ2MCwiaGFzaCI6IjRjMWYxZDhhZjQ0ZDk3Yjg3NWM3YjEzMDRlMTE1MDQ1In0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89c2hha2VoYW5kcyZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入摇一摇</a> ;
+
+2016-02-26 18:44:25 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456483533 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456483533 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6255549141798943779 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:44:25 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:44:25 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+MsgType : text ;
+Content : 进入摇一摇后等待游戏开始，主持人点击开始游戏，倒计时后用您吃奶的劲尽情狂欢吧！<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdYbGE2aUlJYlFHUkZ3ZWZXTDl3M1RFIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzQ2NSwiaGFzaCI6IjVhNDViMjk2M2JjYzc0NjA5OGUyMmNmOGFlYzM2YmEyIn0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89c2hha2VoYW5kcyZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入摇一摇</a> ;
+
+2016-02-26 18:44:42 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456483550 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456483550 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6255549214813387813 ;
+redirection :  ;
+source :  ;
+
+2016-02-26 18:44:42 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 18:44:42 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+MsgType : text ;
+Content : 进入摇一摇后等待游戏开始，主持人点击开始游戏，倒计时后用您吃奶的劲尽情狂欢吧！<a target="_blank" href="http://we7.cc/app/index.php?i=32&c=auth&a=forward&uniacid=32&__auth=eyJvcGVuaWQiOiJvVGtOZHdXT1JJN253Ml9pVDJRMmR0OXFBUm5vIiwiYWNpZCI6IjMyIiwidGltZSI6MTQ1NjQ4MzQ4MiwiaGFzaCI6IjE0MjlkNTIzMDllYzU4OWRmODU5NDk2NDcwYjk3M2I2In0%3D&forward=Li9pbmRleC5waHA%2FaT0zMiZjPWVudHJ5JnJpZD0xNDkmZG89c2hha2VoYW5kcyZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入摇一摇</a> ;
+
+2016-02-26 19:06:43 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456484872 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456484872 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-26 19:06:43 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 19:06:43 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2016-02-26 19:28:43 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456486191 ;
+type : event ;
+event : subscribe ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456486191 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-26 19:28:43 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 113 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 19:28:43 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 活动已经结束了！ ;
+
+2016-02-26 19:28:44 trace :
+------------
+Array:
+from : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+to : gh_cf305f6ee642 ;
+time : 1456486193 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+createtime : 1456486193 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 19:28:44 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 149 ;
+priority : 0 ;
+context : 1 ;
+
+2016-02-26 19:28:44 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwdkQ1K6wH3MrgqIs_lIOPb0 ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2016-02-26 19:28:54 trace :
+------------
+Array:
+from : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+to : gh_cf305f6ee642 ;
+time : 1456486203 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwWORI7nw2_iT2Q2dt9qARno ;
+createtime : 1456486203 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 19:28:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:28:54 response :
+------------
+
+2016-02-26 19:29:21 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486229 ;
+type : event ;
+event : subscribe ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486229 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-26 19:29:21 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 113 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-26 19:29:21 response :
+------------
+Array:
+FromUserName : gh_cf305f6ee642 ;
+ToUserName : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+MsgType : text ;
+Content : 活动已经结束了！ ;
+
+2016-02-26 19:29:24 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486232 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486232 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 19:29:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:29:24 response :
+------------
+
+2016-02-26 19:31:53 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486381 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486381 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 19:31:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:31:53 response :
+------------
+
+2016-02-26 19:31:59 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486388 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486388 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user_message ;
+menuid : 401385425 ;
+
+2016-02-26 19:31:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:31:59 response :
+------------
+
+2016-02-26 19:32:03 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486391 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486391 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user&act=login ;
+menuid : 401385425 ;
+
+2016-02-26 19:32:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:32:03 response :
+------------
+
+2016-02-26 19:32:06 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486395 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486395 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=settings ;
+menuid : 401385425 ;
+
+2016-02-26 19:32:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:32:06 response :
+------------
+
+2016-02-26 19:32:09 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486398 ;
+type : event ;
+event : CLICK ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486398 ;
+msgtype : event ;
+eventkey : 拨号 ;
+
+2016-02-26 19:32:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:32:09 response :
+------------
+
+2016-02-26 19:32:14 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456486402 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456486402 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=32&c=home& ;
+menuid : 401385425 ;
+
+2016-02-26 19:32:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 19:32:14 response :
+------------
+
+2016-02-26 20:18:13 trace :
+------------
+Array:
+from : oywoswPzokXuRneFMBVbR4QOsN-s ;
+to : gh_594b4a77030d ;
+time : 1456489161 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPzokXuRneFMBVbR4QOsN-s ;
+createtime : 1456489161 ;
+msgtype : event ;
+latitude : 22.840481 ;
+longitude : 114.159119 ;
+precision : 150.000000 ;
+location_x : 22.840481 ;
+location_y : 114.159119 ;
+
+2016-02-26 20:18:13 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-26 20:18:13 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-26 20:18:14 trace :
+------------
+Array:
+from : oywoswPzokXuRneFMBVbR4QOsN-s ;
+to : gh_594b4a77030d ;
+time : 1456489162 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPzokXuRneFMBVbR4QOsN-s ;
+createtime : 1456489162 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376031&idx=1&sn=412f72caedb38ddee6d15c9685dd0d47&scene=0#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-02-26 20:18:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 20:18:14 response :
+------------
+
+2016-02-26 21:26:16 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456493245 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456493245 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-02-26 21:26:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-26 21:26:17 response :
+------------
+

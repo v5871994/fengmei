@@ -1,0 +1,5591 @@
+2016-02-17 00:01:06 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455638514 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455638514 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 00:01:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 00:01:06 response :
+------------
+
+2016-02-17 00:04:02 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455638690 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455638690 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 00:04:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 00:04:02 response :
+------------
+
+2016-02-17 00:09:05 trace :
+------------
+Array:
+from : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+to : gh_ba80c06f7022 ;
+time : 1455638993 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+createtime : 1455638993 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 00:09:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 00:09:05 response :
+------------
+
+2016-02-17 00:25:54 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455640002 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455640002 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 00:25:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 00:25:54 response :
+------------
+
+2016-02-17 01:19:11 trace :
+------------
+Array:
+from : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+to : gh_ba80c06f7022 ;
+time : 1455643199 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+createtime : 1455643199 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 01:19:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 01:19:11 response :
+------------
+
+2016-02-17 02:55:46 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455648994 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455648994 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 02:55:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 02:55:46 response :
+------------
+
+2016-02-17 02:55:52 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455649000 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455649000 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 02:55:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 02:55:52 response :
+------------
+
+2016-02-17 03:41:25 trace :
+------------
+Array:
+from : o0NFAt9KOYd7GFzkJY7AKPNi5FrI ;
+to : gh_ba80c06f7022 ;
+time : 1455651733 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9KOYd7GFzkJY7AKPNi5FrI ;
+createtime : 1455651733 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 03:41:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 03:41:25 response :
+------------
+
+2016-02-17 03:47:50 trace :
+------------
+Array:
+from : o0NFAtxDy3SyzU9NIJ2ATdSoV8I0 ;
+to : gh_ba80c06f7022 ;
+time : 1455652118 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxDy3SyzU9NIJ2ATdSoV8I0 ;
+createtime : 1455652118 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 03:47:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 03:47:50 response :
+------------
+
+2016-02-17 04:08:08 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455653337 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455653337 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:08:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:08:08 response :
+------------
+
+2016-02-17 04:33:45 trace :
+------------
+Array:
+from : o0NFAtzxG5vS6GHVoMYE6ZZekY_M ;
+to : gh_ba80c06f7022 ;
+time : 1455654873 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzxG5vS6GHVoMYE6ZZekY_M ;
+createtime : 1455654873 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:33:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:33:45 response :
+------------
+
+2016-02-17 04:33:45 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455654873 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455654873 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:33:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:33:45 response :
+------------
+
+2016-02-17 04:33:48 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455654876 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455654876 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:33:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:33:48 response :
+------------
+
+2016-02-17 04:35:34 trace :
+------------
+Array:
+from : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+to : gh_ba80c06f7022 ;
+time : 1455654983 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+createtime : 1455654983 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:35:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:35:34 response :
+------------
+
+2016-02-17 04:35:53 trace :
+------------
+Array:
+from : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+to : gh_ba80c06f7022 ;
+time : 1455655001 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+createtime : 1455655001 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:35:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:35:53 response :
+------------
+
+2016-02-17 04:38:43 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455655172 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455655172 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:38:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:38:43 response :
+------------
+
+2016-02-17 04:39:07 trace :
+------------
+Array:
+from : o0NFAt5mg7up-iOS_GSBw-EgkkS8 ;
+to : gh_ba80c06f7022 ;
+time : 1455655195 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt5mg7up-iOS_GSBw-EgkkS8 ;
+createtime : 1455655195 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:39:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:39:07 response :
+------------
+
+2016-02-17 04:39:07 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455655191 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455655191 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:39:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:39:07 response :
+------------
+
+2016-02-17 04:39:59 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455655191 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455655191 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:39:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:39:59 response :
+------------
+
+2016-02-17 04:53:13 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455656042 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455656042 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:53:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:53:13 response :
+------------
+
+2016-02-17 04:53:18 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455656046 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455656046 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:53:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:53:18 response :
+------------
+
+2016-02-17 04:59:00 trace :
+------------
+Array:
+from : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+to : gh_ba80c06f7022 ;
+time : 1455656388 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+createtime : 1455656388 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 04:59:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 04:59:00 response :
+------------
+
+2016-02-17 05:29:46 trace :
+------------
+Array:
+from : o0NFAt8LHS4Cm4LrvcNjSqxZr0QA ;
+to : gh_ba80c06f7022 ;
+time : 1455658232 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8LHS4Cm4LrvcNjSqxZr0QA ;
+createtime : 1455658232 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:29:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:29:47 response :
+------------
+
+2016-02-17 05:30:05 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455658254 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455658254 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:30:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:30:05 response :
+------------
+
+2016-02-17 05:35:35 trace :
+------------
+Array:
+from : o0NFAtySwX47WUQdynabbrak2pAM ;
+to : gh_ba80c06f7022 ;
+time : 1455658583 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtySwX47WUQdynabbrak2pAM ;
+createtime : 1455658583 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:35:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:35:35 response :
+------------
+
+2016-02-17 05:36:41 trace :
+------------
+Array:
+from : o0NFAtySwX47WUQdynabbrak2pAM ;
+to : gh_ba80c06f7022 ;
+time : 1455658650 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtySwX47WUQdynabbrak2pAM ;
+createtime : 1455658650 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:36:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:36:41 response :
+------------
+
+2016-02-17 05:39:08 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455658797 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455658797 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:39:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:39:08 response :
+------------
+
+2016-02-17 05:39:24 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455658812 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455658812 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:39:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:39:24 response :
+------------
+
+2016-02-17 05:39:34 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455658822 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455658822 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:39:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:39:34 response :
+------------
+
+2016-02-17 05:40:53 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455658901 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455658901 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:40:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:40:53 response :
+------------
+
+2016-02-17 05:45:33 trace :
+------------
+Array:
+from : o0NFAt65GeH4ke4FzWNiNGnHmiKI ;
+to : gh_ba80c06f7022 ;
+time : 1455659182 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt65GeH4ke4FzWNiNGnHmiKI ;
+createtime : 1455659182 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:45:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:45:33 response :
+------------
+
+2016-02-17 05:49:00 trace :
+------------
+Array:
+from : o0NFAt65GeH4ke4FzWNiNGnHmiKI ;
+to : gh_ba80c06f7022 ;
+time : 1455659389 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt65GeH4ke4FzWNiNGnHmiKI ;
+createtime : 1455659389 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:49:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:49:00 response :
+------------
+
+2016-02-17 05:51:25 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455659533 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455659533 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 05:51:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 05:51:25 response :
+------------
+
+2016-02-17 06:01:50 trace :
+------------
+Array:
+from : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455660159 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+createtime : 1455660159 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:01:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:01:50 response :
+------------
+
+2016-02-17 06:02:21 trace :
+------------
+Array:
+from : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455660189 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+createtime : 1455660189 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:02:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:02:21 response :
+------------
+
+2016-02-17 06:02:41 trace :
+------------
+Array:
+from : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455660209 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+createtime : 1455660209 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:02:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:02:41 response :
+------------
+
+2016-02-17 06:07:12 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455660481 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455660481 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:07:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:07:12 response :
+------------
+
+2016-02-17 06:07:33 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455660502 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455660502 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:07:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:07:33 response :
+------------
+
+2016-02-17 06:10:45 trace :
+------------
+Array:
+from : o0NFAt-aOh0yCNGjQxKEr03uawMk ;
+to : gh_ba80c06f7022 ;
+time : 1455660694 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-aOh0yCNGjQxKEr03uawMk ;
+createtime : 1455660694 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:10:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:10:45 response :
+------------
+
+2016-02-17 06:14:02 trace :
+------------
+Array:
+from : o0NFAtxBOVCYX4_GuPuY_wj3G2xo ;
+to : gh_ba80c06f7022 ;
+time : 1455660891 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxBOVCYX4_GuPuY_wj3G2xo ;
+createtime : 1455660891 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:14:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:14:02 response :
+------------
+
+2016-02-17 06:19:28 trace :
+------------
+Array:
+from : o0NFAt0UUXNKEaZ4qJbJ6dxTYPSo ;
+to : gh_ba80c06f7022 ;
+time : 1455661217 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0UUXNKEaZ4qJbJ6dxTYPSo ;
+createtime : 1455661217 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:19:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:19:28 response :
+------------
+
+2016-02-17 06:26:30 trace :
+------------
+Array:
+from : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+to : gh_ba80c06f7022 ;
+time : 1455661638 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+createtime : 1455661638 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:26:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:26:30 response :
+------------
+
+2016-02-17 06:46:22 trace :
+------------
+Array:
+from : o0NFAt3qHxe1VzkI_AqHIxG_JSw8 ;
+to : gh_ba80c06f7022 ;
+time : 1455662831 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3qHxe1VzkI_AqHIxG_JSw8 ;
+createtime : 1455662831 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:46:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:46:22 response :
+------------
+
+2016-02-17 06:49:27 trace :
+------------
+Array:
+from : o0NFAt0eOAlzQJhPFgk8S7RZWvfQ ;
+to : gh_ba80c06f7022 ;
+time : 1455663016 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0eOAlzQJhPFgk8S7RZWvfQ ;
+createtime : 1455663016 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:49:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:49:27 response :
+------------
+
+2016-02-17 06:54:32 trace :
+------------
+Array:
+from : o0NFAt25upYVtwMyxTREWviTD28g ;
+to : gh_ba80c06f7022 ;
+time : 1455663321 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25upYVtwMyxTREWviTD28g ;
+createtime : 1455663321 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 06:54:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 06:54:32 response :
+------------
+
+2016-02-17 07:05:03 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455663952 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455663952 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 07:05:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 07:05:03 response :
+------------
+
+2016-02-17 07:09:03 trace :
+------------
+Array:
+from : o0NFAt1_tL8LypxSEBZYrdT3JZaA ;
+to : gh_ba80c06f7022 ;
+time : 1455664191 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1_tL8LypxSEBZYrdT3JZaA ;
+createtime : 1455664191 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 07:09:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 07:09:03 response :
+------------
+
+2016-02-17 07:12:38 trace :
+------------
+Array:
+from : o0NFAt1_tL8LypxSEBZYrdT3JZaA ;
+to : gh_ba80c06f7022 ;
+time : 1455664406 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1_tL8LypxSEBZYrdT3JZaA ;
+createtime : 1455664406 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 07:12:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 07:12:38 response :
+------------
+
+2016-02-17 07:32:55 trace :
+------------
+Array:
+from : o0NFAt10Je5WoxngI0Myv4m7Hs9A ;
+to : gh_ba80c06f7022 ;
+time : 1455665624 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt10Je5WoxngI0Myv4m7Hs9A ;
+createtime : 1455665624 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 07:32:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 07:32:55 response :
+------------
+
+2016-02-17 07:41:55 trace :
+------------
+Array:
+from : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+to : gh_ba80c06f7022 ;
+time : 1455666163 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+createtime : 1455666163 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 07:41:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 07:41:55 response :
+------------
+
+2016-02-17 08:08:39 trace :
+------------
+Array:
+from : o0NFAt4wU8HFvyTWmivA2oM9rGdM ;
+to : gh_ba80c06f7022 ;
+time : 1455667768 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4wU8HFvyTWmivA2oM9rGdM ;
+createtime : 1455667768 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:08:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:08:39 response :
+------------
+
+2016-02-17 08:09:57 trace :
+------------
+Array:
+from : o0NFAtyqIaeCsXFvcXV3oNT-ORXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455667843 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyqIaeCsXFvcXV3oNT-ORXQ ;
+createtime : 1455667843 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:09:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:09:57 response :
+------------
+
+2016-02-17 08:10:11 trace :
+------------
+Array:
+from : o0NFAtyqIaeCsXFvcXV3oNT-ORXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455667860 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyqIaeCsXFvcXV3oNT-ORXQ ;
+createtime : 1455667860 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:10:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:10:11 response :
+------------
+
+2016-02-17 08:14:00 trace :
+------------
+Array:
+from : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+to : gh_ba80c06f7022 ;
+time : 1455668088 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+createtime : 1455668088 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:14:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:14:00 response :
+------------
+
+2016-02-17 08:14:48 trace :
+------------
+Array:
+from : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+to : gh_ba80c06f7022 ;
+time : 1455668137 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+createtime : 1455668137 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:14:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:14:48 response :
+------------
+
+2016-02-17 08:32:34 trace :
+------------
+Array:
+from : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+to : gh_ba80c06f7022 ;
+time : 1455669203 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+createtime : 1455669203 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:32:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:32:34 response :
+------------
+
+2016-02-17 08:41:51 trace :
+------------
+Array:
+from : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+to : gh_ba80c06f7022 ;
+time : 1455669760 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+createtime : 1455669760 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:41:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:41:51 response :
+------------
+
+2016-02-17 08:42:05 trace :
+------------
+Array:
+from : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+to : gh_ba80c06f7022 ;
+time : 1455669765 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+createtime : 1455669765 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:42:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:42:05 response :
+------------
+
+2016-02-17 08:42:06 trace :
+------------
+Array:
+from : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+to : gh_ba80c06f7022 ;
+time : 1455669765 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtx6RKI6WImM9H2QGEbyii84 ;
+createtime : 1455669765 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:42:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:42:06 response :
+------------
+
+2016-02-17 08:52:35 trace :
+------------
+Array:
+from : o0NFAt_8sG5jjyHLYNHUA-UDqAbE ;
+to : gh_ba80c06f7022 ;
+time : 1455670404 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_8sG5jjyHLYNHUA-UDqAbE ;
+createtime : 1455670404 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:52:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:52:35 response :
+------------
+
+2016-02-17 08:53:17 trace :
+------------
+Array:
+from : o0NFAt_8sG5jjyHLYNHUA-UDqAbE ;
+to : gh_ba80c06f7022 ;
+time : 1455670446 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_8sG5jjyHLYNHUA-UDqAbE ;
+createtime : 1455670446 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 08:53:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 08:53:17 response :
+------------
+
+2016-02-17 09:05:44 trace :
+------------
+Array:
+from : o0NFAt-Ts-G_JHFhPcU0SVFBsNqg ;
+to : gh_ba80c06f7022 ;
+time : 1455671193 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-Ts-G_JHFhPcU0SVFBsNqg ;
+createtime : 1455671193 ;
+msgtype : text ;
+content : 嗯，早日回归啊/::~ ;
+msgid : 6252060168077400064 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 09:05:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:05:44 response :
+------------
+
+2016-02-17 09:12:47 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455671615 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455671615 ;
+msgtype : text ;
+content : 您好 有3个问题问一下 第一个：还有400块钱45次送一年意外险的票吗 第二个：满30人发车 如果28.9人也不发车吗 第三个：我们做这个天天通勤了 又变了 今天晚上即便坐919回去了 明天也不一定能不能坐上车 据我所知昨天康庄超30人了 但是好多都是上车现用微信买票的 这种发车吗  ;
+msgid : 6252061980553599231 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 09:12:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:12:47 response :
+------------
+
+2016-02-17 09:13:10 trace :
+------------
+Array:
+from : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+to : gh_ba80c06f7022 ;
+time : 1455671638 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+createtime : 1455671638 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:13:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:13:10 response :
+------------
+
+2016-02-17 09:13:11 trace :
+------------
+Array:
+from : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+to : gh_ba80c06f7022 ;
+time : 1455671639 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+createtime : 1455671639 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:13:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:13:11 response :
+------------
+
+2016-02-17 09:13:11 trace :
+------------
+Array:
+from : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+to : gh_ba80c06f7022 ;
+time : 1455671639 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+createtime : 1455671639 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:13:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:13:11 response :
+------------
+
+2016-02-17 09:13:12 trace :
+------------
+Array:
+from : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+to : gh_ba80c06f7022 ;
+time : 1455671641 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-RTJmIiCFncY-PN75pbu6o ;
+createtime : 1455671641 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:13:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:13:12 response :
+------------
+
+2016-02-17 09:14:16 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455671705 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455671705 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:14:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:14:16 response :
+------------
+
+2016-02-17 09:15:12 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455671760 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455671760 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:15:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:15:12 response :
+------------
+
+2016-02-17 09:16:40 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455671848 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455671848 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:16:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:16:40 response :
+------------
+
+2016-02-17 09:32:05 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455672774 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455672774 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:32:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:32:05 response :
+------------
+
+2016-02-17 09:32:10 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455672778 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455672778 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:32:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:32:10 response :
+------------
+
+2016-02-17 09:33:09 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455672838 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455672838 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:33:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:33:09 response :
+------------
+
+2016-02-17 09:35:02 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455672951 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455672951 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:35:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:35:02 response :
+------------
+
+2016-02-17 09:50:15 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455673864 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455673864 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:50:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:50:15 response :
+------------
+
+2016-02-17 09:52:31 trace :
+------------
+Array:
+from : o0NFAtxRZqE6VJdLrpkmfLZbJFpg ;
+to : gh_ba80c06f7022 ;
+time : 1455674000 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxRZqE6VJdLrpkmfLZbJFpg ;
+createtime : 1455674000 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:52:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:52:31 response :
+------------
+
+2016-02-17 09:54:03 trace :
+------------
+Array:
+from : o0NFAt4CRLnAnmPgmi6ZbjHKLW54 ;
+to : gh_ba80c06f7022 ;
+time : 1455674091 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4CRLnAnmPgmi6ZbjHKLW54 ;
+createtime : 1455674091 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:54:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:54:03 response :
+------------
+
+2016-02-17 09:54:48 trace :
+------------
+Array:
+from : o0NFAt4CRLnAnmPgmi6ZbjHKLW54 ;
+to : gh_ba80c06f7022 ;
+time : 1455674137 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4CRLnAnmPgmi6ZbjHKLW54 ;
+createtime : 1455674137 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:54:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:54:48 response :
+------------
+
+2016-02-17 09:56:04 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455674213 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455674213 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 09:56:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 09:56:04 response :
+------------
+
+2016-02-17 10:05:15 trace :
+------------
+Array:
+from : o0NFAtx9eFy0R5Z69BnM8JHq8JKA ;
+to : gh_ba80c06f7022 ;
+time : 1455674764 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtx9eFy0R5Z69BnM8JHq8JKA ;
+createtime : 1455674764 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:05:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:05:15 response :
+------------
+
+2016-02-17 10:11:04 trace :
+------------
+Array:
+from : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+to : gh_ba80c06f7022 ;
+time : 1455675105 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4w1gf5X8VyAivuAScrCcXQ ;
+createtime : 1455675105 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:11:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:11:04 response :
+------------
+
+2016-02-17 10:27:53 trace :
+------------
+Array:
+from : o0NFAt-DEK8vOYl5aeZ4-rahw0kM ;
+to : gh_ba80c06f7022 ;
+time : 1455676122 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-DEK8vOYl5aeZ4-rahw0kM ;
+createtime : 1455676122 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:27:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:27:53 response :
+------------
+
+2016-02-17 10:35:14 trace :
+------------
+Array:
+from : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+to : gh_ba80c06f7022 ;
+time : 1455676563 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+createtime : 1455676563 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:35:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:35:14 response :
+------------
+
+2016-02-17 10:42:29 trace :
+------------
+Array:
+from : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+to : gh_ba80c06f7022 ;
+time : 1455676996 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6BgqZ-OupaZxzJ1MNrbt4M ;
+createtime : 1455676996 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:42:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:42:29 response :
+------------
+
+2016-02-17 10:45:48 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455677197 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455677197 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:45:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:45:48 response :
+------------
+
+2016-02-17 10:57:49 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455677918 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455677918 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 10:57:49 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 10:57:49 response :
+------------
+
+2016-02-17 11:04:01 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455678289 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455678289 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/ ;
+menuid : 401129803 ;
+
+2016-02-17 11:04:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:04:01 response :
+------------
+
+2016-02-17 11:05:36 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455678385 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455678385 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:05:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:05:36 response :
+------------
+
+2016-02-17 11:11:56 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455678765 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455678765 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:11:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:11:56 response :
+------------
+
+2016-02-17 11:14:21 trace :
+------------
+Array:
+from : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+to : gh_ba80c06f7022 ;
+time : 1455678910 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+createtime : 1455678910 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:14:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:14:21 response :
+------------
+
+2016-02-17 11:14:23 trace :
+------------
+Array:
+from : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+to : gh_ba80c06f7022 ;
+time : 1455678912 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DrCbqy4R5vPfDd50eu9cc ;
+createtime : 1455678912 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:14:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:14:23 response :
+------------
+
+2016-02-17 11:17:52 trace :
+------------
+Array:
+from : o0NFAtxVVI5vGNAjxJ3PWbhtNjuI ;
+to : gh_ba80c06f7022 ;
+time : 1455679121 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxVVI5vGNAjxJ3PWbhtNjuI ;
+createtime : 1455679121 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:17:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:17:52 response :
+------------
+
+2016-02-17 11:18:34 trace :
+------------
+Array:
+from : o0NFAt-FDDu9136VFmMOCA9k0HLA ;
+to : gh_ba80c06f7022 ;
+time : 1455679163 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-FDDu9136VFmMOCA9k0HLA ;
+createtime : 1455679163 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:18:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:18:34 response :
+------------
+
+2016-02-17 11:23:33 trace :
+------------
+Array:
+from : o0NFAt3KKGp3wTAcEwcfGP9C5QMU ;
+to : gh_ba80c06f7022 ;
+time : 1455679461 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3KKGp3wTAcEwcfGP9C5QMU ;
+createtime : 1455679461 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:23:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:23:33 response :
+------------
+
+2016-02-17 11:24:36 trace :
+------------
+Array:
+from : o0NFAt3KKGp3wTAcEwcfGP9C5QMU ;
+to : gh_ba80c06f7022 ;
+time : 1455679525 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3KKGp3wTAcEwcfGP9C5QMU ;
+createtime : 1455679525 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:24:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:24:36 response :
+------------
+
+2016-02-17 11:44:07 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455680696 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455680696 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:44:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:44:07 response :
+------------
+
+2016-02-17 11:47:28 trace :
+------------
+Array:
+from : o0NFAtzqB6OT9BNb7upT1WftA3bM ;
+to : gh_ba80c06f7022 ;
+time : 1455680897 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzqB6OT9BNb7upT1WftA3bM ;
+createtime : 1455680897 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:47:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:47:28 response :
+------------
+
+2016-02-17 11:59:53 trace :
+------------
+Array:
+from : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+to : gh_ba80c06f7022 ;
+time : 1455681642 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+createtime : 1455681642 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 11:59:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 11:59:53 response :
+------------
+
+2016-02-17 12:02:14 trace :
+------------
+Array:
+from : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+to : gh_ba80c06f7022 ;
+time : 1455681783 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+createtime : 1455681783 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 12:02:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 12:02:14 response :
+------------
+
+2016-02-17 12:02:26 trace :
+------------
+Array:
+from : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+to : gh_ba80c06f7022 ;
+time : 1455681795 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+createtime : 1455681795 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 12:02:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 12:02:26 response :
+------------
+
+2016-02-17 12:32:42 trace :
+------------
+Array:
+from : o0NFAt969iigGq1SEEAKWEhg-W8g ;
+to : gh_ba80c06f7022 ;
+time : 1455683611 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt969iigGq1SEEAKWEhg-W8g ;
+createtime : 1455683611 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 12:32:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 12:32:42 response :
+------------
+
+2016-02-17 12:35:06 trace :
+------------
+Array:
+from : o0NFAt969iigGq1SEEAKWEhg-W8g ;
+to : gh_ba80c06f7022 ;
+time : 1455683755 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt969iigGq1SEEAKWEhg-W8g ;
+createtime : 1455683755 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 12:35:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 12:35:06 response :
+------------
+
+2016-02-17 12:55:50 trace :
+------------
+Array:
+from : o0NFAt-aOh0yCNGjQxKEr03uawMk ;
+to : gh_ba80c06f7022 ;
+time : 1455684999 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-aOh0yCNGjQxKEr03uawMk ;
+createtime : 1455684999 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 12:55:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 12:55:50 response :
+------------
+
+2016-02-17 13:15:49 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455686198 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455686198 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/ ;
+menuid : 401129803 ;
+
+2016-02-17 13:15:49 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:15:49 response :
+------------
+
+2016-02-17 13:15:52 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455686201 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455686201 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=user_message ;
+menuid : 401129803 ;
+
+2016-02-17 13:15:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:15:52 response :
+------------
+
+2016-02-17 13:16:21 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455686230 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455686230 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/wap/index.php?ctl=settings ;
+menuid : 401129803 ;
+
+2016-02-17 13:16:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:16:21 response :
+------------
+
+2016-02-17 13:22:51 trace :
+------------
+Array:
+from : o0NFAt-BLMAEtitN0nZpmedzOhMw ;
+to : gh_ba80c06f7022 ;
+time : 1455686620 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-BLMAEtitN0nZpmedzOhMw ;
+createtime : 1455686620 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 13:22:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:22:51 response :
+------------
+
+2016-02-17 13:23:22 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455686651 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455686651 ;
+msgtype : text ;
+content : 2 ;
+msgid : 6252126559670091064 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 13:23:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:23:22 response :
+------------
+
+2016-02-17 13:23:24 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1455686653 ;
+type : text ;
+event :  ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1455686653 ;
+msgtype : text ;
+content : 1 ;
+msgid : 6252126568260025657 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 13:23:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:23:24 response :
+------------
+
+2016-02-17 13:33:41 trace :
+------------
+Array:
+from : o0NFAt0eOAlzQJhPFgk8S7RZWvfQ ;
+to : gh_ba80c06f7022 ;
+time : 1455687270 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0eOAlzQJhPFgk8S7RZWvfQ ;
+createtime : 1455687270 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 13:33:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:33:41 response :
+------------
+
+2016-02-17 13:41:54 trace :
+------------
+Array:
+from : o0NFAt25upYVtwMyxTREWviTD28g ;
+to : gh_ba80c06f7022 ;
+time : 1455687763 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25upYVtwMyxTREWviTD28g ;
+createtime : 1455687763 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 13:41:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:41:54 response :
+------------
+
+2016-02-17 13:55:18 trace :
+------------
+Array:
+from : o0NFAt76vC-0pcz-NdOmCTLlXTqI ;
+to : gh_ba80c06f7022 ;
+time : 1455688567 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt76vC-0pcz-NdOmCTLlXTqI ;
+createtime : 1455688567 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 13:55:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 13:55:18 response :
+------------
+
+2016-02-17 14:08:59 trace :
+------------
+Array:
+from : o0NFAt-hsgCn-xc3iK8rZ4tFI2Cg ;
+to : gh_ba80c06f7022 ;
+time : 1455689388 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-hsgCn-xc3iK8rZ4tFI2Cg ;
+createtime : 1455689388 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:08:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:08:59 response :
+------------
+
+2016-02-17 14:11:39 trace :
+------------
+Array:
+from : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+to : gh_ba80c06f7022 ;
+time : 1455689549 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+createtime : 1455689549 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:11:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:11:39 response :
+------------
+
+2016-02-17 14:12:36 trace :
+------------
+Array:
+from : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+to : gh_ba80c06f7022 ;
+time : 1455689605 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+createtime : 1455689605 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:12:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:12:36 response :
+------------
+
+2016-02-17 14:12:49 trace :
+------------
+Array:
+from : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+to : gh_ba80c06f7022 ;
+time : 1455689618 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt34qM8Q-pnpNu1RMawd8NEY ;
+createtime : 1455689618 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:12:49 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:12:49 response :
+------------
+
+2016-02-17 14:25:15 trace :
+------------
+Array:
+from : o0NFAt21jtXA658xoVok_p59xDuQ ;
+to : gh_ba80c06f7022 ;
+time : 1455690364 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt21jtXA658xoVok_p59xDuQ ;
+createtime : 1455690364 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:25:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:25:15 response :
+------------
+
+2016-02-17 14:31:23 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455690732 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455690732 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:31:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:31:23 response :
+------------
+
+2016-02-17 14:34:59 trace :
+------------
+Array:
+from : o0NFAt_C6PBbo1We3o55kuFhSHW4 ;
+to : gh_ba80c06f7022 ;
+time : 1455690948 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_C6PBbo1We3o55kuFhSHW4 ;
+createtime : 1455690948 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:34:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:34:59 response :
+------------
+
+2016-02-17 14:34:59 trace :
+------------
+Array:
+from : o0NFAt8XKuWwmZudR1k6cwqB4GLk ;
+to : gh_ba80c06f7022 ;
+time : 1455690948 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8XKuWwmZudR1k6cwqB4GLk ;
+createtime : 1455690948 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:34:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:34:59 response :
+------------
+
+2016-02-17 14:35:11 trace :
+------------
+Array:
+from : o0NFAt8XKuWwmZudR1k6cwqB4GLk ;
+to : gh_ba80c06f7022 ;
+time : 1455690960 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8XKuWwmZudR1k6cwqB4GLk ;
+createtime : 1455690960 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:35:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:35:11 response :
+------------
+
+2016-02-17 14:50:22 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455691872 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455691872 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:50:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:50:22 response :
+------------
+
+2016-02-17 14:50:36 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455691885 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455691885 ;
+msgtype : text ;
+content : 在吗 上班了吗 ;
+msgid : 6252149039540701976 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 14:50:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:50:36 response :
+------------
+
+2016-02-17 14:50:56 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455691905 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455691905 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:50:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:50:56 response :
+------------
+
+2016-02-17 14:56:41 trace :
+------------
+Array:
+from : o0NFAt7pt2aIU57u7NC8NtBzV0Xw ;
+to : gh_ba80c06f7022 ;
+time : 1455692250 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7pt2aIU57u7NC8NtBzV0Xw ;
+createtime : 1455692250 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:56:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:56:41 response :
+------------
+
+2016-02-17 14:56:45 trace :
+------------
+Array:
+from : o0NFAt7pt2aIU57u7NC8NtBzV0Xw ;
+to : gh_ba80c06f7022 ;
+time : 1455692255 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7pt2aIU57u7NC8NtBzV0Xw ;
+createtime : 1455692255 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 14:56:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 14:56:45 response :
+------------
+
+2016-02-17 15:06:26 trace :
+------------
+Array:
+from : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+to : gh_ba80c06f7022 ;
+time : 1455692835 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+createtime : 1455692835 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:06:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:06:26 response :
+------------
+
+2016-02-17 15:08:59 trace :
+------------
+Array:
+from : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+to : gh_ba80c06f7022 ;
+time : 1455692988 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2s_LyO-5wkzpNhszX-e7X8 ;
+createtime : 1455692988 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:08:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:08:59 response :
+------------
+
+2016-02-17 15:15:21 trace :
+------------
+Array:
+from : o0NFAt5kP_GihJKrDGTXAWLOd3Tw ;
+to : gh_ba80c06f7022 ;
+time : 1455693370 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt5kP_GihJKrDGTXAWLOd3Tw ;
+createtime : 1455693370 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:15:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:15:21 response :
+------------
+
+2016-02-17 15:19:22 trace :
+------------
+Array:
+from : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+to : gh_ba80c06f7022 ;
+time : 1455693611 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+createtime : 1455693611 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:19:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:19:22 response :
+------------
+
+2016-02-17 15:47:33 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455695303 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455695303 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:47:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:47:33 response :
+------------
+
+2016-02-17 15:47:48 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455695317 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455695317 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:47:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:47:48 response :
+------------
+
+2016-02-17 15:56:35 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455695844 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455695844 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 15:56:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 15:56:35 response :
+------------
+
+2016-02-17 16:02:50 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696219 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696219 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 16:02:50 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 16:02:50 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt_sOagPijurcAurEms_adiM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 16:02:56 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696225 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696225 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:02:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:02:56 response :
+------------
+
+2016-02-17 16:03:17 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696247 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696247 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:03:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:03:17 response :
+------------
+
+2016-02-17 16:03:21 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696250 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696250 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:03:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:03:21 response :
+------------
+
+2016-02-17 16:03:46 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696275 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696275 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:03:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:03:46 response :
+------------
+
+2016-02-17 16:05:16 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696366 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696366 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:05:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:05:16 response :
+------------
+
+2016-02-17 16:06:16 trace :
+------------
+Array:
+from : o0NFAt3uDZ9E_H3WBaTj5JTKd9Tk ;
+to : gh_ba80c06f7022 ;
+time : 1455696426 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3uDZ9E_H3WBaTj5JTKd9Tk ;
+createtime : 1455696426 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:06:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:06:16 response :
+------------
+
+2016-02-17 16:06:23 trace :
+------------
+Array:
+from : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+to : gh_ba80c06f7022 ;
+time : 1455696432 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+createtime : 1455696432 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:06:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:06:23 response :
+------------
+
+2016-02-17 16:06:53 trace :
+------------
+Array:
+from : o0NFAt2T91AA8-AWX6m-jB-dQsd4 ;
+to : gh_ba80c06f7022 ;
+time : 1455696462 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2T91AA8-AWX6m-jB-dQsd4 ;
+createtime : 1455696462 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:06:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:06:53 response :
+------------
+
+2016-02-17 16:09:13 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696603 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696603 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:09:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:09:13 response :
+------------
+
+2016-02-17 16:10:15 trace :
+------------
+Array:
+from : o0NFAt_sOagPijurcAurEms_adiM ;
+to : gh_ba80c06f7022 ;
+time : 1455696664 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_sOagPijurcAurEms_adiM ;
+createtime : 1455696664 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:10:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:10:15 response :
+------------
+
+2016-02-17 16:12:46 trace :
+------------
+Array:
+from : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+to : gh_ba80c06f7022 ;
+time : 1455696815 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+createtime : 1455696815 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:12:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:12:46 response :
+------------
+
+2016-02-17 16:14:00 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696889 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696889 ;
+msgtype : event ;
+latitude : 23.083876 ;
+longitude : 113.677094 ;
+precision : 150.000000 ;
+location_x : 23.083876 ;
+location_y : 113.677094 ;
+
+2016-02-17 16:14:00 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:14:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:14:06 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696896 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696896 ;
+msgtype : event ;
+latitude : 23.083876 ;
+longitude : 113.677094 ;
+precision : 150.000000 ;
+location_x : 23.083876 ;
+location_y : 113.677094 ;
+
+2016-02-17 16:14:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:14:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:14:12 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696901 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696901 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=14&c=entry&do=shoplist&m=amouse_shopping3&wxref=mp.weixin.qq.com#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-02-17 16:14:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:14:12 response :
+------------
+
+2016-02-17 16:14:34 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696923 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696923 ;
+msgtype : event ;
+latitude : 23.084208 ;
+longitude : 113.676689 ;
+precision : 110.000000 ;
+location_x : 23.084208 ;
+location_y : 113.676689 ;
+
+2016-02-17 16:14:34 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:14:34 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:15:08 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696957 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696957 ;
+msgtype : event ;
+latitude : 23.084208 ;
+longitude : 113.676689 ;
+precision : 150.000000 ;
+location_x : 23.084208 ;
+location_y : 113.676689 ;
+
+2016-02-17 16:15:08 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:15:08 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:15:30 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455696979 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455696979 ;
+msgtype : event ;
+latitude : 23.084208 ;
+longitude : 113.676689 ;
+precision : 150.000000 ;
+location_x : 23.084208 ;
+location_y : 113.676689 ;
+
+2016-02-17 16:15:30 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:15:30 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:20:42 trace :
+------------
+Array:
+from : o0NFAty7mRzwJzrR0vUMqtugos30 ;
+to : gh_ba80c06f7022 ;
+time : 1455697291 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty7mRzwJzrR0vUMqtugos30 ;
+createtime : 1455697291 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:20:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:20:42 response :
+------------
+
+2016-02-17 16:23:16 trace :
+------------
+Array:
+from : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+to : gh_ba80c06f7022 ;
+time : 1455697445 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+createtime : 1455697445 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:23:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:23:16 response :
+------------
+
+2016-02-17 16:24:28 trace :
+------------
+Array:
+from : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+to : gh_ba80c06f7022 ;
+time : 1455697517 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+createtime : 1455697517 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:24:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:24:28 response :
+------------
+
+2016-02-17 16:25:22 trace :
+------------
+Array:
+from : o0NFAt-qC9hD9V6kEHir9eJj4aJY ;
+to : gh_ba80c06f7022 ;
+time : 1455697571 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-qC9hD9V6kEHir9eJj4aJY ;
+createtime : 1455697571 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:25:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:25:22 response :
+------------
+
+2016-02-17 16:26:11 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455697620 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455697620 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:26:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:26:11 response :
+------------
+
+2016-02-17 16:28:13 trace :
+------------
+Array:
+from : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+to : gh_ba80c06f7022 ;
+time : 1455697742 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-LiKDxw1d4qEknIv33NFS8 ;
+createtime : 1455697742 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:28:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:28:13 response :
+------------
+
+2016-02-17 16:29:54 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455697844 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455697844 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:29:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:29:54 response :
+------------
+
+2016-02-17 16:31:46 trace :
+------------
+Array:
+from : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+to : gh_ba80c06f7022 ;
+time : 1455697955 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Cuh3nv-gGpptt6nnLV4jA ;
+createtime : 1455697955 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:31:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:31:46 response :
+------------
+
+2016-02-17 16:32:24 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455697993 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455697993 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:32:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:32:24 response :
+------------
+
+2016-02-17 16:33:33 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455698062 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455698062 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:33:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:33:33 response :
+------------
+
+2016-02-17 16:35:02 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698151 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698151 ;
+msgtype : event ;
+latitude : 23.083876 ;
+longitude : 113.677094 ;
+precision : 150.000000 ;
+location_x : 23.083876 ;
+location_y : 113.677094 ;
+
+2016-02-17 16:35:02 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:02 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:35:23 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698172 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698172 ;
+msgtype : event ;
+latitude : 23.083876 ;
+longitude : 113.677094 ;
+precision : 150.000000 ;
+location_x : 23.083876 ;
+location_y : 113.677094 ;
+
+2016-02-17 16:35:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:35:34 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698183 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698183 ;
+msgtype : event ;
+latitude : 23.084208 ;
+longitude : 113.676689 ;
+precision : 150.000000 ;
+location_x : 23.084208 ;
+location_y : 113.676689 ;
+
+2016-02-17 16:35:34 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:34 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:35:40 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698189 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698189 ;
+msgtype : event ;
+latitude : 23.083887 ;
+longitude : 113.677124 ;
+precision : 150.000000 ;
+location_x : 23.083887 ;
+location_y : 113.677124 ;
+
+2016-02-17 16:35:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:35:46 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698195 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698195 ;
+msgtype : event ;
+latitude : 23.083887 ;
+longitude : 113.677124 ;
+precision : 150.000000 ;
+location_x : 23.083887 ;
+location_y : 113.677124 ;
+
+2016-02-17 16:35:46 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:46 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:35:54 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698203 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698203 ;
+msgtype : event ;
+latitude : 23.084204 ;
+longitude : 113.676590 ;
+precision : 150.000000 ;
+location_x : 23.084204 ;
+location_y : 113.676590 ;
+
+2016-02-17 16:35:54 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:35:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:36:03 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1455698212 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1455698212 ;
+msgtype : event ;
+latitude : 23.083887 ;
+longitude : 113.677132 ;
+precision : 150.000000 ;
+location_x : 23.083887 ;
+location_y : 113.677132 ;
+
+2016-02-17 16:36:03 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 16:36:03 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 16:36:34 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455698244 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455698244 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:36:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:36:34 response :
+------------
+
+2016-02-17 16:48:18 trace :
+------------
+Array:
+from : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+to : gh_ba80c06f7022 ;
+time : 1455698948 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+createtime : 1455698948 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:48:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:48:18 response :
+------------
+
+2016-02-17 16:57:24 trace :
+------------
+Array:
+from : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+to : gh_ba80c06f7022 ;
+time : 1455699494 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+createtime : 1455699494 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:57:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:57:24 response :
+------------
+
+2016-02-17 16:57:44 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455699513 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455699513 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 16:57:44 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 16:57:44 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 16:57:56 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455699525 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455699525 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:57:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:57:56 response :
+------------
+
+2016-02-17 16:59:19 trace :
+------------
+Array:
+from : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+to : gh_ba80c06f7022 ;
+time : 1455699609 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+createtime : 1455699609 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:59:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:59:19 response :
+------------
+
+2016-02-17 16:59:24 trace :
+------------
+Array:
+from : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+to : gh_ba80c06f7022 ;
+time : 1455699614 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+createtime : 1455699614 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 16:59:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 16:59:24 response :
+------------
+
+2016-02-17 17:00:25 trace :
+------------
+Array:
+from : o0NFAtx3bZIe_EEce3Ex61bsd9wI ;
+to : gh_ba80c06f7022 ;
+time : 1455699675 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtx3bZIe_EEce3Ex61bsd9wI ;
+createtime : 1455699675 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:00:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:00:25 response :
+------------
+
+2016-02-17 17:01:21 trace :
+------------
+Array:
+from : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+to : gh_ba80c06f7022 ;
+time : 1455699730 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+createtime : 1455699730 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:01:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:01:21 response :
+------------
+
+2016-02-17 17:02:03 trace :
+------------
+Array:
+from : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+to : gh_ba80c06f7022 ;
+time : 1455699772 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8wXso0X3L7lUOWNaPYllkA ;
+createtime : 1455699772 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:02:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:02:03 response :
+------------
+
+2016-02-17 17:02:19 trace :
+------------
+Array:
+from : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+to : gh_ba80c06f7022 ;
+time : 1455699788 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+createtime : 1455699788 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:02:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:02:19 response :
+------------
+
+2016-02-17 17:02:40 trace :
+------------
+Array:
+from : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+to : gh_ba80c06f7022 ;
+time : 1455699809 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxGDuMLcn6FAG4JFL3zCOhM ;
+createtime : 1455699809 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:02:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:02:40 response :
+------------
+
+2016-02-17 17:10:16 trace :
+------------
+Array:
+from : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+to : gh_ba80c06f7022 ;
+time : 1455700265 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+createtime : 1455700265 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:10:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:10:16 response :
+------------
+
+2016-02-17 17:15:35 trace :
+------------
+Array:
+from : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+to : gh_ba80c06f7022 ;
+time : 1455700584 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1R2Um-BqTw5mY-vT6hMm4E ;
+createtime : 1455700584 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:15:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:15:35 response :
+------------
+
+2016-02-17 17:20:35 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455700884 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455700884 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 17:20:35 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 17:20:35 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 17:22:05 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455700974 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455700974 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:22:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:22:05 response :
+------------
+
+2016-02-17 17:22:08 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455700978 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455700978 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:22:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:22:08 response :
+------------
+
+2016-02-17 17:24:01 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455701091 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455701091 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 17:24:01 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 17:24:01 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 17:24:07 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455701096 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455701096 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:24:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:24:07 response :
+------------
+
+2016-02-17 17:28:37 trace :
+------------
+Array:
+from : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+to : gh_ba80c06f7022 ;
+time : 1455701366 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyclNyhuBYEeAKVsk47mtj4 ;
+createtime : 1455701366 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:28:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:28:37 response :
+------------
+
+2016-02-17 17:29:02 trace :
+------------
+Array:
+from : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+to : gh_ba80c06f7022 ;
+time : 1455701392 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2kFDtRstiY-0-Fl3I7rfYw ;
+createtime : 1455701392 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:29:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:29:02 response :
+------------
+
+2016-02-17 17:31:10 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455701519 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455701519 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:31:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:31:10 response :
+------------
+
+2016-02-17 17:32:17 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455701587 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455701587 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 17:32:17 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 17:32:17 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 17:32:34 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455701603 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455701603 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:32:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:32:34 response :
+------------
+
+2016-02-17 17:32:36 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455701605 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455701605 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:32:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:32:36 response :
+------------
+
+2016-02-17 17:32:44 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455701613 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455701613 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:32:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:32:44 response :
+------------
+
+2016-02-17 17:36:05 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455701814 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455701814 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:36:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:36:05 response :
+------------
+
+2016-02-17 17:41:41 trace :
+------------
+Array:
+from : o0NFAtzLbxJyZ9ZIOzHX4iOS1bXc ;
+to : gh_ba80c06f7022 ;
+time : 1455702150 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzLbxJyZ9ZIOzHX4iOS1bXc ;
+createtime : 1455702150 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:41:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:41:41 response :
+------------
+
+2016-02-17 17:46:09 trace :
+------------
+Array:
+from : o0NFAt2Dwl2ExTLNwYOb7zGkuQwY ;
+to : gh_ba80c06f7022 ;
+time : 1455702418 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2Dwl2ExTLNwYOb7zGkuQwY ;
+createtime : 1455702418 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:46:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:46:09 response :
+------------
+
+2016-02-17 17:48:42 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455702571 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455702571 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 17:48:42 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 17:48:42 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 17:48:50 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455702579 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455702579 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:48:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:48:50 response :
+------------
+
+2016-02-17 17:49:06 trace :
+------------
+Array:
+from : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+to : gh_ba80c06f7022 ;
+time : 1455702595 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+createtime : 1455702595 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:49:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:49:06 response :
+------------
+
+2016-02-17 17:51:15 trace :
+------------
+Array:
+from : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+to : gh_ba80c06f7022 ;
+time : 1455702725 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7YCjMv8mPVDZL9U9CxFnHI ;
+createtime : 1455702725 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:51:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:51:15 response :
+------------
+
+2016-02-17 17:52:52 trace :
+------------
+Array:
+from : o0NFAt4dg67rO5VP_9aHopLQUx9s ;
+to : gh_ba80c06f7022 ;
+time : 1455702821 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4dg67rO5VP_9aHopLQUx9s ;
+createtime : 1455702821 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:52:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:52:52 response :
+------------
+
+2016-02-17 17:54:33 trace :
+------------
+Array:
+from : o0NFAty0bP0lNoZPUZ3ehs3vxvMs ;
+to : gh_ba80c06f7022 ;
+time : 1455702923 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty0bP0lNoZPUZ3ehs3vxvMs ;
+createtime : 1455702923 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 17:54:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 17:54:33 response :
+------------
+
+2016-02-17 18:03:16 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455703446 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455703446 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 18:03:16 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 18:03:16 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 18:05:08 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455703558 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455703558 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 18:05:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:05:08 response :
+------------
+
+2016-02-17 18:06:51 trace :
+------------
+Array:
+from : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+to : gh_ba80c06f7022 ;
+time : 1455703661 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+createtime : 1455703661 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 18:06:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:06:51 response :
+------------
+
+2016-02-17 18:07:17 trace :
+------------
+Array:
+from : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+to : gh_ba80c06f7022 ;
+time : 1455703686 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzjl9xEnxPS2gSb12P-beUc ;
+createtime : 1455703686 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-17 18:07:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:07:17 response :
+------------
+
+2016-02-17 18:08:22 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1455703617 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1455703617 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 18:08:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:08:22 response :
+------------
+
+2016-02-17 18:08:27 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1455703622 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1455703622 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 18:08:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:08:27 response :
+------------
+
+2016-02-17 18:09:45 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455703834 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455703834 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 18:09:45 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 18:09:45 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 18:10:56 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455703905 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455703905 ;
+msgtype : text ;
+content : 你好 ;
+msgid : 6252200665047609140 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 18:10:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:10:56 response :
+------------
+
+2016-02-17 18:11:26 trace :
+------------
+Array:
+from : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+to : gh_ba80c06f7022 ;
+time : 1455703936 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+createtime : 1455703936 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 18:11:26 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-17 18:11:26 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw67-fnRrrNqX55ydgFpPQ8 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-17 18:20:18 trace :
+------------
+Array:
+from : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+to : gh_ba80c06f7022 ;
+time : 1455704467 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+createtime : 1455704467 ;
+msgtype : text ;
+content : 怎么买票啊 ;
+msgid : 6252203078819229921 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 18:20:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:20:18 response :
+------------
+
+2016-02-17 18:22:57 trace :
+------------
+Array:
+from : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+to : gh_ba80c06f7022 ;
+time : 1455704626 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtwfo6tWlegCwhKE8gsACLKY ;
+createtime : 1455704626 ;
+msgtype : text ;
+content : 窗口怎么又变了 ;
+msgid : 6252203761719030100 ;
+redirection :  ;
+source :  ;
+
+2016-02-17 18:22:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 18:22:57 response :
+------------
+
+2016-02-17 20:33:46 trace :
+------------
+Array:
+from : oywoswDstTevdNbojuUa1UnYaIhQ ;
+to : gh_594b4a77030d ;
+time : 1455712476 ;
+type : event ;
+event : subscribe ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswDstTevdNbojuUa1UnYaIhQ ;
+createtime : 1455712476 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-17 20:33:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-17 20:33:46 response :
+------------
+
+2016-02-17 20:33:50 trace :
+------------
+Array:
+from : oywoswDstTevdNbojuUa1UnYaIhQ ;
+to : gh_594b4a77030d ;
+time : 1455712479 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswDstTevdNbojuUa1UnYaIhQ ;
+createtime : 1455712479 ;
+msgtype : event ;
+latitude : 22.345732 ;
+longitude : 114.201546 ;
+precision : 150.000000 ;
+location_x : 22.345732 ;
+location_y : 114.201546 ;
+
+2016-02-17 20:33:50 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 20:33:50 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-02-17 20:36:18 trace :
+------------
+Array:
+from : oywoswDstTevdNbojuUa1UnYaIhQ ;
+to : gh_594b4a77030d ;
+time : 1455712628 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswDstTevdNbojuUa1UnYaIhQ ;
+createtime : 1455712628 ;
+msgtype : event ;
+latitude : 22.345568 ;
+longitude : 114.201309 ;
+precision : 150.000000 ;
+location_x : 22.345568 ;
+location_y : 114.201309 ;
+
+2016-02-17 20:36:18 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-02-17 20:36:18 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

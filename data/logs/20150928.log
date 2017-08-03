@@ -1,0 +1,455 @@
+2015-09-28 10:35:24 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443407724 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443407724 ;
+msgtype : text ;
+content : 排号 ;
+msgid : 6199388969591211087 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 10:35:24 params :
+------------
+Array:
+message : Array ;
+module : xwz_queue ;
+rule : 34 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-28 10:35:24 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-28 11:04:11 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443409451 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443409451 ;
+msgtype : text ;
+content : 上去 ;
+msgid : 6199396386999731842 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:04:11 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-28 11:04:11 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-28 11:23:59 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443410639 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443410639 ;
+msgtype : text ;
+content : 微小区 ;
+msgid : 6199401489420879947 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:23:59 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 35 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-28 11:23:59 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-28 11:52:24 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443412344 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443412344 ;
+msgtype : text ;
+content : 加粉 ;
+msgid : 6199408812340120246 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:52:24 message xx :
+------------
+String:
+{"from":"ohwsCt7o4YXQBMQbtyBFukkrmfVc","to":"gh_3d8df4f58672","time":"1443412344","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCt7o4YXQBMQbtyBFukkrmfVc","createtime":"1443412344","msgtype":"text","content":"\u52a0\u7c89","msgid":"6199408812340120246","redirection":false,"source":null}
+
+2015-09-28 11:52:24 refresh :
+------------
+Array:
+uid : 2 ;
+nickname : 现在 ;
+avatar : http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg ;
+
+2015-09-28 11:52:24 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443412344 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443412344 ;
+msgtype : text ;
+content : 加粉 ;
+msgid : 6199408812340120246 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:52:25 step1 :
+------------
+String:
+
+
+2015-09-28 11:52:25 step3 :
+------------
+String:
+<1443412280
+
+2015-09-28 11:52:25 step3.0 :
+------------
+String:
+ohwsCt7o4YXQBMQbtyBFukkrmfVc
+
+2015-09-28 11:52:25 begin send text :
+------------
+String:
+
+
+2015-09-28 11:52:25 end send text :
+------------
+String:
+
+
+2015-09-28 11:52:25 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=edde7TvDw22egm9Kf74nq4e-cYJYSUp-XvXz3R83E_jkwciKyPseVoT1eNgx55WwGpc5HrIof5CfohtikOZlmvmhzraWwH2DYaVTIpHhyZ4
+
+2015-09-28 11:52:26 content :
+------------
+Array:
+errcode : 0 ;
+errmsg : ok ;
+
+2015-09-28 11:52:26 end send res :
+------------
+String:
+
+
+2015-09-28 11:52:26 step3.1 :
+------------
+String:
+
+
+2015-09-28 11:52:26 sc :
+------------
+
+2015-09-28 11:52:26 sc emtpy :
+------------
+
+2015-09-28 11:52:26 begin get limit scene scene id :
+------------
+
+2015-09-28 11:52:26 QR data :
+------------
+String:
+{"action_name":"QR_LIMIT_SCENE","action_info":{"scene":{"scene_id":2}}}
+
+2015-09-28 11:52:26 QR content :
+------------
+Array:
+ticket : gQGM7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL2hVemdibkhtbG9YdkRqY093R0JEAAIEerkIVgMEAAAAAA== ;
+url : http://weixin.qq.com/q/hUzgbnHmloXvDjcOwGBD ;
+
+2015-09-28 11:52:26 succ get limit scene scene id :
+------------
+
+2015-09-28 11:52:26 img get limit scene scene id :
+------------
+
+2015-09-28 11:52:26 step merge 1 :
+------------
+String:
+merge bgfile http://wx.nx456.cn/attachment/images/3/2015/09/K6Nn6OO6lztNjI22zI9bnmMi66iimN.jpg and qrfile https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQGM7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL2hVemdibkhtbG9YdkRqY093R0JEAAIEerkIVgMEAAAAAA%3D%3D
+
+2015-09-28 11:52:27 step merge 1 done :
+------------
+String:
+
+
+2015-09-28 11:52:27 step wirte text 1 :
+------------
+Array:
+uid : 2 ;
+nickname : 现在 ;
+avatar : http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg ;
+
+2015-09-28 11:52:27 step wirte text 1 done :
+------------
+String:
+
+
+2015-09-28 11:52:27 step merge 2 :
+------------
+String:
+http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg
+
+2015-09-28 11:52:27 step merge 2 done :
+------------
+String:
+
+
+2015-09-28 11:52:27 IamInMergeFile :
+------------
+String:
+D:/wwwroot/chengmao/attachment/qr-image-ohwsCt7o4YXQBMQbtyBFukkrmfVc13684.jpghttp://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg
+
+2015-09-28 11:52:27 step upload 1 :
+------------
+String:
+
+
+2015-09-28 11:52:27 uploadurl :
+------------
+String:
+http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token=edde7TvDw22egm9Kf74nq4e-cYJYSUp-XvXz3R83E_jkwciKyPseVoT1eNgx55WwGpc5HrIof5CfohtikOZlmvmhzraWwH2DYaVTIpHhyZ4&type=image
+
+2015-09-28 11:52:27 postparam :
+------------
+Array:
+media : @D:/wwwroot/chengmao/attachment/qr-image-ohwsCt7o4YXQBMQbtyBFukkrmfVc13684.jpg ;
+
+2015-09-28 11:52:28 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCt7o4YXQBMQbtyBFukkrmfVc&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"errno":1,"message":"Operation timed out after 4015 milliseconds with 0 bytes received"}
+
+2015-09-28 11:52:29 content :
+------------
+Array:
+type : image ;
+media_id : yvJWs2jQdyoH4zth7sDt_jmkEJ1wXRA9cb8Yn-7Ay9A2DguwNkaI3caMqXRMhu4o ;
+created_at : 1443412349 ;
+
+2015-09-28 11:52:29 step upload 1 done :
+------------
+String:
+
+
+2015-09-28 11:52:29 genImage :
+------------
+String:
+yvJWs2jQdyoH4zth7sDt_jmkEJ1wXRA9cb8Yn-7Ay9A2DguwNkaI3caMqXRMhu4o
+
+2015-09-28 11:52:29 begin send text :
+------------
+String:
+
+
+2015-09-28 11:52:29 end send text :
+------------
+String:
+
+
+2015-09-28 11:52:29 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=edde7TvDw22egm9Kf74nq4e-cYJYSUp-XvXz3R83E_jkwciKyPseVoT1eNgx55WwGpc5HrIof5CfohtikOZlmvmhzraWwH2DYaVTIpHhyZ4
+
+2015-09-28 11:52:29 content :
+------------
+Array:
+errcode : 0 ;
+errmsg : ok ;
+
+2015-09-28 11:52:29 end send res :
+------------
+String:
+
+
+2015-09-28 11:52:29 begin setQR :
+------------
+String:
+
+
+2015-09-28 11:52:29 cc2.2 :
+------------
+String:
+
+
+2015-09-28 11:52:29 end setQR :
+------------
+String:
+
+
+2015-09-28 11:52:29 step4 :
+------------
+String:
+yvJWs2jQdyoH4zth7sDt_jmkEJ1wXRA9cb8Yn-7Ay9A2DguwNkaI3caMqXRMhu4o
+
+2015-09-28 11:52:29 sendImage end :
+------------
+String:
+{"touser":"ohwsCt7o4YXQBMQbtyBFukkrmfVc","msgtype":"image","image":{"media_id":"yvJWs2jQdyoH4zth7sDt_jmkEJ1wXRA9cb8Yn-7Ay9A2DguwNkaI3caMqXRMhu4o"}}
+
+2015-09-28 11:52:29 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=edde7TvDw22egm9Kf74nq4e-cYJYSUp-XvXz3R83E_jkwciKyPseVoT1eNgx55WwGpc5HrIof5CfohtikOZlmvmhzraWwH2DYaVTIpHhyZ4
+
+2015-09-28 11:52:29 content :
+------------
+Array:
+errcode : 0 ;
+errmsg : ok ;
+
+2015-09-28 11:52:29 step5 :
+------------
+String:
+
+
+2015-09-28 11:53:34 refresh :
+------------
+Array:
+uid : 2 ;
+nickname : 现在 ;
+avatar : http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg ;
+
+2015-09-28 11:54:00 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443412440 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443412440 ;
+msgtype : text ;
+content : 排行 ;
+msgid : 6199409224656980688 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:54:01 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-28 11:54:01 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-28 11:54:11 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443412451 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443412451 ;
+msgtype : text ;
+content : 排行榜 ;
+msgid : 6199409271901620949 ;
+redirection :  ;
+source :  ;
+
+2015-09-28 11:54:11 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-28 11:54:11 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-28 11:54:14 refresh :
+------------
+Array:
+uid : 2 ;
+nickname : 现在 ;
+avatar : http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg ;
+
+2015-09-28 11:54:14 refresh :
+------------
+Array:
+uid : 2 ;
+nickname : 现在 ;
+avatar : http://wx.nx456.cn/attachment/images/global/avatars/avatar_2.jpg ;
+

@@ -1,0 +1,17 @@
+{template 'common/header'}
+{template 'plateform/nav'}
+<ul class="nav nav-tabs">
+	<li {if $op == 'account'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'account'));}">配送员账户</a></li>
+	<li {if $op == 'post'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'post'));}">添加配送员</a></li>
+	<li {if $op == 'list'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'list'));}">平台配送员</a></li>
+	<li {if $op == 'inout'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'inout'));}">收支明细</a></li>
+	<li {if $op == 'getcashlog'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'getcashlog'));}">提现记录</a></li>
+</ul>
+<div class="alert alert-danger">
+	<i class="fa fa-info-circle"></i> 自2016-5-22起, 添加平台配送员或店内配送员, 都需要先注册一个配送员账号, 然后给新注册的配送员分配"平台"或"店内"权限
+	<br>
+	<i class="fa fa-info-circle"></i> 拥有平台配送权限的配送员, 在"抢单---配送---完成"后, 都会获取相应的配送费, 并且可申请提现.
+</div>
+
+{template 'common'}
+{template 'common/footer'}

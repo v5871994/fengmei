@@ -1,0 +1,210 @@
+2015-09-30 11:58:12 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443585492 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443585492 ;
+msgtype : text ;
+content : 股票 ;
+msgid : 6200152477337539487 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 11:58:12 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 55 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 11:58:12 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-30 12:00:38 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443585638 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443585638 ;
+msgtype : text ;
+content : 梦想 ;
+msgid : 6200153104402764790 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 12:00:38 params :
+------------
+Array:
+message : Array ;
+module : jdg_dream ;
+rule : 56 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 12:00:38 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-30 12:54:06 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443588846 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443588846 ;
+msgtype : text ;
+content : 考试 ;
+msgid : 6200166882657852467 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 12:54:06 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 57 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 12:54:06 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-30 12:56:34 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443588994 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443588994 ;
+msgtype : text ;
+content : 试卷 ;
+msgid : 6200167518313012329 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 12:56:34 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 58 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 12:56:34 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-30 13:02:56 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443589376 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443589376 ;
+msgtype : text ;
+content : 微医疗 ;
+msgid : 6200169158990519555 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 13:02:56 params :
+------------
+Array:
+message : Array ;
+module : bm_hospital ;
+rule : 61 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 13:02:56 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-30 13:06:01 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443589561 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443589561 ;
+msgtype : text ;
+content : 生活 ;
+msgid : 6200169953559469372 ;
+redirection :  ;
+source :  ;
+
+2015-09-30 13:06:01 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 62 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-30 13:06:01 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

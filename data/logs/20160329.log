@@ -1,0 +1,184 @@
+2016-03-29 20:20:51 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254074 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254074 ;
+msgtype : event ;
+eventkey : http://wap.koudaitong.com/v2/feature/61eyw9yn ;
+menuid : 208916756 ;
+
+2016-03-29 20:20:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:20:51 response :
+------------
+
+2016-03-29 20:21:11 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254094 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254094 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=fensi ;
+menuid : 208916756 ;
+
+2016-03-29 20:21:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:21:11 response :
+------------
+
+2016-03-29 20:21:22 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254104 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254104 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=index_info&id=2 ;
+menuid : 208916756 ;
+
+2016-03-29 20:21:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:21:22 response :
+------------
+
+2016-03-29 20:21:50 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254133 ;
+type : event ;
+event : CLICK ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254133 ;
+msgtype : event ;
+eventkey : erweima ;
+
+2016-03-29 20:21:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:21:50 response :
+------------
+
+2016-03-29 20:22:00 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254143 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254143 ;
+msgtype : event ;
+eventkey : http://wap.koudaitong.com/v2/feature/61eyw9yn ;
+menuid : 208916756 ;
+
+2016-03-29 20:22:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:22:00 response :
+------------
+
+2016-03-29 20:22:13 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254155 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254155 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=fensi ;
+menuid : 208916756 ;
+
+2016-03-29 20:22:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-29 20:22:13 response :
+------------
+
+2016-03-29 20:23:23 trace :
+------------
+Array:
+from : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+to : gh_2c27a8e247f9 ;
+time : 1459254226 ;
+type : text ;
+event :  ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+createtime : 1459254226 ;
+msgtype : text ;
+content : 冰桶 ;
+msgid : 6267449177622603227 ;
+redirection :  ;
+source :  ;
+
+2016-03-29 20:23:23 params :
+------------
+Array:
+message : Array ;
+module : meepo_qmbttz ;
+rule : 163 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-29 20:23:23 response :
+------------
+Array:
+FromUserName : gh_2c27a8e247f9 ;
+ToUserName : ov-0juBVgHLxmLeY_Uoa6_5j8IEc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

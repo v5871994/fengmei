@@ -1,0 +1,46 @@
+{template 'common/header'}
+{template 'plateform/nav'}
+<ul class="nav nav-tabs">
+<li><a href="php echo $this->createWebUrl('ptfgaver')">供应商列表</a></li></ul>
+
+<div>
+	<div class="panel panel-default">
+		<div class="panel-body table-responsive">
+			<table class="table table-hover">
+				<thead class="navbar-inner">
+					<tr >
+						<th width="100">序号</th>
+						<th style="width:200px; text-align:left;">供应商名字</th>
+						<th style="width:200px; text-align:left;">法人姓名</th>
+						<th style="width:200px; text-align:left;">身份证</th>
+						<th style="width:200px; text-align:left;">电话</th>
+						<th style="width:200px; text-align:left;">住址</th>
+						<th style="width:200px; text-align:left;">注册时间</th>
+						<th style="width:200px; text-align:right;">操作</th>
+					</tr>
+				</thead>
+				<tbody>
+					{loop $gaver $item}
+					<tr>
+						<td>{$item['id']}</td>
+						<td>{$item['gavername']}</td>
+						<td>{$item['name']}</td>
+						<td>{$item['iden']}</td>
+						<td>{$item['mobile']}</td>
+						<td>{$item['address']}</td>
+						<td>{php echo date("Y-m-d H:i:s",$item['time']);}</td>
+						<td style="text-align:right;">
+							<a href="{php echo $this->createWebUrl('ptfmember', array('op' => 'add_level','id'=>$item['id']));}" class="btn btn-default btn-sm" title="编辑" data-toggle="tooltip" data-placement="top" ><i class="fa fa-edit"> </i></a>
+							<a href="{php echo $this->createWebUrl('ptfmember', array('op' => 'del_level','id'=>$item['id']));}" class="btn btn-default btn-sm" title="删除" data-toggle="tooltip" data-placement="top" onclick="if(!confirm('确定删除吗?')) return false;"><i class="fa fa-times"> </i></a>
+						</td>
+					</tr>
+					{/loop}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+
+
+{template 'common'}
+{template 'common/footer'}

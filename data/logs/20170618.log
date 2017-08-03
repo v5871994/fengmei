@@ -1,0 +1,100 @@
+2017-06-18 15:43:07 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497771786 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497771786 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601100941 ;
+
+2017-06-18 15:43:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-18 15:43:07 response :
+------------
+
+2017-06-18 15:43:29 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497771808 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497771808 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=853 ;
+menuid : 601100941 ;
+
+2017-06-18 15:43:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-18 15:43:29 response :
+------------
+
+2017-06-18 19:30:29 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497785420 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497785420 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601100941 ;
+
+2017-06-18 19:30:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-18 19:30:29 response :
+------------
+
+2017-06-18 19:30:30 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497785420 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497785420 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601100941 ;
+
+2017-06-18 19:30:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-18 19:30:30 response :
+------------
+

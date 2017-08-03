@@ -1,0 +1,54 @@
+{template 'common/header'}
+{template 'plateform/nav'}
+<ul class="nav nav-tabs">
+	<li {if $op == 'account'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'account'));}">配送员账户</a></li>
+	<li {if $op == 'post'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'post'));}">添加配送员</a></li>
+	<li {if $op == 'list'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'list'));}">平台配送员</a></li>
+	<li {if $op == 'inout'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'inout'));}">收支明细</a></li>
+	<li {if $op == 'getcashlog'}class="active"{/if}><a href="{php echo $this->createWebUrl('ptfdeliveryer', array('op' => 'getcashlog'));}">提现记录</a></li>
+</ul>
+
+<div class="main">
+	<div class="panel panel-info">
+		<div class="panel-heading">筛选</div>
+		<div class="panel-body">
+			<form action="./index.php" method="get" class="form-horizontal" role="form">
+				<input type="hidden" name="c" value="site">
+				<input type="hidden" name="a" value="entry">
+				<input type="hidden" name="m" value="we7_wmall">
+				<input type="hidden" name="do" value="order"/>
+				<input type="hidden" name="op" value="list"/>
+				<input type="hidden" name="status" value="{$_GPC['status']}"/>
+				<input type="hidden" name="is_pay" value="{$_GPC['is_pay']}"/>
+				<div class="form-group">
+					<label class="col-xs-12 col-sm-3 col-md-1 control-label">支付状态</label>
+					<div class="col-sm-9 col-xs-9 col-md-9">
+						<div class="btn-group">
+							<a href="{php echo filter_url('is_pay:-1');}" class="btn {if $is_pay == -1}btn-primary{else}btn-default{/if}">不限</a>
+							<a href="{php echo filter_url('is_pay:0');}" class="btn {if $is_pay == 0}btn-primary{else}btn-default{/if}">未支付</a>
+							<a href="{php echo filter_url('is_pay:1');}" class="btn {if $is_pay == 1}btn-primary{else}btn-default{/if}">已支付</a>
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="col-xs-12 col-sm-3 col-md-1 control-label">用户信息</label>
+					<div class="col-sm-9 col-xs-9 col-md-9">
+						<input class="form-control" name="keyword" placeholder="输入用户名或手机号" type="text" value="{$_GPC['keyword']}">
+					</div>
+				</div>
+				<div class="form-group clearfix">
+					<label class="col-xs-12 col-sm-3 col-md-1 control-label">下单时间</label>
+					<div class="col-sm-7 col-lg-8 col-md-8 col-xs-12">
+						{php echo tpl_form_field_daterange('addtime', array('start' => date('Y-m-d', $starttime), 'end' => date('Y-m-d', $endtime)));}
+					</div>
+					<div class="col-xs-12 col-sm-2 col-md-1 col-lg-1">
+						<button class="btn btn-default"><i class="fa fa-search"></i> 搜索</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+{template 'common'}
+{template 'common/footer'}

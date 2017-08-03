@@ -1,0 +1,407 @@
+2016-02-27 09:26:40 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456536469 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456536469 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/ ;
+menuid : 401409459 ;
+
+2016-02-27 09:26:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 09:26:40 response :
+------------
+
+2016-02-27 14:58:17 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556367 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556367 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1896483 ;
+
+2016-02-27 14:58:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:17 response :
+------------
+
+2016-02-27 14:58:26 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556375 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556375 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1896483 ;
+
+2016-02-27 14:58:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:26 response :
+------------
+
+2016-02-27 14:58:26 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556375 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556375 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 14:58:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:26 response :
+------------
+
+2016-02-27 14:58:31 trace :
+------------
+Array:
+from : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+to : gh_cf305f6ee642 ;
+time : 1456556381 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfcbkmL1qqIXGE2sD5lX_Is ;
+createtime : 1456556381 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 14:58:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:31 response :
+------------
+
+2016-02-27 14:58:36 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556386 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556386 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 14:58:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:36 response :
+------------
+
+2016-02-27 14:58:36 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556386 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556386 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1896483 ;
+
+2016-02-27 14:58:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:36 response :
+------------
+
+2016-02-27 14:58:50 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556400 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556400 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1896483 ;
+
+2016-02-27 14:58:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:50 response :
+------------
+
+2016-02-27 14:58:50 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556400 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556400 ;
+msgtype : event ;
+chosenbeacon :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 14:58:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:58:50 response :
+------------
+
+2016-02-27 14:59:39 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456556449 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456556449 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 14:59:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:59:39 response :
+------------
+
+2016-02-27 14:59:41 trace :
+------------
+Array:
+from : oTkNdwTue0MTWace2MfNuW705pzQ ;
+to : gh_cf305f6ee642 ;
+time : 1456556451 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwTue0MTWace2MfNuW705pzQ ;
+createtime : 1456556451 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1896483 ;
+
+2016-02-27 14:59:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 14:59:41 response :
+------------
+
+2016-02-27 15:12:04 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456557194 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456557194 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 15:12:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 15:12:04 response :
+------------
+
+2016-02-27 17:07:37 trace :
+------------
+Array:
+from : ov-0juDzxEDLUre9z4bwasbTfd1w ;
+to : gh_2c27a8e247f9 ;
+time : 1456564127 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juDzxEDLUre9z4bwasbTfd1w ;
+createtime : 1456564127 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=fensi ;
+menuid : 208916756 ;
+
+2016-02-27 17:07:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 17:07:37 response :
+------------
+
+2016-02-27 17:07:43 trace :
+------------
+Array:
+from : ov-0juDzxEDLUre9z4bwasbTfd1w ;
+to : gh_2c27a8e247f9 ;
+time : 1456564133 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juDzxEDLUre9z4bwasbTfd1w ;
+createtime : 1456564133 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=index ;
+menuid : 208916756 ;
+
+2016-02-27 17:07:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 17:07:43 response :
+------------
+
+2016-02-27 20:42:34 trace :
+------------
+Array:
+from : oTkNdwaCwTHBNVNeTJog9lZ51OrY ;
+to : gh_cf305f6ee642 ;
+time : 1456577024 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwaCwTHBNVNeTJog9lZ51OrY ;
+createtime : 1456577024 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 20:42:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 20:42:34 response :
+------------
+
+2016-02-27 20:42:38 trace :
+------------
+Array:
+from : oTkNdwaCwTHBNVNeTJog9lZ51OrY ;
+to : gh_cf305f6ee642 ;
+time : 1456577028 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwaCwTHBNVNeTJog9lZ51OrY ;
+createtime : 1456577028 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-02-27 20:42:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-27 20:42:38 response :
+------------
+

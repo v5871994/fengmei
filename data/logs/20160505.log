@@ -1,0 +1,305 @@
+2016-05-05 14:01:43 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462428103 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462428103 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 14:01:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-05-05 14:01:43 response :
+------------
+
+2016-05-05 16:24:15 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436655 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436655 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-05-05 16:24:15 response :
+------------
+
+2016-05-05 16:24:18 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436657 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436657 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-05-05 16:24:18 response :
+------------
+
+2016-05-05 16:24:18 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436658 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436658 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-05-05 16:24:18 response :
+------------
+
+2016-05-05 16:24:24 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436663 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436663 ;
+msgtype : text ;
+content : d ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-05-05 16:24:24 response :
+------------
+
+2016-05-05 16:24:27 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436666 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436666 ;
+msgtype : text ;
+content : 在 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 167 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-05-05 16:24:27 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : text ;
+Content : 在的/::X ;
+
+2016-05-05 16:24:35 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436674 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436674 ;
+msgtype : text ;
+content : 在 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 167 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-05-05 16:24:35 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : text ;
+Content : ffffff ;
+
+2016-05-05 16:24:36 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436675 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436675 ;
+msgtype : text ;
+content : 在 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 167 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-05-05 16:24:36 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : text ;
+Content : ffffff ;
+
+2016-05-05 16:24:46 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436685 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436685 ;
+msgtype : text ;
+content : 在 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:24:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 167 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-05-05 16:24:46 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : text ;
+Content : 在的/::X ;
+
+2016-05-05 16:25:27 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1462436726 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1462436726 ;
+msgtype : text ;
+content : 在 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-05-05 16:25:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 167 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-05-05 16:25:27 response :
+------------
+Array:
+FromUserName : toUser ;
+ToUserName : fromUser ;
+MsgType : text ;
+Content : 在的/::X ;
+

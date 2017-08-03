@@ -1,0 +1,108 @@
+2016-04-13 09:45:57 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1460511948 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1460511948 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-04-13 09:45:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-13 09:45:57 response :
+------------
+
+2016-04-13 09:45:59 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1460511950 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1460511950 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-04-13 09:45:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-13 09:45:59 response :
+------------
+
+2016-04-13 09:46:06 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1460511957 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1460511957 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-04-13 09:46:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-13 09:46:06 response :
+------------
+
+2016-04-13 10:07:30 trace :
+------------
+Array:
+from : fromUser ;
+to : toUser ;
+time : 1460513241 ;
+type : text ;
+event :  ;
+tousername : toUser ;
+fromusername : fromUser ;
+createtime : 1460513241 ;
+msgtype : text ;
+content : 测试内容 ;
+msgid : 1234567890123456 ;
+redirection :  ;
+source :  ;
+
+2016-04-13 10:07:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-13 10:07:30 response :
+------------
+

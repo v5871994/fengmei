@@ -1,0 +1,25 @@
+2016-12-18 18:29:57 trace :
+------------
+Array:
+from : oRPPWvvgNs4JgPJGZfTszYbOqgsI ;
+to : gh_b1f7fee0dba6 ;
+time : 1482056998 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvvgNs4JgPJGZfTszYbOqgsI ;
+createtime : 1482056998 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-18 18:29:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-18 18:29:57 response :
+------------
+

@@ -1,0 +1,41 @@
+<?php
+ $filename = TOP_AUTOLOADER_PATH."/aldy/aliyun-php-sdk-core/Profile/DefaultProfile.php";
+        if(is_file($filename)) {
+            include $filename;
+           
+        }
+	 //此处需要替换成自己的AK信息
+    $accessKeyId = "LTAI0Akzu6ylN0cz";
+    $accessKeySecret = "dJrAkic4MV4WBGY5771PxAnnn5h6ii";
+    //短信API产品名
+    $product = "Dysmsapi";
+    //短信API产品域名
+    $domain = "dysmsapi.aliyuncs.com";
+    //暂时不支持多Region
+    $region = "cn-hangzhou";
+    //初始化访问的acsCleint
+
+    $profile = DefaultProfile::getProfile($region, $accessKeyId, $accessKeySecret);
+    DefaultProfile::addEndpoint("cn-hangzhou", "cn-hangzhou", $product, $domain);
+	print_r($region);
+	exit;
+    $acsClient= new DefaultAcsClient($profile);
+    
+    $request = new Dysmsapi\Request\V20170525\SendSmsRequest;
+    //必填-短信接收号码
+    $request->setPhoneNumbers("13550076092");
+    //必填-短信签名
+    $request->setSignName("丰梅·");
+    //必填-短信模板Code
+    $request->setTemplateCode("SMS_74775008");
+    //选填-假如模板中存在变量需要替换则为必填(JSON格式)
+    $request->setTemplateParam("{\"code\":\"12345\",\"product\":\"阿里大于\"}");
+    //选填-发送短信流水号
+    $request->setOutId("1234");
+    
+    //发起访问请求
+    $acsResponse = $acsClient->getAcsResponse($request);
+	 // echo json_encode(array('status'=>1));
+    
+
+//include $this->template('bindmobile');

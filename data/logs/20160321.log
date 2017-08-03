@@ -1,0 +1,918 @@
+2016-03-21 16:51:12 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458550280 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458550280 ;
+msgtype : event ;
+latitude : 22.812063 ;
+longitude : 114.094376 ;
+precision : 40.000000 ;
+location_x : 22.812063 ;
+location_y : 114.094376 ;
+
+2016-03-21 16:51:12 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:51:12 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:51:17 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458550286 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458550286 ;
+msgtype : event ;
+latitude : 22.811836 ;
+longitude : 114.094070 ;
+precision : 40.000000 ;
+location_x : 22.811836 ;
+location_y : 114.094070 ;
+
+2016-03-21 16:51:17 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:51:17 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:51:19 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458550289 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458550289 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:51:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:51:19 response :
+------------
+
+2016-03-21 16:52:27 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458550356 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458550356 ;
+msgtype : event ;
+latitude : 22.811819 ;
+longitude : 114.094040 ;
+precision : 40.000000 ;
+location_x : 22.811819 ;
+location_y : 114.094040 ;
+
+2016-03-21 16:52:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:52:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:05 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550513 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550513 ;
+msgtype : event ;
+latitude : 29.256777 ;
+longitude : 115.096786 ;
+precision : 30.000000 ;
+location_x : 29.256777 ;
+location_y : 115.096786 ;
+
+2016-03-21 16:55:05 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:05 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:05 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550514 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550514 ;
+msgtype : event ;
+latitude : 29.256763 ;
+longitude : 115.096771 ;
+precision : 65.000000 ;
+location_x : 29.256763 ;
+location_y : 115.096771 ;
+
+2016-03-21 16:55:05 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:05 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:07 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550517 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550517 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:55:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:55:07 response :
+------------
+
+2016-03-21 16:55:09 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550519 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550519 ;
+msgtype : event ;
+latitude : 29.256552 ;
+longitude : 115.096764 ;
+precision : 50.000000 ;
+location_x : 29.256552 ;
+location_y : 115.096764 ;
+
+2016-03-21 16:55:09 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:09 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:15 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550524 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550524 ;
+msgtype : event ;
+latitude : 29.256809 ;
+longitude : 115.097092 ;
+precision : 10.000000 ;
+location_x : 29.256809 ;
+location_y : 115.097092 ;
+
+2016-03-21 16:55:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:22 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550531 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550531 ;
+msgtype : event ;
+latitude : 29.256851 ;
+longitude : 115.096931 ;
+precision : 10.000000 ;
+location_x : 29.256851 ;
+location_y : 115.096931 ;
+
+2016-03-21 16:55:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:38 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550547 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550547 ;
+msgtype : event ;
+latitude : 29.256893 ;
+longitude : 115.096901 ;
+precision : 10.000000 ;
+location_x : 29.256893 ;
+location_y : 115.096901 ;
+
+2016-03-21 16:55:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:43 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550553 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550553 ;
+msgtype : event ;
+latitude : 29.256903 ;
+longitude : 115.096901 ;
+precision : 10.000000 ;
+location_x : 29.256903 ;
+location_y : 115.096901 ;
+
+2016-03-21 16:55:43 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:43 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:50 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550559 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550559 ;
+msgtype : event ;
+latitude : 29.256897 ;
+longitude : 115.096931 ;
+precision : 10.000000 ;
+location_x : 29.256897 ;
+location_y : 115.096931 ;
+
+2016-03-21 16:55:50 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:50 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:55:50 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550559 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550559 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=14&c=entry&do=shoplist&m=amouse_shopping3&wxref=mp.weixin.qq.com#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:55:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:55:50 response :
+------------
+
+2016-03-21 16:55:55 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550565 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550565 ;
+msgtype : event ;
+latitude : 29.256865 ;
+longitude : 115.096916 ;
+precision : 10.000000 ;
+location_x : 29.256865 ;
+location_y : 115.096916 ;
+
+2016-03-21 16:55:55 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:55:55 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:01 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550570 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550570 ;
+msgtype : event ;
+latitude : 29.256840 ;
+longitude : 115.096970 ;
+precision : 10.000000 ;
+location_x : 29.256840 ;
+location_y : 115.096970 ;
+
+2016-03-21 16:56:01 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:01 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:01 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550571 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550571 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401818231&idx=1&sn=91761df4d7dd5c44587d5fa4a0bbd647&scene=0#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:56:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:56:01 response :
+------------
+
+2016-03-21 16:56:06 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550575 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550575 ;
+msgtype : event ;
+latitude : 29.256741 ;
+longitude : 115.097061 ;
+precision : 10.000000 ;
+location_x : 29.256741 ;
+location_y : 115.097061 ;
+
+2016-03-21 16:56:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:11 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550581 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550581 ;
+msgtype : event ;
+latitude : 29.256742 ;
+longitude : 115.097107 ;
+precision : 10.000000 ;
+location_x : 29.256742 ;
+location_y : 115.097107 ;
+
+2016-03-21 16:56:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:17 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550587 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550587 ;
+msgtype : event ;
+latitude : 29.256744 ;
+longitude : 115.097198 ;
+precision : 10.000000 ;
+location_x : 29.256744 ;
+location_y : 115.097198 ;
+
+2016-03-21 16:56:17 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:17 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:22 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550591 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550591 ;
+msgtype : event ;
+latitude : 29.256727 ;
+longitude : 115.097137 ;
+precision : 10.000000 ;
+location_x : 29.256727 ;
+location_y : 115.097137 ;
+
+2016-03-21 16:56:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:27 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550597 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550597 ;
+msgtype : event ;
+latitude : 29.256721 ;
+longitude : 115.097137 ;
+precision : 10.000000 ;
+location_x : 29.256721 ;
+location_y : 115.097137 ;
+
+2016-03-21 16:56:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:30 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550599 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550599 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:56:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:56:30 response :
+------------
+
+2016-03-21 16:56:32 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550602 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550602 ;
+msgtype : event ;
+latitude : 29.256731 ;
+longitude : 115.097084 ;
+precision : 10.000000 ;
+location_x : 29.256731 ;
+location_y : 115.097084 ;
+
+2016-03-21 16:56:32 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:32 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:35 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550604 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550604 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376725&idx=1&sn=d6c25c449d0da256ed9ea240c9f03e23&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-21 16:56:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 16:56:35 response :
+------------
+
+2016-03-21 16:56:37 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550607 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550607 ;
+msgtype : event ;
+latitude : 29.256746 ;
+longitude : 115.097023 ;
+precision : 10.000000 ;
+location_x : 29.256746 ;
+location_y : 115.097023 ;
+
+2016-03-21 16:56:37 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:37 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:45 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550615 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550615 ;
+msgtype : event ;
+latitude : 29.256754 ;
+longitude : 115.097008 ;
+precision : 10.000000 ;
+location_x : 29.256754 ;
+location_y : 115.097008 ;
+
+2016-03-21 16:56:45 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:45 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 16:56:51 trace :
+------------
+Array:
+from : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+to : gh_594b4a77030d ;
+time : 1458550620 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswBD3J4xyJtknvO1T2nqGHJo ;
+createtime : 1458550620 ;
+msgtype : event ;
+latitude : 29.256754 ;
+longitude : 115.097008 ;
+precision : 10.000000 ;
+location_x : 29.256754 ;
+location_y : 115.097008 ;
+
+2016-03-21 16:56:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 16:56:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 18:42:07 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458556936 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458556936 ;
+msgtype : event ;
+latitude : 22.811857 ;
+longitude : 114.093979 ;
+precision : 40.000000 ;
+location_x : 22.811857 ;
+location_y : 114.093979 ;
+
+2016-03-21 18:42:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 18:42:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-21 20:23:34 trace :
+------------
+Array:
+from : oEaTYt_hOYudyuVI4FDKpVWDrZi8 ;
+to : gh_8089b87c1459 ;
+time : 1458563023 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8089b87c1459 ;
+fromusername : oEaTYt_hOYudyuVI4FDKpVWDrZi8 ;
+createtime : 1458563023 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-21 20:23:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-21 20:23:34 response :
+------------
+
+2016-03-21 20:33:44 trace :
+------------
+Array:
+from : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+to : gh_594b4a77030d ;
+time : 1458563634 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswEf0vZQ8GMDV4_jQi2zbPtI ;
+createtime : 1458563634 ;
+msgtype : event ;
+latitude : 22.811871 ;
+longitude : 114.094048 ;
+precision : 40.000000 ;
+location_x : 22.811871 ;
+location_y : 114.094048 ;
+
+2016-03-21 20:33:44 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-21 20:33:44 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

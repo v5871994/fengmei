@@ -1,0 +1,32 @@
+2015-10-18 01:40:59 trace :
+------------
+Array:
+from : ohwsCt1fXKezoc7Bla3_mIBs38rE ;
+to : gh_3d8df4f58672 ;
+time : 1445103659 ;
+type : event ;
+event : subscribe ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt1fXKezoc7Bla3_mIBs38rE ;
+createtime : 1445103659 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-10-18 01:40:59 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-18 01:40:59 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt1fXKezoc7Bla3_mIBs38rE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

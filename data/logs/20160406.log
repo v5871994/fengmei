@@ -1,0 +1,25 @@
+2016-04-06 20:16:30 trace :
+------------
+Array:
+from : oEaTYtw5T_McyF7MS_Yz08-pN-Tg ;
+to : gh_8089b87c1459 ;
+time : 1459944989 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8089b87c1459 ;
+fromusername : oEaTYtw5T_McyF7MS_Yz08-pN-Tg ;
+createtime : 1459944989 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=41&c=entry&eid=157 ;
+menuid : 401801640 ;
+
+2016-04-06 20:16:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-06 20:16:30 response :
+------------
+

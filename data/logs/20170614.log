@@ -1,0 +1,1145 @@
+2017-06-14 11:58:47 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497412726 ;
+type : event ;
+event : subscribe ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497412726 ;
+msgtype : event ;
+eventkey :  ;
+
+2017-06-14 11:58:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 11:58:47 response :
+------------
+
+2017-06-14 12:09:51 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497413387 ;
+type : text ;
+event :  ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497413387 ;
+msgtype : text ;
+content : 【收到不支持的消息类型，暂无法显示】 ;
+msgid : 6431341526358640808 ;
+redirection :  ;
+source :  ;
+
+2017-06-14 12:09:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 12:09:51 response :
+------------
+
+2017-06-14 15:44:34 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497426274 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497426274 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 15:44:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 15:44:34 response :
+------------
+
+2017-06-14 15:49:42 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426582 ;
+type : event ;
+event : subscribe ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426582 ;
+msgtype : event ;
+eventkey :  ;
+
+2017-06-14 15:49:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 15:49:42 response :
+------------
+
+2017-06-14 15:49:46 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426585 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426585 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 15:49:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 15:49:46 response :
+------------
+
+2017-06-14 15:50:13 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426612 ;
+type : voice ;
+event :  ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426612 ;
+msgtype : voice ;
+mediaid : a9_tS9Oj0Wn0VrvZt7qGoDnUoOWbMckTW0pFvyXtMAVuCAQ0nssG7cJ6L7yWiF-U ;
+format : amr ;
+msgid : 6431398327301135097 ;
+recognition :  ;
+media : a9_tS9Oj0Wn0VrvZt7qGoDnUoOWbMckTW0pFvyXtMAVuCAQ0nssG7cJ6L7yWiF-U ;
+
+2017-06-14 15:50:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 15:50:13 response :
+------------
+
+2017-06-14 15:51:04 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426660 ;
+type : text ;
+event :  ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426660 ;
+msgtype : text ;
+content : 你好恶心 ;
+msgid : 6431398533459565316 ;
+redirection :  ;
+source :  ;
+
+2017-06-14 15:51:04 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-06-14 15:51:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-14 15:51:19 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426675 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426675 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 15:51:19 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-06-14 15:51:19 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-14 15:55:05 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497426904 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497426904 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 15:55:05 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2017-06-14 15:55:05 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-14 16:13:45 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497428025 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497428025 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:13:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:13:45 response :
+------------
+
+2017-06-14 16:13:54 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497428028 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497428028 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:13:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:13:54 response :
+------------
+
+2017-06-14 16:35:50 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429343 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429343 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:35:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:35:50 response :
+------------
+
+2017-06-14 16:35:53 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429343 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429343 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:35:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:35:53 response :
+------------
+
+2017-06-14 16:36:06 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429365 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429365 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:36:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:36:06 response :
+------------
+
+2017-06-14 16:36:18 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429377 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429377 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:36:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:36:18 response :
+------------
+
+2017-06-14 16:37:31 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429447 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429447 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:37:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:37:31 response :
+------------
+
+2017-06-14 16:38:53 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429532 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429532 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:38:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:38:53 response :
+------------
+
+2017-06-14 16:39:13 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429552 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429552 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:39:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:39:13 response :
+------------
+
+2017-06-14 16:42:50 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429766 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429766 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:42:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:42:50 response :
+------------
+
+2017-06-14 16:43:47 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497429826 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497429826 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:43:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:43:47 response :
+------------
+
+2017-06-14 16:47:29 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497430045 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497430045 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:47:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:47:29 response :
+------------
+
+2017-06-14 16:50:35 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497430234 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497430234 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:50:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:50:35 response :
+------------
+
+2017-06-14 16:51:05 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497430261 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497430261 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:51:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:51:05 response :
+------------
+
+2017-06-14 16:54:04 trace :
+------------
+Array:
+from : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+to : gh_e86b5de80d72 ;
+time : 1497430444 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxO72K6pRqDCcbxkCc9wQCbQ ;
+createtime : 1497430444 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 16:54:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 16:54:04 response :
+------------
+
+2017-06-14 17:01:47 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497430904 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497430904 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:01:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:01:47 response :
+------------
+
+2017-06-14 17:02:26 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497430945 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497430945 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:02:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:02:26 response :
+------------
+
+2017-06-14 17:03:29 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431005 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431005 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:03:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:03:29 response :
+------------
+
+2017-06-14 17:03:48 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431027 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431027 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:03:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:03:48 response :
+------------
+
+2017-06-14 17:04:14 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431051 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431051 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:04:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:04:14 response :
+------------
+
+2017-06-14 17:05:31 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431130 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431130 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:05:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:05:31 response :
+------------
+
+2017-06-14 17:05:37 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431136 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431136 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:05:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:05:37 response :
+------------
+
+2017-06-14 17:14:02 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431641 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431641 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:14:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:14:02 response :
+------------
+
+2017-06-14 17:14:22 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431659 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431659 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:14:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:14:22 response :
+------------
+
+2017-06-14 17:14:55 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431692 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431692 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:14:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:14:55 response :
+------------
+
+2017-06-14 17:17:48 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431867 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431867 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:17:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:17:48 response :
+------------
+
+2017-06-14 17:18:39 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431918 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431918 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:18:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:18:39 response :
+------------
+
+2017-06-14 17:19:15 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431954 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431954 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:19:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:19:15 response :
+------------
+
+2017-06-14 17:19:29 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497431969 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497431969 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:19:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:19:29 response :
+------------
+
+2017-06-14 17:20:37 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497432036 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497432036 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:20:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:20:37 response :
+------------
+
+2017-06-14 17:32:06 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497432725 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497432725 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:32:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:32:06 response :
+------------
+
+2017-06-14 17:36:04 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497432963 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497432963 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:36:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:36:04 response :
+------------
+
+2017-06-14 17:37:03 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497433022 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497433022 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 17:37:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 17:37:03 response :
+------------
+
+2017-06-14 18:15:06 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497435305 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497435305 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 18:15:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 18:15:06 response :
+------------
+
+2017-06-14 19:33:00 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497439979 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497439979 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 19:33:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 19:33:00 response :
+------------
+
+2017-06-14 19:33:21 trace :
+------------
+Array:
+from : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+to : gh_e86b5de80d72 ;
+time : 1497440001 ;
+type : event ;
+event : VIEW ;
+tousername : gh_e86b5de80d72 ;
+fromusername : oKmKPxKBnGN-iFbQdoJbzAjbZ4Fc ;
+createtime : 1497440001 ;
+msgtype : event ;
+eventkey : http://www.richmei.com/app/index.php?i=66&c=entry&eid=851 ;
+menuid : 601053734 ;
+
+2017-06-14 19:33:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2017-06-14 19:33:21 response :
+------------
+

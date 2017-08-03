@@ -1,0 +1,238 @@
+2016-03-08 12:57:51 trace :
+------------
+Array:
+from : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+to : gh_594b4a77030d ;
+time : 1457413085 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+createtime : 1457413085 ;
+msgtype : event ;
+latitude : 22.838894 ;
+longitude : 113.704750 ;
+precision : 150.000000 ;
+location_x : 22.838894 ;
+location_y : 113.704750 ;
+
+2016-03-08 12:57:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-08 12:57:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-08 12:58:53 trace :
+------------
+Array:
+from : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+to : gh_594b4a77030d ;
+time : 1457413147 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+createtime : 1457413147 ;
+msgtype : event ;
+latitude : 22.838894 ;
+longitude : 113.704750 ;
+precision : 150.000000 ;
+location_x : 22.838894 ;
+location_y : 113.704750 ;
+
+2016-03-08 12:58:53 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-08 12:58:53 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-08 12:58:58 trace :
+------------
+Array:
+from : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+to : gh_594b4a77030d ;
+time : 1457413152 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+createtime : 1457413152 ;
+msgtype : event ;
+latitude : 22.838894 ;
+longitude : 113.704750 ;
+precision : 150.000000 ;
+location_x : 22.838894 ;
+location_y : 113.704750 ;
+
+2016-03-08 12:58:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-08 12:58:58 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-08 12:59:04 trace :
+------------
+Array:
+from : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+to : gh_594b4a77030d ;
+time : 1457413158 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+createtime : 1457413158 ;
+msgtype : event ;
+latitude : 22.838940 ;
+longitude : 113.704750 ;
+precision : 150.000000 ;
+location_x : 22.838940 ;
+location_y : 113.704750 ;
+
+2016-03-08 12:59:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-08 12:59:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-08 12:59:45 trace :
+------------
+Array:
+from : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+to : gh_594b4a77030d ;
+time : 1457413199 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswOgqACYZMQBCWi8ocn1Bcbw ;
+createtime : 1457413199 ;
+msgtype : event ;
+latitude : 22.838940 ;
+longitude : 113.704750 ;
+precision : 150.000000 ;
+location_x : 22.838940 ;
+location_y : 113.704750 ;
+
+2016-03-08 12:59:45 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-08 12:59:45 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-08 21:04:37 trace :
+------------
+Array:
+from : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+to : gh_4be38e8ae9cd ;
+time : 1457442292 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+createtime : 1457442292 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 636085160 ;
+
+2016-03-08 21:04:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-08 21:04:37 response :
+------------
+
+2016-03-08 21:07:12 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1457442448 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1457442448 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-08 21:07:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-08 21:07:12 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-08 21:07:18 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1457442454 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1457442454 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 636085160 ;
+
+2016-03-08 21:07:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-08 21:07:18 response :
+------------
+

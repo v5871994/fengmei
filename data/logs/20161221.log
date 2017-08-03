@@ -1,0 +1,52 @@
+2016-12-21 18:51:24 trace :
+------------
+Array:
+from : oRPPWvgW3u943_REh6w3ZKElDo7k ;
+to : gh_b1f7fee0dba6 ;
+time : 1482317483 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvgW3u943_REh6w3ZKElDo7k ;
+createtime : 1482317483 ;
+msgtype : text ;
+content : 呵呵 ;
+msgid : 6366505112208221537 ;
+redirection :  ;
+source :  ;
+
+2016-12-21 18:51:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-21 18:51:24 response :
+------------
+
+2016-12-21 22:15:52 trace :
+------------
+Array:
+from : oRPPWvgkgYV_-lgxNBnMnpMH-9Q8 ;
+to : gh_b1f7fee0dba6 ;
+time : 1482329752 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvgkgYV_-lgxNBnMnpMH-9Q8 ;
+createtime : 1482329752 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-21 22:15:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-21 22:15:52 response :
+------------
+

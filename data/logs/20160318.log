@@ -1,0 +1,25 @@
+2016-03-18 08:40:49 trace :
+------------
+Array:
+from : ov-0juOiDpmhyfuGRkF3Iip11KnY ;
+to : gh_2c27a8e247f9 ;
+time : 1458261652 ;
+type : event ;
+event : VIEW ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juOiDpmhyfuGRkF3Iip11KnY ;
+createtime : 1458261652 ;
+msgtype : event ;
+eventkey : http://wsbf.915911.com/index.php?g=App&m=Index&a=fensi ;
+menuid : 208916756 ;
+
+2016-03-18 08:40:49 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-18 08:40:49 response :
+------------
+

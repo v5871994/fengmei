@@ -1,0 +1,3568 @@
+2016-02-09 00:04:00 trace :
+------------
+Array:
+from : o0NFAt0NUzNwcaPUOB_PyjYiwE2U ;
+to : gh_ba80c06f7022 ;
+time : 1454947474 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0NUzNwcaPUOB_PyjYiwE2U ;
+createtime : 1454947474 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 00:04:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 00:04:00 response :
+------------
+
+2016-02-09 00:04:06 trace :
+------------
+Array:
+from : o0NFAt0NUzNwcaPUOB_PyjYiwE2U ;
+to : gh_ba80c06f7022 ;
+time : 1454947481 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0NUzNwcaPUOB_PyjYiwE2U ;
+createtime : 1454947481 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 00:04:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 00:04:06 response :
+------------
+
+2016-02-09 01:19:29 trace :
+------------
+Array:
+from : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+to : gh_ba80c06f7022 ;
+time : 1454952004 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+createtime : 1454952004 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 01:19:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 01:19:29 response :
+------------
+
+2016-02-09 01:19:40 trace :
+------------
+Array:
+from : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+to : gh_ba80c06f7022 ;
+time : 1454952014 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+createtime : 1454952014 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6248971317792224002 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 01:19:40 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 01:19:40 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 08:08:02 trace :
+------------
+Array:
+from : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+to : gh_ba80c06f7022 ;
+time : 1454976517 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+createtime : 1454976517 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:08:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:08:02 response :
+------------
+
+2016-02-09 08:08:04 trace :
+------------
+Array:
+from : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+to : gh_ba80c06f7022 ;
+time : 1454976520 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+createtime : 1454976520 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:08:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:08:04 response :
+------------
+
+2016-02-09 08:08:36 trace :
+------------
+Array:
+from : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+to : gh_ba80c06f7022 ;
+time : 1454976551 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+createtime : 1454976551 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:08:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:08:36 response :
+------------
+
+2016-02-09 08:11:12 trace :
+------------
+Array:
+from : o0NFAt55Wd-3S3Zo4GgZVJnSPrEw ;
+to : gh_ba80c06f7022 ;
+time : 1454976707 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt55Wd-3S3Zo4GgZVJnSPrEw ;
+createtime : 1454976707 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:11:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:11:12 response :
+------------
+
+2016-02-09 08:13:57 trace :
+------------
+Array:
+from : o0NFAt1oHGeIRRw998z-vNVzUFeA ;
+to : gh_ba80c06f7022 ;
+time : 1454976872 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1oHGeIRRw998z-vNVzUFeA ;
+createtime : 1454976872 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:13:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:13:57 response :
+------------
+
+2016-02-09 08:14:26 trace :
+------------
+Array:
+from : o0NFAt1oHGeIRRw998z-vNVzUFeA ;
+to : gh_ba80c06f7022 ;
+time : 1454976896 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1oHGeIRRw998z-vNVzUFeA ;
+createtime : 1454976896 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:14:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:14:26 response :
+------------
+
+2016-02-09 08:20:08 trace :
+------------
+Array:
+from : o0NFAt377O4996iVuilRKsUGw6fM ;
+to : gh_ba80c06f7022 ;
+time : 1454977243 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt377O4996iVuilRKsUGw6fM ;
+createtime : 1454977243 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:20:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:20:08 response :
+------------
+
+2016-02-09 08:20:18 trace :
+------------
+Array:
+from : o0NFAt377O4996iVuilRKsUGw6fM ;
+to : gh_ba80c06f7022 ;
+time : 1454977253 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt377O4996iVuilRKsUGw6fM ;
+createtime : 1454977253 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:20:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:20:18 response :
+------------
+
+2016-02-09 08:23:48 trace :
+------------
+Array:
+from : o0NFAtwJUwhPxYhTQeaEot1hqnbk ;
+to : gh_ba80c06f7022 ;
+time : 1454977463 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtwJUwhPxYhTQeaEot1hqnbk ;
+createtime : 1454977463 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 08:23:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 08:23:48 response :
+------------
+
+2016-02-09 08:55:44 trace :
+------------
+Array:
+from : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+to : gh_ba80c06f7022 ;
+time : 1454979379 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+createtime : 1454979379 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249088849572279995 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 08:55:44 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 08:55:44 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 08:57:35 trace :
+------------
+Array:
+from : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+to : gh_ba80c06f7022 ;
+time : 1454979491 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+createtime : 1454979491 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249089330608617160 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 08:57:35 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 08:57:35 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:00:04 trace :
+------------
+Array:
+from : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+to : gh_ba80c06f7022 ;
+time : 1454979639 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+createtime : 1454979639 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249089966263776992 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:00:04 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:00:04 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:00:30 trace :
+------------
+Array:
+from : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+to : gh_ba80c06f7022 ;
+time : 1454979665 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+createtime : 1454979665 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249090077932926694 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:00:30 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:00:30 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:02:02 trace :
+------------
+Array:
+from : o0NFAt8DYkqdbck54DRso4jqO5QE ;
+to : gh_ba80c06f7022 ;
+time : 1454979757 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8DYkqdbck54DRso4jqO5QE ;
+createtime : 1454979757 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:02:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:02:02 response :
+------------
+
+2016-02-09 09:02:16 trace :
+------------
+Array:
+from : o0NFAt8DYkqdbck54DRso4jqO5QE ;
+to : gh_ba80c06f7022 ;
+time : 1454979771 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8DYkqdbck54DRso4jqO5QE ;
+createtime : 1454979771 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:02:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:02:16 response :
+------------
+
+2016-02-09 09:05:22 trace :
+------------
+Array:
+from : o0NFAtxgLFljKQA5BVhXXH6IEDB0 ;
+to : gh_ba80c06f7022 ;
+time : 1454979957 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtxgLFljKQA5BVhXXH6IEDB0 ;
+createtime : 1454979957 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249091332063377160 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:05:22 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:05:22 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtxgLFljKQA5BVhXXH6IEDB0 ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:07:57 trace :
+------------
+Array:
+from : o0NFAtwj2eRHcoKxNiiEGytPzCWw ;
+to : gh_ba80c06f7022 ;
+time : 1454980112 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtwj2eRHcoKxNiiEGytPzCWw ;
+createtime : 1454980112 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249091997783308078 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:07:57 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:07:57 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtwj2eRHcoKxNiiEGytPzCWw ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:08:09 trace :
+------------
+Array:
+from : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+to : gh_ba80c06f7022 ;
+time : 1454980124 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+createtime : 1454980124 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 09:08:09 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:08:09 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:08:21 trace :
+------------
+Array:
+from : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+to : gh_ba80c06f7022 ;
+time : 1454980136 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+createtime : 1454980136 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:08:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:08:21 response :
+------------
+
+2016-02-09 09:08:23 trace :
+------------
+Array:
+from : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+to : gh_ba80c06f7022 ;
+time : 1454980138 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_h0eQhbXvaJzvkKrDqrItY ;
+createtime : 1454980138 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:08:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:08:23 response :
+------------
+
+2016-02-09 09:16:31 trace :
+------------
+Array:
+from : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+to : gh_ba80c06f7022 ;
+time : 1454980626 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+createtime : 1454980626 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249094205396498313 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:16:31 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:16:31 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:17:40 trace :
+------------
+Array:
+from : o0NFAtzvB54yTC3572gxHQFiIpz4 ;
+to : gh_ba80c06f7022 ;
+time : 1454980695 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzvB54yTC3572gxHQFiIpz4 ;
+createtime : 1454980695 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249094501749241750 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:17:40 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:17:40 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzvB54yTC3572gxHQFiIpz4 ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:17:56 trace :
+------------
+Array:
+from : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+to : gh_ba80c06f7022 ;
+time : 1454980712 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+createtime : 1454980712 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249094574763685784 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:17:56 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:17:56 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:27:32 trace :
+------------
+Array:
+from : o0NFAt_fBAZf5dYuTAOwNN1tqiSc ;
+to : gh_ba80c06f7022 ;
+time : 1454981287 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_fBAZf5dYuTAOwNN1tqiSc ;
+createtime : 1454981287 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 09:27:32 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:27:32 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt_fBAZf5dYuTAOwNN1tqiSc ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:27:40 trace :
+------------
+Array:
+from : o0NFAt_fBAZf5dYuTAOwNN1tqiSc ;
+to : gh_ba80c06f7022 ;
+time : 1454981295 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_fBAZf5dYuTAOwNN1tqiSc ;
+createtime : 1454981295 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:27:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:27:40 response :
+------------
+
+2016-02-09 09:30:14 trace :
+------------
+Array:
+from : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+to : gh_ba80c06f7022 ;
+time : 1454981449 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+createtime : 1454981449 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249097740154583043 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:30:14 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:30:14 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:43:06 trace :
+------------
+Array:
+from : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+to : gh_ba80c06f7022 ;
+time : 1454982221 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+createtime : 1454982221 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 09:43:06 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:43:06 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:43:06 trace :
+------------
+Array:
+from : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+to : gh_ba80c06f7022 ;
+time : 1454982222 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+createtime : 1454982222 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249101060164302984 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:43:06 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:43:06 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:43:15 trace :
+------------
+Array:
+from : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+to : gh_ba80c06f7022 ;
+time : 1454982231 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+createtime : 1454982231 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249101098819008651 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:43:15 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:43:15 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:45:15 trace :
+------------
+Array:
+from : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+to : gh_ba80c06f7022 ;
+time : 1454982351 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+createtime : 1454982351 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:45:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:45:15 response :
+------------
+
+2016-02-09 09:50:04 trace :
+------------
+Array:
+from : o0NFAtyv-9LilFeDo40C59UMEiug ;
+to : gh_ba80c06f7022 ;
+time : 1454982639 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyv-9LilFeDo40C59UMEiug ;
+createtime : 1454982639 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249102851165665526 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:50:04 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:50:04 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtyv-9LilFeDo40C59UMEiug ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:50:21 trace :
+------------
+Array:
+from : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+to : gh_ba80c06f7022 ;
+time : 1454982656 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+createtime : 1454982656 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 09:50:21 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:50:21 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:50:27 trace :
+------------
+Array:
+from : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+to : gh_ba80c06f7022 ;
+time : 1454982662 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+createtime : 1454982662 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249102949949913343 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:50:27 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:50:27 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:51:14 trace :
+------------
+Array:
+from : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+to : gh_ba80c06f7022 ;
+time : 1454982710 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+createtime : 1454982710 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249103156108343559 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:51:14 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:51:14 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAty12FEsM5hJSQzK9lT7Jb8E ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:52:02 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454982757 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454982757 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249103357971806474 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:52:02 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:52:02 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:57:29 trace :
+------------
+Array:
+from : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+to : gh_ba80c06f7022 ;
+time : 1454983084 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+createtime : 1454983084 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249104762426112320 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:57:29 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:57:29 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:58:37 trace :
+------------
+Array:
+from : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+to : gh_ba80c06f7022 ;
+time : 1454983152 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+createtime : 1454983152 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:58:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:58:37 response :
+------------
+
+2016-02-09 09:58:43 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983159 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983159 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:58:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:58:43 response :
+------------
+
+2016-02-09 09:58:56 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983171 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983171 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 09:58:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 09:58:56 response :
+------------
+
+2016-02-09 09:59:24 trace :
+------------
+Array:
+from : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+to : gh_ba80c06f7022 ;
+time : 1454983200 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+createtime : 1454983200 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105260642318688 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:24 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:24 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:26 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983201 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983201 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105264937285985 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:26 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:26 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:33 trace :
+------------
+Array:
+from : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+to : gh_ba80c06f7022 ;
+time : 1454983209 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+createtime : 1454983209 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105299297024356 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:33 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:33 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:34 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983209 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983209 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105299297024357 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:34 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:34 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:44 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983219 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983219 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105342246697323 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:44 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:44 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:49 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983224 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983224 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105363721533804 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:49 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:49 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:53 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983228 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983228 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105380901402992 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:53 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:53 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 09:59:57 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983232 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983232 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105398081272180 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 09:59:57 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 09:59:57 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : text ;
+Content : 活动未开始，请等待...请于2016-02-09 10:00:00参加活动 ;
+
+2016-02-09 10:00:00 trace :
+------------
+Array:
+from : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+to : gh_ba80c06f7022 ;
+time : 1454983236 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+createtime : 1454983236 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105415261141367 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:00:00 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:00:00 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzpeMuIxAH4vLaUJ6yDpd6c ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:00:05 trace :
+------------
+Array:
+from : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+to : gh_ba80c06f7022 ;
+time : 1454983240 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+createtime : 1454983240 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105432441010556 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:00:05 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:00:05 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt6Bd4MTDmGzydmYnySbh30w ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:00:07 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983242 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983242 ;
+msgtype : text ;
+content : 京吧来了 ;
+msgid : 6249105441030945150 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:00:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:00:07 response :
+------------
+
+2016-02-09 10:00:55 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983290 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983290 ;
+msgtype : text ;
+content : 京吧来了 ;
+msgid : 6249105647189375365 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:00:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:00:55 response :
+------------
+
+2016-02-09 10:01:06 trace :
+------------
+Array:
+from : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+to : gh_ba80c06f7022 ;
+time : 1454983301 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+createtime : 1454983301 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105694434015626 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:01:06 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:01:06 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt0XUDUoUpBpbUKvBgaJKt1g ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:01:15 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983310 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983310 ;
+msgtype : text ;
+content : 京吧来了 ;
+msgid : 6249105733088721292 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:01:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:01:15 response :
+------------
+
+2016-02-09 10:01:42 trace :
+------------
+Array:
+from : o0NFAt9BauFJ8lOwmzBuhsAitric ;
+to : gh_ba80c06f7022 ;
+time : 1454983337 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9BauFJ8lOwmzBuhsAitric ;
+createtime : 1454983337 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105849052838294 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:01:42 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:01:42 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9BauFJ8lOwmzBuhsAitric ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:01:43 trace :
+------------
+Array:
+from : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+to : gh_ba80c06f7022 ;
+time : 1454983339 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+createtime : 1454983339 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249105857642772887 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:01:43 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:01:43 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt-Cc74h0So8m1ShGO0GLee4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:02:19 trace :
+------------
+Array:
+from : o0NFAt853Eyqmh2ZKREVJzpcBbgk ;
+to : gh_ba80c06f7022 ;
+time : 1454983374 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt853Eyqmh2ZKREVJzpcBbgk ;
+createtime : 1454983374 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249106007966628255 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:02:19 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:02:19 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt853Eyqmh2ZKREVJzpcBbgk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:02:21 trace :
+------------
+Array:
+from : o0NFAt_-hBjieLWbpls5105Ps4Qs ;
+to : gh_ba80c06f7022 ;
+time : 1454983376 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_-hBjieLWbpls5105Ps4Qs ;
+createtime : 1454983376 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249106016556562848 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:02:21 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:02:21 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt_-hBjieLWbpls5105Ps4Qs ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:03:41 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983456 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983456 ;
+msgtype : text ;
+content : 京吧来了 ;
+msgid : 6249106360153946547 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:03:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:03:41 response :
+------------
+
+2016-02-09 10:04:57 trace :
+------------
+Array:
+from : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+to : gh_ba80c06f7022 ;
+time : 1454983533 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+createtime : 1454983533 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249106690866428353 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:04:57 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:04:57 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:08:07 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983723 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983723 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 10:08:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:08:07 response :
+------------
+
+2016-02-09 10:08:23 trace :
+------------
+Array:
+from : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+to : gh_ba80c06f7022 ;
+time : 1454983738 ;
+type : image ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzndT6D7TqwTo5MkhnxAT4U ;
+createtime : 1454983738 ;
+msgtype : image ;
+picurl : http://mmbiz.qpic.cn/mmbiz/MvnydRXibxib1MPy2hyBVVycp6adLZe1IH5LMrPJo3ovaSFLMIxVgzZKaiavPVcQBPePPibibjsKaIiaSKZbFqmnDLJw/0 ;
+msgid : 6249107571334724097 ;
+mediaid : v99HDGwOxzSmnK3-ZthzE4QtTEtjD-wZ8gQXuVv60pZS3ZmBctmmJ8MaOOcuIU52 ;
+url : http://mmbiz.qpic.cn/mmbiz/MvnydRXibxib1MPy2hyBVVycp6adLZe1IH5LMrPJo3ovaSFLMIxVgzZKaiavPVcQBPePPibibjsKaIiaSKZbFqmnDLJw/0 ;
+
+2016-02-09 10:08:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:08:24 response :
+------------
+
+2016-02-09 10:11:10 trace :
+------------
+Array:
+from : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+to : gh_ba80c06f7022 ;
+time : 1454983905 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+createtime : 1454983905 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 10:11:10 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:11:10 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:11:22 trace :
+------------
+Array:
+from : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+to : gh_ba80c06f7022 ;
+time : 1454983917 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+createtime : 1454983917 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249108340133870121 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:11:22 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:11:22 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:12:32 trace :
+------------
+Array:
+from : o0NFAtz6smNTRiPs_okqLI1yumco ;
+to : gh_ba80c06f7022 ;
+time : 1454983982 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtz6smNTRiPs_okqLI1yumco ;
+createtime : 1454983982 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249108619306744373 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:12:32 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:12:32 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtz6smNTRiPs_okqLI1yumco ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:12:57 trace :
+------------
+Array:
+from : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+to : gh_ba80c06f7022 ;
+time : 1454984012 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+createtime : 1454984012 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249108748155763264 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:12:57 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:12:57 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzqowoMvzb4eDiZt2vEbgeM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:13:41 trace :
+------------
+Array:
+from : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+to : gh_ba80c06f7022 ;
+time : 1454984057 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+createtime : 1454984057 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 10:13:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:13:41 response :
+------------
+
+2016-02-09 10:14:00 trace :
+------------
+Array:
+from : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+to : gh_ba80c06f7022 ;
+time : 1454984076 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt25eOCFS2bcaKqi9Bs7MvcM ;
+createtime : 1454984076 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 10:14:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 10:14:00 response :
+------------
+
+2016-02-09 10:14:43 trace :
+------------
+Array:
+from : o0NFAt10Je5WoxngI0Myv4m7Hs9A ;
+to : gh_ba80c06f7022 ;
+time : 1454984118 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt10Je5WoxngI0Myv4m7Hs9A ;
+createtime : 1454984118 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249109203422296674 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:14:43 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:14:43 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt10Je5WoxngI0Myv4m7Hs9A ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:24:16 trace :
+------------
+Array:
+from : o0NFAt7H37aS9_8Cz8M71wBC6fsc ;
+to : gh_ba80c06f7022 ;
+time : 1454984691 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7H37aS9_8Cz8M71wBC6fsc ;
+createtime : 1454984691 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249111664438557399 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:24:16 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:24:16 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt7H37aS9_8Cz8M71wBC6fsc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:29:52 trace :
+------------
+Array:
+from : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+to : gh_ba80c06f7022 ;
+time : 1454985027 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+createtime : 1454985027 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249113107547568916 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:29:52 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:29:52 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9E_LEoxb-fIX_EFsFa2aFw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:35:52 trace :
+------------
+Array:
+from : o0NFAt1pyXqtCfTm1rTnG8nsnga4 ;
+to : gh_ba80c06f7022 ;
+time : 1454985388 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1pyXqtCfTm1rTnG8nsnga4 ;
+createtime : 1454985388 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249114658030762882 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:35:52 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:35:52 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt1pyXqtCfTm1rTnG8nsnga4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:38:23 trace :
+------------
+Array:
+from : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+to : gh_ba80c06f7022 ;
+time : 1454985538 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+createtime : 1454985538 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249115302275857324 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:38:23 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:38:23 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAty8I16zhsqKmHK1ZAYFpRko ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:40:01 trace :
+------------
+Array:
+from : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+to : gh_ba80c06f7022 ;
+time : 1454985637 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+createtime : 1454985637 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249115727477619660 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:40:01 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:40:01 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt673arSUZpSwhBhJUx_jAuI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 10:59:40 trace :
+------------
+Array:
+from : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+to : gh_ba80c06f7022 ;
+time : 1454986815 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+createtime : 1454986815 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249120786949094671 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 10:59:40 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 10:59:40 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt-PT4gR28DadHmd0byXwWHI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:02:36 trace :
+------------
+Array:
+from : o0NFAt7zIxiae8weX7_hqdmaOJJQ ;
+to : gh_ba80c06f7022 ;
+time : 1454986991 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7zIxiae8weX7_hqdmaOJJQ ;
+createtime : 1454986991 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249121542863338799 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:02:36 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:02:36 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt7zIxiae8weX7_hqdmaOJJQ ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:04:43 trace :
+------------
+Array:
+from : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+to : gh_ba80c06f7022 ;
+time : 1454987113 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+createtime : 1454987113 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249122066849348927 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:04:43 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:04:43 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:05:07 trace :
+------------
+Array:
+from : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+to : gh_ba80c06f7022 ;
+time : 1454987143 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+createtime : 1454987143 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249122195698367819 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:05:07 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:05:07 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt1AbhQ3b60_bYpMVvhZ0J0A ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:11:35 trace :
+------------
+Array:
+from : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+to : gh_ba80c06f7022 ;
+time : 1454987531 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+createtime : 1454987531 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249123862145678807 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:11:35 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:11:35 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtzvQZSMjGnHwmHE5NOuyHkA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:13:51 trace :
+------------
+Array:
+from : o0NFAt8kh27hgxAxd4_l2H03617E ;
+to : gh_ba80c06f7022 ;
+time : 1454987667 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8kh27hgxAxd4_l2H03617E ;
+createtime : 1454987667 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 11:13:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 11:13:51 response :
+------------
+
+2016-02-09 11:22:37 trace :
+------------
+Array:
+from : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+to : gh_ba80c06f7022 ;
+time : 1454988192 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+createtime : 1454988192 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 11:22:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 11:22:37 response :
+------------
+
+2016-02-09 11:22:53 trace :
+------------
+Array:
+from : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+to : gh_ba80c06f7022 ;
+time : 1454988208 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+createtime : 1454988208 ;
+msgtype : text ;
+content : 京巴来啦 ;
+msgid : 6249126769838538347 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:22:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 11:22:53 response :
+------------
+
+2016-02-09 11:23:03 trace :
+------------
+Array:
+from : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+to : gh_ba80c06f7022 ;
+time : 1454988219 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+createtime : 1454988219 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249126817083178608 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 11:23:03 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:23:03 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9FJI2Os5xriyzE3vJNsVDw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 11:34:10 trace :
+------------
+Array:
+from : o0NFAt89sIWj0suf6LSZM8fWQSZo ;
+to : gh_ba80c06f7022 ;
+time : 1454988886 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt89sIWj0suf6LSZM8fWQSZo ;
+createtime : 1454988886 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 11:34:10 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 11:34:10 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt89sIWj0suf6LSZM8fWQSZo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 12:04:39 trace :
+------------
+Array:
+from : o0NFAt6oTebfQ7tvMddtx4pBAL30 ;
+to : gh_ba80c06f7022 ;
+time : 1454990714 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6oTebfQ7tvMddtx4pBAL30 ;
+createtime : 1454990714 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249137533026582869 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 12:04:39 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 12:04:39 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt6oTebfQ7tvMddtx4pBAL30 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 12:11:36 trace :
+------------
+Array:
+from : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+to : gh_ba80c06f7022 ;
+time : 1454991131 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+createtime : 1454991131 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249139324027945400 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 12:11:36 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 12:11:36 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt04445iLOIgSPZtNFnHaoj0 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 12:25:55 trace :
+------------
+Array:
+from : o0NFAt3OQq_l2s3eRBLAH1dj56kU ;
+to : gh_ba80c06f7022 ;
+time : 1454991991 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3OQq_l2s3eRBLAH1dj56kU ;
+createtime : 1454991991 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 12:25:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 12:25:55 response :
+------------
+
+2016-02-09 12:29:00 trace :
+------------
+Array:
+from : o0NFAt3OQq_l2s3eRBLAH1dj56kU ;
+to : gh_ba80c06f7022 ;
+time : 1454992175 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3OQq_l2s3eRBLAH1dj56kU ;
+createtime : 1454992175 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 12:29:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 12:29:00 response :
+------------
+
+2016-02-09 12:58:38 trace :
+------------
+Array:
+from : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+to : gh_ba80c06f7022 ;
+time : 1454993953 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+createtime : 1454993953 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 12:58:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 12:58:38 response :
+------------
+
+2016-02-09 12:59:56 trace :
+------------
+Array:
+from : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+to : gh_ba80c06f7022 ;
+time : 1454994032 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtzplyDYF6G8MbcetgO7s1rQ ;
+createtime : 1454994032 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 12:59:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 12:59:56 response :
+------------
+
+2016-02-09 13:14:19 trace :
+------------
+Array:
+from : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+to : gh_ba80c06f7022 ;
+time : 1454994895 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+createtime : 1454994895 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 13:14:19 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 13:14:19 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 13:14:28 trace :
+------------
+Array:
+from : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+to : gh_ba80c06f7022 ;
+time : 1454994903 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+createtime : 1454994903 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 13:14:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 13:14:28 response :
+------------
+
+2016-02-09 13:14:57 trace :
+------------
+Array:
+from : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+to : gh_ba80c06f7022 ;
+time : 1454994932 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtw2F-0UnJ3mUf_jCSUKcJiA ;
+createtime : 1454994932 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 13:14:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 13:14:57 response :
+------------
+
+2016-02-09 13:35:13 trace :
+------------
+Array:
+from : o0NFAt1H-uNOfP2Ed4zmkqWzMc2I ;
+to : gh_ba80c06f7022 ;
+time : 1454996149 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1H-uNOfP2Ed4zmkqWzMc2I ;
+createtime : 1454996149 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-02-09 13:35:13 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 13:35:13 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt1H-uNOfP2Ed4zmkqWzMc2I ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 13:35:34 trace :
+------------
+Array:
+from : o0NFAt1H-uNOfP2Ed4zmkqWzMc2I ;
+to : gh_ba80c06f7022 ;
+time : 1454996170 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt1H-uNOfP2Ed4zmkqWzMc2I ;
+createtime : 1454996170 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 13:35:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 13:35:34 response :
+------------
+
+2016-02-09 13:40:04 trace :
+------------
+Array:
+from : o0NFAtyv-9LilFeDo40C59UMEiug ;
+to : gh_ba80c06f7022 ;
+time : 1454996439 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAtyv-9LilFeDo40C59UMEiug ;
+createtime : 1454996439 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249162121714353954 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 13:40:04 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 13:40:04 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAtyv-9LilFeDo40C59UMEiug ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 14:14:52 trace :
+------------
+Array:
+from : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+to : gh_ba80c06f7022 ;
+time : 1454998528 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+createtime : 1454998528 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249171093901035940 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 14:14:52 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 14:14:52 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt7n2UUHlBYVX7LPaV7Rd8Rk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 14:16:08 trace :
+------------
+Array:
+from : o0NFAt8kh27hgxAxd4_l2H03617E ;
+to : gh_ba80c06f7022 ;
+time : 1454998603 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8kh27hgxAxd4_l2H03617E ;
+createtime : 1454998603 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 14:16:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 14:16:08 response :
+------------
+
+2016-02-09 14:49:09 trace :
+------------
+Array:
+from : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+to : gh_ba80c06f7022 ;
+time : 1455000585 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+createtime : 1455000585 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 14:49:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 14:49:09 response :
+------------
+
+2016-02-09 14:49:24 trace :
+------------
+Array:
+from : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+to : gh_ba80c06f7022 ;
+time : 1455000599 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+createtime : 1455000599 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 14:49:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 14:49:24 response :
+------------
+
+2016-02-09 14:49:37 trace :
+------------
+Array:
+from : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+to : gh_ba80c06f7022 ;
+time : 1455000613 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4HYliq6uKlaK5bn0zWdAfg ;
+createtime : 1455000613 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 14:49:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 14:49:37 response :
+------------
+
+2016-02-09 16:36:57 trace :
+------------
+Array:
+from : o0NFAt9UPLfTy34Xj95YFCCL-2tQ ;
+to : gh_ba80c06f7022 ;
+time : 1455007052 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9UPLfTy34Xj95YFCCL-2tQ ;
+createtime : 1455007052 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249207704202270207 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 16:36:57 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 16:36:57 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9UPLfTy34Xj95YFCCL-2tQ ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 18:16:46 trace :
+------------
+Array:
+from : o0NFAt3LNQ7wIP4zrMSEnHbVfEZU ;
+to : gh_ba80c06f7022 ;
+time : 1455013042 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt3LNQ7wIP4zrMSEnHbVfEZU ;
+createtime : 1455013042 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 18:16:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 18:16:46 response :
+------------
+
+2016-02-09 19:11:32 trace :
+------------
+Array:
+from : o0NFAt0E8wJvur4tzZa92-eDXTxw ;
+to : gh_ba80c06f7022 ;
+time : 1455016328 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0E8wJvur4tzZa92-eDXTxw ;
+createtime : 1455016328 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 19:11:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 19:11:32 response :
+------------
+
+2016-02-09 19:12:02 trace :
+------------
+Array:
+from : o0NFAt0E8wJvur4tzZa92-eDXTxw ;
+to : gh_ba80c06f7022 ;
+time : 1455016358 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt0E8wJvur4tzZa92-eDXTxw ;
+createtime : 1455016358 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 19:12:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 19:12:02 response :
+------------
+
+2016-02-09 19:41:41 trace :
+------------
+Array:
+from : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+to : gh_ba80c06f7022 ;
+time : 1455018137 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+createtime : 1455018137 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 19:41:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 19:41:41 response :
+------------
+
+2016-02-09 19:43:06 trace :
+------------
+Array:
+from : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+to : gh_ba80c06f7022 ;
+time : 1455018222 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+createtime : 1455018222 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 19:43:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 19:43:06 response :
+------------
+
+2016-02-09 20:21:47 trace :
+------------
+Array:
+from : o0NFAt_Be-Z8d1Wlb7G3LXwRfWTE ;
+to : gh_ba80c06f7022 ;
+time : 1455020543 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt_Be-Z8d1Wlb7G3LXwRfWTE ;
+createtime : 1455020543 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249265647606065733 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 20:21:47 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 20:21:47 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt_Be-Z8d1Wlb7G3LXwRfWTE ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 21:49:50 trace :
+------------
+Array:
+from : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+to : gh_ba80c06f7022 ;
+time : 1455025826 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+createtime : 1455025826 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249288337918291774 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 21:49:50 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 21:49:50 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 21:50:28 trace :
+------------
+Array:
+from : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+to : gh_ba80c06f7022 ;
+time : 1455025864 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt6rF6Gg53I3Y2F0ynXVBtCk ;
+createtime : 1455025864 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 21:50:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 21:50:28 response :
+------------
+
+2016-02-09 21:51:41 trace :
+------------
+Array:
+from : o0NFAt4DDGyDgY1CKL18GesjYY4g ;
+to : gh_ba80c06f7022 ;
+time : 1455025937 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt4DDGyDgY1CKL18GesjYY4g ;
+createtime : 1455025937 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 21:51:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 21:51:41 response :
+------------
+
+2016-02-09 22:05:38 trace :
+------------
+Array:
+from : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+to : gh_ba80c06f7022 ;
+time : 1455026775 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+createtime : 1455026775 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249292413842256077 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 22:05:38 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 22:05:38 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt8DK_eKU5EzP7skOnikZK08 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 22:39:43 trace :
+------------
+Array:
+from : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+to : gh_ba80c06f7022 ;
+time : 1455028819 ;
+type : text ;
+event :  ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+createtime : 1455028819 ;
+msgtype : text ;
+content : 京巴来了 ;
+msgid : 6249301192755409397 ;
+redirection :  ;
+source :  ;
+
+2016-02-09 22:39:43 params :
+------------
+Array:
+message : Array ;
+module : stonefish_bigwheel ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-02-09 22:39:43 response :
+------------
+Array:
+FromUserName : gh_ba80c06f7022 ;
+ToUserName : o0NFAt9SIg1UCt_1p7T3RP9VezhM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-02-09 23:26:29 trace :
+------------
+Array:
+from : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+to : gh_ba80c06f7022 ;
+time : 1455031625 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+createtime : 1455031625 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/bus&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 23:26:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 23:26:29 response :
+------------
+
+2016-02-09 23:26:53 trace :
+------------
+Array:
+from : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+to : gh_ba80c06f7022 ;
+time : 1455031650 ;
+type : event ;
+event : VIEW ;
+tousername : gh_ba80c06f7022 ;
+fromusername : o0NFAt2pnIYekI_x20H7aisgo8XM ;
+createtime : 1455031650 ;
+msgtype : event ;
+eventkey : https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx5a4cf705ca06152c&redirect_uri=http://www.jingball365.com/bus-weixin/app.html#/main/ticket&response_type=code&scope=snsapi_base&state=123#wechat_redirect ;
+menuid : 408121780 ;
+
+2016-02-09 23:26:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-02-09 23:26:53 response :
+------------
+

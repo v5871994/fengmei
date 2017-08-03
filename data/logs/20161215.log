@@ -1,0 +1,50 @@
+2016-12-15 12:11:47 trace :
+------------
+Array:
+from : oRPPWvmmoh-vv1R5KlGzMqiU4XYk ;
+to : gh_b1f7fee0dba6 ;
+time : 1481775107 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvmmoh-vv1R5KlGzMqiU4XYk ;
+createtime : 1481775107 ;
+msgtype : event ;
+eventkey : http://a220.10vip10.cn/app/index.php?i=61&c=entry&eid=105 ;
+menuid : 433679359 ;
+
+2016-12-15 12:11:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-15 12:11:47 response :
+------------
+
+2016-12-15 22:37:16 trace :
+------------
+Array:
+from : oRPPWvjd48ZTkwl83kxYYQDzszCc ;
+to : gh_b1f7fee0dba6 ;
+time : 1481812636 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvjd48ZTkwl83kxYYQDzszCc ;
+createtime : 1481812636 ;
+msgtype : event ;
+eventkey : http://a220.10vip10.cn/app/index.php?i=61&c=entry&eid=105 ;
+menuid : 433679359 ;
+
+2016-12-15 22:37:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-15 22:37:16 response :
+------------
+

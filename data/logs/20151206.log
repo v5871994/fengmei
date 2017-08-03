@@ -1,0 +1,6435 @@
+2015-12-06 11:21:10 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[j7oc+MiCaTPAj3HYygI0PQCyp2N5/R4R0MdvxRaxnPG+TA5RXHqbvA3gg3Zml45Ny91nIAOohiTgEGf5LAZ1yXCpoAVyPD6aH5WGfpp8vAdmjAPKK8Lbo0MZ/QjAUqMjsOoK7Mf20IW1ssEI52klBQcWwX7pig2mpQCMCQMtmM8DpJGhFwLGXBy4xOeSUN9CCwFImZ8fDPJX2BRvulzUDW7vhML/uHGlVUdWY1TxuPafgH+Jh26z71gDR24/TdrTO3G+bwkkFVXmJ5AaxQcNySGpb42bVIKv8Q/BB3VnV9MRQnSYs0K19F+dksd2ldSxx0iY/wa+7nIsY96L6FPtlg3ZdfIObi2Z2J0ZTo0jHrHR7KMLhWvX6IW3GkT9LSl3c9maua+OxkkWhKHdJZSorYN2JO1zikWryalVBlcS1dN96w21TJXKBArtZMoRNeBNfsOR0a9PjaHaRPKOLK5clw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 11:24:09 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372244 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372244 ;
+msgtype : event ;
+latitude : 23.084278 ;
+longitude : 113.676910 ;
+precision : 70.000000 ;
+location_x : 23.084278 ;
+location_y : 113.676910 ;
+
+2015-12-06 11:24:10 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:24:10 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:24:11 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372244 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372244 ;
+msgtype : event ;
+latitude : 23.084278 ;
+longitude : 113.676910 ;
+precision : 70.000000 ;
+location_x : 23.084278 ;
+location_y : 113.676910 ;
+
+2015-12-06 11:24:11 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:24:11 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:24:21 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372259 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372259 ;
+msgtype : event ;
+latitude : 23.084278 ;
+longitude : 113.676910 ;
+precision : 70.000000 ;
+location_x : 23.084278 ;
+location_y : 113.676910 ;
+
+2015-12-06 11:24:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:24:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:24:23 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372261 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372261 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401375925&idx=1&sn=1055fe52b539b629ff2957852f3f5d13&scene=18#wechat_redirect ;
+
+2015-12-06 11:24:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 11:24:23 response :
+------------
+
+2015-12-06 11:24:40 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372277 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372277 ;
+msgtype : event ;
+latitude : 23.084114 ;
+longitude : 113.676666 ;
+precision : 120.000000 ;
+location_x : 23.084114 ;
+location_y : 113.676666 ;
+
+2015-12-06 11:24:40 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:24:40 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:24:42 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372280 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372280 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376031&idx=1&sn=412f72caedb38ddee6d15c9685dd0d47&scene=0#wechat_redirect ;
+
+2015-12-06 11:24:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 11:24:42 response :
+------------
+
+2015-12-06 11:24:56 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372294 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372294 ;
+msgtype : event ;
+latitude : 23.084204 ;
+longitude : 113.676689 ;
+precision : 110.000000 ;
+location_x : 23.084204 ;
+location_y : 113.676689 ;
+
+2015-12-06 11:24:56 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:24:56 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:25:00 trace :
+------------
+Array:
+from : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+to : gh_594b4a77030d ;
+time : 1449372298 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswLxAVnHf32Vcx6kzVl6PgWs ;
+createtime : 1449372298 ;
+msgtype : event ;
+latitude : 23.084406 ;
+longitude : 113.676315 ;
+precision : 110.000000 ;
+location_x : 23.084406 ;
+location_y : 113.676315 ;
+
+2015-12-06 11:25:00 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 11:25:00 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 11:31:10 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Wmq5y2TAJ7rkNNJFVbUe6OxXM8QYVuWiQ2MRph2rXhAylmVN+kwKUzoU2vS2GYQSglcIJrZnAEkeavLD53qSrseFsjKULi2mDxLNRDgZTHXRxRR2cP4tUmmOikw03nM2o7/4OZOgeA3uc/9CIT1dHiL2tj8GmXHNsPrwXHoL/L77FPVaFs45UlZeCozBpUHrSfH4i8ZBIaP8iCcUppOzdh5Gd2D1uEzbkX49dTOF5n0ZHamZyh5fO3q0B1zv2bBc510VuX8697EgM0u2SP7XlnyBkVJAA2C4M6a+5QyocTzbgEuvPdwbTFtjtuMCqlHIOimCjPx+GbXzoVmbslr0eBM//PU30TkwimTuyNW4KL1RgHevZ+r6C4IwgkAKkWlivRDliCJQB6q3PZyrI+dRtgQiPptVDmKCr7M/oRSV3RVh/9ivNXv6x7wiuFjcJxchvivjocC4PCfO94ZUw0+oBg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 11:41:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Ppw/ofX5wMH3as4tBsBCvHQAyTM1aD9NEHERM3NzQOFrZLKka+LW02F8IVlLke8j/k2TLih6C/+fzW8hbzv4z5+SEIPn03PHFqkD1uS1l3h8lRN5b3yPCZV5OAUJXbjSnRzxx+kq3at5Uw07V/SSQM6UdrBVpLlik2abRQNqZxPftkXWKEhIuOzxUKlFXWtdXrff82LflaqNeewrFE84sBEw2WpIMDoI3KhhmDD/oZ4S0ArtaKw9OhxwIAGI85X5xiqPDWTaeAmMHy1DxnP1iVEFMTtInF9vujrFN5qkdOHo3l1+trzSqQ/k3BV8O1nq6UjNai/UISwzhOXGZpEGrt4hZZqfGi5pU4rKraoMOiquOMftuwtG8DxYa3tQ9K6phUUS1/a6G2gLdHVHivqu5kOLiqQpKQUIwASRGzrhxhtHKYv4KgBP99weQ621SYHPp8wNCSQSFYFOy03iOC9mpg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 11:51:09 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[RAThUAc4jiURhrTHJlZ6bymjh8gVYrW3tKsPrBDAg2QcLIL+tHGoDrec098JKUum9HlTdlu02B/OSfabuUTvHmUMHR10aKPb0XNhd/RiYIdXtBCmR3I0j/JVUrc1TIP2oxHsIlz4hi3MK2ZgztxuRCbPuSL8a2Z+DFpMWCE988WlLkwZjjpZnemxLaKyM5bp01sE8vqKnCHtoYj7akiJGJ1Pnq8VKTb0uGV/gf3O5ESlLQoQcl4mnEm/RQqUtIAwKOAaHlVWC3AYdcDjFwVcuICgHhRL9++hlJdajytcyALg+dcO5mJSXeu0eX8aIuIMr36QEqnmI5drlhzS9GHcQOZdkFUzqfr+ibcBG6htLtKppzD1ONNl4uG5Zdam4+byeQziZwGnMN7dFNO7El0oq/OvmxlDH2adDZVy2F9JgKu6mUzlUzzeEeItSDhgRnwH40SKjStpvOCwBCrq+bz+Vw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:01:10 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[JF6rpRHSHgS+hukXh1iCK0kKPkCOjxMwVygJ4o02l/do5r/bEmVI+PPk5VBiTBqcm3dYhv8IhYUdC645kYJi0iR81adI6TpwHd12ZVPPkbp61Ftm/7IhCjYKaClvBDQczIZJ9nK2J/UejLbcjEok5j9E0Cc03jvx26Faxqk/JC2mmGsU91SvJyoJyL4kFcEZJDnHO2UG8pcJN5OXJWSGAjraQLQajB7Flmq5UKAHVp4t5V5/zZ7vmJ4s6hZGs71e1s/q5aTfXK02j3Prwrlxp5FLtmpesuf06Jcv1sPpCw30T0ZUhmg2yGmtDRPPAJ5ISIobBSbOmmTG3xnK3UclUvQBMTSL5s1NInGrVSY3aim6VtXXAjyXp2kfpWqQMt/p9bRENuRtcCGH2pnv+5LR1G+yTHV7VI68gogWnBKPj8rVhzksL7ceXy6R0lCs+wwidEI+OGNsQmAHt7rVhTgBHg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[F32Ec3F7LzyzasGVWCiTUWY+RQ8SBy+wA1gp/Uf7gBXiaN/YrRcX9z5kYBspAL3QiRyeDpKMZ4VcCSSppieyxW5xfWIfj8qiLG/dj5JXesKcR6laVBN/XDvhHG6L7ExT3ciba5G0Y3sQLlUzkg7HzqpTGCrymgWmmq4GYpbG620sfA5bH9U59XiGP2iJ+OJLdeCjbNdZpKRgckChWvOmvMj96Fn4Ra5xfphnrH/UjSmH5EpO5WuuT8HMHi+vxVORAsgHv8mR3ouhQ8lG5GEEVO4eXqJ4ud9SLf666QgABHuv5MBygBxeZE2yuiJMWDNbLaoaAIkORkOv065MMAiR5JKnvGCATK6jyvB2iUIZXMQ0+XkwR95/pnHVJ4fOmTVyRN+1T/2RxAQVbUegKztumkuI8xJSzuLJI+ngYOGcSGJAeTfpyz56eXB/FUY0wOUYA1oKI+TV0Xr7AaTrFVYMZA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:21:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[f07sbbq/DpKnJJYFevgjXh6xcOoFShYM4jwMiE+PED37h6F/ilkaV6KEases9MO6jWR02hDV+c3mZcQb9Y5H3rLMdAnl0/vfieAEZ1xgohyxOzsJLugyR9QavB5f7OmrPYinorEyoLbljUad+5F8DevcdhLozTSK9Qli6B4OL/b9v+10yUK3vhOLgy0SnL5iOIgD5jhFZsFoapN8Yx9h0EoHSGy6hzwVzrbgyvyuRDa864Z03xMD7CqRrk+5bnNNs2dzupwActHvTB1J12zdvneqgB29bc8EGIikwYj05VJd1k9LZ9SZeNtBzqmmioj2GZaRL6LYgmr0s/8kaIBpayuNBtCVuRZ1UCcVRYkh0fVqZmNdGv8ZJkRU1JwzY8RQYOdDafKXYcrLysHCmo4TC+2M8+paHyENp/pcFIVpFGZPzYPFxfmS4pavv4CoCnCoim9ApgXfR69aoQ2m5Tg9lQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:31:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[whiMdNcBTv9RqT4yrV+6b0iJMlj6g1OMRow4xEpbFwfxzriey+8gqzPiZB1SuP0ih3ptjLA3ZCoyxG502xl4yFZh7obf1t6JDDPMWG9+E2jmN++ETqmoGhIOjqbKMNDoCtYzUmywh1/gT4WindR0tOqoZPAXFbN2Hz3H6cHvpphODvUC/f1opeeLeYlYh1AtdMhs3bOr9MHZ2YkMfk1MO8M8TfJnysIsZWV//y02dMCILyhqgxUUCq6eMX6qkKc4HyE/6FnSvda23uEVroqyChrRu8xgIt+IfAWl2EX0kk0gO/FwWOc4sQVkOjIze8/p7G0qXi92JC9ye2795STMUc4mEsaRFwEMtmevRIVEZErkdJBrxZJNXzag8NoM/EAjUk5i1dYb7SJAw1sZqavNj6a2evThARWPXhW79+ckEJnDfsJbN/P8B9wiX9U7ehbmJNGw6ROzkUJBcZMVUEjn1g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:41:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[WaP7yBszW9Ok4HmnLex2icEIu6XstWytcNEyLL+hoUq8++nSLuxDKFnG7PLnNKv5L0b8tMRX7AK+uNhHLiICWXkJou8UA0Z02qvMbaK/yeF/ogOz5fCg4/RUcYSYX3l1Y5LhHibmFqFnfCKMxcJdoH7chDZOof5xhM3QyHASwNN1cpRUDwLNPut7c2HBUWpOY82raaRBWx4ub8fs79bRl+XNZ42kRN9kKP4MO/Mm6qwWUrxVKr5c9wtMizLMArUBMsepFiHEQhX8ZP8lY5+qpbRYOR27TkhrOYzwW1wD5bMViXZPbTFqHk59aSAnZgEbxnThFJIl+B3aRnvjaoAQwWRzWTztUeUodM6SnGp+TFoYYXF9JquzT1ixFeMGYGKSkyT6eL/3uGcxebX7HUsm4M9zlO/Sm56ZiM8GVV4cTUHBMmDUJyyJsJml3zdmeScMkeAWMDzBhtQ88KBIIe1KhA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 12:51:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[fvDNebgE64AXnW4onEhndNusernBEmXbtE4/k2YsA5ip1jIzdmA39GQwlCyYh1a/vF/PCYuWpJPgEMRz19grfKSX0hF/gm1VzgXmt3AM2lCXQLkWIDF6cJdz+5nxZfAeZflx1XVSiPNanq3vZHCETmZmoe4Zoko0iIgObnWOnE3bMSzrcXW/FI53E2NWpL5r5ffuasb9B4dLKmhSEY9O/NWkeXBiKb4/f0rJYTgsPjxR8DyeLsaLEIn5dWKZsoAgjfHcLC4EvIZJVf/+8rwRiSXv3YrsqSCOQ7rJvWAiXhGHtSuMQgI61XNSlO/Y+QTFfa1uG2KkkkKuuYmVzC/NkkHtkzYYCmBx6Tq2/HldQWVqXE3QCNvbMDVgIPK15kOOLJe6iAXRPPhPJdFSnph+K6RJsuHUlC+ugzm+vxA+rIZwOgqOsZFj08RBe6byx2YBuGvQTJdXTzCkdoSnCmddTg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:01:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[0CsKidy5sSNPRIAtvyQYYJz5f8s8oFEI1q3dCxQwI/y4vFJZn62a/98qa6wrCetv5KSS+Me2XqCu5Pj99lnkh1M+J6Mvp4XUc6I1QKWGqQYsFETh+0ZMQcEkC5drs7KTAa/ugLUQwBeAMkDK4XBzaTT2AGG2IF9GJwvzBIboPXTxhdnmiyJRRhyujhLqK343iMCdThKUOMNvPpqsbmJvqyDACY9A9eFlkV+A27DYJeDT2lIlZV9wNqSgJzMcMdm50g+uHGsQbF/ewXdPWb1ZX+R1kkcsNC8252P/777CvBjZoZyFB0qL5yApcnpnl6Gov6/hiQksOmbUP6nQlFSUjt7sPqv8ORFUvlsRfurCVk8l5NW+dNcAmnU7SP4IBWKUWGJE7kbqRWWfB5JQ6oFf5f0PZlmE4C5PxneyAL9EBIl+N/tovqu31TAcQZwJksu4bKTOj70vn6+V2dYGdEd10g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:11:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[FvsToTGX+04Jgw1YCaxSWCMqTcdFcC0VCIe64YkbPGvstvTj6DPzQ0YKqmee5trDFDVAueuJaOTnv9YczVOyQDCKf8N2GVSVql0DBUJk9QyQiTE/ElBUYgh/HC5a1ygqIk7cMeqkR2Sdv+p8ounowLbZIG2+bHNOObNosliAdFwFg+QFwfaFSdnxChmf1bCFi3BBfCVunnnRJ9hGc4kIDqWum1FF9X5hOi48UqkRspNs+TBOiaclYo/MLE5x3wGVOjX24zJXg5PAJSRUJnOjTbAnoSkt+hEenJw0veD8xWfO6rFHsAeQVQOZmq9EqBZI/hIgX+PxmbC2iZTgNlA78FJsw8OkhQHuNBY6TqQxKEU1qzAEZixnX71a/qDKkLVo3iiavgl99phtvPrF2Zq7+rd7HVANI4+u0q5nJ4woeyIQburDc0sI29OTseTcntQGZsVLQiFUkqqIJvn2gFBhZg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:21:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[loeJyCChTGFC5cmV0l0hPUobzfvUmxKWIbodgpcPXpM7B/9I76PYbGfSLmH7OwwUmhMLFIqaBoWlmz9kEqJJ0Mk9r8muNH8McNR1skiBCYmPefEylkz8/1Z44GFt1QxKtc7+Sp2LooGeIYMwsIZkXyv8Mqaswjktnqlk68Cv9PvuYnKQrIkgjVdKq1OdCatjfKueA3DZLVxk91T5qeeqjfEitbb8IrDTdPK8u/7BgeAlhjRTmQzg/1BgH3plM48Bl0w8N3u150YckVWhIFuBo4XZp04itzopNFCTdvMV64mRRN0l0Eyx4oabHBqHjrMraoZ9D7mPqWeYpYLcMrSFUCU5uDUV8bJtcvtdVmsHRw0wB64rg5wBTAy3QUsnuEmkXR+y4f4044VZCmRQ8zYdiJLNg6jSLRqf3cL4zGsokrsf8hIvm7U9fvhspCoxnbNP6Pmd5MofL+h07iFAPqWrpg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[wHiOnms04/hTjXb5/k5r5HWWps4tZR79/mTJY5YW/JAaqxERoHlzMDXPhoj3qSjiVaSV90g93OvxyWI2dhhCXfR/eiN5jCOSXsIXb0gKo07/+3f8y81bvzjl+oPRWRQMGMJNJO35JWbaX5cjbHgOTQGbUV3RLKz17We1yvAs7IeMVsdt1g+kbK2+4KSV4SsPdcDirK/j6UeTGsukLZp0QKKsaKg/CrRHFd2Kt+Jgof0PnGtpYXvxBKGKSCVYlpSCtkGdUnmZRQmK4PDa/R44x+0mUJ++IbMP10JYclZIS/KsaA5qLUol0YlGjapOYgBthiLXd41BTMT/YeeSvAKevz0C2hgrGDo3Yx1vO74lhdEPrzRGupAvIBiEyvKP8DJw7pyLPXoIE/5HcFvzixv610qziVsrO7rDJIZLSfqYfD5FPViqMCJBwUCadt6qrxF6r80XWldJA+fYJU9XJpnsTw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[cPMEssV2w9VOI3M1fP44HR6wfb59Pd1amxKYLsL7V5+b+4apxmQH+WTAX9Psi+m5c/nNRk+UceIq8d7lW1jVNC6SDDBdeoJlkFMqz3stbm4Wn5hByYUMtI+rGLunvNR58tXQPr0vgs3kUwhjHEB3+gPWWo+4E/WYhmMwbEfkgr+shsQFaZ/xJU0KV+sq/s1Mf0WcgG9Qigr832Myq7N5w1G+LbTBKS7vXeyP0ndjbywtT+xsVg+qROmePJQ4nRxJLztHyntPDMOfovf/f9X525GfNNrgsU2/EsAa3t71HatG+VXjxZBheK+OUJE5vCAqfrh/HRmziYMwF3hLbzcLQZQG4x/7+wlSx9Byk/oamiaG+hWLZRrp0dyZ4mGJy2CfOfwXwQenRfUTc0si/JMoH83bt73Q3j1qK4V6jarq7K4gy/Rfuy/AAZ7f1KKG5l1AgvoOiWaHoz2wb4tzaA+Z5g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 13:51:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[XSF8iIoQH+7zG+HR0eNZDQEtsj0DATQQfCbWSb/fiyDOo24RJ+ZUSrwb2JVZP3Lu9lp9CqLWi5/yZJGiAzm19tphd7yC7s9mJ7mfI/wAih2FGITh+0T8R36YeCYXjExvbxdrA2hWtHvWiN2WxBevU1PX4edyns6F9C2Xfw7yrRSg9O8+P6K77mVsSmpaRTJRQNViX9D53S+41HJ/V4Z9fDB/XVznBD5sAyUsLPEzyu56R9KaPmHSUz5lQg7lwDtkditC7BMgWSA/xUA902aaus847qQPUwRX758JQWMicGbW5turjHCfFBdUR+Amm+uLIdChca8XqI6NP2VWptvOCmZ1UMkhsl9yQMq0TpzAvP9+TIgTFHj8p748bbvSHQUlgmiTZh4HM1FCWxGFNo2AeF0AeDLV79KiefDk+qC9EsNPMJJBs/fBug++Bb2Lp1AkZg+D+MVLkHwcBXbN+R1WHw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[sRlqkyWyj3UGiSS4AHkEiHxI6fvPELSM2IBUpKKdCVc8Smo/sIVaF5UiSPshcAesVKsFwdI1q3APT37W5FoD7cHxVfJYlP76iLonNy0mLsxDSTwZyXtlXKd0Wuypy6fvf+o/Fm7ZIHdqCvRmy9IVaWkfoofeZ7WIPqwRbJCutM6AKntmgMKV6hqt5XItGFssjCCOGfr+ir2kxqhOag3qcOvzXSs41xsT1kqxAHEqSPZ+jMHDq08ioyyThexGcwJNmtnMW0miothBeO6Dl333Mkw2H18w2YFS2sL3+0tLPYfWKQZYBJuU8T4C+YGHtHaGoRzaaehG38BOXJnzcaTgP0xdXaxYXXNgxJnKP9/yMrJ0FKAuFFk5jtYvcrs0Qe6rDWQdEDFBjI3TgchoeZUEfk+A36EvVIZY+BJTycyQvf0S7TwFmbR9vfD2+eZi+wrznJcLjL6T10CY3lgABpFyug==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:11:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[G53IMY7QOm33ov8BsIyOH3bKowFwAe0Ynu+vm7WTgn/LF6U3nyLJFuI6g/QgxczRQ7Cxz7i2IE/v7FLTJBqwIN0Yvaa9vYmshQKAAoylL7w2UBMFYF4fESRSCb5R/9fk+cLvbKAadXl5iMHQbRQVXkcLUxDTyUDuSSmdTntn2Wa+gRT+bAkPBAoj92mSkZrpyCpaYwj1IdjQhm3LwQ44D4hJ8l86bGC/5AkWcvKWranOSGhWh66Zm2CSn9z84pFOUpRRIbc/c2eUSNlRBbawpeeJdabhdCMTI0/2Tf/SBuNb5mqvy3hlVWbla1yOslZ0bHJ3+MHuzNB0gd2JCXMVCLqFPjps7aLOfswmVg7vXQw9hVGPa3Cu5xQBBg94xbJENvU+/zJwYdATlGZJH5R0RNarlk+g2t1f9t0v+RytHNtsZefXQvPbZs/wH/3WaZe4/QKtM8zPtmaaupBm3m0uzA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:21:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[LRfWAknv/1c6lRPKnlBf40CUHKdG4VAve/OtbBFFOonf7boQvnNCN1sCSgM9zHP6HWuIuHuwRXkCn5jE15kxEFwWL1cdlkbJ7iyFsiGZQ5vNtSxdLdJ/DQht78f/5mWhqPxG/NZZgZjLAC6e8IqAr8Z2Rxa5zUA4A0RIhISAkhHuZuWMfiGh2lR5pmRzHMpV4Z5a8FiHaaJeesz8tpCTHw4mMtKTZ9bOUUjCyCCcKRxPN4NtmVU6Eu9eqrNNykB9yXee3sKaoKDNdDudIuq1XyEdqIjAy1PDq48LykNGDJ/206pxFyITx1w/6L/+rQOnawUOaG5i+ifeYGqj3Lptcuc8X1Fy6UBjxqLQiVlxok4P9u456PVwjDHPzdCkkBvDNPNlJl0ga1MbCDpRCgx7dcSVARJsoy5RjCojVMQpb/L3iJLtGbOgAQ964FS7Fh/TYUMKLDaO/AFec90+qMzPIQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[sQtyqNrOjGS5rM518ZQ3NRpRsOalZioLRaqDtBTSNnt0sGUzu8bwG53itoya2WO0oJ3dLO5GHT3Q/+lQhJSLDJT+ZN5mHZmp91KXUcaXjWQzi8O7UcrmPBzdBZ0WQ4u5l2kdPhDrE/WTWKy7zaWjpJergXJSo2bh+Q692p2XJqzL9IrI2ITdllbXBM0pUst1+Po82yQVWd5rmVWIQCHOs52VT5av2BodaJtHm0bUkFO5rbvaztCb8VCuxiwl+EMNnfrCiFhYn7AZin94HD6uDToDj3yaVUf09rWr17VAN1u+GPe3WUgJOKVLLpryKkMsrPYvap+910vIsnEeV5QVtrLo4aU1ssxPB5RHxomzb3gTt/7TkQAdjQIP7S8PowQ6bO+t3cCUkfAKczIVfSmtZRc49iBnnykub83qKtkN37kIOJQBBK0k27Q1exnQNP2SNztWzp0N5CKFAa+HAJV+dQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:41:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[PjJcvErgcLzv31IR2UTN1NCN5jbb2IrJTWosamXeji35i4tJ5sn5Dpp9SkOBZR/uQ4VJcGQ/vh8jBZt74kb2lwGGRohUMzwdVsyID/FlgWEpEbW081ey3EG3J+im4RSKk0b2VoRrIn3H7AkmhPFTYfxwK/oOKUfcrJK44/E5KX15eg2XK6kSdLFFQ7GMqdNeXUAg/jpO8sC6TmhomSeH63f2rwJ1IWGeQofqOjN3ifB0hUyXod3ZDtI3ETU5/ZcVbeMqEWuBcL3X7BL81DfQVCuSRMNVpuma7vfehv/oupXtUj+UQdS6P310wN/dvie7MjB0XiZCcG2bQgMi9xc3OmRGa4LsMpyzxTQa4RZJMYUzsX2MwC7uL0GQN2o1f3VaWMaKD1XRUgzeSkgpoJHNAXAfm3eEvXCecNNmwyb+P5ysmKAPOrn7Ls8R+oZUUxcN908eFHiDnu0pG+GysuRmVA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 14:51:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[BQ/4mlolo/+lrmDf18M3Us3Yftxgg7x/xPnbsHe264U82P+O6EcmGu7S2sOICghklxK/zOFomOEp83iNMoPOFJR6d+cR5gV9ncmVLQjZZzaZNFsMu6uPfO+6fNX88cvydQ9JYma/UzfRnc83SWlWgnK7KToPsAm2nHSdQyAJ6nfXhI4jajMa0lnqz/2T6gSZoZcNCTwh33TbRzS4h0sXY5As4c+w/6VpW7WB0tfXgEca2+syG4ydjlXdon9IGGBGgkeEJVO3bknegJOFbvEIpjrg49Np3erv7raPKFXkO9UFntuG6vgfxQe80/55kQXMjjMRSvE7MwZivvculrKZIapu6ngc5YuI7X5fAspqmjKo6wjuXMlVJ9EFsrhOdbHHxmu073ohCGZjCsAFBqaX5lQZ1H6x5iJV7xRQo2yZoWs/sb3nipv3IjpX4XAQkKChNUztbxPiV7XMS87j8oARRg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[CbsXPA4LCeCi/82yJEsACAT5cforGv4LBB1CW7WQRRbzqecK8//sM9nzA40tiGMEtdLCz535SIsraQdP/jUMCtFErpf3dey221A1c9Wi+d5qGf3jTlT1DX60qHit2ihOMU5ahNpI+GkDvECjYNVz1kLzEWufHe/VuvXplGMxfW8njMkbJz3Lf0IV+Tkc0gKXaPtZMsoQaD0kUq77+MkB6gbxzLqGmzCQLMz1/tEQJXAqEfbcTdphDZakgbxosgAUjYUqrEDQg9n6ta1M1qQPp041HIt9JNjFAX2OHoC7trGN9mub0lW5+UYjk44SXW/N0erfR0DRTTVIcJt29qsnFmlZMs5fxoR4Dm+JlV5fKU4YUyst7QKUuHP4FVRE+ypngZBOLNzeZsb+/KITOPzIb3YQBmOmUh8drXwwi8veb/Cqhuj42ORZ/gjLovB7TcEy8NRS/EX/+acbs5SVmI+ZAQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:11:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[l73kO3cHCkZCmp+7awx/nTUsuNN4H1f36nJLfIAtDFs2qbqleuAeF1unH6KUpI3mAXLTiO2faxQQYEIY8CU4+/uhp6+zjP4029VSP51Cop7PlE5SlJz75zAUe1wxdoJkW0SbUdPpyDsjSHvH8A7POZm83XdT446LCIBFuH1gkLz1uzqd5nd97QfNt2AtyPFde/9Gdtw630jC4tReEp+zYk1yAn2Ytiyyv2AyCH4tLXb+zrbPyUeuOD2IQrkFXvWqFv+r9iFsOoryP9Geq6F5BP1QU7X/pJTwhxGlg5UuGFzDuG0f9j+L7wYxq+aIioq6gmDWDiXOC7uzAcbKLhlOLmE/B/xoZweFJ6La9L2EJh2LPOEDBJL6GZvsvAXxGMv4SdZyX37TnhqQimWGTq6YmampRL7EDpu2gCFZawcjybuSmlFjxCtuSeKpb0wR09dldfeaxzt095pqBdDr/Uo8dg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:21:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[8dLzYFVqSd3FOXNouHUeDrIA8aptISIQDgZ5NHfS2YcaOrWZBC3Hpsh/YoARiiSJifkJfafKtzdkss8uFwbqvexa3DieFtHsdd1YoC6BWyIChIY8Y6JTx9ea/I4kgqgZ8RIjcood0owB+i9e8AMMoXJLzpopzx48UvpAdP1TjuHBNskENFR20iuMR0qyeEUAade/R97mA2YHHSQdSEwm+4PZg/8t6LCeCRjrtkVtwh3QYNj/ORlnyr4owATiUA0zaw9FPQadT3Tkr7JYiM+9sevJBs54tfW4zdsu9aJ1Qhf1j9z1GlCZsg0IbKWCkoUmOdHKRtum+c0Q1sGxosBxSXIvfGQMKQF0J+8Z+aA1xzwstraAZbbIKpVJ0BNv3nsvehJvjOZCuqa3N3cOJRENi6J0DV+daetfDIXzIJeBdQddEbN9lUwX2LsWm0MfHroK56ifIBS+RzyT9Kp/n+wcvA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:31:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[HvNfm9YAFW89r6YHqGj89CBDLU1ioNlX6R4Q9exdFlxJdV8OZ422kFZkLzajF/KnHGMs5kMEhcmuMUECGHNjGfDkz7RoniLqoQTBYhtZkAKV+VgTc2HuR+sumM9VDnNnTCEGZS5E5czsSInkxrWr6LGL5D1MmJFcwggOfx4kmUQByXy2g7MXsHL185lU/WUavlZ6RS+OGRFx4+mbFUFmtgTIplUpCAxQlRIv0ZfumPHL1CWQCERMNVqzR9fI2yBlYxthCXVKuP4meEoW7Jsa59Hr9NkvN1uuJLW0HpRO/XIHWzcP954yGhj6WsSysyS4yoUVnwaGCsFRUIHeUInKA6p/05TG8KeUim9sYCfqDhakFQG2PJg/U6FF4OjmjtNuZW7rU07r051bYVCK3P26ciiRYUR1UnN09Kj6j7OiAjhQjyd+lZqbnLAcnM5o2fMyfSSWCNhsXLWSaCGiHWffbg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:41:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[YB/sGqV7YCKeYb4SCkv75OgJ5QVec0q5+CYggSTrZmzLKFzzFPxo22lM1Ts/jZVGb5eXRXDOCgxiNQXRRDN55y4ylOT8H3Fmfs+BrnQEzz0fRAmaU5s7n3Zpo7Uq0/L4T2Ni2C0fTGvwfdPOdNWiEJUfoa8W5cAFYKo9Vx11dhSFC8oe/4WrCYRw6crt/pS+Wrz2k53LoTqosRVlD1nRAiyAU2VkH2EVyD7VavbkAR07zCn8W+STB2rN+WHVSG324/2deZtmb6lY4qqrXYo4+WH50+sH36Ktk+I4WiUrWgkr3WPvPgBRKciFCmR1ZzEiWOMhjpn2HXXV4kppJpFpqNEV8WkFWn5Ts4OC1euiZXPMiXqP8Cv5iBRHt+lhzjCfrMdNsdI4iZ6Rtf7kVgVwkuUfwxHyJ9W9eUPZtvVJ6X3X4L+JpOgx9pFElwqm2dXOk6uD7ZAhfE0wYWyXYKhs7g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 15:51:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Quh2nl8g87GjVVbaiEPkwvhpUVwUh4zaD++iVNB86jnmgD6QrP3CuuT8BGwebEJrqd9V7tm6NJWSjdAenKDf95YlIq5O2zbzTMRzd7QphH7PGug+aiylJfsjZr2iu0LvhtlkK4EBzM+aUq3GO4fXCI2DWqgUazbK9AQkYBeTdmsy9lbDyRlxifQriUW7EVWZW56ewWB7yx5CbXpBquYOxEAxVVs8rFtIN9NlDn4Q2oeccahWD1EeOeen2Egj0lePWDuBY7zhCstWRMRG9BEwi/jhtiJjzvav/Un+bnB1trSIQoBAFQN6kNh3XlvQ6c+2pWRii7F6+tsuAoB7T14u5AgSEpFMXglzcip66VUnZYeGRcfI6d2wdIeXII7PyY3kMAXIYZBqVZ+vmaPkd2e48n9ccpQHn56slFroLvE6IIhjjoM+j6b2tTuLDnNZXwKKHs08TuoNw5YZv7fBRNKlWg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:01:09 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[KgEYiNTfTAjAPCGTNBTEZamCeU7LZoQUh38h8C6CMogKD3Blx3iouDtAzOviOOIUcCErSWtEqRkEw0YxVB/K6CyiYvka5XS6aFq8Ahg2OP5uwiCBFgp33sk6Lja6RsijfizbMRN06yGCszRvGGr1LBsee2Ko9fWp21KLpxF10vhrQTK7vHZpZdA1wxns98vLf73hilJdfDg3Vt495suAgcb3tsCqeI1rLXRgufOrjNMn+LExbZ9tqJGRQJWJTNIyaRj6CDBkN8mIBGO8cIwA4MjjzPcnZjNwbUjjLszkiI5K31B5Dd6gVxREqnQCzjjxPOA2mxZezA4VGF/V+wrVduq/yU+2PRzuYn5RU0r/Wfu8vfuW9AZWIbvkHgP07ewWu60fK6sHoiQoyiUaoQznlUfoJboOY95cSph4bfX1dux2+lDwPrDfkY01eFwj3SKcuQlcB6wAiN9F79sQd0t3JQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:11:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[iMGy+lbYIJ6z4SmOMsMPpZwlzVCtDq0V0BSr9jwVcZuYyRtC8wxacpEiBfWEUzZCB7JhJYQILcWiWibDehVZa3fDLRgS0p3yLeBosEpcO41zsJnRrKKsx5fZNfdQiUAF69AIe45MgKsA/I/stmNRfm0NSm1idsc5MZQrNVr/W91yd190J15fgaHOCPPKeF+nCTaMt0STtjSkaBFydWPTjyGQuLaMULLq0PKM6l0BbucckOuiOSIWbj+wRke3b0Y/efJRKyuBpf1FOeciwTZgmNppUYIVbYGv+P0AiYE3Ymk29XQU4qkyaN9wYmDrGu/G0ALLKW4unjSmm30UptbvlWHTXYjVSJwu72vaCpCbSl3VYn+iBiuyfSBDxVs+kLaGNRdMt7D6871XjT+xRFGmlMMIA28IgjiRM173ZlGP0K2cUmhxsNkFW86bCzrOF0hYTTy43wD/1hojQlG1fZ9i4w==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:21:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[LPiIfD5NCvIcz1VpG53t5+Hzz1xbyTJ0KIP+O6Oz+hyh5DkRswGQFTIbRjjqY1VpStunxkeERobzhoy5S4AWooO6nEfDVCFCwciwhgw4xdXr0PcH08zBrSgB/C8G/0beAR20t6VsEBo/pD4GITyRaHXQ3kHyN5tbYOQYFKxDdvabsDAzeQRT0T/okcvTcU9c70RofsLMM5UKQm4J23r2zqq8hapiKkFPiegOrKZ4vZ3Z7VuWHSkqflmzOUJ0hr+HnoCIQZKKXwhfgN1KWIAxQZV16+kjmQ+dbhhXQz+pRwkJbxtHB44usopCQBvF/LyNhKresEb8GkPREBayXGM3XHr6VlO/GhgRRoltu9vgdaKGg73yzuTfp1v/98tZlbyNl9zpdkfJ+l1pl9mkrvZw6YNl/nplRDCZk9/S2Yh0GoQhaxamSnpTEvDjHpWu+7WHgOccW3hmIevuqhnOyd0uNw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[SpPtdRv97LULsIulsbnaR81lw7RlyqbRscknMztdVARiU1B04KjT3NkymXaETeqsWfMJZALOM1z0u3aQh9UZdEbLumYVnJ83msrDzwLuoh6wcPeLD5sWhzU60+hKO4pMGduBg8zpdOclpksNcEFaKgsSyFWEjEANrvNru0DNfQF2emENE8BsiRIMuFkgU4xHass8eiksjJ03rxMH4nfPvUcoy3+EGKjtDEskCFqJrib90Q3Sle8MRZrKMS/phJkLEviojU2kJM63OxZN3vXis/3Mvu1WHx9pi8e2vx/C90D+JpEV3HfsHXZq2mUPBxbr9L8pUdepqzQM7252a9P4F6USE9f2z2suXVeFWzLN5EyVi4i2IuWSvVo7qNG9uMrTGEpfYOlitgRaGIKnbvtui+OYvNd6t+NTRSCpCIfLzlVn+EOkHqn0qSqfA12qiA6Kp0CLyroPtniRUln9cnWHPg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Wy6TgBVYabW61NdPCUBL3rBQxBrxGHpFIK064gLwvRtotUa4pFyjKjFyyh+4rXVShqVjzeBOuRSizs6CYFMKP5qTNAgCBi5OF4LaF/l8j2sHbJ/kkVVUzkIRuzZcHu8lEUBPm6IhoNgb+0CNrorHj4jRwWN4317qIIjPbdT1Rmolqlf/To6cQ3Sb5uwAHUeMgfUIKAK4GF9Ry+Qnuq4OQRVxza7ltMK15+2kB8IDwPZXNmoACqJ+aJtWmKjgBReJIYHJRKgYip7MhxMcxso24FT0SvdPi5xOHPsdlfqjigL4BWIeHMCBwsnqjsroSwLxABfja0K6Mi57+EMPKa51oLszgOX6tS8PqmdiM1QMqLV9RC9/zv4lHzKYyplq5hNUsCyGLDBzU2X6Ev18cUrxcTitO8yEsSej51ZFOTRQnAr+8Z4Ld/bTDDrZ+tm4jBwEpxJMMneBYSSWI+15mv6+lw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 16:51:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Cr2roisQKpnQH8m5SA4S3jToNcV8jEzHV9wQ4bS6ydXW2nuQpWo8WDx9YL3a6t2AwyBpqop5CZTOfI/PaGVO+an6FbBbnA+LF2Tz5SySOxmogWLltTFdFNURQNFoG9frJHQrS+O5x1tUVoBQNQLHmDPTIQj2qrB9sgj28d39zsvnTOgc2Af31UROvt5J2OuSzubQqHW7vTfh7MW55CchP/fFmv5E0zVh2WofgXd8Clh4OyX775Jd4tHLVV0SHEP8+JU8JAV/nlHh3/McHitShtUUNsC1W3MoTLYWQ7nGMddJpcXhpiJj4JD4QHsRN9FVqjxUe9vgAiXdG4d2PLsZvD9Ujfb0xXwsXyAQFjA51HcW8iS3mRIMmGKKJatZYp/F64sP08EfvUQoFk4LWtHCGwJiuVMhPhfVSqQHn18D9BI40puTnP2aBptKw+x3AmWvuD0rwRMkqq3qm+VDImPp9Q==]]></Encrypt>
+</xml>
+
+
+2015-12-06 17:01:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[8u7rceThQWnPDmrEho8EGcO0f7GyhRFUyCmzdJus5VwwAj8bWh6lJZMqcRuvwoNVDpsoFvZyJww8Qny9ZO6P6bYfcgqCPzJ6z/CnDyQsxwvO8i1t9nCcRsNVoYABRycWDs0Rnb86eK+bzbsdaFzwqykKChVgaO3xilv+57ri1/AriodqdNrgXxcyh5LpitV/LfvfQ9zLR5rq8c7lrl1hjWoH9qcfotOF1FCcmDi6WQMFqS0uCdvK6s9qygDzWjq3ZNBV7dlz2QchCAVULiwvToEYjqKuaCHiDU+5xAxZSvX31rgcesZcD3SZgm5EvuziNUJi2GDS9+pMURCpp2RkvbmJIJAExibdXrR64VOkWtQZu5AZjV7FCikCQD47acX4F7qVrN2wlteZfN4sdbiOvpYc+vOptvg1Dq/ulXgIT5Kdr7UXU7SXKm7+m/Z1ZZmZIEWUszFIW1+d54aBgHQeLg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 17:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[TVjbyKO/6G1FIbFfmCDrNmBm/mvZuKIc6s3uMj0h+M2oXzi6JiyCr9F2sCIHn9h+fSmV56K7+PbrD4C7sNEi/D+LOKSN/SAIolFFRIGmdYQ0dA3rpeP8snB81NcIuoG5Q3Dgbolo6pcO7k/uz3F2UO+z3VaZ6WVQiTW+tFr8p62/cqDWItMN7/aTr74WNSFg2aDojtOtK33JyCxyXOw2heFgxB3yT8kopTkGxy492zL+hLLCCKIPUhIKe5ssLrO6HWk+XkYYyDlDn53H6HrVW5WiKMhUKIktTiMcrHp9wc4Xll+lzGKafDMXCMErh9ydtD7DONJOAK1C8bAA+xHHchIeCXiG4SfK7XpMR9xWrLUAX9sXsgBGypR5jOgJ/htOVnRpR0O2FjZCnIj/fHHLLSNWRz46RWx1FqTVAQQPvF1WizDYIWtEOdNqT6abhoTXDf3gatnfa1OhuVOdZk95Jg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 17:21:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[1OSCq2JCDlKzlOA1WVHD3t20V8EzcTUs64EJghp7PBx2cQ7ycV/kn1JIP9+E3NhvHIk+YbC8b0yNULepqK5OR+uoWrngP+zAp6DZ4nKgVMKuI0jZVsF2QxFGGF9aGJrULonHgDS4GgvJ+XK0Esl8TuwaDlpoFaNGiSfM+mIUgVYsKmJ8XdcMTfLHVFf2U0S67LSDYY/eue54tVCfiM+hJIhe6PQpq2mpK7Y0McOJw9flv3Mpq3b41qMl4/S8xgRIbTftyOAk9sr7A4eGrNvOiIYsAAWBzA12M4e1vwW/6LJgEl+yG5nAImkQCnihu8Yy1WATmwLO8+qHPvPIyp+lsbavkWmEfos0beKHbZI14dt117tzYAxRHEthv8JANnDXxIdcfyILT0P6bgyEmTR7hIzDBy/9abqln7hpalCi0p9gvLcloft5MMEM851jTcvn18831O0A3sNa91J9GK/vEw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 17:29:52 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449394192 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449394192 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 17:29:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 17:29:52 response :
+------------
+
+2015-12-06 17:29:58 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449394198 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449394198 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225100679823736190 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 17:29:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 17:29:58 response :
+------------
+
+2015-12-06 17:30:01 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449394200 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449394200 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225100688413670790 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 17:30:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 17:30:01 response :
+------------
+
+2015-12-06 17:30:03 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449394203 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449394203 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225100701298572684 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 17:30:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 17:30:03 response :
+------------
+
+2015-12-06 17:30:07 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449394206 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449394206 ;
+msgtype : text ;
+content : 抢红包 ;
+msgid : 6225100714183474573 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 17:30:07 params :
+------------
+Array:
+message : Array ;
+module : stonefish_redenvelope ;
+rule : 38 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 17:30:07 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-06 17:31:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[RaMuCpOy8t6Gjn2mGE9yMORjeUP0aHa1QHz/r3Vdg8hmW9l0NLlH4tZwaFplRWCsUozeeQHboQor+m6aq3x3sOVjZ65oESYsRIJm2vONW/M7n1DfbTyuT+nAcDf0VUIPU6vYdd2q6P4CEFfvSsIQF8JoBfVn78uT8Ws2ClUa5E6TDNLYidcrZu4QKsEhSKXxdDyuQ8JHTHAgu016oVZIhXFFvKOsqL1SN70J/6qkKUfSlrIzX6x5jyw25TJjJs08q4WT8ejK1ca/iXkjoG2XKL4hTfCX+h/G9csXq/f5w8JnOFJ0IJKD6KxRXJy1KraFwx990ebrrHs24ZsInXIu2QC6VCkbZCdHX25QGKbHWO9P7zGDxsJt8jT7RwfHMWY8BYpt3iY22MaknpVrllHOLFtm4K6f34a6gIefeSP/LNHNuf9Y3ovTet5VnIP9PWQDqjTmQz/5rmhPYIo6l23/rg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:02:52 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396174 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396174 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:02:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 18:02:52 response :
+------------
+
+2015-12-06 18:02:59 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396181 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396181 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225109196743884863 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:02:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 18:02:59 response :
+------------
+
+2015-12-06 18:03:01 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396183 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396183 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225109205333819457 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:03:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 18:03:01 response :
+------------
+
+2015-12-06 18:03:45 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396227 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396227 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225109394312380507 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:03:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 18:03:45 response :
+------------
+
+2015-12-06 18:03:47 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396229 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396229 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225109402902315100 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:03:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 18:03:47 response :
+------------
+
+2015-12-06 18:05:57 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396359 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396359 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:06:02 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:06:02 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:06:02 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396364 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396364 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225109982722900116 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:06:02 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:06:02 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:07:27 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396449 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396449 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110347795120305 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:07:31 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:07:31 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:07:31 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396451 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396451 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110356385054898 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:07:31 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:07:31 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:07:31 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396452 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396452 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110360680022195 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:07:32 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:07:32 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:07:32 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396454 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396454 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110369269956795 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:07:33 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:07:33 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:08:19 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396501 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396501 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:08:19 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:08:19 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:08:24 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396506 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396506 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110592608256210 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:08:25 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:08:25 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:09:44 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396586 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396586 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110936205639932 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:09:44 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:09:44 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:09:45 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396588 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396588 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110944795574528 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:09:46 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:09:46 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:09:47 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396589 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396589 ;
+msgtype : text ;
+content : 红包 ;
+msgid : 6225110949090541829 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:09:48 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:09:48 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:10:04 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396606 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396606 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:10:05 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:10:05 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[DSsjmFM+n8uQIVSNFur7hH1Ky01I2Aym+nSqmyMb3wzpbt2cBKpoWRSuaggdChLC+3J6rdJge4NWJD+4QzLVVp66kuZhe6vcYNdc90t/fQ78TXAoa5087TrqMOHOhdiXFzXMUqq0UhNTrDnJEUzO1H9XJIoLRwYjYuEIvbbg4U+S4FdHDPrOyjnIP1IxpJ53S/+pyZisRfsWfS8OrDW404dQ5rCaKlZ3YWLrawVnrKjz6AnlbN5H7nerT0dwA96X9I0b/Moflz37s7+mD7kGfaK45CZD478iCQ+9doiUXM61ccTmsi1/Tz5cbZAbiQVS1nw9l0Ttb2t5jAvs/GFJ1pTccwPlQL5JGEby6YdphZPwFxs1/fDeHEN7IsENDg27MUOL6AtKRHRtCb81HfApMXzG/5oJMnB9BTNwT4roft/qOKZD8vbj9EZGGlHgk50zRU2f9jrPjmnRt8stNWV3NA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:11:24 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449396683 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449396683 ;
+msgtype : text ;
+content : 抢红包 ;
+msgid : 6225111352817467692 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 18:11:24 params :
+------------
+Array:
+message : Array ;
+module : stonefish_redenvelope ;
+rule : 38 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:11:24 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-06 18:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[4fHqE+KWjrI4GWr27wzClJDkB+1ymaFGdqVJQsoG/we+MmRUykiwu8r5V61ptQAE5nuaGuBFu4Z8R+AY9h+7X7y9rXoJHiIIn4vuSDkc6xvm7KUzdNrdK+1sQ6jHYj2VjrjQiYW1DMWr1H21XrMhzqt41723eVY2UWhwCupInIueM7lbgioMkx66ndFJahF33ZnuLV4E0pWOYXY2Ip1p3h2RriPBNvlPqtS/irT6EI3DB3yxRRkQFw8IIlFMiPOOixhIhjkNxNmHEQc+G2rtsS0CuhdBhU9q98P1tNn1JR4ymib2uznR0MiNZYetXXjomntBMWxxhPxYKGCOZzdm7Ras6cv95oORV9OciGZSy8vNxipiKWZT+pvAYeR/1s0asluLSQ6JadeMynhMyKC+No/yBWoteiqn+GrS6lwgg075ay4yQ1tqmoaqMwZcT9oBJUNpx5HUv5fpkMiJfWn7gw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:31:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[6Ls9jI9SfnGYr7p5wBLJaHD18MRazPyiixyKf8AyCjDA1GSEXdaQ1AZBoqyGTfCArkW42iFMewUAiN/mOBNcndfQJysRYgJ/xEOXkPIm30HwPWtRMOi3+WaZvChPGqwqxLwzh33PmmfTjIw9dTTMOjtDw53o6IaCzGOmYqih771QZKBWxH5jEPRDetR9WFBYzPJ0Ark0Ff+4mnW8K/8nbKfjeljFAjoyciQEmazBMk214CHuoys9pITja/stqGyIiVaG6mfZxKv31jfe/2PccOLvRUU/8Q1SbmLMXuoAN6XR+Y3JrOMtapGyw1xykZK3SB11D04zVVTmTcAx8Z60vCsNwHd9TTioxnMnviEn565x96xwxawaLnB7OZWxKs6SQbrj+HbSNcPve8NxD9GkKJASkVzSCGHWDG0VM1U2mQoFWD6bRj6WKYD9Sdwf2IBBtE6irTY3JX17+JkPcLugGg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:31:59 trace :
+------------
+Array:
+from : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+to : gh_19c5308f0d46 ;
+time : 1449397921 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+createtime : 1449397921 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:31:59 trace :
+------------
+Array:
+from : oNKkBwYj5WahDik1MMizBrNYHD-M ;
+to : gh_19c5308f0d46 ;
+time : 1449397921 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwYj5WahDik1MMizBrNYHD-M ;
+createtime : 1449397921 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:32:00 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:32:00 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwYj5WahDik1MMizBrNYHD-M ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:32:04 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:32:04 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:32:04 trace :
+------------
+Array:
+from : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+to : gh_19c5308f0d46 ;
+time : 1449397921 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+createtime : 1449397921 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:32:04 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:32:04 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbpEKmjf1e1tYUJHlPb1StI ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:38:15 trace :
+------------
+Array:
+from : oNKkBwXSHj9uJKRaACKRmzSQT46A ;
+to : gh_19c5308f0d46 ;
+time : 1449398297 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXSHj9uJKRaACKRmzSQT46A ;
+createtime : 1449398297 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:38:17 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:38:17 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXSHj9uJKRaACKRmzSQT46A ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:40:40 trace :
+------------
+Array:
+from : oNKkBwQMBysjNG4dYTJIDS-GGV-U ;
+to : gh_19c5308f0d46 ;
+time : 1449398442 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwQMBysjNG4dYTJIDS-GGV-U ;
+createtime : 1449398442 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:40:41 params :
+------------
+Array:
+message : Array ;
+module : czt_subscribe_redpack ;
+rule : 39 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:40:41 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwQMBysjNG4dYTJIDS-GGV-U ;
+MsgType : text ;
+Content : 出错，未能领到红包:( ;
+
+2015-12-06 18:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[9ZldufbrJWeuSu5iKmzeKU33uOegqY7EK/ePa6entSYND00FetC7fERG/4N5DLtbwIkpJpAKVJnCEi96OUOjb/z20veYWvMNQ1SNo9LkYO3W2uwFcqareDmaG77WOLAsFBHeZyxbKEerxXsnPKmbKjwN8GICw0X5pqIrgD0BarXEAInm3tYOOI4HoXTkP9PaaW8oqoS1MsBQudnYeeM45rwWlLUqBGCSza3HPt7hlY4jPhAx3QtgmHV9FB2t/j8yIWJwsG19H3G1qcwGzQdl36o68cD+yvkXzZueE2M/2hlZp2z4b6QWTlmpDqNqS53/D7/aFYT7eroZqVR7KS40mcE6P46RqCFu91XzgztVLxJo0GnQxAKOtu7+AFMXMDt041/GMrBOAJjCxrRxs/cUBVxAW3piqLxeJTSOQS2nPnj6NyzdOiFaofOWNqVwarEZN3SOqBMTD+AkqFPaC+LV4w==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:48:24 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449398906 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449398906 ;
+msgtype : event ;
+eventkey : 1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 18:48:24 params :
+------------
+Array:
+message : Array ;
+module : stonefish_redenvelope ;
+rule : 38 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:48:24 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-06 18:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[KaiWVVaph7uuIgOmRXlErfCOEy92Zym5PnfZL2PINtGJif8CZIVL0kHgSKXRJe+Onr/c6HVL2mS5BFRpDvOkyylv45wl/hlvyTokwTQChP9P+ITsIxHPFQB587kyvv11eirGAfHbBDtcO+MyIPU1iOjKnEliU6zYz4tDWMJbz83+GXYoJGT1LS0tVdtdGraBkaACpVFOdt0pZqcBk8FwbcPObN1O2jHf1jduIxH617OdH9/TLzAZBDg8JO03sh09MHyq7um5jFeDPrnVdFjEKWo+44SWoW9+dKHGjL3+RRpjSigCZDdAOeo71vD2HPADryYmuCcBn9ltG4uppwLuoDPpdBUHcYNr/kourLhBswPEcdL+UjW4RMZrPegIpIFGOzGKEEqH6HL9ptie6b1fF7WDGl9dyK8H9p81WIqCF/0o0KSJbFZGYKUtLsdSP3gBOCocyYhCKLrqWvMekpGN3Q==]]></Encrypt>
+</xml>
+
+
+2015-12-06 18:51:31 trace :
+------------
+Array:
+from : oNKkBwYdudc_Y-9PDWk1pXvvnaP8 ;
+to : gh_19c5308f0d46 ;
+time : 1449399093 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwYdudc_Y-9PDWk1pXvvnaP8 ;
+createtime : 1449399093 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:51:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:51:31 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwYdudc_Y-9PDWk1pXvvnaP8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 18:53:21 trace :
+------------
+Array:
+from : oNKkBwX29dP0_F3C_rA5OlYHgaTE ;
+to : gh_19c5308f0d46 ;
+time : 1449399203 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwX29dP0_F3C_rA5OlYHgaTE ;
+createtime : 1449399203 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 18:53:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:53:21 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwX29dP0_F3C_rA5OlYHgaTE ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 18:53:48 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449399230 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449399230 ;
+msgtype : event ;
+eventkey : 1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 18:53:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:53:48 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 18:55:53 trace :
+------------
+Array:
+from : oNKkBwSGhslQ2h-UvxxVHcDvEZPM ;
+to : gh_19c5308f0d46 ;
+time : 1449399355 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSGhslQ2h-UvxxVHcDvEZPM ;
+createtime : 1449399355 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 18:55:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:55:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSGhslQ2h-UvxxVHcDvEZPM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 18:56:05 trace :
+------------
+Array:
+from : oNKkBwQ0i-KEbvUlssRQPzxc4-xI ;
+to : gh_19c5308f0d46 ;
+time : 1449399367 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwQ0i-KEbvUlssRQPzxc4-xI ;
+createtime : 1449399367 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 18:56:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:56:05 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwQ0i-KEbvUlssRQPzxc4-xI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 18:57:42 trace :
+------------
+Array:
+from : oNKkBwT6kaRa2jHuRituKwICr7-o ;
+to : gh_19c5308f0d46 ;
+time : 1449399464 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwT6kaRa2jHuRituKwICr7-o ;
+createtime : 1449399464 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 18:57:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 18:57:42 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwT6kaRa2jHuRituKwICr7-o ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:01:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[0+c6y1+ldOe3kLKHv2OBgPBjhfE6wK0pvtDCNEgbrhJDY1SjVD5kMOgryJtvoN+AtSVyv7xEdfXyTysTa8+DXd2/4UDMkDV+a4ARllpvQ5qu0jLxhbAHxZIVhUYiuQO6q7rCHJTzC5khXJWJ5s0Rp0cGMBVVzKgAAfvPG1NYdbpRZmfrmdyW5ediNvsAqMQZqZlbNXXyZfH7OWm0swvHq/4DSc1Xmzz7xSvjj85Tt1M3oavzwS7lQtzGAxwMENo7NVbOWXyPkoD6cioE9EoTuMBykBd1k5q/mHVg7Ke3Hp4hsrwGe0x2xiyipcLi0DWjxtmjMkL4/758m4p5ku6oJblblSgO3YvEcd+5Mr34tHcqfLfP3c4eCk/8Zh/WEcg/weBFUawSChGEtJSj9qWf9aUDCWiTgGBczmqVKqw5Y+Y1XkN1G3V3oACpnp1FecH7IQVUxvUvuFAvRQfKePC42g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:05:18 trace :
+------------
+Array:
+from : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+to : gh_19c5308f0d46 ;
+time : 1449399920 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+createtime : 1449399920 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 19:05:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:05:18 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:05:46 trace :
+------------
+Array:
+from : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+to : gh_19c5308f0d46 ;
+time : 1449399948 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+createtime : 1449399948 ;
+msgtype : text ;
+content : 订阅号？ ;
+msgid : 6225125375885690293 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 19:05:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 19:05:46 response :
+------------
+
+2015-12-06 19:08:45 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400127 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400127 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:08:45 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:08:45 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:10:54 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400256 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400256 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:10:54 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:10:54 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:10:55 trace :
+------------
+Array:
+from : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+to : gh_19c5308f0d46 ;
+time : 1449400257 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwUNQbR3WDbvFFiAZ94yoSeM ;
+createtime : 1449400257 ;
+msgtype : text ;
+content : 这个也不是商场啊 ;
+msgid : 6225126703030584904 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 19:10:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 19:10:55 response :
+------------
+
+2015-12-06 19:10:57 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400259 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400259 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:10:57 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 41 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:10:57 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : transfer_customer_service ;
+
+2015-12-06 19:10:58 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400260 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400260 ;
+msgtype : event ;
+kfaccount : 001@MallVip10 ;
+
+2015-12-06 19:10:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 19:10:58 response :
+------------
+
+2015-12-06 19:10:58 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400260 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400260 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:10:58 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 41 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:10:58 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : transfer_customer_service ;
+
+2015-12-06 19:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[I0fImJs+ESlWODmUschQbTngRIlXCkjFZu9Z69HeW/s9moVRLUQH46nGqbgOk64NoxNr8T2WmTPjC+7Zm4qIsP5GBzpGHSowcG+E4XFDWzqteAjqmGX196mW6QXDW9u1GUrgtqJrCR4iWPDU67UmvP0K/x9MK2JWFH4/kDEwbwwL852ONeMBfjeyz/YiEprgBFhl/hRVB9tMxy7GYPjY4AZn8eXuJUjbZWjDzsgu7yCqdv8+yU8tIVhRTgn5NarY2ny4kj1TxeKP5B+0P3+xshdgRDSQfk8CzazXqfy9ZymdFukpC7yH7lvN8onLtn8JmaXtpDOpKUjzNXKNuMhW584IqIwO3O++RZas5e+FsS4+eTTTwet7T6rdtHbGIO4d8o2gBbhLoqNkXT4w72fUFNpf1IPHxDFgwo/6RXvCrSeS2cQSBX7BVUzCAOMJVHupLVuKYNgHRjaYUfpIL1sYgw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:11:14 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400276 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400276 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:11:14 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 41 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:11:14 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : transfer_customer_service ;
+
+2015-12-06 19:11:17 trace :
+------------
+Array:
+from : oNKkBwT_da3vZLMd6twTrnN4nsqs ;
+to : gh_19c5308f0d46 ;
+time : 1449400279 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwT_da3vZLMd6twTrnN4nsqs ;
+createtime : 1449400279 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:11:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:11:17 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwT_da3vZLMd6twTrnN4nsqs ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:12:54 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400376 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400376 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:12:54 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:12:54 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 19:12:57 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400379 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400379 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:12:57 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:12:57 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 19:15:41 trace :
+------------
+Array:
+from : oNKkBwVmyKWUzol9fPGn9emhcqPI ;
+to : gh_19c5308f0d46 ;
+time : 1449400543 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwVmyKWUzol9fPGn9emhcqPI ;
+createtime : 1449400543 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:15:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:15:41 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwVmyKWUzol9fPGn9emhcqPI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:15:42 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400545 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400545 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:15:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:15:42 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 19:15:58 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449400561 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449400561 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:15:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:15:58 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweUVipxU-797vRO0_xQhGRY ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 19:16:13 trace :
+------------
+Array:
+from : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+to : gh_19c5308f0d46 ;
+time : 1449400575 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+createtime : 1449400575 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:16:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:16:13 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:16:22 trace :
+------------
+Array:
+from : oNKkBwRT9BaYl1WpXX02djQ5Ff5s ;
+to : gh_19c5308f0d46 ;
+time : 1449400584 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwRT9BaYl1WpXX02djQ5Ff5s ;
+createtime : 1449400584 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 19:16:22 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:16:22 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwRT9BaYl1WpXX02djQ5Ff5s ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:16:59 trace :
+------------
+Array:
+from : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+to : gh_19c5308f0d46 ;
+time : 1449400621 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+createtime : 1449400621 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:16:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:16:59 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwblJN7Dzs2L-a1MuHPr5sgk ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 19:19:14 trace :
+------------
+Array:
+from : oNKkBwdeb847CuaXZn1Robq1OxMc ;
+to : gh_19c5308f0d46 ;
+time : 1449400756 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdeb847CuaXZn1Robq1OxMc ;
+createtime : 1449400756 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:19:14 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:19:14 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdeb847CuaXZn1Robq1OxMc ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:19:47 trace :
+------------
+Array:
+from : oNKkBwbdWpHGG6M5vFyQt_zke1zQ ;
+to : gh_19c5308f0d46 ;
+time : 1449400786 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbdWpHGG6M5vFyQt_zke1zQ ;
+createtime : 1449400786 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:19:47 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:19:47 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbdWpHGG6M5vFyQt_zke1zQ ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:21:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[xtDHGI6wIK+1iFKe/6nxUnR6i3F/O3J+hc24ZvtIDoznKgocW+P2zXTJJT4GawXF+kBDxevefLye+pA8u8f/hERW/g/6mhpW1oaDn1vZYSC8zA3tDoSdDCkYRXnBb7a1L4N6ykYcreU1g8vV5erDev/IReGte31/zGxiAkfmL3Aiqwm+N1wL4CDDi+AngQXlvYZqK9l+5qMLEEfgEJRYBaGDUpooFkyHeGkB48DLk6k7gFFhPx2MKR9x1NCeKSj+R1Ae3xhJwvddioO4eQKX89Q37UZC3AOXMMEOcEco2hqdb6W0QfcjZFoi8TwXuwXO8zRgRzmPYj5f2slU03rLsqFF60yz8hlJ0zJrlSzPyagBMi3A2tQP9nEPLzP1c4FZ+PzrNjdS8ayy/8uUALBP0DloZ/rIJV15MK+m6SiZRkTibk3zvk8ZEYeJOLQZmBYzCsUbyfiC7ne/ggJ/0LDBuQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:21:10 trace :
+------------
+Array:
+from : oNKkBwSp3FCFUbAvzYfhobzMg5PE ;
+to : gh_19c5308f0d46 ;
+time : 1449400872 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSp3FCFUbAvzYfhobzMg5PE ;
+createtime : 1449400872 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 19:21:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:21:10 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSp3FCFUbAvzYfhobzMg5PE ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:22:53 trace :
+------------
+Array:
+from : oNKkBwZMP60UzwS2mr4tXDNaOf5Q ;
+to : gh_19c5308f0d46 ;
+time : 1449400975 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZMP60UzwS2mr4tXDNaOf5Q ;
+createtime : 1449400975 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:22:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:22:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwZMP60UzwS2mr4tXDNaOf5Q ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:25:02 trace :
+------------
+Array:
+from : oNKkBwdl27_QPF8LkzAUo8IQ87bs ;
+to : gh_19c5308f0d46 ;
+time : 1449401104 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdl27_QPF8LkzAUo8IQ87bs ;
+createtime : 1449401104 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 19:25:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:25:02 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdl27_QPF8LkzAUo8IQ87bs ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:26:54 trace :
+------------
+Array:
+from : oNKkBweTsSEC8d-h5Pide4TK_X30 ;
+to : gh_19c5308f0d46 ;
+time : 1449401216 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweTsSEC8d-h5Pide4TK_X30 ;
+createtime : 1449401216 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:26:54 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:26:54 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweTsSEC8d-h5Pide4TK_X30 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:27:28 trace :
+------------
+Array:
+from : oNKkBweoL7OP6VwBZq6XKR4Aj2uA ;
+to : gh_19c5308f0d46 ;
+time : 1449401250 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweoL7OP6VwBZq6XKR4Aj2uA ;
+createtime : 1449401250 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:27:28 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:27:28 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweoL7OP6VwBZq6XKR4Aj2uA ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[ANAPdbr5qK6opnpsVNJmkT6MeHIglZmd17yxd3B8kCw57RPV+eZaS30YeAuD4tMdFpcry+bYknWipHBc7oIKB71oC+yCQ8yWZzLI1L9eGY4aIyWm0nyGP4Dq7OyPRkhccJXyrhjODqCsTWuUVY26T0ESVyNeWfQzeO5crEkmZu4hRsBsMN9f95Q0qWIc2Ta9M4pXjfUCMX/O1lJv73DHnpdf0oyPld79gUWmG7vQVMoBVgGbdGV/uIwXZdiQs98nkdsMerSfRmD56s6MgTyEyASI0/K4LMB0Z8aDrB2YaqeN0wSNlIYwGWMhSc9e5WGuP6xI1eYKPTtKAtyPtR4inhkyhMgQoFNRfjThIN5kZ1yAIjK2qzq2hgdEjIHj+/Fv0o26VD7HgnKq9ApFP+vKxN4b52BMx4+PRro+7ymHSAxmno1zvJUC17msPgTyMIiR5BKaXcm2uIyQDwIuctaJFA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:34:25 trace :
+------------
+Array:
+from : oNKkBwToHDKA4jaqhfkP2d5r6ppY ;
+to : gh_19c5308f0d46 ;
+time : 1449401668 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwToHDKA4jaqhfkP2d5r6ppY ;
+createtime : 1449401668 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:34:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:34:25 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwToHDKA4jaqhfkP2d5r6ppY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[+rJ7P8uxcJZFqRSX9U16YOGpIvP/EkN3LOmI8gDTGekczv9UTiXgP94BNxmOGUtiNR6mB4urydkIg/3yKNBYx5AdLvl4YdbEG2Up8LGILhrt+tI/TQzPbaz9MGtoyX3cMybANdOB0VpkvkEfEv5xAk63z0zmyXCajWHK6QnxdZvRSwq23Z4iGAzr0yNs2PccLCw7PzgIbk2ejXy2tnnm2pdGiGB4fpqlBEdiSOFGKHzW2uNkkdOBgP+Z1g29A1cEb94J8nPxgoQx6FSx7OGFHFnFzorOYmFSFGTBiKYFooBA2d22B7MQuAT8X4M+H5hJyepV9VURnSFonY1lbkzzgWyadVATnBya2epsC5zFeFKjnDsgi5CYJ/chtNGaeTAW9sEsOoVGOrhtuqt0dG1ySl+bPr1lU4328r3n7Sa1cJZL3e59uHb5hEwyVXuryLO3WWSY9511AesWmEkMt+Rwwg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:42:40 trace :
+------------
+Array:
+from : oNKkBwR2bH-Z-VAYTzS4vlyGne9g ;
+to : gh_19c5308f0d46 ;
+time : 1449402162 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwR2bH-Z-VAYTzS4vlyGne9g ;
+createtime : 1449402162 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:42:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:42:40 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwR2bH-Z-VAYTzS4vlyGne9g ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:45:02 trace :
+------------
+Array:
+from : oNKkBwcM9kwHH5xHkekAnMtN0HD4 ;
+to : gh_19c5308f0d46 ;
+time : 1449402304 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwcM9kwHH5xHkekAnMtN0HD4 ;
+createtime : 1449402304 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:45:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:45:02 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwcM9kwHH5xHkekAnMtN0HD4 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:45:29 trace :
+------------
+Array:
+from : oNKkBwSvk40e3bZJ5GuYfNn__Mec ;
+to : gh_19c5308f0d46 ;
+time : 1449402331 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSvk40e3bZJ5GuYfNn__Mec ;
+createtime : 1449402331 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:45:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:45:29 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSvk40e3bZJ5GuYfNn__Mec ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:47:32 trace :
+------------
+Array:
+from : oNKkBwR8RsbM0jB60aEerBpKtl1A ;
+to : gh_19c5308f0d46 ;
+time : 1449402455 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwR8RsbM0jB60aEerBpKtl1A ;
+createtime : 1449402455 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:47:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:47:32 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwR8RsbM0jB60aEerBpKtl1A ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:51:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[QbKBtFAiujQcewWKG5O89qispB5zsBwfhclZS4Y3PWJQ/cdAh0uC+nflT8hJASsrM38SstqDrAbXzd6lz/kzG60NxloQyeEfukw3NDa/Q5iB4xH+oVoyW4nwA/r7HinBqEMzoMGblEXCmbC1p/VQqCoDDR/arOWiWpxQLsZkB3z5z0i6wNxy+BdUd8j2x68pEISw2+mCyh+Cv3+Dr79CotL5xDgGZR2F+MxZssd+gDXqQP1d/qPitNZk96f40Z/a6gvoteBjkTb6VaI1an39hyaPb9a7VCUHtWoIegbzsARKiSSYnZPVO9fA2Pf7D9b6RzT5T2a0vnvVWysVuhiwl+7wIfND9WV4T1PKMPpmJd9xt1XX/2sPK+V9nyk0oujwaVSth1qBgO1LzwEXm/1aqMZpG+/I2K58H2C7hl4MX7wmlE+GX9p4i/6aPqdJnXxV87QAYEoEDn5R/n/QN/n89A==]]></Encrypt>
+</xml>
+
+
+2015-12-06 19:51:30 trace :
+------------
+Array:
+from : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+to : gh_19c5308f0d46 ;
+time : 1449402692 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+createtime : 1449402692 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:51:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:51:30 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:51:49 trace :
+------------
+Array:
+from : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+to : gh_19c5308f0d46 ;
+time : 1449402705 ;
+type : image ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+createtime : 1449402705 ;
+msgtype : image ;
+picurl : http://mmbiz.qpic.cn/mmbiz/6RQaBqgcnx65c7U3ssE9JOt67qdia1LFT6N2QA6l0s8lSvkf1T57tZfC7tUsiccQKJgVpMGhDrXSFSOek5nvIjdw/0 ;
+msgid : 6225137217110526770 ;
+mediaid : PzfvdFJfuxD1Da2jpd6y_V9bl5Po-uMPHbnOv7gfoHzcVpEdtR7LPdMxPID49R8v ;
+url : http://mmbiz.qpic.cn/mmbiz/6RQaBqgcnx65c7U3ssE9JOt67qdia1LFT6N2QA6l0s8lSvkf1T57tZfC7tUsiccQKJgVpMGhDrXSFSOek5nvIjdw/0 ;
+
+2015-12-06 19:51:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 19:51:50 response :
+------------
+
+2015-12-06 19:51:59 trace :
+------------
+Array:
+from : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+to : gh_19c5308f0d46 ;
+time : 1449402721 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwf4sRwrtrN8ZNd2zI_UboCI ;
+createtime : 1449402721 ;
+msgtype : text ;
+content : 扫一下 ;
+msgid : 6225137285830003516 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 19:51:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 19:51:59 response :
+------------
+
+2015-12-06 19:57:27 trace :
+------------
+Array:
+from : oNKkBwTZarHexCzPvvIiAsGmhrPs ;
+to : gh_19c5308f0d46 ;
+time : 1449403049 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwTZarHexCzPvvIiAsGmhrPs ;
+createtime : 1449403049 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:57:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:57:27 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwTZarHexCzPvvIiAsGmhrPs ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:58:51 trace :
+------------
+Array:
+from : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+to : gh_19c5308f0d46 ;
+time : 1449403130 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+createtime : 1449403130 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 19:58:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:58:51 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 19:58:51 trace :
+------------
+Array:
+from : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+to : gh_19c5308f0d46 ;
+time : 1449403133 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+createtime : 1449403133 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 19:58:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 19:58:51 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 20:01:09 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[52ennXBY/I8vT92ZNf8nZtYWpCnejkHjMqmwZkdCT3x5XAZ0isjL9UPqomu9QjruuXBVVE4+L57uSmCgJDT9W+nCW5bbOhwPjitYXsctUHEoMBeBSJsMWRLKhL5sdcxV6TZ3rP8JTBhiX27jNfHGCr3ViX3Bp71JQsVs2jxHq2aafOMVBnICXhHLhiXX86GCOU3CPPemyGkoprycxcUZUJJV8gmOHCOK+De+UQjdOn0FEEcg24l5Y6OyG8Afw6vDD7LC/BI+VjHzLuERoyIvBNeSaCe8CxNXIu6LudyBX8r6l3JSph8KSqleLnue6E6ifhZh9iNZpP/84qZUtwSWJXqGFWZxrSEsUbU4DyklpIMoy02vIy0cE6Z647TP45zaOOISmhldhCS11FcZd3llcXF0cB0hY651O1YFRrdDSd6gjH8uzB9e1paiKAXYlfKuXTriFBg5C9FMyU81kGSAVg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:03:42 trace :
+------------
+Array:
+from : oNKkBwbkWJOX3-FEKvkvWMME3yd4 ;
+to : gh_19c5308f0d46 ;
+time : 1449403424 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbkWJOX3-FEKvkvWMME3yd4 ;
+createtime : 1449403424 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:03:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:03:42 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbkWJOX3-FEKvkvWMME3yd4 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:09:58 trace :
+------------
+Array:
+from : oNKkBwVb9U_I2cCoRC6LDmMV40iI ;
+to : gh_19c5308f0d46 ;
+time : 1449403800 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwVb9U_I2cCoRC6LDmMV40iI ;
+createtime : 1449403800 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:09:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:09:58 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwVb9U_I2cCoRC6LDmMV40iI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[sYxl2v4/QXwuehkasiPTEiVSC0HV8U2zEWs9KwKYKl4OOy3euKWtp0eA3bKIVfMq6JqbL7ituPJQ5AlmwDMRvjfZxBUXuU4r/9drJeB3tIORci4hj2gofRjNF167ZCKZMt20L67Tf6Y6wVE0gZYhrIKW6XfOvfYa1nvAkaQkJDvD4atF7UKRMxqyrhf/FH7ghappTTbC6LtfwYBi1dxdvgky9ITN3ga8AdCAeSId94ooTf132qzpeQe6IrPFuZgb+Dc2CJtZxJt0l+Hkrkt5/saRSKxvHGCfoELeDIJit0t1lTvCOIN5qu9hNDH4m8sMxNFS5nSrK/tbH/3YjI4UHIFiVfvDMHfFASLeEnDseU4tRPOKmvvhZwkKsTHX0c0f+En64cv4UdqOG89mz8EcTQ0GGues6MOxsdTzOVpzUjewZJ3UZAzHbWsqGvsfhJjSGAJ80JpFYfZHK2is49UZuQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:19:53 trace :
+------------
+Array:
+from : oNKkBwcHlkeMSE_qeYuGARKmIFAA ;
+to : gh_19c5308f0d46 ;
+time : 1449404395 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwcHlkeMSE_qeYuGARKmIFAA ;
+createtime : 1449404395 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:19:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:19:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwcHlkeMSE_qeYuGARKmIFAA ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:20:24 trace :
+------------
+Array:
+from : oNKkBwe318AONGEMADrCOdKhh5KQ ;
+to : gh_19c5308f0d46 ;
+time : 1449404426 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwe318AONGEMADrCOdKhh5KQ ;
+createtime : 1449404426 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:20:24 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:20:24 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwe318AONGEMADrCOdKhh5KQ ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:21:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[iXGf5Tie7YuRqLYBi/7m9MjqBuFAdzR6nqTFfIO94fVK6MS1girxP/9dFzlAZXlfBoetN0e4B4Xlpd8dvNDNQdizUzH5Da7aIxknUtDUdg+fU8pu8vVLO67N9lLoYhRedTD3TaSOlr6cBtp7rDsxRiE8oYmeVq+tp4AHEVUZ10g0z9z0/HLHniWkss2Fpva4/coPjcmIXRTMzvxvJS0Q1+hsf8Kszadfm6yoa1NaDP4ODu1UtepKi9OL69cph8VhZsPvJGoD/SKGoMAaNTtqWE4XuvwlE4g7bQsc/nofR6CZn185PezRMPe8YPYEiFohcz7pp9f33XVty0+APIyhKQa8BvarS7F0BL/tbEQriTL7F4bEOMfRc9lpt7aLCBbMPHGsEU5dEAhvQyJ6DdWuoMp6hYaBZTmsiFEc/8iuO9I/KUcfml4IINQE+qR1t1y8f/GBQkWLn770ACjB/zAdnQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:28:23 trace :
+------------
+Array:
+from : oNKkBwa47z2-_niijMsw4X3ddw4E ;
+to : gh_19c5308f0d46 ;
+time : 1449404905 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa47z2-_niijMsw4X3ddw4E ;
+createtime : 1449404905 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:28:23 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:28:23 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa47z2-_niijMsw4X3ddw4E ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:30:43 trace :
+------------
+Array:
+from : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+to : gh_19c5308f0d46 ;
+time : 1449405045 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+createtime : 1449405045 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:30:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:30:43 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:30:47 trace :
+------------
+Array:
+from : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+to : gh_19c5308f0d46 ;
+time : 1449405049 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+createtime : 1449405049 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 20:30:47 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:30:47 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 20:30:53 trace :
+------------
+Array:
+from : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+to : gh_19c5308f0d46 ;
+time : 1449405055 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+createtime : 1449405055 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 20:30:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:30:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 20:31:01 trace :
+------------
+Array:
+from : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+to : gh_19c5308f0d46 ;
+time : 1449405063 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXg1fUvv3WP8oPiEmR_FtPI ;
+createtime : 1449405063 ;
+msgtype : text ;
+content : 你们是做什么 ;
+msgid : 6225147344643411876 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 20:31:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 20:31:01 response :
+------------
+
+2015-12-06 20:31:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[tvFZ+RA+a3LJKuPHZCAnr+QNGSaz33kur35LZXBJuAJq5oagHbFgTafLM4GT6Ip+w+cAEcYyA7GuDsN8RL9JnBMH+eWRA12N/qoNw1WZhu2bfKAriNRz6kQ8VUHmFhAQUrinG3gB4RDK0hpUq5HehFVtp53AGVI3gLNiDyiXC+aiWoNzgt+3suH0Nlj6c65gyNyJmPSIeGoT+RGGpf+mvgIu+ZdI86S8mmzHeszt4wSJsMuL4z0C+D4Bsilnpp1G7EEaZOODpkqNcFIdOEyJqMu7SBslqqtnvsOIoVxReE+08NQCqqJLXq7rn6kssMKqVlS2vQig1OYggVotDW3FSDZB1TP+Ng4cudamYMyLDy88vTfIi3WMTGxQGSL7g47+Vivr0HvI/2+/hoUaLe8a4jji88945pJPbqDug8vlpl93zVRMc6PK58Sea+EEysVk+kb9bqbwVvp5ZNWlKy1cOQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:31:48 trace :
+------------
+Array:
+from : oNKkBwYL0J3JkAUSJgXYZ07Fx-8w ;
+to : gh_19c5308f0d46 ;
+time : 1449405111 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwYL0J3JkAUSJgXYZ07Fx-8w ;
+createtime : 1449405111 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:31:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:31:48 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwYL0J3JkAUSJgXYZ07Fx-8w ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:31:55 trace :
+------------
+Array:
+from : oNKkBwVqmVfCRE6VhNyTguY5WRII ;
+to : gh_19c5308f0d46 ;
+time : 1449405117 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwVqmVfCRE6VhNyTguY5WRII ;
+createtime : 1449405117 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:31:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:31:55 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwVqmVfCRE6VhNyTguY5WRII ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[k6GNREYYDMdwxAsUmagGK4HOYnIZ3osPTElwfkMu91F8n45hGWKrcWIE4iSmUmwLinl/dsmBiMld4o24x3xzHCVGLj8hGRI8FcYviVqU+tB0qVQuIIIEQvAc2dkL3/rG8bZFSXNCySMRrI8y7YWSftqkyAne0Blifa4CAydA7lkG6TOm/6SdCj1hBlAg6LObTQSF6H07ULJFJ1ug1yUbaa0U3mrPaLBs63CS8MTVvfLF836OfxzzOm0iYYXPNCNq/BVcK+SoNCggCDZ6XNEqh0mppje8K8EtShKoc4ysXYjNBCdTCjdv8IOI6Yvvg+tOTBx1kPuCZ+A4IxB5folK8sB0WyPaR7XoGwCAaVa7gokAURQ7wr3gSqi10kFm2iVOl2knEiKB8YdwzRo+1HkPnYKyB/3Hey/ae2CAOWEiKxHnhIpt0hA8bUJUyzIC21iMUaTM2borqgY+pp5MbFhA9w==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:42:17 trace :
+------------
+Array:
+from : oNKkBwdJoQ6vJahg1UJCPvhgXLi8 ;
+to : gh_19c5308f0d46 ;
+time : 1449405739 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdJoQ6vJahg1UJCPvhgXLi8 ;
+createtime : 1449405739 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:42:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:42:17 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdJoQ6vJahg1UJCPvhgXLi8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:44:05 trace :
+------------
+Array:
+from : oNKkBwefU4Rodb2F_hBCkqs4r7vg ;
+to : gh_19c5308f0d46 ;
+time : 1449405847 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwefU4Rodb2F_hBCkqs4r7vg ;
+createtime : 1449405847 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:44:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:44:05 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwefU4Rodb2F_hBCkqs4r7vg ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:44:33 trace :
+------------
+Array:
+from : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+to : gh_19c5308f0d46 ;
+time : 1449405875 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+createtime : 1449405875 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:44:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:44:33 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:44:40 trace :
+------------
+Array:
+from : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+to : gh_19c5308f0d46 ;
+time : 1449405882 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+createtime : 1449405882 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 20:44:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:44:40 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 20:44:58 trace :
+------------
+Array:
+from : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+to : gh_19c5308f0d46 ;
+time : 1449405900 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwXHnqjyFsSgNRBdMHIEJKV4 ;
+createtime : 1449405900 ;
+msgtype : text ;
+content : 来自微聚友 ;
+msgid : 6225150939531039021 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 20:44:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 20:44:58 response :
+------------
+
+2015-12-06 20:51:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[+Di6hlqNlWc/6PYvYVYC7vob9R4+AAus5cStkID7q+Kit38OEYC+KLUMDDVui0tg++IhLwnnrqUH35x0pED9szeyETeM8rsdXO974L1to2BmJSvG4z9kBh2B6qhwyg3gXxtaZHOlKgsAbR0HANDPT5JcbJwoUy1MqSDSQaOIsJKPym76Dr33Ua8/Bo4O/AOpj9NHC1h8Z8IMOnpDj7g26jZVT1+tSJitQ5bFo599JhGs99S93RHiPWHmCns8TDa3qz9YaTqpPsQx30X4wOKMqe3t1prm9oJlpO29S3ujDrI/8eit7kDOhYLeDGAFnavjtm7+O7Cl21REEDkSsy7bLrA3jmsp2LuIncwLPlNiHXtbkd+8e044VIGXoW8pF78qvzQwKHdN9y/QzymDTQOL8ghCSVKT5sVSXkCoAX+tze/VPnYCF4nOT7f++pAAUQ+bbXJRWJrdwZGkF6SOUHNzBA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 20:51:25 trace :
+------------
+Array:
+from : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+to : gh_19c5308f0d46 ;
+time : 1449406287 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+createtime : 1449406287 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:51:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:51:25 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:51:46 trace :
+------------
+Array:
+from : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+to : gh_19c5308f0d46 ;
+time : 1449406309 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+createtime : 1449406309 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 20:51:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:51:46 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 20:52:05 trace :
+------------
+Array:
+from : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+to : gh_19c5308f0d46 ;
+time : 1449406327 ;
+type : voice ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+createtime : 1449406327 ;
+msgtype : voice ;
+mediaid : A60YxcFfxurdl6lSXZco3GXrg206KlLqwwejqLfdb3eLDoJfRJQnAbbwgWh9CRo- ;
+format : amr ;
+msgid : 6225152773482074678 ;
+recognition :  ;
+media : A60YxcFfxurdl6lSXZco3GXrg206KlLqwwejqLfdb3eLDoJfRJQnAbbwgWh9CRo- ;
+
+2015-12-06 20:52:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 20:52:05 response :
+------------
+
+2015-12-06 20:52:15 trace :
+------------
+Array:
+from : oNKkBwejMIhUQN_upxy9VoNAnnTM ;
+to : gh_19c5308f0d46 ;
+time : 1449406337 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwejMIhUQN_upxy9VoNAnnTM ;
+createtime : 1449406337 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:52:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:52:15 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwejMIhUQN_upxy9VoNAnnTM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:54:43 trace :
+------------
+Array:
+from : oNKkBwZ-hHYwr5wllK0LzCZp8yWI ;
+to : gh_19c5308f0d46 ;
+time : 1449406485 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZ-hHYwr5wllK0LzCZp8yWI ;
+createtime : 1449406485 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:54:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:54:43 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwZ-hHYwr5wllK0LzCZp8yWI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:55:05 trace :
+------------
+Array:
+from : oNKkBwTs3qOr5ey0ZybZeDwCLltk ;
+to : gh_19c5308f0d46 ;
+time : 1449406507 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwTs3qOr5ey0ZybZeDwCLltk ;
+createtime : 1449406507 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:55:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:55:05 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwTs3qOr5ey0ZybZeDwCLltk ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:59:18 trace :
+------------
+Array:
+from : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+to : gh_19c5308f0d46 ;
+time : 1449406760 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+createtime : 1449406760 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:59:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:59:18 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:59:30 trace :
+------------
+Array:
+from : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+to : gh_19c5308f0d46 ;
+time : 1449406771 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+createtime : 1449406771 ;
+msgtype : event ;
+eventkey : 1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 20:59:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:59:30 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa8DiSh9mkdPWKuNP8Neusg ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 20:59:42 trace :
+------------
+Array:
+from : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+to : gh_19c5308f0d46 ;
+time : 1449406784 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+createtime : 1449406784 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 20:59:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 20:59:42 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 21:00:14 trace :
+------------
+Array:
+from : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+to : gh_19c5308f0d46 ;
+time : 1449406816 ;
+type : voice ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSBTICj9PBZqklFGCPWrEjk ;
+createtime : 1449406816 ;
+msgtype : voice ;
+mediaid : ccBDCR4UVlyMWC7wXjryBm9gOSTlqD82nVP-bUrN13PE4p5zo4l9Bx10XYg6D2ut ;
+format : amr ;
+msgid : 6225154873721082691 ;
+recognition :  ;
+media : ccBDCR4UVlyMWC7wXjryBm9gOSTlqD82nVP-bUrN13PE4p5zo4l9Bx10XYg6D2ut ;
+
+2015-12-06 21:00:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:00:14 response :
+------------
+
+2015-12-06 21:01:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[IBadGuIkxQwAgUV12v3XRZ2y+zr2wNrXl86QxepZlQ5PS45qYyln+hsDPHKebNDM34gUTCtQTEoYdTXv8miE5oXs2WltbkRJh2FGY6n6VVLOtmFn3Lcqol31Fl8LBjeaT2Da7zwZ4PQG1+bhvV5f1aOJUPoUPoedIEr0s477CDe4i0aLht1v414d/5uvVVDN+wFNn6k09OszDgZGl8x7bPWKYAnq18V1d7zCo3+JNcX2hNL4U9LhtZDTXL1AI4ljABkmvyMFBxMJTzdjxq6H8kIiUw/3lr2r5k775LQfrp7f3aWttjvMvh3jcrYQXBDSrECo7DuRNlovp6xluPYyAJVf0GtAHiuNyUI7Q1YQsr+lQR/SDBr9v7Ey1TfanLro75ll4diowiFmoJmsiil0AnFAl03U9JTB+g0Le+vKtBo3UlUV81Fr18SOV7vqSbl8TAAopi/flKBZKFng5AsZGg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:07:49 trace :
+------------
+Array:
+from : oNKkBweugQ5nJTAQCETkceDZ12Ow ;
+to : gh_19c5308f0d46 ;
+time : 1449407271 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweugQ5nJTAQCETkceDZ12Ow ;
+createtime : 1449407271 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:07:49 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:07:49 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweugQ5nJTAQCETkceDZ12Ow ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:08:32 trace :
+------------
+Array:
+from : oNKkBwd15J0VaAxFp_UEvX8xPl2Q ;
+to : gh_19c5308f0d46 ;
+time : 1449407314 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwd15J0VaAxFp_UEvX8xPl2Q ;
+createtime : 1449407314 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:08:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:08:32 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwd15J0VaAxFp_UEvX8xPl2Q ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:08:34 trace :
+------------
+Array:
+from : oNKkBwbq9HCdAidDQ3VQE3WyHU5g ;
+to : gh_19c5308f0d46 ;
+time : 1449407316 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbq9HCdAidDQ3VQE3WyHU5g ;
+createtime : 1449407316 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:08:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:08:34 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbq9HCdAidDQ3VQE3WyHU5g ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:11:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[j9R7l9BXg5rfyuuqUU1wd8M6fBMCdbthokJ97891ZuFKGOiSb7lKfznZE04j+AS9ika86PMkZ4Rj2gBVtJodHcVxAzjjH0mPbIaVDMRGHVG30lGOQk7rDVX0DW9C/Aa7O4RjR0Y+alahb+ICar6FEgNYzh+H/u9heYqMGtERXeqVijw0UO7bA6EQZO7JMAiTqraBXFp75g3lKrjfrRBCEULU1JECcoEfr4UeHBFhmMCVbYip/1bCp86+05SaUDvQ3cghlYpK87aXILtdHvDladj4lvLFtb2MHVhdGGeZdlM2fIYtF3sMe24MnZbjRBWiWWW1AnMMjxeQoD4FEpJm20Q2X6XNkrFjktLLOzVuLgZtwUmqSDMxztxV1bFTgH4Ei8W84x7W6A6xSfZANed8n0N6uS1byoSlMwh6Uq0vKwUymSRYN0g2mtGUB2jvPwNkAbbvQph7mzlQrplPDyyZ3g==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:14:03 trace :
+------------
+Array:
+from : oNKkBwToKRmU0rjnL1rSnWtByqI8 ;
+to : gh_19c5308f0d46 ;
+time : 1449407645 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwToKRmU0rjnL1rSnWtByqI8 ;
+createtime : 1449407645 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:14:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:14:03 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwToKRmU0rjnL1rSnWtByqI8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:16:52 trace :
+------------
+Array:
+from : oNKkBwf1Zj6JPFNrojEmVBBSPBN0 ;
+to : gh_19c5308f0d46 ;
+time : 1449407814 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwf1Zj6JPFNrojEmVBBSPBN0 ;
+createtime : 1449407814 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:16:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:16:52 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwf1Zj6JPFNrojEmVBBSPBN0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:18:43 trace :
+------------
+Array:
+from : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+to : gh_19c5308f0d46 ;
+time : 1449407925 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+createtime : 1449407925 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:18:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:18:43 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:19:10 trace :
+------------
+Array:
+from : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+to : gh_19c5308f0d46 ;
+time : 1449407949 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+createtime : 1449407949 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 21:19:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:19:10 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:19:21 trace :
+------------
+Array:
+from : oNKkBweteble5YB--pg3rhKcM46o ;
+to : gh_19c5308f0d46 ;
+time : 1449407963 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweteble5YB--pg3rhKcM46o ;
+createtime : 1449407963 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:19:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:19:21 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweteble5YB--pg3rhKcM46o ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:19:53 trace :
+------------
+Array:
+from : oNKkBwQ406CziZfDB3UY0kA9FbAc ;
+to : gh_19c5308f0d46 ;
+time : 1449407995 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwQ406CziZfDB3UY0kA9FbAc ;
+createtime : 1449407995 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:19:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:19:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwQ406CziZfDB3UY0kA9FbAc ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:20:56 trace :
+------------
+Array:
+from : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+to : gh_19c5308f0d46 ;
+time : 1449408058 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+createtime : 1449408058 ;
+msgtype : event ;
+eventkey : 1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:20:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:20:56 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweF5lmCAlr7EhZgq8tTbk4s ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:21:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[D+PPoPqokl41qEioPAO3HQo441K1fVAaLWzYYRE0o9G75YBChzxFncxu/d5eYIXvZ1rml0jLWWyM3rrtkjnOD2fFcXA5v4xpTie6wXb34j7DsO/r6HkaV2fWu2G/Or6ttDE5u9xVOzbQM96T3jSzWeYaeC5yvGU7q5FYJeY2kGdo1H9s8ZFY4WvOSvXvHuhdX8AaB8cQwe1sel5HxRD3a3XzsZteaQSdzfoIF7DcFq8B/x7d5u1nOd/Lz8X8iU3BZ1SK7GEkpVEim/IkzLnq12hEgoAokAqbqEbcg7Hr/32mdtGW5r99DAz00W5jXAqZx4PDrMJ73znci+6ox+hTnKMXlyujLNeLTEzss7c0dybQqTkLlCDgJjc2gJt7gbRmiVnYz7vuiWmiWuGBl/39Oj6VXpeNrDhfnMwTExZKly0SaR2XkQKXYvlCTMrue6wP5BYhhsZ5a7TSL3H36BCWiQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:21:57 trace :
+------------
+Array:
+from : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+to : gh_19c5308f0d46 ;
+time : 1449408119 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+createtime : 1449408119 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 21:21:57 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:21:57 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwauNm9TjkKiiKshAc5nSeTM ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 21:22:17 trace :
+------------
+Array:
+from : oNKkBwdeqIH_FAV2EMMsoU3kHBh8 ;
+to : gh_19c5308f0d46 ;
+time : 1449408139 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdeqIH_FAV2EMMsoU3kHBh8 ;
+createtime : 1449408139 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:22:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:22:17 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdeqIH_FAV2EMMsoU3kHBh8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:23:01 trace :
+------------
+Array:
+from : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+to : gh_19c5308f0d46 ;
+time : 1449408183 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+createtime : 1449408183 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:23:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:23:01 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:23:24 trace :
+------------
+Array:
+from : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+to : gh_19c5308f0d46 ;
+time : 1449408206 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+createtime : 1449408206 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 21:23:24 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:23:24 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwUx3YsONItkSdl0ffYQrejA ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 21:24:01 trace :
+------------
+Array:
+from : oNKkBwSIBBaUzsYVn4oJ6-oRWRpI ;
+to : gh_19c5308f0d46 ;
+time : 1449408243 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSIBBaUzsYVn4oJ6-oRWRpI ;
+createtime : 1449408243 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:24:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:24:01 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSIBBaUzsYVn4oJ6-oRWRpI ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:24:46 trace :
+------------
+Array:
+from : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+to : gh_19c5308f0d46 ;
+time : 1449408288 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+createtime : 1449408288 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:24:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:24:46 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:24:53 trace :
+------------
+Array:
+from : oNKkBwdY1z3ta1icn150vU-eIxig ;
+to : gh_19c5308f0d46 ;
+time : 1449408295 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdY1z3ta1icn150vU-eIxig ;
+createtime : 1449408295 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:24:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:24:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdY1z3ta1icn150vU-eIxig ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:25:11 trace :
+------------
+Array:
+from : oNKkBwSIBBaUzsYVn4oJ6-oRWRpI ;
+to : gh_19c5308f0d46 ;
+time : 1449408313 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSIBBaUzsYVn4oJ6-oRWRpI ;
+createtime : 1449408313 ;
+msgtype : text ;
+content : 我加入微聚友会员已经扣费了可还是显示不是会员，你知道是怎么回事吗 ;
+msgid : 6225161303287125612 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 21:25:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:25:11 response :
+------------
+
+2015-12-06 21:25:21 trace :
+------------
+Array:
+from : oNKkBwVM_V5WzvzYY-UiUzKUIk-M ;
+to : gh_19c5308f0d46 ;
+time : 1449408323 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwVM_V5WzvzYY-UiUzKUIk-M ;
+createtime : 1449408323 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:25:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:25:21 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwVM_V5WzvzYY-UiUzKUIk-M ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:30:09 trace :
+------------
+Array:
+from : oNKkBwTFDyJq3HPGTELA9MuA7n_w ;
+to : gh_19c5308f0d46 ;
+time : 1449408611 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwTFDyJq3HPGTELA9MuA7n_w ;
+createtime : 1449408611 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:30:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:30:09 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwTFDyJq3HPGTELA9MuA7n_w ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[wV0X9nrmSOGNPCgVpyqmlC4jZpLDYNrbbZnhwNlrAbo0+DW9N8ZMlAgrIryIBJ5xdgQtxpQu/XG7fC7qWW+xD55bmowhBEAkgNuFJjgSPriReLZOCO7cKxBqzb265+5ftvo688VNhzuCYT0647lQada5ONKYHeUeIeJlcbduJhEOg2Pme8N7mmAxn2WP/+wwPs+AYFjafx+pcIoEkWCgV9Ahud4t51K1dUftKCuC16cbAiZ/Ytxueen27fswssJmqFaWR3srk5xmy75Vt3Acd1kPONAriGASbijgqecuP5TOCCNBSYRasvIUWhHCos/PtTgP89WLO2MdEb1/PcSHmcxNT91KNXPPVXQEMNrYG7MPfYoW+5L1qRgm+AB4GlI7fRfDulXyrrp9SIFKPdwEj3WD9AOnGdDNmpLJyLzKVjs+KOAbXci57TzFk5e7h5xywOUxu10n/OYVeCyy1L9LbA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:31:27 trace :
+------------
+Array:
+from : oNKkBwa9dSAB6ZiXG9Z-KH__o3h0 ;
+to : gh_19c5308f0d46 ;
+time : 1449408689 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa9dSAB6ZiXG9Z-KH__o3h0 ;
+createtime : 1449408689 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:31:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:31:27 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa9dSAB6ZiXG9Z-KH__o3h0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:33:09 trace :
+------------
+Array:
+from : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+to : gh_19c5308f0d46 ;
+time : 1449408791 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+createtime : 1449408791 ;
+msgtype : text ;
+content : 亲怎么兑换啊 ;
+msgid : 6225163356281493408 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 21:33:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:33:09 response :
+------------
+
+2015-12-06 21:33:27 trace :
+------------
+Array:
+from : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+to : gh_19c5308f0d46 ;
+time : 1449408809 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbWiOrSFy-2O1ka7pRvbqZo ;
+createtime : 1449408809 ;
+msgtype : text ;
+content : 我已经支付会员了 ;
+msgid : 6225163433590904747 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 21:33:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:33:27 response :
+------------
+
+2015-12-06 21:34:06 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408848 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408848 ;
+msgtype : event ;
+latitude : 22.921778 ;
+longitude : 114.072334 ;
+precision : 65.000000 ;
+location_x : 22.921778 ;
+location_y : 114.072334 ;
+
+2015-12-06 21:34:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:06 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:07 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408849 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408849 ;
+msgtype : event ;
+latitude : 22.921772 ;
+longitude : 114.072365 ;
+precision : 65.000000 ;
+location_x : 22.921772 ;
+location_y : 114.072365 ;
+
+2015-12-06 21:34:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:09 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408851 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408851 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401375925&idx=1&sn=1055fe52b539b629ff2957852f3f5d13&scene=18#wechat_redirect ;
+
+2015-12-06 21:34:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:34:09 response :
+------------
+
+2015-12-06 21:34:15 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408857 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408857 ;
+msgtype : event ;
+latitude : 22.921810 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921810 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:34:15 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:15 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:21 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408863 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408863 ;
+msgtype : event ;
+latitude : 22.921822 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921822 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:34:21 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:21 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:27 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408869 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408869 ;
+msgtype : event ;
+latitude : 22.921795 ;
+longitude : 114.072342 ;
+precision : 65.000000 ;
+location_x : 22.921795 ;
+location_y : 114.072342 ;
+
+2015-12-06 21:34:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:33 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408875 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408875 ;
+msgtype : event ;
+latitude : 22.921768 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921768 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:34:33 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:33 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:42 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408884 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408884 ;
+msgtype : event ;
+latitude : 22.921770 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921770 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:34:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:34:42 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:34:51 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408893 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408893 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401375205&idx=1&sn=c581e902232aff9e9908758d10006cc0&scene=0#wechat_redirect ;
+
+2015-12-06 21:34:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:34:51 response :
+------------
+
+2015-12-06 21:34:51 trace :
+------------
+Array:
+from : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+to : gh_19c5308f0d46 ;
+time : 1449408893 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+createtime : 1449408893 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 21:34:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:34:51 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:35:01 trace :
+------------
+Array:
+from : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+to : gh_19c5308f0d46 ;
+time : 1449408903 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+createtime : 1449408903 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 21:35:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:35:01 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwa20XV4I9rm8rHL17JlwiwY ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 21:35:04 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408906 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408906 ;
+msgtype : event ;
+latitude : 22.921787 ;
+longitude : 114.072334 ;
+precision : 65.000000 ;
+location_x : 22.921787 ;
+location_y : 114.072334 ;
+
+2015-12-06 21:35:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:35:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:35:12 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408914 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408914 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401818231&idx=1&sn=91761df4d7dd5c44587d5fa4a0bbd647&scene=0#wechat_redirect ;
+
+2015-12-06 21:35:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:35:12 response :
+------------
+
+2015-12-06 21:35:13 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408915 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408915 ;
+msgtype : event ;
+latitude : 22.921787 ;
+longitude : 114.072334 ;
+precision : 65.000000 ;
+location_x : 22.921787 ;
+location_y : 114.072334 ;
+
+2015-12-06 21:35:13 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:35:13 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:35:33 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408935 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408935 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376031&idx=1&sn=412f72caedb38ddee6d15c9685dd0d47&scene=0#wechat_redirect ;
+
+2015-12-06 21:35:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 21:35:33 response :
+------------
+
+2015-12-06 21:35:35 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408937 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408937 ;
+msgtype : event ;
+latitude : 22.921785 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921785 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:35:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:35:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:35:45 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408947 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408947 ;
+msgtype : event ;
+latitude : 22.921785 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921785 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:35:45 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:35:45 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:35:51 trace :
+------------
+Array:
+from : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+to : gh_594b4a77030d ;
+time : 1449408953 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswL7phyxCPdhiX-HLYmfrvwQ ;
+createtime : 1449408953 ;
+msgtype : event ;
+latitude : 22.921785 ;
+longitude : 114.072357 ;
+precision : 65.000000 ;
+location_x : 22.921785 ;
+location_y : 114.072357 ;
+
+2015-12-06 21:35:51 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-06 21:35:51 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-06 21:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Q4BkKauGSJPkh7qscEiMpuTxhTf/aPr4QgUOBNrq6cmoTiiMMysOC5rSQPAHlKtyZTiJwVkSPnNqVifda+AGp62yVNutbUvkVirAPuULNGPq0kAiqCBWNOeB2DoqqJJbPeH/LVME7/XJiPP5VSvAA1gAWkmqDklWo2zZe2KYUjRoYCL3TV7sKa4L3Ja961wZINhQd66UTO/DA9uuPR67GgVUEL+6+WJjfyX/j2ZuEgX+Y+ah9pS5qseS/kODyFx1HXjpkqYbWVx0Fe6A8yj9szCnzOKqnTZj4gpUdT5L15FhhjTtiZQSVYR6hRcnVI3Pg4iFNT1JKlsZFCKnbpGGy/c6Ruwvq6+KZZZFmOrDfa58GeznXnrPU2TWkmAHebj4QeFJG9Kp4Y3aNqRHPUIqihoqrTo7zu2DA7tlv6LgOgzbg5rZ7NGKV06jLAJZF6tOp3gucN5HPDEhe9+TdVGe1w==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:41:15 trace :
+------------
+Array:
+from : oNKkBwcbnknRNbQKYWRlbcR0eqiE ;
+to : gh_19c5308f0d46 ;
+time : 1449409277 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwcbnknRNbQKYWRlbcR0eqiE ;
+createtime : 1449409277 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:41:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:41:15 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwcbnknRNbQKYWRlbcR0eqiE ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:41:51 trace :
+------------
+Array:
+from : oNKkBwSZLE9pJeIxZnRPn3vge0xA ;
+to : gh_19c5308f0d46 ;
+time : 1449409313 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSZLE9pJeIxZnRPn3vge0xA ;
+createtime : 1449409313 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:41:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:41:51 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSZLE9pJeIxZnRPn3vge0xA ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:43:02 trace :
+------------
+Array:
+from : oNKkBwSTPW5Cj2QAIGRbnOso5nww ;
+to : gh_19c5308f0d46 ;
+time : 1449409384 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSTPW5Cj2QAIGRbnOso5nww ;
+createtime : 1449409384 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:43:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:43:02 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSTPW5Cj2QAIGRbnOso5nww ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:44:07 trace :
+------------
+Array:
+from : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+to : gh_19c5308f0d46 ;
+time : 1449409449 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+createtime : 1449409449 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:44:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:44:07 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:44:33 trace :
+------------
+Array:
+from : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+to : gh_19c5308f0d46 ;
+time : 1449409475 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+createtime : 1449409475 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:44:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:44:33 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:44:40 trace :
+------------
+Array:
+from : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+to : gh_19c5308f0d46 ;
+time : 1449409482 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+createtime : 1449409482 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 21:44:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:44:40 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwYbcjhVtpZvvAuNfYBLT1-A ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 21:44:57 trace :
+------------
+Array:
+from : oNKkBwdgrObkcAY8Vdka-lBIHiN0 ;
+to : gh_19c5308f0d46 ;
+time : 1449409496 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdgrObkcAY8Vdka-lBIHiN0 ;
+createtime : 1449409496 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:44:57 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:44:57 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdgrObkcAY8Vdka-lBIHiN0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:46:27 trace :
+------------
+Array:
+from : oNKkBwbuOnfEcI447shxElsMH3d8 ;
+to : gh_19c5308f0d46 ;
+time : 1449409589 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbuOnfEcI447shxElsMH3d8 ;
+createtime : 1449409589 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:46:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:46:27 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbuOnfEcI447shxElsMH3d8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:47:41 trace :
+------------
+Array:
+from : oNKkBwb4-mKyfI3Zx-Pp6mFDBmu4 ;
+to : gh_19c5308f0d46 ;
+time : 1449409663 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwb4-mKyfI3Zx-Pp6mFDBmu4 ;
+createtime : 1449409663 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:47:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:47:41 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwb4-mKyfI3Zx-Pp6mFDBmu4 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:51:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[iB7FiBz3L3Uk87wZvQ6DuzzilTBb2grGWoC1qSwaOnMjlD0KV9zjQm6VNai5Npx13DNjeWxZ6245/6brLREOwlCcPb/nLuLuLZSHcJF4i6GyUdZUKtVcHAYE5rjGT/AKky9PX6VczLRdzEYQRBXmZun0NzkJRbdRdrlBiK2YwjCBzyTyV3nj1kXYby1IVcSmt5vExqwdZ4s0VkO5evIfLlRJrIIXEfcuU+r+f0FHLgO/Gk6mDW4r074rKWaETBgkRpfBoFZ0pDx2a5rXZgBQTiWUj5Zb3YjFSIAxFFl/oCUOKhXZyp/LTgi5mEURr7uN+lDYDRYJgThl4mNbtFfhNY+CnrYTrQb7KdXFlWSV2Aiw2tDcdxdMb7MaWTMywMQseQLMlgDz+W6XR02qAxGWSK5rKEB0+V0QfQCHjRKT3n77C16ThNaCyF4jtOJN+uY2h0BhGZSp2VNoPA27P87Rbg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 21:52:20 trace :
+------------
+Array:
+from : oNKkBwctU5-jGG6kaLVna-nrnins ;
+to : gh_19c5308f0d46 ;
+time : 1449409942 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwctU5-jGG6kaLVna-nrnins ;
+createtime : 1449409942 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:52:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:52:20 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwctU5-jGG6kaLVna-nrnins ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:52:51 trace :
+------------
+Array:
+from : oNKkBwaPn9IFFdswi2mjpVyjPorM ;
+to : gh_19c5308f0d46 ;
+time : 1449409973 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwaPn9IFFdswi2mjpVyjPorM ;
+createtime : 1449409973 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:52:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:52:51 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwaPn9IFFdswi2mjpVyjPorM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:57:05 trace :
+------------
+Array:
+from : oNKkBwQop1QAjf4R4CSL15Rk59AY ;
+to : gh_19c5308f0d46 ;
+time : 1449410227 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwQop1QAjf4R4CSL15Rk59AY ;
+createtime : 1449410227 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:57:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:57:05 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwQop1QAjf4R4CSL15Rk59AY ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 21:58:15 trace :
+------------
+Array:
+from : oNKkBwS6NKMK7xGzV9AQqMp-ZMvo ;
+to : gh_19c5308f0d46 ;
+time : 1449410298 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwS6NKMK7xGzV9AQqMp-ZMvo ;
+createtime : 1449410298 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 21:58:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 21:58:15 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwS6NKMK7xGzV9AQqMp-ZMvo ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:00:41 trace :
+------------
+Array:
+from : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+to : gh_19c5308f0d46 ;
+time : 1449410442 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+createtime : 1449410442 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-06 22:00:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:00:41 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[ih0TOyuk9oppVMlk/2ituUph4qRhwcRIG4SxVZibqAHKHUnLjjvYfoh/wNYSXETxhqo65dF/BN1HRpIr5KJW9GvAvE/c0h/+fjyqVSKka5uFZ0+iTDJA6s5tCMc3pyF+plclms1s4iLDnlyRQ9EVtIOusdzYadrg95GRNu0WrMXOtSM7/pxC8oY2XsHNl9pgjflcg+GNz+oI0hCMc7v3AdggdIreZQuPGdITmAqbfqfVzNc17Yo3VSxsvqtet6pYb3LLOxx8R2yfGb7JwnKK3PqravhNYGGAOg8YJqhsjRD2nxgz0kpfqfbIs5Y+wvJ4pY1ej1y+oBIwYG4Z+hwRsGULgW/zvTGDAhc42F4jmPurf/McbwvVxNAomU8Y4lL+Zc5akUMZvGnW442ozBIjAGVeQKd/sqmZ1oiA3jIeXgqcatPl8AlH+WxZMGEhTaKme2JpGjGO0DKSZTaUTz1O0w==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:01:31 trace :
+------------
+Array:
+from : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+to : gh_19c5308f0d46 ;
+time : 1449410490 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+createtime : 1449410490 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:01:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:01:31 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:01:46 trace :
+------------
+Array:
+from : oNKkBwQd6hW9-5RPIPknuR2fgGpg ;
+to : gh_19c5308f0d46 ;
+time : 1449410508 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwQd6hW9-5RPIPknuR2fgGpg ;
+createtime : 1449410508 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:01:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:01:46 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwQd6hW9-5RPIPknuR2fgGpg ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:02:33 trace :
+------------
+Array:
+from : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+to : gh_19c5308f0d46 ;
+time : 1449410555 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+createtime : 1449410555 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 22:02:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:02:33 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwRW_iMI3OL8NOuSqFWhKcL4 ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 22:02:38 trace :
+------------
+Array:
+from : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+to : gh_19c5308f0d46 ;
+time : 1449410561 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+createtime : 1449410561 ;
+msgtype : event ;
+eventkey : 1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:02:38 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:02:38 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweKT_wQZRNb90KWSirCYgG0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:03:33 trace :
+------------
+Array:
+from : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+to : gh_19c5308f0d46 ;
+time : 1449410615 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+createtime : 1449410615 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 22:03:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:03:33 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwTqJ81YzyzQwcJDdGyIN1Go ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 22:07:22 trace :
+------------
+Array:
+from : oNKkBwSUeFBF3knDTjEqhCOG0_pE ;
+to : gh_19c5308f0d46 ;
+time : 1449410844 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwSUeFBF3knDTjEqhCOG0_pE ;
+createtime : 1449410844 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:07:22 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:07:22 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwSUeFBF3knDTjEqhCOG0_pE ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:07:28 trace :
+------------
+Array:
+from : oNKkBwddCAHANnyarr13uxGA6GDk ;
+to : gh_19c5308f0d46 ;
+time : 1449410850 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwddCAHANnyarr13uxGA6GDk ;
+createtime : 1449410850 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:07:28 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:07:28 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwddCAHANnyarr13uxGA6GDk ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:07:34 trace :
+------------
+Array:
+from : oNKkBwddCAHANnyarr13uxGA6GDk ;
+to : gh_19c5308f0d46 ;
+time : 1449410856 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwddCAHANnyarr13uxGA6GDk ;
+createtime : 1449410856 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 22:07:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:07:34 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwddCAHANnyarr13uxGA6GDk ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 22:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[ch+Q4MV1ilPlfShEg4bUZjM9BfYdO7Dp1/ZkJLIbDNAQrR2fZsuKVLrM1tR/2QEnbCeusTmD8PLzMflUSn//pNRW9/n9rO6uo8feFeTVuCP0FgiVuyhujd2orF4S/3jbrc/7DwjH3iJODSES9MyofDHCLDRVl3oBD+YewVRzIFGIqO79bUdjCH+shhI+4ODrVPez8t5a7Z+cQPrIAbS1GYPVGZV/WG1+ZaCBoMzg44kCb2EbADEBjF0QoWQ6rWXFjPqy4P/RWJeTVym+gSMKoS1/u4VFA3P3xWqmPUjQbeGizJoah8mT5ggBzn24Vzkvf5pwdJ5D+X+3YfI4qnVOHk53mSksk42+j4OdXCWfv9JVuyGAcxup40yHPoCtCVAnREIlTzGnr9bZG1N1IqjYux7RChDm0FLxAQHPvyrNRQF9jihmgL3z+eUaxH5D5aS4orCbBIBwG5wTyHYrAPHSDw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:16:55 trace :
+------------
+Array:
+from : oNKkBwbPzqvlzOxTiVrWwEHLCzWc ;
+to : gh_19c5308f0d46 ;
+time : 1449411416 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwbPzqvlzOxTiVrWwEHLCzWc ;
+createtime : 1449411416 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:16:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:16:55 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwbPzqvlzOxTiVrWwEHLCzWc ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:21:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[SWX+xz5I3ZeOeogMUqWHpIE8QwM5PytpvGkuE1LeLrpCxjnesv3rsRWgh4S2zzAuY9pSCEIrVxI5VMyjgdqRCrBkCIIuEZAlDM/44uLr/k6wgNSD03ndM4DkY8nTnOPgE964mF9x9ZG7TS6UxE/0LpEKE0ogw/yPUVD7DxNHd4ChzBaUYH0RLmuhWgutWvOIxuf4KZNFukxtE9+b1/mU5shCM1Cyzu3Slu2sg1bBCy0DCfhJjtFSFzLAcmyUBKlEVlV3AFFhHO+2cjzGgzmaGoorDL12BnydVz9E5HUmHYBCvTHOEe+uwfWbM3G7BbWQyxrBbUUStn6DEQE16G+vLEL8BQepppjVOrU8FZxbnnf34gfvfogDfkJtXudsGX/gP4N6N2xEW7ObnGoNefJ/pvZS+mPKAr5gDxGWg0bl+a1QSo+7/zdIV64YArlMf/lTbN7FHSPxXE7/MiKA074GrQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:21:54 trace :
+------------
+Array:
+from : oNKkBweUVipxU-797vRO0_xQhGRY ;
+to : gh_19c5308f0d46 ;
+time : 1449411715 ;
+type : event ;
+event : kf_close_session ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweUVipxU-797vRO0_xQhGRY ;
+createtime : 1449411715 ;
+msgtype : event ;
+kfaccount : 001@MallVip10 ;
+
+2015-12-06 22:21:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 22:21:54 response :
+------------
+
+2015-12-06 22:24:26 trace :
+------------
+Array:
+from : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+to : gh_19c5308f0d46 ;
+time : 1449411867 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+createtime : 1449411867 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:24:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:24:26 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:28:32 trace :
+------------
+Array:
+from : oNKkBwe0NAa5KkA-DeunuQ-dYwoQ ;
+to : gh_19c5308f0d46 ;
+time : 1449412114 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwe0NAa5KkA-DeunuQ-dYwoQ ;
+createtime : 1449412114 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:28:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:28:32 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwe0NAa5KkA-DeunuQ-dYwoQ ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:29:32 trace :
+------------
+Array:
+from : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+to : gh_19c5308f0d46 ;
+time : 1449412174 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+createtime : 1449412174 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:29:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:29:32 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:30:07 trace :
+------------
+Array:
+from : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+to : gh_19c5308f0d46 ;
+time : 1449412209 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+createtime : 1449412209 ;
+msgtype : text ;
+content : 我的微聚友付款成功了 ;
+msgid : 6225178036479712613 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 22:30:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 22:30:07 response :
+------------
+
+2015-12-06 22:30:17 trace :
+------------
+Array:
+from : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+to : gh_19c5308f0d46 ;
+time : 1449412218 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZ3KrHLzufTXFo1fC1VDuXs ;
+createtime : 1449412218 ;
+msgtype : text ;
+content : 怎么打不开二维码 ;
+msgid : 6225178075134418285 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 22:30:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 22:30:17 response :
+------------
+
+2015-12-06 22:31:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[4BqEOk9RR2NHVPIA3Af3TrACCYR0C2TI1CfNWuZqNgsjdcRPvtS/N4GiAEpU2i8jHIvMCfCU9VC3aGNTH8UpHErlY/S/I3LIv2gqKDoVG8TnUPcJy5o78vD4pGw5K8yuYvJoa4DNj5BohgatJTSsHi5mIGJayzO2aBZApeU5rLmNMSaWMy2Rh2/fZJux21qXqXRehuHRpHUCP1blNoV5sI50kVeshJFtX/nSfEBfSjQQjtNm1hY/FFpIEMpwfjgUEiNGu5tSxdY2TQZZWR3LxBlgnFJZFoM2B5hj8MX9Sd5IbVvAjH1MDqUCZ9cV24rNjIauoiS/sFFSBBbXdegpUrLYH63QV55aRG8VOpZgJhakMTm4YwuC8Ny5vdSnAv85KUSGslyCWWXagvRKFU13Sh2n9Ob+s6n80yuEK+FtJIVrY3db8eKDHwmL5+KngfHCle/Bq5pkXupTJPgqhyKJNQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:31:58 trace :
+------------
+Array:
+from : oNKkBwdloOmc3EP9prAQCe3u3Lh0 ;
+to : gh_19c5308f0d46 ;
+time : 1449412319 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdloOmc3EP9prAQCe3u3Lh0 ;
+createtime : 1449412319 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:31:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:31:58 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdloOmc3EP9prAQCe3u3Lh0 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:35:40 trace :
+------------
+Array:
+from : oNKkBwcsF1KZV_0NMnWEvoVk4i1s ;
+to : gh_19c5308f0d46 ;
+time : 1449412542 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwcsF1KZV_0NMnWEvoVk4i1s ;
+createtime : 1449412542 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:35:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:35:40 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwcsF1KZV_0NMnWEvoVk4i1s ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:38:13 trace :
+------------
+Array:
+from : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+to : gh_19c5308f0d46 ;
+time : 1449412695 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+createtime : 1449412695 ;
+msgtype : text ;
+content : 你好 ;
+msgid : 6225180123833818648 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 22:38:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 22:38:13 response :
+------------
+
+2015-12-06 22:39:06 trace :
+------------
+Array:
+from : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+to : gh_19c5308f0d46 ;
+time : 1449412748 ;
+type : text ;
+event :  ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+createtime : 1449412748 ;
+msgtype : text ;
+content : 我怎么生成不了海报二维码呢 ;
+msgid : 6225180351467085353 ;
+redirection :  ;
+source :  ;
+
+2015-12-06 22:39:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-06 22:39:06 response :
+------------
+
+2015-12-06 22:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[WRlpBNaAp1zMAlXZu+fYBezPaKxS6NdYi+pJXcdzxZUZxr+XZ2Y4OggfMVwr8yyQiEym4WlhB9Jhgih55DZvqV//wlmEftfiib2QI0Rl+q/E0YaC3aL9DOWnZZ15Cj/Q+Zayye8WecOlQ66X+2dKm+QWx91+aHB+kWu6/xBWihtDPDbejieRppVoX0vVBILbCteqzE24CoAQlb6MGzYiLKQps0iGYsprzWDZ8d3aRwH5bzNnmn1zCs0sGI3n/bTUM1rJU6+AIhpISBbvnlHuyfDi8Go1sng3fXnICSesTto5zCxeLJU7Wq7d2L8SRf7eDEUibsTiMdN2HM47sqjGPGklePZjW5t7OB02znxUe/lwiRdptGSWybbk0cmvF/ciF++f23tCwluJBHfL0eOXHTNbb2ORU5Pl+ETmjVc8LOu9jDx/LQzrYuinODSTTPyvFuFKzkt+j2fUJUjjuv+jdw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:47:04 trace :
+------------
+Array:
+from : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+to : gh_19c5308f0d46 ;
+time : 1449413226 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+createtime : 1449413226 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 22:47:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:47:04 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwZMF5IAbK9lfmJIXMX4T6e0 ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 22:48:53 trace :
+------------
+Array:
+from : oNKkBweZ6vGrAeXRVq6l2t48UWU8 ;
+to : gh_19c5308f0d46 ;
+time : 1449413335 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBweZ6vGrAeXRVq6l2t48UWU8 ;
+createtime : 1449413335 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:48:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:48:53 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBweZ6vGrAeXRVq6l2t48UWU8 ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[2V3x3Y7aIsmebeLW/8rnS3THuIjTyfeA4InRgeISLQ9cb6K1GHqyy+W5mSYaFRPQe/P0tBrxJhvBip8OdXIPfwXR4FVAyc5zMDGx3uFmNAm8fRqc0CcBrobNXVihL9JQbxHNEuKS6KnVWdcWhk+qRro5w0UPXmAFXXpCEoCYuQunZwPihB1HiH5OGNy03tdqwIzldeyKxbcHpKrEf99bzzpcTrj3UD9rr8CvcTumyfk4whVBXSo0KtrtScP3dapaZqc7FwZjudR2ddber4sPsqTIjRjEydipLL9aPbUO1c2Ut0NiTogzIhm9HVza6U37E9OyQIGOGdHmeziQ3CJIFZqF8cxeUiJcUlVSYGH+9UV3BziPWRgLPw+j33dT2IkW3s1CZ3ZfKUgUsPgY9t1jH0gRzvRseLi6RkTjrf665xxBOVW3xt9x7KQUTbwfWX6FMFM0KOUlMSV/RwVkcoJXjQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 22:55:07 trace :
+------------
+Array:
+from : oNKkBwb8ZTFODyMeEor6BnFkiHVw ;
+to : gh_19c5308f0d46 ;
+time : 1449413709 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwb8ZTFODyMeEor6BnFkiHVw ;
+createtime : 1449413709 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:55:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:55:07 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwb8ZTFODyMeEor6BnFkiHVw ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 22:56:43 trace :
+------------
+Array:
+from : oNKkBwdefHPEJmqjfKP3HvWenGOM ;
+to : gh_19c5308f0d46 ;
+time : 1449413805 ;
+type : event ;
+event : subscribe ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwdefHPEJmqjfKP3HvWenGOM ;
+createtime : 1449413805 ;
+msgtype : event ;
+eventkey : qrscene_1 ;
+ticket : gQEL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0t6cE95RXptdm9iSEtTbEp6QmJ3AAIEFhFkVgMEAAAAAA== ;
+scene : 1 ;
+
+2015-12-06 22:56:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 40 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 22:56:43 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwdefHPEJmqjfKP3HvWenGOM ;
+MsgType : text ;
+Content : 亲，感谢你关注我们！请问有什么可以帮助到你的呢？/::) ;
+
+2015-12-06 23:01:01 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[JWB51pwQrP8/67laqFK65RH5mqLRyzZrGe5AfDsjnqB6SKoCJf++coknFss+cR81HIC2yvl7peBFt8rVi4n8GlrKFf5OtmpQObN7Qu0W49nAj+nVbdIgPbcZU8SINYaKCeDo/7OopS1pWjWCRnrG0pwaoo4CkNNBNnsO00XpZjHN/ovuWSfcUVXh2jHC2Q/tPmQT80y9DAp0I6+MnghYN98Z3NnNEJV+VSNDpbmZR/RZO+qTD3jK/ULL9iBDy90m3OHolE9vkrdKSSjw3D4+u0tr+ZndvonTU3EutZOH4NJ29rS0+FSGLve3QbbMyCYCDOaw1vxoeT2ui2qqeNNd2e3tFZ5fYevGVuupWoM6BfOl7HeTyUTwunx25JPR0Ungi3GfyI/MrKWGMX3MHApPmHCBXvzvJ62uwNjSUQYDa3tgsrXBfD79H/F845Pgab1iaZkT3eNIcFNvVIQDL1l6rw==]]></Encrypt>
+</xml>
+
+
+2015-12-06 23:11:01 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[yQsu/wfCrhwVJNM0YsV8IPVQW4Gjtfyun2vmFAOobvfWumkAQ4XEy+abOC6CGaeou2gErBlQ2IXea+YTiXHUKljVjQTS1BjCBeorJ5QBd422mETict7tZ5hyH1UNkctMxmy2D0Q6ckcP/lsoJuzJBbAcATkwFrpBDSHpRoNxYxLEdBTTtMtiA3EkHQ4/BGlujYPkmuW1NXIWPJ9/WAPxgBqvHm+14fa9ehl/pnERVQ2zaC6oOXt8ITSKqJKCtaTJUdxS2+SQ8ZRNts3rRkkAQza/NC0+kP9pEDam429Gc+XWY3r1gVAOMn4pnVnZHk3srvhbtWApHEFMP69KZhv8a8qkiwVDa9WXBpR7liI5DqxXMyb8FLfj2tZJyTaKhlVUpMyT2n4CWK/W1p+LoszFtetHnOpYLY1sRh/J0Kl516U952hBHR5rVwWtCaLFZiPf90yVKmIvaif9lPQWvnDvVA==]]></Encrypt>
+</xml>
+
+
+2015-12-06 23:21:00 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[CSAiJjEJPJTJ8OpmquSqkMs9m2tWOKbsEJF73K4KpJe/sctTr3YAV56mvkaOfNS3SAdnAgCJOxHuPbKrSTE4drgz36NWc+Rfg1JhFeCIdqdxOxZE4PyUJFOlst/YakVOB0cMKevIEqjHeidsJJHyhFPBU5tPw+8QqkLGH03wKbrZirgrtWiKSnc15d3XIsUD6rn1SASw15mkA/zf6xZRu+Yp6cyjXE9Nu+1A6nNy5/FbhXeql84E9mxG5oLPIVFUDHUGHamel3ZRFRvLQeTY/J4N1ikZMlADG6Q81jXOg8ZpNmPo+cnGUg8PrFZBWkHkdYQR0TRxyq5G811RInetAdO3LALlGZ5q/Xe5pSZVcnWV+OkNPmPY1bogos+GbPpLuLNxu2ZbM3c8H7lphC/40ASWqI/DNf4zvbXSBOid/zFZ2iKlhZ6u5/kh6O2hhIkMNO/kHB7s1d8ty+rCvrEOVQ==]]></Encrypt>
+</xml>
+
+
+2015-12-06 23:31:01 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[06NcJMjt1FvkBhQuXoWHjbjRDxMqO5jnjXjKTuXWnqdjcBUOa+/AFmMmTU7QNoy4mVsFLGeu5p4zSESthapnryYHlLdq3o0/9Qu0H44Q23WxUOLN7vYMgZ+ezMr+FDqYS9Kxkhh+e8+BiO13e8aqEhCtiv54PioIK7VwN43WZDMNMCcx+DiCNgh2der8Blo1mdFvX0utFrq5Vusj+EI7NcL8XHfvJL1OjE8t7PP3jZ351feLRd7E1i05Hl0HME3gyEdal3pvHXUvOCoWY2OxfzIQp5B+K+d0CM+1xuhiX4am4UTtxph4x/xl+AwBwRjOWHkiHgyFAAbQdR9f5eKJFk9t/d1qbHY0VxgBo30pw6UHknTj/kd0xiyTiv7Zaoq0m8e719zf/wusuopOpwhJESE53E5qiwVSxANdShUXfYt6ey7EaYEG9+uqwX6amogXKp9/bsssTkboAQQTrW5Zfg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 23:37:29 trace :
+------------
+Array:
+from : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+to : gh_19c5308f0d46 ;
+time : 1449416251 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+createtime : 1449416251 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 23:37:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 23:37:29 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 23:37:29 trace :
+------------
+Array:
+from : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+to : gh_19c5308f0d46 ;
+time : 1449416251 ;
+type : event ;
+event : CLICK ;
+tousername : gh_19c5308f0d46 ;
+fromusername : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+createtime : 1449416251 ;
+msgtype : event ;
+eventkey : 客服 ;
+
+2015-12-06 23:37:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 42 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-06 23:37:29 response :
+------------
+Array:
+FromUserName : gh_19c5308f0d46 ;
+ToUserName : oNKkBwS6MPjuL0btQyoQw0VQU1Ds ;
+MsgType : text ;
+Content : 亲，我们已经成为为你接入了客服系统，你可以直接在文字输入框与我们在线客服交流！ ;
+
+2015-12-06 23:41:01 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[6CAu9MobyeMW3VKU2wukznArb9etz+jSXS5ME6YrWNyt25bI58jG+47iSlmfov/wA47fzlZ0Rh87OfTI9I1btW/Z2LIsj/172c4da9HV/SvJ7psghmOksO2Dt8lLfE14zMOgCrvqUVEINUcecX3wfknfl4bDwrMOGuZOW4Ho2xOaWdvRWQ3XcixL9zRUHd3f3TCeMMYTGt4T+yV1Iua82lNwRW4xRXDt+OmNWAkqsn/4fb1cYy1kXHSCstdJ/Fw2n6GUWJVXA3nI0by+nMW+YtukVzRdZaRr0hZ+qYbKUgaC5Mf4ucwMGf9u5dvwFBqdhyBPWOnZp1z/OP9N1BXO5onakmU0xJQO053IP/zn2CnvsW1OeAIBIFFT7p6E2dBCES9rxXx3OrLwGApSIwkKyIptD9LNX2V6XnMTsDMYHMm25A+WW6pqOMiM7ShQpC+GiqOwcJfmKedBYEiqP+JVIg==]]></Encrypt>
+</xml>
+
+
+2015-12-06 23:51:00 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[inJzwKHleArCLU8QywkmSefqUiCIXq5B08qE0Q1M18JM8amjA4D8Kdfv1araSMiTVrY3mdsqwhuwV/zyWl4ExigQYL0dzv4Q8GyzJt4+PULhNw0w47v1O9xa1farm7hyxMTzc+62plJ09Uv8GpL4u8ia529U2DTV+m6+O58+3CYbCisdpI9xDpQH79Bjch6eu1wfGJjKOCxeJ47USKw4HzUgEwGuRUtPHYWPnsjohli+QdAFxgwKMgP2lEcHsT9PQMbE2mabQuHy/dU8RBQOGj9K+QTLkOBWn9MC01uHg8V9rS8auGJHPm/fclvzUAfhFdgEjSdfGiZUTEG7l08BnKPZG3eJ5qLzks+j+ZBXnqkHx22pvwbffisupnq4m/ubmX7X9gff12x+egHGAmeKACypSsFH+5Ddc4f2C4NO1ZGdr7Z3KOL5KuYBhVLDFjZcFHb5q6rivLMT2YDnGjMM8A==]]></Encrypt>
+</xml>
+
+

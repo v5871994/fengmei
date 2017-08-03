@@ -1,0 +1,1564 @@
+2016-03-02 00:12:42 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456848839 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456848839 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 00:12:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 00:12:42 response :
+------------
+
+2016-03-02 00:13:05 trace :
+------------
+Array:
+from : o7SFQs_c8ACXP6dy3Be1MY1XJFOE ;
+to : gh_f8ef5613cc37 ;
+time : 1456848862 ;
+type : event ;
+event : subscribe ;
+tousername : gh_f8ef5613cc37 ;
+fromusername : o7SFQs_c8ACXP6dy3Be1MY1XJFOE ;
+createtime : 1456848862 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 00:13:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 00:13:05 response :
+------------
+
+2016-03-02 12:24:05 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456892724 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456892724 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 12:24:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 12:24:05 response :
+------------
+
+2016-03-02 12:24:08 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456892727 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456892727 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 12:24:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 12:24:08 response :
+------------
+
+2016-03-02 12:24:52 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456892771 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456892771 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 12:24:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 12:24:52 response :
+------------
+
+2016-03-02 13:07:29 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456895327 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456895327 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 13:07:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 13:07:29 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-02 13:21:31 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456896169 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456896169 ;
+msgtype : text ;
+content : 活动 ;
+msgid : 6257321400158480709 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 13:21:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 151 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 13:21:31 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 墙纸
+单笔满1888元返现50元
+单笔满2888元返现100元
+单笔满3888元返现200元
+单笔满4888元返现400元
+单笔满5888元及以上的返500元以及有实物赠送优惠 ;
+
+2016-03-02 13:24:59 trace :
+------------
+Array:
+from : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+to : gh_4be38e8ae9cd ;
+time : 1456896378 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+createtime : 1456896378 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 13:24:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 13:24:59 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-02 13:25:15 trace :
+------------
+Array:
+from : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+to : gh_4be38e8ae9cd ;
+time : 1456896393 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+createtime : 1456896393 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 13:25:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 13:25:15 response :
+------------
+
+2016-03-02 13:26:28 trace :
+------------
+Array:
+from : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+to : gh_4be38e8ae9cd ;
+time : 1456896467 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+createtime : 1456896467 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 13:26:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 13:26:28 response :
+------------
+
+2016-03-02 13:39:07 trace :
+------------
+Array:
+from : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+to : gh_4be38e8ae9cd ;
+time : 1456897226 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+createtime : 1456897226 ;
+msgtype : text ;
+content : 活动 ;
+msgid : 6257325939938914375 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 13:39:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 151 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 13:39:07 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwRDvNjfmLA5hLjkJZMyTCfk ;
+MsgType : text ;
+Content : 墙纸
+单笔满1888元返现50元
+单笔满2888元返现100元
+单笔满3888元返现200元
+单笔满4888元返现400元
+单笔满5888元及以上的返500元以及有实物赠送优惠 ;
+
+2016-03-02 13:40:11 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456897289 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456897289 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-03-02 13:40:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 13:40:11 response :
+------------
+
+2016-03-02 13:40:12 trace :
+------------
+Array:
+from : oTkNdwUfHoL9s_Sjk3GScxmjw_-w ;
+to : gh_cf305f6ee642 ;
+time : 1456897290 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwUfHoL9s_Sjk3GScxmjw_-w ;
+createtime : 1456897290 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-03-02 13:40:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 13:40:12 response :
+------------
+
+2016-03-02 14:02:19 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456898617 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456898617 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:02:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:02:19 response :
+------------
+
+2016-03-02 14:02:31 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456898630 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456898630 ;
+msgtype : text ;
+content : 会员 ;
+msgid : 6257331970072999947 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 14:02:31 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 152 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 14:02:31 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-03-02 14:11:42 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456899181 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456899181 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-03-02 14:11:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:11:42 response :
+------------
+
+2016-03-02 14:12:01 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456899200 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456899200 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:12:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:12:01 response :
+------------
+
+2016-03-02 14:18:23 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456899581 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456899581 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:18:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:18:23 response :
+------------
+
+2016-03-02 14:22:16 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456899814 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456899814 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:22:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:22:16 response :
+------------
+
+2016-03-02 14:28:57 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456900216 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456900216 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:28:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:28:57 response :
+------------
+
+2016-03-02 14:30:02 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456900280 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456900280 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 14:30:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 14:30:02 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-02 14:30:04 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456900283 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456900283 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:30:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:30:04 response :
+------------
+
+2016-03-02 14:32:57 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456900455 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456900455 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 14:32:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:32:57 response :
+------------
+
+2016-03-02 14:42:47 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456901046 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456901046 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 14:42:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:42:48 response :
+------------
+
+2016-03-02 14:45:03 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456901182 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456901182 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 14:45:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:45:03 response :
+------------
+
+2016-03-02 14:47:55 trace :
+------------
+Array:
+from : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+to : gh_cf305f6ee642 ;
+time : 1456901353 ;
+type : event ;
+event : ShakearoundUserShake ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwXla6iIIbQGRFwefWL9w3TE ;
+createtime : 1456901353 ;
+msgtype : event ;
+chosenbeacon :  ;
+aroundbeacons :  ;
+chosenpageid : 1839779 ;
+
+2016-03-02 14:47:55 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 14:47:55 response :
+------------
+
+2016-03-02 15:37:06 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904305 ;
+type : event ;
+event : subscribe ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904305 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 15:37:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:37:06 response :
+------------
+
+2016-03-02 15:37:25 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904324 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904324 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401375925&idx=1&sn=1055fe52b539b629ff2957852f3f5d13&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:37:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:37:25 response :
+------------
+
+2016-03-02 15:37:38 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904337 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904337 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376031&idx=1&sn=412f72caedb38ddee6d15c9685dd0d47&scene=0#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:37:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:37:38 response :
+------------
+
+2016-03-02 15:37:49 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904348 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904348 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376725&idx=1&sn=d6c25c449d0da256ed9ea240c9f03e23&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:37:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:37:50 response :
+------------
+
+2016-03-02 15:38:24 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904383 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904383 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=14&c=entry&do=shoplist&m=amouse_shopping3&wxref=mp.weixin.qq.com#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:38:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:38:24 response :
+------------
+
+2016-03-02 15:39:44 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904463 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904463 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401376031&idx=1&sn=412f72caedb38ddee6d15c9685dd0d47&scene=0#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:39:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:39:44 response :
+------------
+
+2016-03-02 15:40:24 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904502 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904502 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401818231&idx=1&sn=91761df4d7dd5c44587d5fa4a0bbd647&scene=0#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:40:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:40:24 response :
+------------
+
+2016-03-02 15:41:18 trace :
+------------
+Array:
+from : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+to : gh_594b4a77030d ;
+time : 1456904557 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPLXFDyJtAOGFLfq6GhTHNg ;
+createtime : 1456904557 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-02 15:41:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 15:41:18 response :
+------------
+
+2016-03-02 17:01:05 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456909344 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456909344 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=101 ;
+menuid : 635213459 ;
+
+2016-03-02 17:01:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:01:05 response :
+------------
+
+2016-03-02 17:02:24 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456909422 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456909422 ;
+msgtype : text ;
+content : 代金券 ;
+msgid : 6257378321360073821 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 17:02:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:02:24 response :
+------------
+
+2016-03-02 17:14:07 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910126 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910126 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 17:14:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:14:07 response :
+------------
+
+2016-03-02 17:14:37 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910156 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910156 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 17:14:37 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:14:37 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-02 17:14:41 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910160 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910160 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 17:14:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:14:41 response :
+------------
+
+2016-03-02 17:15:22 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910201 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910201 ;
+msgtype : text ;
+content : 会员 ;
+msgid : 6257381667139598258 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 17:15:22 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 152 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:15:22 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-03-02 17:18:25 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910384 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910384 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 17:18:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:18:25 response :
+------------
+
+2016-03-02 17:28:24 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456910983 ;
+type : text ;
+event :  ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456910983 ;
+msgtype : text ;
+content : 会员 ;
+msgid : 6257385025804024615 ;
+redirection :  ;
+source :  ;
+
+2016-03-02 17:28:24 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 153 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:28:24 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-03-02 17:30:15 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911094 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911094 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635213459 ;
+
+2016-03-02 17:30:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:30:15 response :
+------------
+
+2016-03-02 17:37:09 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911508 ;
+type : event ;
+event : subscribe ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911508 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-02 17:37:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 150 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:37:09 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : text ;
+Content : 欢迎光临风泉墙纸：本店有各种高 中 低档墙纸 墙布及墙画。
+店内墙纸同城包施工（5卷以下不包施工.不施工每卷可返20元）
+详询致电15902698493 ;
+
+2016-03-02 17:37:13 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911512 ;
+type : event ;
+event : CLICK ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911512 ;
+msgtype : event ;
+eventkey : 会员 ;
+
+2016-03-02 17:37:13 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 153 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:37:13 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-03-02 17:37:31 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911530 ;
+type : event ;
+event : CLICK ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911530 ;
+msgtype : event ;
+eventkey : 会员 ;
+
+2016-03-02 17:37:31 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 153 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-03-02 17:37:31 response :
+------------
+Array:
+FromUserName : gh_4be38e8ae9cd ;
+ToUserName : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-03-02 17:37:45 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911544 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911544 ;
+msgtype : event ;
+eventkey : http:// ;
+menuid : 635813399 ;
+
+2016-03-02 17:37:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:37:45 response :
+------------
+
+2016-03-02 17:37:51 trace :
+------------
+Array:
+from : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+to : gh_4be38e8ae9cd ;
+time : 1456911550 ;
+type : event ;
+event : VIEW ;
+tousername : gh_4be38e8ae9cd ;
+fromusername : oWqRdwSrXQDwCInWXxVeOJynMmDM ;
+createtime : 1456911550 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=15&c=entry&eid=105 ;
+menuid : 635813399 ;
+
+2016-03-02 17:37:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 17:37:51 response :
+------------
+
+2016-03-02 21:25:15 trace :
+------------
+Array:
+from : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+to : gh_cf305f6ee642 ;
+time : 1456925193 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+createtime : 1456925193 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/ ;
+menuid : 401409459 ;
+
+2016-03-02 21:25:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:25:15 response :
+------------
+
+2016-03-02 21:25:20 trace :
+------------
+Array:
+from : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+to : gh_cf305f6ee642 ;
+time : 1456925199 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+createtime : 1456925199 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/index.php?ctl=user&act=login ;
+menuid : 401409459 ;
+
+2016-03-02 21:25:20 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:25:20 response :
+------------
+
+2016-03-02 21:25:51 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925230 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925230 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/ ;
+menuid : 401409459 ;
+
+2016-03-02 21:25:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:25:51 response :
+------------
+
+2016-03-02 21:25:58 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925237 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925237 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/index.php?ctl=user&act=login ;
+menuid : 401409459 ;
+
+2016-03-02 21:25:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:25:58 response :
+------------
+
+2016-03-02 21:26:40 trace :
+------------
+Array:
+from : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+to : gh_cf305f6ee642 ;
+time : 1456925279 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+createtime : 1456925279 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/index.php?ctl=user&act=login ;
+menuid : 401409459 ;
+
+2016-03-02 21:26:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:26:40 response :
+------------
+
+2016-03-02 21:26:43 trace :
+------------
+Array:
+from : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+to : gh_cf305f6ee642 ;
+time : 1456925282 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwfJYTCskL2vBe9iJrfRDUUk ;
+createtime : 1456925282 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/ ;
+menuid : 401409459 ;
+
+2016-03-02 21:26:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:26:43 response :
+------------
+
+2016-03-02 21:26:54 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925294 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925294 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/index.php?ctl=deals ;
+menuid : 401409459 ;
+
+2016-03-02 21:26:54 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:26:54 response :
+------------
+
+2016-03-02 21:26:59 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925298 ;
+type : event ;
+event : CLICK ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925298 ;
+msgtype : event ;
+eventkey : 拨号 ;
+
+2016-03-02 21:26:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:26:59 response :
+------------
+
+2016-03-02 21:27:04 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925303 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925303 ;
+msgtype : event ;
+eventkey : http://ht.we7.cc/ ;
+menuid : 401409459 ;
+
+2016-03-02 21:27:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:27:04 response :
+------------
+
+2016-03-02 21:27:07 trace :
+------------
+Array:
+from : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+to : gh_cf305f6ee642 ;
+time : 1456925306 ;
+type : event ;
+event : VIEW ;
+tousername : gh_cf305f6ee642 ;
+fromusername : oTkNdwVTuKCoTmXebKxWJSmLhHOo ;
+createtime : 1456925306 ;
+msgtype : event ;
+eventkey : http://www.tonell.cn/index.php?ctl=user&act=login ;
+menuid : 401409459 ;
+
+2016-03-02 21:27:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-02 21:27:07 response :
+------------
+

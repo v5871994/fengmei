@@ -1,0 +1,934 @@
+2016-12-30 08:37:39 trace :
+------------
+Array:
+from : oRPPWviBtBKFFmZXg0t2EeAr2b7M ;
+to : gh_b1f7fee0dba6 ;
+time : 1483058258 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWviBtBKFFmZXg0t2EeAr2b7M ;
+createtime : 1483058258 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 08:37:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 08:37:39 response :
+------------
+
+2016-12-30 08:38:07 trace :
+------------
+Array:
+from : oRPPWviBtBKFFmZXg0t2EeAr2b7M ;
+to : gh_b1f7fee0dba6 ;
+time : 1483058287 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWviBtBKFFmZXg0t2EeAr2b7M ;
+createtime : 1483058287 ;
+msgtype : text ;
+content : 1 ;
+msgid : 6369686841161071341 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 08:38:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 08:38:07 response :
+------------
+
+2016-12-30 13:39:13 trace :
+------------
+Array:
+from : oRPPWvrtuja-NYIthd5wVDPQYv3k ;
+to : gh_b1f7fee0dba6 ;
+time : 1483076353 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvrtuja-NYIthd5wVDPQYv3k ;
+createtime : 1483076353 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 13:39:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 13:39:13 response :
+------------
+
+2016-12-30 13:39:28 trace :
+------------
+Array:
+from : oRPPWvrtuja-NYIthd5wVDPQYv3k ;
+to : gh_b1f7fee0dba6 ;
+time : 1483076367 ;
+type : voice ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvrtuja-NYIthd5wVDPQYv3k ;
+createtime : 1483076367 ;
+msgtype : voice ;
+mediaid : orzzkIBDGTbW0siNO9es5gYz4webmgeDyajHSu13dH7IxF1vCAA5snOkpe78EfPg ;
+format : amr ;
+msgid : 6369764494169785398 ;
+recognition :  ;
+media : orzzkIBDGTbW0siNO9es5gYz4webmgeDyajHSu13dH7IxF1vCAA5snOkpe78EfPg ;
+
+2016-12-30 13:39:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 13:39:28 response :
+------------
+
+2016-12-30 16:23:57 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086238 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086238 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:23:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:23:57 response :
+------------
+
+2016-12-30 16:25:21 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086322 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086322 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:25:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:25:21 response :
+------------
+
+2016-12-30 16:26:00 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086361 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086361 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:26:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:26:00 response :
+------------
+
+2016-12-30 16:29:27 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086567 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086567 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:29:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:29:27 response :
+------------
+
+2016-12-30 16:30:02 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086603 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086603 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:30:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:30:02 response :
+------------
+
+2016-12-30 16:30:22 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086623 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086623 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:30:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:30:22 response :
+------------
+
+2016-12-30 16:30:45 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086645 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086645 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:30:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:30:45 response :
+------------
+
+2016-12-30 16:30:47 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086648 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086648 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:30:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:30:47 response :
+------------
+
+2016-12-30 16:31:08 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483086669 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483086669 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:31:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:31:08 response :
+------------
+
+2016-12-30 16:41:10 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087271 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087271 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:41:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:41:11 response :
+------------
+
+2016-12-30 16:42:47 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087368 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087368 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:42:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:42:47 response :
+------------
+
+2016-12-30 16:42:59 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087380 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087380 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:42:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:42:59 response :
+------------
+
+2016-12-30 16:43:41 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087421 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087421 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:43:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:43:41 response :
+------------
+
+2016-12-30 16:44:33 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087474 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087474 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:44:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:44:33 response :
+------------
+
+2016-12-30 16:45:07 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087508 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483087508 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:45:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:45:07 response :
+------------
+
+2016-12-30 16:51:28 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087888 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483087888 ;
+msgtype : text ;
+content : .... ;
+msgid : 6369813976488004557 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 16:51:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:51:28 response :
+------------
+
+2016-12-30 16:51:44 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483087905 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483087905 ;
+msgtype : text ;
+content : ...... ;
+msgid : 6369814049502448591 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 16:51:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:51:44 response :
+------------
+
+2016-12-30 16:54:46 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088087 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483088087 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 16:54:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:54:46 response :
+------------
+
+2016-12-30 16:56:41 trace :
+------------
+Array:
+from : oRPPWvkWtAJvHyS2XoeXSxXMEq6k ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088202 ;
+type : event ;
+event : MASSSENDJOBFINISH ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvkWtAJvHyS2XoeXSxXMEq6k ;
+createtime : 1483088202 ;
+msgtype : event ;
+msgid : 3147483654 ;
+status : send success ;
+totalcount : 2 ;
+filtercount : 1 ;
+sentcount : 1 ;
+errorcount : 0 ;
+copyrightcheckresult : 
+
+
+ ;
+
+2016-12-30 16:56:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:56:41 response :
+------------
+
+2016-12-30 16:56:45 trace :
+------------
+Array:
+from : oRPPWvkWtAJvHyS2XoeXSxXMEq6k ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088206 ;
+type : event ;
+event : MASSSENDJOBFINISH ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvkWtAJvHyS2XoeXSxXMEq6k ;
+createtime : 1483088206 ;
+msgtype : event ;
+msgid : 3147483655 ;
+status : send success ;
+totalcount : 2 ;
+filtercount : 1 ;
+sentcount : 1 ;
+errorcount : 0 ;
+copyrightcheckresult : 
+
+
+ ;
+
+2016-12-30 16:56:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 16:56:45 response :
+------------
+
+2016-12-30 17:00:42 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088443 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483088443 ;
+msgtype : text ;
+content : ......... ;
+msgid : 6369816360194853978 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:00:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:00:42 response :
+------------
+
+2016-12-30 17:03:04 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088584 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483088584 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-30 17:03:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:03:04 response :
+------------
+
+2016-12-30 17:03:42 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088622 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483088622 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-30 17:03:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:03:42 response :
+------------
+
+2016-12-30 17:05:21 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483088722 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483088722 ;
+msgtype : text ;
+content : 测试 ;
+msgid : 6369817558490729619 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:05:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:05:21 response :
+------------
+
+2016-12-30 17:11:30 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089070 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483089070 ;
+msgtype : text ;
+content : ................ ;
+msgid : 6369819053139348693 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:11:30 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2016-12-30 17:11:30 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-12-30 17:12:14 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089135 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483089135 ;
+msgtype : text ;
+content : 测试 ;
+msgid : 6369819332312222945 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:12:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:12:14 response :
+------------
+
+2016-12-30 17:12:44 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089165 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483089165 ;
+msgtype : text ;
+content : 123456789 ;
+msgid : 6369819461161241829 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:12:44 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2016-12-30 17:12:44 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-12-30 17:12:53 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089173 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483089173 ;
+msgtype : text ;
+content : 987654321 ;
+msgid : 6369819495520980198 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:12:53 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2016-12-30 17:12:53 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-12-30 17:15:33 trace :
+------------
+Array:
+from : oRPPWvopUdqmoofwtbXAPU3727PI ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089333 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvopUdqmoofwtbXAPU3727PI ;
+createtime : 1483089333 ;
+msgtype : text ;
+content : 132465798 ;
+msgid : 6369820182715747573 ;
+redirection :  ;
+source :  ;
+
+2016-12-30 17:15:33 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2016-12-30 17:15:33 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-12-30 17:24:53 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089893 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483089893 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 17:24:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:24:53 response :
+------------
+
+2016-12-30 17:25:05 trace :
+------------
+Array:
+from : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1483089906 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvps_LCf2grvL8ZPDP2AdozQ ;
+createtime : 1483089906 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434275792 ;
+
+2016-12-30 17:25:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-30 17:25:05 response :
+------------
+

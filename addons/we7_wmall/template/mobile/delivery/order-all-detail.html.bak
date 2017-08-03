@@ -1,0 +1,78 @@
+
+{template 'delivery/header'}
+<div class="page order-info" id="page-delivery-order">
+	<header class="bar bar-nav common-bar-nav">
+		<a class="icon fa fa-arrow-left pull-left external" href="{php echo $this->createMobileUrl('dyorder',array('op'=>'orderall'));}"></a>
+		<h1 class="title">仔仔细细看</h1>
+		<a class="icon tel pull-right external" href="tel:{$store['telephone']}"></a>
+	</header>
+{if $op=='oadetail'}
+	<div id="order-detail" class="tab active">
+			<div class="list-block other-info" style="margin: 0">
+			<div class="content-block-title" style="margin-top:60px">订单一览</div>
+			{loop $order $v}
+				<ul>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">订单号：{$v}
+							<a href="{php echo $this->createMobileUrl('dyorder', array('op' => 'oalist','oid'=>$v));}">查看详情</a></div>
+						</div>
+					</li>
+				</ul>
+			{/loop}
+		</div>
+{/if}
+
+{if $op=='oalist'}
+	<div id="order-detail" class="tab active">
+			<div class="list-block other-info" style="margin: 0">
+			<div class="content-block-title" style="margin-top:60px">订单一览</div>
+				<ul>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">订单号：{$orderdetail['id']}</div>
+						</div>
+					</li>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">订单明细：{$order['title']}</div>
+						</div>
+					</li>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">
+							配送时间：{php echo date("Y-m-d H:i:s",$orderdetail['deliveryingtime'])}
+							</div>
+						</div>
+					</li>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">
+							{if !empty($orderdetail['deliveryedtime'])}
+							送达时间：{php echo date("Y-m-d H:i:s",$orderdetail['deliveryedtime'])}
+							{else}
+							送达时间：正在路上
+							{/if}
+							</div>
+						</div>
+					</li>
+					<li class="item-content">
+						<div class="item-inner">
+							<div class="item-title">
+							订单状态：{if $orderdetail['status']==4}配送中{/if}
+							{if $orderdetail['status']==5}配送成功{/if}
+							{if $orderdetail['status']==6}订单取消{/if}
+							{if $orderdetail['status']==7}买家已取货{/if}
+							</div>
+						</div>
+					</li>
+				</ul>
+		</div>
+
+{/if}
+</div>
+<script>
+
+</script>
+{template 'delivery/common'}
+{template 'delivery/footer'}

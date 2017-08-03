@@ -1,0 +1,1 @@
+<?php defined('IN_IA') or exit('Access Denied');?><div type="header"></div><div type="richtext"><div class="app-richText" ><div class="inner  "  ><p>合作加盟热线： 400-888xxxx</p></div></div></div><script type="text/javascript" src="./resource/js/app/common.js"></script>

@@ -1,0 +1,195 @@
+2016-04-07 15:41:31 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460014890 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460014890 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-04-07 15:41:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:41:31 response :
+------------
+
+2016-04-07 15:41:38 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460014898 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460014898 ;
+msgtype : event ;
+eventkey : http://www.wepower365.com/app.php/module/tel/call/index/0752-3828178/ ;
+menuid : 209874298 ;
+
+2016-04-07 15:41:38 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:41:38 response :
+------------
+
+2016-04-07 15:41:53 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460014911 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460014911 ;
+msgtype : event ;
+eventkey : http://dwz.cn/xxkMd ;
+menuid : 209874298 ;
+
+2016-04-07 15:41:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:41:53 response :
+------------
+
+2016-04-07 15:42:50 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460014970 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460014970 ;
+msgtype : event ;
+eventkey : http://www.wepower365.com/app.php/module/3g/mobile/view/10669/7021/ ;
+menuid : 209874298 ;
+
+2016-04-07 15:42:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:42:50 response :
+------------
+
+2016-04-07 15:45:24 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460015124 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460015124 ;
+msgtype : event ;
+eventkey : 首页 ;
+
+2016-04-07 15:45:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:45:24 response :
+------------
+
+2016-04-07 15:45:32 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460015132 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460015132 ;
+msgtype : event ;
+eventkey : 品牌 ;
+
+2016-04-07 15:45:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:45:32 response :
+------------
+
+2016-04-07 15:45:40 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460015140 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460015140 ;
+msgtype : event ;
+eventkey : 签到 ;
+
+2016-04-07 15:45:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:45:40 response :
+------------
+
+2016-04-07 15:48:48 trace :
+------------
+Array:
+from : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+to : gh_8792052896c2 ;
+time : 1460015327 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jl9gM_mLBtDEsknAbCc2Q-U ;
+createtime : 1460015327 ;
+msgtype : event ;
+eventkey : 品牌 ;
+
+2016-04-07 15:48:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-04-07 15:48:48 response :
+------------
+

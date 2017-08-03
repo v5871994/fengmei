@@ -1,0 +1,24 @@
+2016-03-19 16:35:12 trace :
+------------
+Array:
+from : oEaTYt4obR0iK6i5iHYcN5bWIJXM ;
+to : gh_8089b87c1459 ;
+time : 1458376518 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8089b87c1459 ;
+fromusername : oEaTYt4obR0iK6i5iHYcN5bWIJXM ;
+createtime : 1458376518 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-19 16:35:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-19 16:35:13 response :
+------------
+

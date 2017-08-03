@@ -1,0 +1,96 @@
+2017-01-16 09:27:22 trace :
+------------
+Array:
+from : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+to : gh_b1f7fee0dba6 ;
+time : 1484530043 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+createtime : 1484530043 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 434402732 ;
+
+2017-01-16 09:27:22 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-01-16 09:27:22 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-01-16 09:27:56 trace :
+------------
+Array:
+from : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+to : gh_b1f7fee0dba6 ;
+time : 1484530077 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+createtime : 1484530077 ;
+msgtype : event ;
+eventkey : http://www.ucanv.com ;
+menuid : 434402732 ;
+
+2017-01-16 09:27:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-01-16 09:27:56 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvuCwcqs7hZ6NlZV5HLB7-aU ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-01-16 22:23:25 trace :
+------------
+Array:
+from : oRPPWvh8EuP_BBnz5F8J3K9Tw47Q ;
+to : gh_b1f7fee0dba6 ;
+time : 1484576607 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvh8EuP_BBnz5F8J3K9Tw47Q ;
+createtime : 1484576607 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=mine&m=we7_wmall ;
+menuid : 434402732 ;
+
+2017-01-16 22:23:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-01-16 22:23:25 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvh8EuP_BBnz5F8J3K9Tw47Q ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+

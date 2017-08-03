@@ -1,0 +1,102 @@
+2016-12-23 09:49:30 trace :
+------------
+Array:
+from : oRPPWvoe7Gwg9fqKM_RDkztdvH6I ;
+to : gh_b1f7fee0dba6 ;
+time : 1482457770 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvoe7Gwg9fqKM_RDkztdvH6I ;
+createtime : 1482457770 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-23 09:49:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-23 09:49:30 response :
+------------
+
+2016-12-23 17:50:00 trace :
+------------
+Array:
+from : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+to : gh_b1f7fee0dba6 ;
+time : 1482486600 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+createtime : 1482486600 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-23 17:50:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-23 17:50:00 response :
+------------
+
+2016-12-23 17:50:06 trace :
+------------
+Array:
+from : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+to : gh_b1f7fee0dba6 ;
+time : 1482486606 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+createtime : 1482486606 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=guide&m=we7_wmall ;
+menuid : 434129959 ;
+
+2016-12-23 17:50:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-23 17:50:06 response :
+------------
+
+2016-12-23 17:50:32 trace :
+------------
+Array:
+from : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+to : gh_b1f7fee0dba6 ;
+time : 1482486632 ;
+type : text ;
+event :  ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvr3E3MRu3_ZjlTbHZyWcYVM ;
+createtime : 1482486632 ;
+msgtype : text ;
+content : 客服 ;
+msgid : 6367231601631395618 ;
+redirection :  ;
+source :  ;
+
+2016-12-23 17:50:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-12-23 17:50:32 response :
+------------
+

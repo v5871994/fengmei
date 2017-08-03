@@ -1,0 +1,256 @@
+2017-02-01 00:26:54 trace :
+------------
+Array:
+from : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+to : gh_b1f7fee0dba6 ;
+time : 1485880012 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+createtime : 1485880012 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=mine&m=we7_wmall ;
+menuid : 434402732 ;
+
+2017-02-01 00:26:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 00:26:55 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 00:26:56 trace :
+------------
+Array:
+from : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+to : gh_b1f7fee0dba6 ;
+time : 1485880012 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+createtime : 1485880012 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&do=mine&m=we7_wmall ;
+menuid : 434402732 ;
+
+2017-02-01 00:26:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 00:26:56 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvu8-dc282E4b7sXV50E_sxU ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 10:17:30 trace :
+------------
+Array:
+from : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1485915449 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+createtime : 1485915449 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 434402732 ;
+
+2017-02-01 10:17:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 10:17:32 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 10:17:33 trace :
+------------
+Array:
+from : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1485915449 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+createtime : 1485915449 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 434402732 ;
+
+2017-02-01 10:17:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 10:17:33 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 10:17:58 trace :
+------------
+Array:
+from : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1485915480 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+createtime : 1485915480 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=836 ;
+menuid : 434402732 ;
+
+2017-02-01 10:17:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 10:17:58 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 10:19:10 trace :
+------------
+Array:
+from : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1485915552 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+createtime : 1485915552 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 434402732 ;
+
+2017-02-01 10:19:11 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 10:19:11 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 10:19:20 trace :
+------------
+Array:
+from : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+to : gh_b1f7fee0dba6 ;
+time : 1485915562 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+createtime : 1485915562 ;
+msgtype : event ;
+eventkey : http://www.ucanv.com ;
+menuid : 434402732 ;
+
+2017-02-01 10:19:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 10:19:20 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvqb3e6L5cYtfUH_i3_TbPyQ ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+
+2017-02-01 11:26:40 trace :
+------------
+Array:
+from : oRPPWvmAx6zEstyJYDlqiIUz-iek ;
+to : gh_b1f7fee0dba6 ;
+time : 1485919599 ;
+type : event ;
+event : VIEW ;
+tousername : gh_b1f7fee0dba6 ;
+fromusername : oRPPWvmAx6zEstyJYDlqiIUz-iek ;
+createtime : 1485919599 ;
+msgtype : event ;
+eventkey : http://a233.sdsfshop.com/app/index.php?i=65&c=entry&eid=851 ;
+menuid : 434402732 ;
+
+2017-02-01 11:26:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 171 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-02-01 11:26:41 response :
+------------
+Array:
+FromUserName : gh_b1f7fee0dba6 ;
+ToUserName : oRPPWvmAx6zEstyJYDlqiIUz-iek ;
+MsgType : text ;
+Content : 欢迎关注 保芝蓝 门店！ ;
+

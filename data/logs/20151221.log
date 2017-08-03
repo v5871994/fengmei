@@ -1,0 +1,4332 @@
+2015-12-21 09:15:45 trace :
+------------
+Array:
+from : o49xAwrPRH69q6cYvvWxx6NVBxIw ;
+to : gh_8a5f70a28b90 ;
+time : 1450618323 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrPRH69q6cYvvWxx6NVBxIw ;
+createtime : 1450618323 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 09:15:45 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[w92IkfnsmdkeZ4geYBCbxlMBfhN/XyrhR+ZvVenRWXWUSIctvP37Ayh4WJe4UFPatp5yeLGTFwFytVJWaju7Re/ZzonalIaCs1EHy5hCGyepFP/Rh1cbV4YAAfvDsjJqPITvvBkxj6wkLGtlpSM3igBzScBadFpKshmnPrhZwqxzvPg2g5rKSkbWnJ+x2MPuttnS0DAWvpe1dU6E7CBEJ/Y46cxycyMW4dfHC9wS/oiPLtFm9YqjQpQ7J2f/w/fWyGWfnweguCd1esti6ndXj5KdiAPfh7Qo0KkLK/WHfSdMpO8CbGcAFh3Ui8gJN7mWuKWPrL0p41OMeaX0Va69Od99uJeBiPC21dyewUtZi5LWJ6HHmyzTCP1eCKC21ZyucUGUQXwZnRe0YR1LtZ3FvfhKBE8/nPxgk7exmETrYnIiBZCm0XWmuO/aDz9qEWJ2DhSwKmhpfAIr0FRPB9SBlA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:15:45 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[w92IkfnsmdkeZ4geYBCbxlMBfhN/XyrhR+ZvVenRWXWUSIctvP37Ayh4WJe4UFPatp5yeLGTFwFytVJWaju7Re/ZzonalIaCs1EHy5hCGyepFP/Rh1cbV4YAAfvDsjJqPITvvBkxj6wkLGtlpSM3igBzScBadFpKshmnPrhZwqxzvPg2g5rKSkbWnJ+x2MPuttnS0DAWvpe1dU6E7CBEJ/Y46cxycyMW4dfHC9wS/oiPLtFm9YqjQpQ7J2f/w/fWyGWfnweguCd1esti6ndXj5KdiAPfh7Qo0KkLK/WHfSdMpO8CbGcAFh3Ui8gJN7mWuKWPrL0p41OMeaX0Va69Od99uJeBiPC21dyewUtZi5LWJ6HHmyzTCP1eCKC21ZyucUGUQXwZnRe0YR1LtZ3FvfhKBE8/nPxgk7exmETrYnIiBZCm0XWmuO/aDz9qEWJ2DhSwKmhpfAIr0FRPB9SBlA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:15:45 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[w92IkfnsmdkeZ4geYBCbxlMBfhN/XyrhR+ZvVenRWXWUSIctvP37Ayh4WJe4UFPatp5yeLGTFwFytVJWaju7Re/ZzonalIaCs1EHy5hCGyepFP/Rh1cbV4YAAfvDsjJqPITvvBkxj6wkLGtlpSM3igBzScBadFpKshmnPrhZwqxzvPg2g5rKSkbWnJ+x2MPuttnS0DAWvpe1dU6E7CBEJ/Y46cxycyMW4dfHC9wS/oiPLtFm9YqjQpQ7J2f/w/fWyGWfnweguCd1esti6ndXj5KdiAPfh7Qo0KkLK/WHfSdMpO8CbGcAFh3Ui8gJN7mWuKWPrL0p41OMeaX0Va69Od99uJeBiPC21dyewUtZi5LWJ6HHmyzTCP1eCKC21ZyucUGUQXwZnRe0YR1LtZ3FvfhKBE8/nPxgk7exmETrYnIiBZCm0XWmuO/aDz9qEWJ2DhSwKmhpfAIr0FRPB9SBlA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:15:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 09:15:45 response :
+------------
+
+2015-12-21 09:21:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[W+HCssuz+KCi0LsqvgMyASA8YjifegE1A2XiD537TXEXpOSF+umKkzyjnvyWNyg4AODBc9DVkL2EI7vF+eloPnAYh8ypGccrJdGo9u434G7N9sCydfM60bL/j5j+U7S9+Wv4Y5J1YYCpb1mwDBOwhbH6OhKc4i4KO7JlgYeRTt5Ck8DuIoxsY6KmtMhnG11MlDSi0AxkBDBV//GiKZXe0mLlX2Xnnyin7si51hr+Q31UfXROhwaUUlaMTBLv6ph49XD+OBPToEZVE1+sNySDh4eHKZq+ColifDephw5aCxCcrsvsrKyiy1MA9K/esGDiaFbgV93QCaHcglmtk8B27tONB4TqwTbZDoO/XuHxkzkv8xA8fxOxpkTg6T0Jbw/1u10m4ZzpZb0P07XIW9iZQurnJdH7bDHpIcvJFXbEpmiM6UqXdqrZNnSOVyh/3OxwHh93pzs1QmtQRmm+3mcYww==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:31:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[zjggGh5FK4j4vn4hefHwq/GJ3J7iE6dQxsSpsK9vKsq/0bI7ypYbEZruB1yATpQY0VN3hWo8sQOz8WhkdEvz7EwvnmUtE8FWVBjDBjiVGbOQafT8XyLp35e4uLCuZfApNYH3gWUm5LZ3tZ8+JqkRqgEaynW/iDR206EBKuRySOIox8rvDY+ADePHYggWRkYVLhb0eM70nmLJ/AUmd6LXkwQZ8HB6AX0hS4uKExsvj3Woe4NWoowhupiq0gQeOsuB19gvSeEPIHi4rX6B4Em8fWPvo7cxo3Z1AknD4ObWvvZEIBtv8sn5jkyAK1s67Ud6cffhEC2H1LLvqGn8jS4Drhn7B2h4ABNfMVacDK1FpXAjsi/twdVy2ic4Zv4xJPikoX7VAiGapQUsPWG02uVBxgsPRLUHp+TKuLmFAkUEhWUIRFDnBScDq1SrF3KHdk8/yXKLy+qr76E3lyJdiHIPqQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[We88EQ6nqb+RNbi8a1MeX2m08UONDTn/Zc7FHtN1kzHItpLfntJZi3NDOrZJ1//8H1Wq/BNuMRzd80QLJ3i1qq9tNwrd5TQ5NmWcc2qSPZnDE+o+BkXPwWZfo/dFf3TbvD+M3GkV8D5kBavwAca8XYTkxmSkZvfPlfJArqVFD3T+8pkYmyinUCNnM6aFlND2Ty4ol9NLgsKXbNWBGNIB9onnRs91KurfSxULxcxA9MHYzX9zQ8QpfQi7IVKKWf/Nj96PvysSw4tVs2/cXMIXpjybXjQbSw7yWAUF2Zhrzgk4ixrGZBg7rhAZAVpPHsVjsbJSP+vXraM8yhkYv9pFC25Qi4Llci0L+Q7leOB13yEsw6GBn4bUodbvrNjQYwbbEr5mDmNDf8tJ7Z/Soz3go4K8/qIyR61lklozjrgZBHWKJF4tHq3eL69uBUFj9SysB095Fi5cLm0dp5Kb8QqUMQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 09:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[bLA2kO4H6pcfkgAg/Ls1480HemPj082WmFMk4W+DjWllt646xhr83yWo+swIAW1yepW6nUl2Ie7z/yY4wzrPprEYYJeQUm6SG+i0K98l89UFq46OU7APSYfk9lvYmH/ti2mzGUE4aYGLlDOMtNZnqq4ebrIRv/O7VCSHXhRsTjPINgEQeBBNCqS2Gd2R8rEQZfSHC81WkqyOn3Ncgc9/qz3y9h3njU28j/cnJCKLsud0yd1r2gBrEtzX9kfPokgf9dpKuNom8kg6ycx+PGHIQBgiku8IV+r6HbtIezr04f3ZwxBJ3kQWE4yMRNMt2yOlA0thaJ3Y2BaBU3lxmXJaLk1ROTh7zXogj8JyTpXr2ATyru7u6ajP5jGXXsq1mbKmkj3zP/B8wVg/YVHbanV+Jjx4kOcmIJd0HK5HTu3JR+Msu7p+tCtDSAhUqnwMFAgFXuMUavJxIQ4rEW2+36XgKA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:01:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[qXJ+NeCm+x7wlUr3J7ztFf1ZzIx9cChp2TOFw++kZi51C1BoQ0a41PMNttel1ugI4FFLpVsMHig53iGytBEbS0r/uMeBWfolLR7pf9eLvZVveZDtt03ESYLzlYBPQeL9UsK/sBIeMfM8/2ket7Ie2KniiajcVAyfyoHR16tbqGXoKVYgdZ8UAGPKq4tYyCaOMeeMXdrhaBH+35FcEw9fZdS94qcDLl3XNgqdwEDe2/URVtA8uWo0ijT7EfZquFGdC0uYd86YOuYFdVODatvq6Zwu6T2LFSpM2sIFGt305K46AvnKBTiZzShHdepfYb4klj+5RtLH0R+9XFmtSjtamO9o0Enx8eLD42r2YiYkQK6DGCUVS+5GpUi9kak/AIyskdydR2AE2GmRkO7Nkx7l/sM4nLCDnrKqFTDNLLqsXUsScgr5Y7IxOA0zste0qtHXl5hj1LJjUHKnxatblATavg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:11:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[1u1kBqcDVjj0Bi+VGI9wOhRWpUzBD0f3wSgFgFiNX3E+njsvSDyImNoQhNlU23JCXVCpPxAFeASWfqMNxOD07Nnq8Ortz8inkhRs9A0J7Q3kJTUQYxkwEneI4CC5Y4E2DcUBHzDoUG0UtKabsquxbGSw69lHbpUSzXSl0OTWBsjCGllQuTXf7J4PP0msEPth5MFGA6mtwP0fi2ikfKR7pmMdAigNTIKarHnQA0rVJBSozXKIh0erdHYm2Do7SxGGRE5oC+Yi7nzEOlB837Ug/f+OOIt2MKj5ivBMOGgoiNVivgl/3I5/25XzLwwwymVvxxB1IL1axaxNgt/InGlcug2NEVgx2dYgXANrhL3l+V8GttcQqoNuyhro6gKyPyD2la4Vom9qLM0C7BVZ6XqlqazUPS6UcoWg6KtdWe0+ILOb2O2+jVBKVq2m6VWoUhv1oWhV3lfQJIDr/4fAyjKBjA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[hVGbrASIlCusuMPlQXqRNUDOIoFPXRctOFOswEWxZDr0yjg0AyphuR9WGm4mStEb3gJYQXukZyYUU0m2850gSsfwcu4NEwYWP3yff/uPvFn6svzlrHyOnw12xqKXCYUlCedYMoI00sC42bkUXSSKxrYo1QxkWyAPJkD4zyktmElvLuA0wJrAot1RdlrbXhSCWoG/5U+U0ZEh1BnuXwog6lam0Ri2i3OS5Mxd+Wsx+hS84ZbPHThZPiAfEGg3mamhsqS7FdLjXlkZ6j9LH+C3actfv1C8sVPlqh7H8+uquTXgs3PBOr3V3wIOZ5XFrGiYCYGt2mfgwIANls5NtQhos7+RMh9N9420mo6hsx+k3qnayvMfjdKOgS/11a/3W+c3/D1IX+zRJuGTpMC6Tdcr6KuKjgfkjW6o5dvy1ILoRF4iYqu/PIxL8FsdznfkZkAJ0zdCRcKMFBOyCxlwYsznqg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[kdqFtEQ4/3Z8gnE/FbyHrm1dVbyhx34Lrj0RypLH/wdKeOz3/a0zGF2NkTrsbEZ5BTc58M9gqwW6LXI5jhIVqelUbIwBGBaXqjaqBSaDbOuXZYEJxPVOPgDsm6645zG9pa4zv4e1gwrUQ+77PJ1Fw8Res8y7xBXr0ioerbP1yfgBUCijAd6AT/251Pf0r7yeUcUAtYpQPXHDXc+aDQn7lc15NLcf7Ebs7WsRamOFw97F0uU2qBfyIUKKmwORFd/FpAFBbiP+KUhUfgP7m7QgynPfMPn5DMS6mIZN8PHfOsdYM1HZS08FEIkWM9zGkV94B7TCJjvYfInaotTAXFtHmaZ9C34iWOvxbu6/CUUn1MKWoUUWbwO9u9yEoR6dOr9x2sNIbCpW2aI4W0k2v6yH5jRsC9jNqGKzgAfKBj9jLKD/+AHkae2tNmUAZoKcqzTLaVOjjvjxomN4iSW3F88HZw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:37:30 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450665453 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450665453 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 10:37:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 10:37:30 response :
+------------
+
+2015-12-21 10:41:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[KPcEE9vvKX9Q0GjI+KfaVEGwYNBH9R5U/fFqricrgg0g0rAy2U1hGf0OA7xEocMQqfaN+kt5etWCmTNNFLTN/wdHDmi+sGjpUNojhZ7vDQZ/23kYjeAcd21E5nuYS5n73ys4xOQcjhthhEjgkzZilKjqXv5nIv/sRVRoxU461fZ+AVniNIZ9dAgxZun5hUstymMdyMdU3R8TsrPogXQu1+4axTJ2D1dIjzOQhHL+S4Xg7l59etuds+0Mn4TBCp8g2AvjJlif28iikMfDFaWRm2d8ftEsllAJvUYtzDetNksrvcF0/Thesjv4uBh5njn5OJeKhmTmKRGNVSBqzXLTmLIYlM2ej1A65KabmcLeR+g+UEmiDMiV0NBSzcmuBLxRaxXY7ff1Ycekn/kRVT1E9aJedVCVwxh4Dgcrzzn7YBb2/wJPojgnCPVkGKft802Ju8tQooRjVkKL6NCl7bgmLw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:51:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[FsHn2oBILKrQxi10EhTEjHdjKw0LFLVszJqmSlk+OInTdXj3ftTrTIdCHs+iObYcuv174dyVTiJiE9vx5irBhJyB6KmC2CYYHg0+H6jUpdJiA+j1kIbrXt1z4Ipky/By+S4vpCEMDj+3jtlXsEQip6Ad8Rg+UdbUdRWNs9MYE2zQ17BU/UMY5B2QCfzOQZTtIWnQPs2rEmuaXqY8UexZAwsJ5zXUHQYXSJcieib/3XyYjBoMQPHeFvkbX+caF3xtCIL7dxmVJo1dWowc5fsjld01S6Wy3vbt2M5uRzSxFYJ2nuOUfZv2EESdWSMTWpugKSsntAIdn6LvM9pOc4qSGOs92edvHUZf5bNkljjLzOnrVdwLb1ymKhhQDTv63KaS2BK6tWO7ZyQPb3Ljlc4Fvk30tVXq7zKboiGrwYp7QM6lIkHia1fa98kH7ajlQaLJJZZrb6BEVSvP81j6/WxqlQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 10:59:31 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450666773 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450666773 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 10:59:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 10:59:31 response :
+------------
+
+2015-12-21 11:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[8O+akbOHdV3SDWhDUEZ3dVEGxEZa8H826QCGjBzPTWosh6TkXrhbiWmu4JPzvWlNGkzzAxaRJlE5XXqDubPQC6QrkUKENaSQTIbv5OxQaDci8ZZCsz3TYDhxckhxZQ+UjhuYlf5xr/cmgIzLA7NEj3lsuUdsZBGgBtxBNHcJ3MIW67DymCksiLjDmwmwH5WMsVqA6hiukvYrguargGo/piZ574RLNqtpufxoc+QSdaa6di2CWaHcDa8sQNN2uAWf/45tkyTgaICxalhNHtweFdSpqbEkpeU3ZDUi5jgvFEkjoIc44qjbxdy90ehEsrtDqTTqBfLQIdsTePUD6N+6HKsSZmxZ2RAs7rE88vpqY5HbyqgVXADTDjs1UfYPOVet78VLMhT7BoBhl1uuPjl3EOf7H9VKVTzO77xvQdOuGKmTC4uJUSTsv7xvkY++lTYvG4v/ZOzfeqM8d78/iyk18w==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:01:08 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450666872 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450666872 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:01:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:01:08 response :
+------------
+
+2015-12-21 11:02:47 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450666971 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450666971 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:02:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:02:47 response :
+------------
+
+2015-12-21 11:03:26 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450667010 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450667010 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=208460137&idx=1&sn=4d326745a4586ea178acdc106474cf7f&scene=18#rd ;
+
+2015-12-21 11:03:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:03:26 response :
+------------
+
+2015-12-21 11:05:53 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450667157 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450667157 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:05:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:05:53 response :
+------------
+
+2015-12-21 11:07:17 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450667241 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450667241 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:07:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:07:17 response :
+------------
+
+2015-12-21 11:08:01 trace :
+------------
+Array:
+from : o49xAwnnGnBmwUw7wY_luH3GffuA ;
+to : gh_8a5f70a28b90 ;
+time : 1450667284 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnnGnBmwUw7wY_luH3GffuA ;
+createtime : 1450667284 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:08:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:08:01 response :
+------------
+
+2015-12-21 11:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[CO1fvimFCPkj3wugppAM2xw6aFf9PvVQmXVBVh1PUZ254dH90rfp/hSgi+HLTtkpCYJvLP8o23V8noGO5AsrXVuHLbAeHUaXDCbqfh5ozfGJY5VIXCbm9gKR+zauMljwtkSppG75GlZqubqvY0XllLJ1KZp2tpQw1c0kZ+EVJ2OkSFZWdczFAuNlr6sjZnXLuUlii5jl6rg6RRaiSa63viPGkTi/2o6pPlxNmSWNwaHnUK53mzHbpMF54tHRBQByOi6g8Cj1kjNwHjpRptlgUcBwnIyi6ZyBmQsEBbQp9UFjALcxMcIz+mVCjd7Mb+zqf6KoaTSU6+BhtrtpiWa2wydGhxpNjH7d8oZ7zMgCjvmofq3OYp7N6w+qm6dPlVKzXEFn3kGKuFGjT2mXoddueskrIQoCG6G+WuKJtSRF+rmI9ej1OG6dkiQrsKIX4HEF+KPQh0r9xkIs8i89LPK8xg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:12:04 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450667528 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450667528 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:12:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:12:04 response :
+------------
+
+2015-12-21 11:19:19 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450667963 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450667963 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:19:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:19:19 response :
+------------
+
+2015-12-21 11:19:53 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450667997 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450667997 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:19:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:19:53 response :
+------------
+
+2015-12-21 11:21:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[IRRNeoX7vkBxz1o3X+CApEBK483t9PRYE3NvP+HAw7ViTHS58ANHCWhZmrlU/4m2KtIAgrJs3VVhdZRTFOD9jHN9KHSE8HxDPSxb4DNEBTVu5K7bMPSgzNaBITgcKkr+c4gP+tQknBdxWWZr4GOrkcalkLX3crTO7fQACkDLcGlXWwZIGd/fDbzqsrltBmsmCMehtfDPoK4E3jhyCtc2rUe5EG6IfixJ48YAm/7rWPD5A7FTNTWNJ/xE7pQk46/vTBwf6umT6uo7FtYHwTNBfDmJi2sKkmbevrh7TO8n2yIGVQhuEnqJdRtuuXiBC27sC1SNDANpGlQSeWhTteVTh108t2uUUmrMHFahsjmp3AcrYFKMXNZE0FW1hJSFoKzenOvsqVTYjcYqhaLEHzunh7pr9bKVFcABc4RWoj0hgfWX9inALmZxJhSt8/1i5be3BtX4ewtu6q1xjdgXpjXlnQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:22:17 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450668141 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450668141 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:22:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:22:17 response :
+------------
+
+2015-12-21 11:24:30 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450668274 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450668274 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:24:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:24:30 response :
+------------
+
+2015-12-21 11:31:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[BO7DFy4d77pHUiPFnBEm06z23fWX4hie5TVvQc14EH4GViJBXXkCan9HPTrGhSXTztk4A7dzfscImL1KktaZtwhMCIP4WUlcQRwthUrfpuqM24ftqOqTIY9UFN6dV5UlWODyb9jHDE1QgHXE0eIn+L4tbCJrOoP5PXaKNawyKRA8qXDO+hWn1XaY25ErlD34P9TlDWHUJCPXhL06n25qX7Ol0vpzPo/ChOZhUrL98Qjbc148TllCkTHLdHiN+B7yWoSiisGPbKVmxkD7kTZ27ohp2fsocGChnPyLy/hoUDQWEM/O1nsp6ETLbIWHq2X2Qxn1AAdg22Rx8x1mXqPdD8SC6WVXrOUe1KUSNqsMjiz5xz24qq1P4/NbgVQEmAntL0xeN2kx6xNuLgOLB1d1r1MvB3bUI1LJmnHhcoXxjs0tXCPfZHgd0Mf4e6v3YnuZHp9gTK8KkVb7wtPxWcNUaw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:37:19 trace :
+------------
+Array:
+from : ov-0juAlZFCC2qK6BKiWi02iN2tQ ;
+to : gh_2c27a8e247f9 ;
+time : 1450669043 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_2c27a8e247f9 ;
+fromusername : ov-0juAlZFCC2qK6BKiWi02iN2tQ ;
+createtime : 1450669043 ;
+msgtype : event ;
+eventkey : 8140 ;
+ticket : gQEv8ToAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL04wTmtmNkxsSzZSU2daejNvbTk3AAIEo_8LVgMEAAAAAA== ;
+scene : 8140 ;
+
+2015-12-21 11:37:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:37:19 response :
+------------
+
+2015-12-21 11:41:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[8r9Pb94vSZr0eIQO/tW6v+uBuIn0YWaiyk4mxDSruLyO1TAomKQn+I//YAAyBlFzhifedQYU5hdg9SbeS23x+NrLWK5GfnsBXVo9akO6MlfXHYhwiSHlszzCjvXmStGsyJfS0mkhXvIPecyMrm71FXwsmAJ7UGthk5extDk77Nij+PbyP7EdTBa9/4hkaU5xxFwjfvBFi7nEqbrowLoP0YzXYHQibhzzKE6RBLvS6IWhqrpPxYGrr0IjRqbY8wYUtx6pJhUyN44gGX6BJ3UI8p/9Js0HZYI8AWWRwkvr5dKACZGynlv+wZrpNyFwFpoRtHMQdoOPQZb9a9YKP3XjHDnwePQwe6aQb0gPcAIW1s3OM991HK5AOFIo1zaG7YFA/Eyy/OG9qtS/a4KpoNrulXK52E6BBxGy+0OWAgZgTvq+aG8oR9cILiyMxl2GkJ8c5atzT6FnMz8XNUcCuIILhg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:51:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[HKqKGTyHs+i0UGFN0mTLQ+MhoSkrLoHdzrn7p3SxoN5sRxEZqLpjQfK4TgCx2nBKja1FOrpvu/a8c75jNXPbaZ8pr00NcJfbbOUqlshZDCM97heNjL9sY/k1j0yAMFRPWnfv41IF/4atzVeJaYZu/eIlIPq61vsKfPvzgULvKf0ggXdsYXL43pVoS3+RuiIproJBGV1TV2jnRsqBNd6/F/HH0Nkk/3EPcGXl8YHdn2f50RjcdEi3a5X0MpyJH75m41eX2GO2SX3mf2IeFULARRbNcbvXlvMloPWBdLh7YXLgQI5sIOAWCseb3/VqGHYp34ibg8yWZSCxQHmIvWKJR5R7SMHj9UiCejXUMRT3isUQIRDOcImPdun7t4vFOC9kwDLH4G9XGOw2TAagZ3eoG6CuJALkJjTyxfFCEGn2WLSQ+68IDA0FbgJrbRxhOpgaxgzuXviiSaG9mkDWApoyFA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 11:55:58 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450670163 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450670163 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-21 11:55:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:55:58 response :
+------------
+
+2015-12-21 11:56:04 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450670169 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450670169 ;
+msgtype : event ;
+eventkey : https://hd.faisco.cn/7599080/18/load.html?style=9 ;
+
+2015-12-21 11:56:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:56:04 response :
+------------
+
+2015-12-21 11:56:43 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450670207 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450670207 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401170027&idx=1&sn=00d33a3f6c9b3d79242e5adfa37457ac&scene=18#rd ;
+
+2015-12-21 11:56:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:56:43 response :
+------------
+
+2015-12-21 11:56:48 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450670212 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450670212 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 11:56:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 11:56:48 response :
+------------
+
+2015-12-21 12:01:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[HiMH7ldm9ZbmPrCOyCEJxIiF+/mHVuC2bhvD00DDZnkrObzmHrxPY9MDniYyOM25LIE+HacdR1VVO2m+59Jxh8KUmexndZI61jjgtQl4bkpjEoIY2961RiJ5A93a73ZSNCZ380x8yy0KZ5cRcGf9/igcnQFNENIAcYUdirAEMisQWArw/xz0oUfABD1aHvu6va5w3+RS8mxtbi2o22zFoJ4Urs91wbZClLpiH3tS0WfFVQCjkMGNTd/MgZUB94bPabK25GsXqNy6jgDejn431JE1ZyMGufAFUNr9q6auwXMHY89U3ODeOLLMcPgSXt/b9kivj8dTGxxOcC+0k3dSJ26NMD2aaBKG/iIIxs4G3nK+w2tQwu73sRODxuisuNx/CrljeEGLhqUf0bAoWYxDpPQ89Utff5BZr1aeQIAt8+4aiJw3ayDgVN8gf8BoBEqecjuINrMv2R9gllMtytiRgA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:11:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[UoViO0Y2kGF4NEZ89lskXP8sU2ImaAewzl4Z6JcC63PQ4TW0Gb7nbayWmsiolJQRdkQatlmbJB/eti2TunCwfnnvndF0RqbbnqJd5PxMh6GFgsN4gNP696uMNeqsl1Ox4YdVVX0O3Qx6C5+mlttCh28m7zsoKiMBhPFmawcknARJcxwZ786taVGXw5PtNSAZC2/nmedOB6bTs6MxZ1m99H8rJMEsjzepwqoJsO05Tcbc80UDCG2pT/MHXs6qgBofhMepyA/wTf2w/EkdvBVLLK4lGMavzl7qWuPpZcEzwzl00/MdcHn2BxE/deE1t+Aremujq9gxKJBy9wmQtE7ntybDrvr8QdAlJEtI8lijCV2NEpv3lfaW382Kz0/NnzKcYcjyBA6eCRbmE7Nrv9Wc+9kjyvRFNs6yQFQP9PCjBpRz1mGsh+OyiJsmFWtAeWplUTfOiPnhv9rkgRsZdjg+sA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:21:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[LvvQQU80WqR4qEBn9lKeqWPrXudrlN+l9e2KJh7HzlYU/HmLQZJOKO4a5knV9dGj0IdApChZisWFgjbv0hFtwRvEpDBBcV+kzWwPytR/Ug+naJbn2oyNt4Iz+IvcDyC9tXVBjqgym7FRbJyP1GQT2EKKrWjJQ/C48RlKerNN+X9qmSRwXBm/5N+88nT66NtlVzWMzydJxGU8HO1XNisUD8pwnLLzf0mZ0W8IKd28aBuh0+BWBJrE2IR2piJE0+erybgw51lsWirCMRUcT/IVww/eqkPF6oxjR4ofeZZyXEr6SJP4GyJi3yhV7xSC0m2x6diTzJtRZRJfqkaRRi9ROo81RxmOov459BUOo7wT9Sf9Y+oHyssWU4QtnKEIIb1tPh+FwlXrWtPUbSp/LNr2sx8FPpKKLZAVy/BLF04Wb2hdydEHDh+q+lLyUECdAgdpjcWkp66k5L/j0NGekRFbaw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:22:14 trace :
+------------
+Array:
+from : o49xAwtoRfoZNy-jl84flfea01c0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450671738 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtoRfoZNy-jl84flfea01c0 ;
+createtime : 1450671738 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-21 12:22:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:22:14 response :
+------------
+
+2015-12-21 12:22:19 trace :
+------------
+Array:
+from : o49xAwtoRfoZNy-jl84flfea01c0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450671743 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtoRfoZNy-jl84flfea01c0 ;
+createtime : 1450671743 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=400542524&idx=1&sn=42d92f3e459355da21e86a5aee336bc6&scene=18#rd ;
+
+2015-12-21 12:22:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:22:19 response :
+------------
+
+2015-12-21 12:22:24 trace :
+------------
+Array:
+from : o49xAwtoRfoZNy-jl84flfea01c0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450671748 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtoRfoZNy-jl84flfea01c0 ;
+createtime : 1450671748 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 12:22:24 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 12:22:24 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwtoRfoZNy-jl84flfea01c0 ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 12:22:25 trace :
+------------
+Array:
+from : o49xAwtoRfoZNy-jl84flfea01c0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450671749 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtoRfoZNy-jl84flfea01c0 ;
+createtime : 1450671749 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:22:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:22:25 response :
+------------
+
+2015-12-21 12:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[MgGCRmjb59Eyj9kDzogBPj5adatgGt7WGoqR+pESDjYNzrNbQk1Xhn8lUBEMOSAIWFdfDUe2rr5wMd0B7amrJn55IIWOa2rmxHcYRHQe2yygO/lZZJh9UxdSfN4GGBtiJcezBGDGqHOgq1eAX46bBfszstTnfOqLdeQwF2zXFctSkrArOjXu8EKOlbvn/F+UUpZ2kr9z/4pwo0M9LPRTU3ENMONilQVGLR9uVsyhWcgtJowkN5t9WkVGsA3QHYup2Pzo0+ocLHwazTEiFFV2INqOo/CNCL62m0JcLJ5yLdNRK1pE64pwsMlKd+CzTzsPgA/3AQ2QcxgT0U3WnqPpT3ljcsEILTkbJwqqsJC1szfv1h8z7BpPepLWuNWyGSVuS6/31DvZ7d5L2renXCizxsuiqPwYzxfA3S1Lsn1RvC5KVSj0eRsCzv0DNoHFhTg9zn1ma1/UhwZSzL7JKisL9Q==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:31:13 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672277 ;
+type : event ;
+event : subscribe ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672277 ;
+msgtype : event ;
+eventkey :  ;
+
+2015-12-21 12:31:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:31:13 response :
+------------
+
+2015-12-21 12:31:29 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672294 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672294 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 12:31:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:31:29 response :
+------------
+
+2015-12-21 12:31:50 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672315 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672315 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 12:31:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:31:50 response :
+------------
+
+2015-12-21 12:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[bV/GMhKLwJ3Xoeqyacmp84dtXF+4kB+fP/IoM4XmZuuh0hXlGn8ssIRoNXcfl8vIe9fjLTRYov0EJOdDsQNy5Cnsr6Nb4NtXQ4vT4umOxjQQ+Z8iO8p05iDpTw3SB2bFmcg30nmm5xfgD8NYRRBkT0zgVB/VcSr2Eit7h0FolvdUq05GD3ivPAqWefjDODyfPz3mAkFzrJj50e1uIkK4axYBJvsXoCKiMyhQjaj2CHUaJ7yHBKqd7GKLAWF/3Sd2zyzfougIVJlTtHc1TsMJHQj7j1JWASoUP7Siv4u+uGj6Es1uTKb/kv9oXpLKU93FzdH9X8rkU0g4zryKI2GHR7UtYNCGILxgmZxlrqj7qbfWCJnw416j7g3UMtcByRsIlm6AApvsc2GsbzRaD3aqvviJQUFUCwIZ/QNErwi7iya4jl+TNe6Dt9+bQ+UjHSZiroh1bfaIxQ/k/Qzo0TceTQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:42:18 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672942 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672942 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 12:42:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:42:18 response :
+------------
+
+2015-12-21 12:42:36 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672960 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672960 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 12:42:36 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 12:42:36 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 12:42:36 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672961 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672961 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:42:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:42:36 response :
+------------
+
+2015-12-21 12:42:46 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450672970 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450672970 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 12:42:46 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 12:42:46 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 12:44:05 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673050 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673050 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 12:44:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:44:05 response :
+------------
+
+2015-12-21 12:44:48 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673092 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673092 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 12:44:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:44:48 response :
+------------
+
+2015-12-21 12:44:54 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673099 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673099 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 12:44:54 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 12:44:54 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 12:45:05 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673110 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673110 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 12:45:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:45:05 response :
+------------
+
+2015-12-21 12:47:03 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673228 ;
+type : event ;
+event : kf_close_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673228 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:47:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:47:03 response :
+------------
+
+2015-12-21 12:47:05 trace :
+------------
+Array:
+from : o49xAwtoRfoZNy-jl84flfea01c0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450673230 ;
+type : event ;
+event : kf_close_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtoRfoZNy-jl84flfea01c0 ;
+createtime : 1450673230 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:47:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:47:05 response :
+------------
+
+2015-12-21 12:47:45 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673269 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673269 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:47:45 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:47:45 response :
+------------
+
+2015-12-21 12:48:10 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450673294 ;
+type : event ;
+event : kf_close_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450673294 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 12:48:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 12:48:10 response :
+------------
+
+2015-12-21 12:51:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[dPg+W+2Y+Co0pO0VusziqwG+5nty+HM/jWo78iJ9VgUKx4uYk2T2aUVMNBNYpsNsMo+kk31zFNFy8y6ab2IR9+CkO51xs6bLHyEjTryWspuf8BEm54jEC+oycHicW4oZDj9Bw4HPZByNmG0LZUusVka39PM1yMDQL4Egb5L4TVSfgCSraoNCyMQ+tBdwvr5EOXXNvHn6fWIxBH0x14oeazst8IUuZezNIiRF+NKTkUhSoqt8obD0e3YyufD/QxxKAmX3MjjpA5P0C5ioX9jfTP/R2NUr1Ssg+W4cxpxEfnld1cvRfOlOQKITDr5JHH8ze6dzCEgliaXzejmsYTJDvGNkLQSvLZTFQqRTW4RbINXOlcCUNzw948IeBvLmaj3NRqcR9Xakd+HfxeSa2zr4EPcU2WIIdN5PL+GbkqUZ/qvOmbzPXHJ/QIXKPzmnD2+ro+SvNKX3LRC9pOfmc5KuNw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 12:58:43 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450673927 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450673927 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 13:01:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[0zdMVVXODhCWc9g7g72CE1qmslyfbAuFZ+PlYxn3westM8z4SrsbkEgyC5tfbBzX6tcUDLdRBpMXkSaafSUZU99pDJGDNqBKeRdf/7O4Mw8ZIvub5H9e8LJplM8fNVFKMvUfysRT4A0G607EO5FIiOY427o0kJHOc/fB89psYCEC3s0Zp6ZNHIwujR3wozQI9zPth3wZBABbHoI+9xSFJViBYc8affkZ2JqFzENaPyn320GxXA6lkhd/4alnsOC0QJf6AUtHRDZtuscLOMOiEUKWONEju6A/W7klnU2YuieGaIXnKeDtzII2XjdGZkDUmyPmOWPDxyZJl81wGshggMzKJoPhFYYhz0tte643j5+jqWrNx9W1fMjQM286Ws1vBdvHmYv70F0+SshG7mDLwOSrZII12HqbNqrNiNQfAx4aVkNKrdiAIuGm3yThsl4OibeNau11V/VJpI5Mip+G2w==]]></Encrypt>
+</xml>
+
+
+2015-12-21 13:07:51 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450674475 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450674475 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 13:07:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 13:07:51 response :
+------------
+
+2015-12-21 13:11:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[WsgkH7+HWrF3hbGpNh00ZCnuSGzOIv7sWZZng2Kf/4BmR8KUWgHVliYE+GWRFJSiaUc1NcBWWNwFmBLaPPQ89xJjElmOXLeWiHahp/8NJcxba3Jek/igkrSvOQp3pUFn/2HltYBEtplGF0QLDjzmy2jrm15o8qISNV0VH5/b8Xo+9Ym7lCJUPYlIcvTACgrO7/JvS7l7oONGoz7K8ulegLJok/9NF2haMFEfq+bKTFRNl+FTlkSmTc01DGA/zjbk0LPOytPTvUwQqRyL8d8n6+WCRb2X2Q7RmAxyfo9GTXyhr0OINHJpBIxJ8DlOqlLBNOY8gEJaqJv0xpJ0ssbcO2uKm5fPWV58LLlhvkWQDK/HpPYxEGPKlzzaiVYGvIMKsDQPMjA+69ao9OgujqKYX8/U+BEA8kY1NLPtowfIneifph26kddN5iM07gDxIoBO5ApOyP4cTy+k6QQS1B9jbA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 13:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[aziE75pJwJ9MUvoSXg7EIsttjMrzm+vaTkSEGXlcldO5XbE6xho9sqrWRe4v4dngSY86Lcmu2W3VDJa76r0ey6xaj9gG+M3IEcl1RngZgQq8qRt4gk189SxWTeg2fyNqupG1xrnfzjAfdkKGupQLd7m9OT8+CrmXn1aUWTpPa79gWIdc8hAnBGN1pXjiAqZPE4K0S8f6+5kAXZFx4lnXDqPFBIx43vTONPsn/v5bFplilSqvh2GOmfMtcxbyozgt6LrBcRYttGjJFboZLIgpDBDOoxws5dtwjFFOd39V8fA+i90yz12kzV6KlEfwt5vJu7+0OvKoqyO5P9gpzXfGx/sQ3ouZkBYQfSoBQaqcqHe54Y4EAbgWlJY4XJCqKGFfTaFzDfO6hHBn5Poaelw+QxnuaRuX2wVncEqFotYF6zkxRe/Es5+BDpXd/uTEy9vbM8VHeuFVxtVOkoBGBDIV4Q==]]></Encrypt>
+</xml>
+
+
+2015-12-21 13:31:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[ZIe24i3eVJPe0sJkaLYgIvwRx1g3o+vfATx67bdtQgZY8+i9qBZM+xOtCdxH1WN8ahOFinObyhaI6JWs6T1sgKl4h358PXvxX4kc9i0G2laMqSBLNyWvOLgZH6wlwYRukiCnxUbtR3ZzSROnvc1lqgHh6P/YL6vJHOkf3UjU4HeJC7xo9oEO75szVy9YpNS/gFwZQiUHVhD3hyJvV1eoADSUBOU3otxd5V19VT/wjuuSZV2Nt90vWpbJL8bpFzJhrA2Scx0wK454rk+vOLK/zFcE6OdGUf0LpTjXAgS0ILW2FXVdtfajg5QblY1I1B2G5/Fbz41NVgzCaY6EGo8hVZzUcHC6uMn/KQw+hv2pRxM4v9ZODgC8WcJlW9rr34za7dPCmOCg8GmFim4aTxXh6Sjcq7dtz5WBUBAcn8kyV2jn4IK13H88/nzxijqPCcalrv/WIN5L8v5VwySNNNsHaA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 13:41:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[wiTA9eLicO2Zi+2i9CzKnN17NgEcmxF/Q044VyjsrpHDdrBWU23EApezSWkebVhX4iVzMTHgJ9TAvXzIpNvOQ1KgO15/uFheBQgzCaHl4v5tsI2qJFScBeCkWLjHGVllRgAOG/Nk188O3xMYxmvTt2EAJHvIqlVQpbASZTIzdEG0nsxg28CHnSwjyEElOOuvi6CUA5+PtpQPocys5MBThXGKgM+luZZA/uuqZP67+D+N226I51vaRT4HaM+GxmCA4pROFvanM36IHbeOYYF8MhDS4Xd0uahAVtx6CDhHVBwA8iY2bFfjxBaYatm8lb6Jv8OIAndnA9Ee13s7Xx8z1pnCpSH7B2t8MK33ELg3vKoWHuEhsrQ06juzkVTdhNlA0uv3kInPT40etACPBT9pzWxU/Bv5ke1PEO9NqmRw5twdd+TPqC9hHhITOhKrK2t8WKET9ISflloB6GOPsAon/g==]]></Encrypt>
+</xml>
+
+
+2015-12-21 13:51:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[8TjF7UrkbFvVlJf6hHn7AVgemiGQFplFPsUbtxwEDxPgwoQAST//mXdtxxPRTIKbFQpFthul1RMTaRfNXcEhlQQa9adFU6Xs4r0/Fqo2Zv4xP9yy+Sc5A2fhFAzXCgxxDvEItzCrJlfyiGLpJBThyulqp1XOVZQhWtPFC9J9yGyxk6V7OYd/Fl+TXH0vXBZVaAIQAQU8bnBAT3u1DY51ze28hUsjKmuiowARfI0UeKmzMnri/z1DmXtxmK4y7b1ORbKKp8+3+LQrL5t8G50WHNiydzjBqDmVZSJFzyyhhKjpJQJYhhwDsbTsqJGs7MDe7tmkSKYNGhNExYRyjtGGiwrGYjWqtYcK7FthQaHluENr6lX+Y91ZEEq+ZeAkFXY0RIrBsbdAdkklYMkAyU78dec4QakBceUw6ic8NgOrsLzttuz+ecZq/cZdz0T+tuJJq8/pRFT6kkAIi6GMmZnJxA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:01:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[vnkbkIn7hLGCFEiNpLjxESsCgL7urdWdL1/ntWPdiMyvAOudzJFcRWbDfKphMeUCz/C2iKd3izn+ht71YjhyL1MjlbPUfF/e0VwyuGQVvzcqzqly29f5ADp2z4O74ssiPu6o/jfJZ6QbDoiDBCv3UADsjT1I5IXzeEp4FN/KuiyPYNXd7vGn8TBNnp3VA3ofD9BLDnUFl0/XpShM+6pZL2QAAaNplpWueVQbzyRF0MfiHo8EZNUWemBz/eqKZRZo80meEnfCzsXsXaqIR7TGzNmTvV5p7u/92wZvstTWtO7FxhNOjWzvnObfeLJo224Uxb0gSNbtzPlv/IVrt+d9XYOJ840XUaRTqEyNrlTKGxH5A+ZcYqN68X+YSpy2DJ837RpXKzB+ycCP7xsVtLjfvGvp9z6ph1i+DPhkPAjgqSqRTqEpJiE/PU8RL42yPu5E4gBKpJZ8AMZ3nX2JhmUJiw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:09:01 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450678146 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450678146 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=208460137&idx=1&sn=4d326745a4586ea178acdc106474cf7f&scene=18#rd ;
+
+2015-12-21 14:09:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:09:01 response :
+------------
+
+2015-12-21 14:09:36 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450678180 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450678180 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 14:09:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:09:36 response :
+------------
+
+2015-12-21 14:11:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Wz/AUNx3XUvi1b4wpaOSdB24ff3nGLQ89Uz5ZaXTcL4EfZCEJqcW/nR6MSyR2I4q2btEJrtJtc8p6mdDKUKNkWeQMKgcIKIJi24SwrddM9+lgNxGwdwP/qIYoXHRhguI+bjeyIrwqXZU1pJYB32xRWsD1FBt9em6VsrBs4X6yyZdcYaqx7G7oD5MhaUKd7iKY6qRFiDdE0qa8eXolATvkPbO38L5ibWOosmKsjEcr9tQWwByEGim1JZizYE3JONAkfA5rnckIOZDDI2Hfzjcb16pRTFSCw7SDOuwgZrexTHdVwG56/a4aKGnF/kK0uKlDCpGisvrFH9RM7Q72tViSpQmgkRs/9xYE5PpXAZP2QTgJN4dkrFU37l/AiDENV2tPVlvBgW5mlwCyqepwK7CRLC3+q2soR2WmFIhaU4z18mpxDCu/nWsw7ZNTEV6QT2bCFlM6+QodDe6waB0mr5yzA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[B+1EZGLM62AzDhqzUlf3jAj55HGquXTz9B8R5US5BVO98GDmIl9PwsuSOGRm1/a0lMc4q50IdjGo/Wt/tGxx/3yTU+UiIo+lXDee3jpHyKGzn1e+Eoml6yaPI0VjbLcQsUo5DrSAQboucKi3fyQPg5ymjAECBKMt1tBpLSpDx6uCwHTC0l4rR263jbgg922oYhfcxDKYv2XqOP5FbJtzxXqlCSCG7PtJS75uFN6xiyYV/ECNYdFb4Vl5d0ZxErMO1ete9THacYCDovXpj0BbDvucL09UAxPhUbPZPdCHLn9B5RGx3N/x6T1nDmin2gwnAAn2guFkmPoIkf9nAGQHutRsqzA9YITg/ZczMyoieAhqn+eXl/G1J0mvHplipj49557bwLpwBOFngv92RbC9GFL99JbysXXjqrCdz/BpXEIL8OS9GnXd1fHQ+aNcqc5FbpWc9EVjNhlIGexDk6RiVg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:21:26 trace :
+------------
+Array:
+from : o49xAwrxBmbOwkzpoE2cNaXYC8HY ;
+to : gh_8a5f70a28b90 ;
+time : 1450678891 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrxBmbOwkzpoE2cNaXYC8HY ;
+createtime : 1450678891 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 14:21:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:21:26 response :
+------------
+
+2015-12-21 14:24:02 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450679047 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450679047 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:24:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:24:02 response :
+------------
+
+2015-12-21 14:29:42 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450679385 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450679385 ;
+msgtype : event ;
+latitude : 22.825661 ;
+longitude : 113.803719 ;
+precision : 65.000000 ;
+location_x : 22.825661 ;
+location_y : 113.803719 ;
+
+2015-12-21 14:29:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-21 14:29:42 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-21 14:29:42 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450679385 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450679385 ;
+msgtype : event ;
+latitude : 22.825602 ;
+longitude : 113.803780 ;
+precision : 65.000000 ;
+location_x : 22.825602 ;
+location_y : 113.803780 ;
+
+2015-12-21 14:29:42 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-21 14:29:42 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-21 14:29:47 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450679391 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450679391 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+
+2015-12-21 14:29:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:29:47 response :
+------------
+
+2015-12-21 14:31:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[VtDB/gCkNmoTCbPQAKpctEijuWXlOP3EEG0A6LCW7o2/V5+Kv4g11+rvCVPX4am8o+w9Bph/WRcUCCtFUkxwsF5MmE8Dk/g/C3idWd/jAH7+Gj9qupCZe8+HF5vc6g/2lRwK7foPb2PPiisWl48JEu22LJsyi5aBMPUr0qc4uplwVbeehbwW5iRMfP7h2aEqxlm90EfpxrBMrRGUZcJKFDJVWV8cbdExMqqouR3Um1gXtWFtG/qYWAtUushVB+wl5qBTBiTKctqwJLJO68AMaxZwYdc3jY3XmtPMUApaUvJvndKOVg0ZsW0oDTDG0RQjcI446qJ87JUJwZMtdJ0Tg/dZ6oOfxpeiIJzfLZyYnHkmP02lUiyhby4wxPAqq1gGyZPPuOs2yWkqNJM1kIrTJFjVXRR8Nl3pCpULm715x+8HelStKQITO/JixcrgbQ2AsrW/0EDdG1kiZGRRZt2CCg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:33:05 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450679590 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450679590 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:33:05 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:33:05 response :
+------------
+
+2015-12-21 14:33:23 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450679607 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450679607 ;
+msgtype : event ;
+latitude : 22.825573 ;
+longitude : 113.803635 ;
+precision : 65.000000 ;
+location_x : 22.825573 ;
+location_y : 113.803635 ;
+
+2015-12-21 14:33:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-21 14:33:23 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-21 14:33:37 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450679621 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450679621 ;
+msgtype : event ;
+latitude : 22.825672 ;
+longitude : 113.803780 ;
+precision : 65.000000 ;
+location_x : 22.825672 ;
+location_y : 113.803780 ;
+
+2015-12-21 14:33:37 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-21 14:33:37 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-21 14:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[A1eDMyqBATujsCaBJyZO+ItusBpqeBjJFWBBiAEmxKnvs6QHcKn1j8pODvi0XPgGPuMssx6jydJCQxOwlB5w47KM7OFRjH2VIrqbOYbYkZbJiVtyZxkjbXJ+iKaNKt0AMJ1wASumQ/R8MgDAjO3A2uZnvcriWCDWFP7dXC0BB7qENdJRcxcQuv7zGdWSUrdhM2Km4TkKHwXy+FV88S4OPFekYbS7+f1qOFzNtDVuKBS1KNM4Nd+SnTQ9cWDcvgr/D26k+syyBw36P7Lbo3X98UerqhVebbnwJQ/jPJNRf+PcLKfHy7e5XQxUy+J5+phEGAfdeLD5sYTXStV4IAwAakpNtphZDatd6N095gRlK2DoYIBNPIRSIlCbDCwEp9a0ALbFPcVygMIVP1VExVOdjg5G4R+2BvLjUVkNG/Jdx5JxEM0o61wgQxL2PiiHGPkxjPT7W9es+synj6ZxLKjc0Q==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:43:04 trace :
+------------
+Array:
+from : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450680189 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvqTbos0OBSrw3C2QchSD8A ;
+createtime : 1450680189 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 14:43:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:43:04 response :
+------------
+
+2015-12-21 14:44:38 trace :
+------------
+Array:
+from : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+to : gh_594b4a77030d ;
+time : 1450680283 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswPUk77esj6kiiO4ZMHzwt4Q ;
+createtime : 1450680283 ;
+msgtype : event ;
+latitude : 22.825670 ;
+longitude : 113.803741 ;
+precision : 65.000000 ;
+location_x : 22.825670 ;
+location_y : 113.803741 ;
+
+2015-12-21 14:44:38 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2015-12-21 14:44:38 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2015-12-21 14:50:52 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680657 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680657 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:50:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:50:52 response :
+------------
+
+2015-12-21 14:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[F9JKzYUpFVINv2TuA02jkv93x2H03MBrq2JmlVbZjlzjRCXd6GvKC9BMurXyUP5OIlZdzFldGwFRfLzlZyN2EdDSYOiVqPG90gFUIlIQA6Q/qUD99IF9oWJTBA7tB08MWqr92t9WV4VmmjbHV/+9JtbVezC8jItxnZPBG8bmQQFdLh1lBD2C+MWndpEIdW0a6YnfsY+LUNViXFWjB9w555u6F01TK9pYtiMo3zECOLUToAXIFE9mDA3Abm6Acn6kiCY5k6tNQdI14e8u/UMXwNv0Wl2iwhei90u/SLs8J15qW2Y/ePm/beuWOwlZWeH/L0FNgKaCHh9Wktht+BXHhX5dQukEirXPHy0zK0e3nuEg+RvQZx7MbPM63JZcQsXWL5gJ74AElGsarxilbTpO2WvO4ZwFN/HvwW0eagxRs84KbDR35qHtZ9iKf7F205FFWRrbEX+qU1BIgEJeTX/zhw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 14:51:14 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680678 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680678 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:51:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:51:14 response :
+------------
+
+2015-12-21 14:52:56 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680780 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680780 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 14:52:56 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 14:52:56 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 14:52:56 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680781 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680781 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 14:52:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:52:56 response :
+------------
+
+2015-12-21 14:53:14 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680798 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680798 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 14:53:14 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 14:53:14 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 14:54:29 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450680874 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450680874 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:54:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:54:29 response :
+------------
+
+2015-12-21 14:57:51 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450681076 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450681076 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 14:57:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 14:57:51 response :
+------------
+
+2015-12-21 15:01:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[VGTk+B9cU5O/cJJwUfBwhhI1Wd9ULzVOlDHYdI7qCVNLjefsxcV0V4S/XIw3Zkxor87Qz9HRi6Hg908kQLcmeLFiskG4FpJFbQ/4sE9Hx/74NirS2Qe+0B80ZKLHKmw2h4QjlsT9KL2zc151RhFPdlrj7uZYPbtS5faK+Y8Y7qM0dTdMHOzIPeGf6/G6VEksgTJblnBO4s5wJlYtIGL54EcmvkYpY+Aa3pStdM1o6BWqn/CowINFB5UUfWLNahCD+Vz6amg3pQTZeHqSs8mAZ8J+Y/DHJHfCURhq6fUzxPbjmBeR1xn6G2eAcAUSrPD+3DaYSLNhTXYhubFm8QHY1Cc6gybCxq7nVBQPVPPZbWcgV9V6Je5gXsvS+FQuGWbdru5TkNkCsl0c21KvzUfEiWtUuxb3Pw9FihmrbgWgfp3Gw49rtazaTe1M3l5Oo9ichQhcrszxlJRODAxvKiGPdA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 15:03:52 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450681437 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450681437 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 15:03:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 15:03:52 response :
+------------
+
+2015-12-21 15:06:42 trace :
+------------
+Array:
+from : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450681607 ;
+type : event ;
+event : kf_close_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnPr5xDMt9pQMJ4gsEKkigQ ;
+createtime : 1450681607 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 15:06:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 15:06:42 response :
+------------
+
+2015-12-21 15:11:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Bk/duhxJs3yhwi+bVUN3XuklmPkQFoLay+w559lknHLjstdNgOPIh289Q+lWKSJpGK3qb3ZAqopI1KEZIPl6H7+wAQukDRhOKQSP7meWeoBkcV2ZQoetIAA3D4uODj1gv0RmpyEEjYNqEGGr5sHU0PNYDK6sV++Htp6XVfwIrJxsG8O6192xo7oaZ6HCyxWlUXBDqkATn0LTeWarXpjcmXYD2Zu50Ts5WIyk3YLLCyCG8npHjyh6sNbcol3/dE9P8hYq07wv1/duk+IeZRZmpgZ++ORUUJCjW9naL/mwXDJhTEuwAbT1q2grqrDDY2rlBg9h5SB0OuvhxQD+0o4SJZ3oHqscN5PCSMm2yNEpwtZW2jjJH1xDfPZkRy8Pn+82biWelGcjs+obkWZen06vS+qsJVnlIQN7bGrjeYGjpKToaIzny2fFyt4phpJfiH3koX8/CXsc8LfRQvFH4XEJzw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 15:20:32 trace :
+------------
+Array:
+from : o49xAwjyhqsvxdbsQQTWqRIMGgf8 ;
+to : gh_8a5f70a28b90 ;
+time : 1450682437 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwjyhqsvxdbsQQTWqRIMGgf8 ;
+createtime : 1450682437 ;
+msgtype : event ;
+eventkey : https://hd.faisco.cn/7599080/18/load.html?style=9 ;
+
+2015-12-21 15:20:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 15:20:32 response :
+------------
+
+2015-12-21 15:21:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[xEkMXIyj7rTO18cHT8gPr0jTDxpGoG2J8Rgw0jLEyb2XWg+vE/8zH9mW5/ENA5St2f/zMEek5uu7+HD7TVLNkVSG2Fv+FFliXz+bk8Kjg7x7dJbVzWlUHTwgN+9JPhPqc/cZlx375wTjQRt4NizUshWzrJMwovD0FNlEQUnHmUOqS1enaYkMhzgT9ry06HU0cBHpsX6Ax91hLMTjuq+DN2j2Rw5x2MlhtWUCmQTIfz1j/KFwwEaOJdVnigMHG6iWn09+WUvm78vOKE2nGBao83CUodBJP1fTOORWojPYWfhwuf0QyYsBHz+o9XrjiwvwMXAwTvpWjliIyKjt/awiGy0+2W9oKfmQSKIEI+dPZNXye3gg1eHDgDrkWbDH87Q0cAUypYA1W1YXst9k1UWJ5j0cKn3gdb3Q7DzoCvqqkrvm6574N60jHXPbjTDWcskGsc//5KKpkOjKCT8hlUU1ag==]]></Encrypt>
+</xml>
+
+
+2015-12-21 15:21:30 trace :
+------------
+Array:
+from : o49xAwjyhqsvxdbsQQTWqRIMGgf8 ;
+to : gh_8a5f70a28b90 ;
+time : 1450682495 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwjyhqsvxdbsQQTWqRIMGgf8 ;
+createtime : 1450682495 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 15:21:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 15:21:30 response :
+------------
+
+2015-12-21 15:31:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[zWFQB2vd2w4xCSt40lbHuohobcmJS/94THXCFVfEOVM1M4vxTWeGytngjqikeiX2qpNd6sGYnSD1iWpsGPImrYEh53d48odWw0megrYL7qdC8ZDkLfFoiFvufnwH4MmCqT+1TXKKQ4baCeiCzKw+LKmMO3hqBswgIEIblE/CFuS+eKDrEXh6XSXC8WJ5hE8yi0mIjkJh7o8Lx81K3w4o5ipdmSTi9noGzBiD3OwsNHSjlfJnnFu6NrT/T6EohbLseIpKsIYKi8IZt6o5UFsP79TW/nvDoxtqC50XnCCgCleWmSudnnBK64bY1eckk4JgJ4MT6OeMSK73UGw85DBpyKaRm0tkAezV0vclYdDmsWytG3HbFHRQ2vj3YZELTjNADMDU0y56HmVGyGWGBqYi+HlyzzgWIkZVNLb2tGOlueHM6T+q0QZFoQKOT1zwXjAaiAp0QRYM2GSdsjwFgtO5LQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 15:41:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[pe9XXKtV4A5VsiWR252Ajor1DrxBhHEEK4LdaD4hg+FWMUUNvK0b75k3DwVRb4t9dOypCzkW1dRvZJlHhzlES44rncaTkLA7LY05icz6Cvvid2fdw5CW7M0XtbnW39KNNDnu2awswNtGPLfxH4issd04TAkGhVXXMt8O/Z29p4F/4X+ih13m3iR28hYTJQiYpW72xaOwo8PDtu4nn7xIteQB3jLHYMkoLvwPs2tBCanPudIK566aJsb5Hu11ukWHbTHSFg4pLDuF9Pb7pq+r0E1rtRqPsDOVOiUOc76z+ATUFQ9FDJXuLP5BSeEXkhEXp8pC90T6K8hn6kRY7wloo7q8oxkvOlNprxGIw6LSALYoXMu6K84sc14n022LJXzbc7Dbwj71cdNL8HKBma4yW3uYz4AUuqYSg7KFX8SAZ65NdaiX9xfm2G/U8F99Wxsdc6SkfQNKtzRXWz4ZnqhGRA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 15:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[1hgYDvmy++iTmfmWc/Gq/c7OpVMOwJq50tQPiYl2mV5LXFo43FCHFI/awUwny2OOu+/YPC3aApMyovErD7+1WW5sHs6zWZFH9gE3ss9wpbCTeIOoZGSUQzn+HsIELx2xFzsihTyFFP6t7f1cegz3OP9VAToGd7OS5LTSIN0Wry/VMexy0J40CbHI0cx0DJSv3t3pYkMbURmFa8UXi7UmEUSvW0UvEggJMBXbI2sXtichxCqgA7+Hroa+fzPGm/oNknAyGG4HC+xaDnlrhDMjznkYqL7v/NLVTRJZYEI8FG4Ub53y3groiQQXMSwLFEjbe1ygSAN25fBBG61amx0YxZG3cQMsDGKjgIR6VIPG2U2FtkfDA0gKWISJXYxQh21mEyUiYNmNqM6KwxSf7KEXokyFZSdMtgghCIoEXopKvjJMrxidzUehb/78WBPc2cAOc+sCnp/I+iV/QS/xFz0GnA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:01:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[UKLurhrquuK3jSfIsq8sFzyuUUswLVMxDY0Et7SfbaaXXMotj2G1G4auOkihyaG6Ad2Tk7X+LK8tdMgd3uQBTnoWd7Nnw92rFeCXmcV8wTHgU1/gyHISgPwVAQTn2LBLSy5WC1k0Ayn/JLtjVIM9XqIk6XGUgcpe6K5Bl0SvH5efY0otZZH+VmOAlhIewoqPONw7i/LyKGXt0PK1ntIRs1qL1wYqpNzFKrnwnRbmH3+K24sA77NY4Qrxg1BC/xt1TClkNBdQ5uwuwantsJpdG04R+bV3ER/M6vrZQxkfaxRbVIfqlnagPs0VBfJxGbjaofW8XsRg2bdYbaHzOl7XKMRT297TY5r59U5SPgM6XS840fTkSLy6x43NkTKujiEV//TfQ0KAk0DtObvmL8PYvL4Ww/boajTjQhvmurXqLAbvMsnC2MDnZTEnDFm9cJkn5b0Rmi2V+jCGiCrKqn0exw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:06:47 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450685211 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450685211 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 16:06:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 16:06:47 response :
+------------
+
+2015-12-21 16:11:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[a5rmLPebRo7EqLmdmyQfL0Sn7Ifty2eG+TEcXSj3gFs64PeH+ewwDxmFbyamfEE8ooUYXaLHhAv20kfCVFa681JGEYlyWprWmGzM/EMxRY/QBA2yHQ9kzQrkRNSL1dxyr5GSV4pw77iL2/eQVPFrK2bp2RapEqxdGSaQpjm9S5hk8SU72LX7o0zLaftpWcdFG5GqzMqcEN214h95pIs1wbwCMtDEs7RrG9oG1wR03DXt1zG+ys5xAWmGesVYOUNeF43xOKAxTk8jgTYn7nOiiFLBC4wT8DzxAEQdtM2QAOHcZhrg9ahrHxSnIDUQ75AI1WN4svNWPIIrFifP5iFmyDpReg1R6xMNreIznFeQxIhQYPG5SG4HHnTZls1HkKdeuZTYXpet46NhZB9Yo4HQwVr7U0aXFDcjx30SFuKYiJwdiOlpv+4gAM6ZmuNfZQkOHEFwCsCfrwl56rULb0zHrA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:21:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[X3qTsL0C9MsNW4xo/1nJdbKPvaSBvj/W6mOVu1s8p4FP95rd7TbnNBnOtpABNiULr7ShL6TE2VwJZt+kREy4k6V9mc6V5Lck9ZHCSKSZCCGn1hD7+LuVookrHCmfYOKtLAIf07zWnc+XbtsPG0mAkE/QjNMJlh33/iDpfbiGC0ZeDyKaOXhgGjVTUiN6GHLzu8GwAAjqQ17VgUT7FW24OXlrHqboLVBrUu1MN9Fa1x3oJ+YOZvB9TCI6ATox4hp/7YPbASR1Ifqq/Fyf2nXEDqm+/MjbhYVc9BajPIty2hE2x623+qdQ59IqjuBt8Q4g73bKguu4YNE2Csz8tQaxxLd5jYBfP2zzt5msTB2LR8E7+mlPZPQybtOnXiy2laaPvksgLm+J4k2UK7bFR7gbSafwGxVAjppv/dOMRBDetcMyWfz3u9K/F8HIvMoNM1Ula9dYHeCZJQQUMA0ic7x3oA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:31:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[IqV8DqDSqm3I80qhN1aAFm+nKaoXY89jnAlJ6EHivoU0kGjRXg4wZ/AOm44ZWiGKVt3Mae8JiENXxgXYhUGRgX+Nexqf5aHkVEplhNVetBK+GS3fLL08W/GtsoyaVQ44U8Je0w3On0tuDAKVxsAlsrWdkqV+GsTIfR/+iaXlkStpoJ3lbYeDJ/C3iQNhcYU6xn4Utf+Yv4d/MeFor119DnSJcM9f5q+ebXb9D8dkYiBbJyod/p41Mn1j+4Zhvd+Y+JTdxhUCPGI9Ncvlu7dTLrq0hzNdDLLzsxgnKpHl4c649DB43nxNlnrufTA8/3ta1wJPsfGW+CmxKFFjH7vZdpaZjUR0OOnG8ahs1wEsu5A5pjYWexc67Dv5LxvyVmmKH4IMr+Q/IW0b/nV7A/zIlSkJp7ifB3Wz8HHdgwGSLXUdivCji1NLuovk03HPU5VZdsg0O/R0dzb+sGCcJpko/A==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:41:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[euCrnMk8VF5VZDxtOQqmYety8ixOTzT5P1KFKVXNHC+rp73SZArYq92dLEm8ylHFq97UA0nPlPvjtht1NHFLF5GkQY2GZ2xJf1lEn1vTC3NWN9UQjTgb/Gi8ZA3jaz8nA0YaMKZ5L+QqovvvmqTCPv72r0Md9VQe0p3ILEf75r7rGpqgTE6acRSrx7xWPvC97M340HMUNTG4aahNk/jjoSp0pFNGzONxe222D+BbVhvmwYIG/9p1Nb2KeXaFd11LBq/bQCmgmYicfEuZ8cVrArRXLiwxCvZkvxgaypV2M21HWfP6CR7IewEobSrjScy+hXZJrAb9CuIOx83XVwLFiNppJocmd55McaCVAtVISM48OynHgBEEb0TCyTdhAlRBXLJCYMJdYCbBbLxXpd5mqbbtbMCfpFBuVmcMC6M7RthvAAuwyORfNt3+Tb6LTOEwZk7i0yPubyiV6lx3U7gM1w==]]></Encrypt>
+</xml>
+
+
+2015-12-21 16:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[bQ8zWciSbfx/4WeCL3K0DZHAnXNws6iBvq55xfg66vmmwUoAHEQG78m8fsTZj6gFzVDFYE9oLF9q3x/HODqB+o9hR4dvCIlirFJ41umT2WGr4XhrsoYgAG7dih03c5qp6mk+llQ5Jd+W7ixytqmdjaObH3nkT6orBtCu677CPc8NinHXl+Bk3PLy9VZgL2cH3H3uZkEwKMmRM5idvHP5P16HVsWGwqhwY9MlBIxAr2YA9qPCCh6VVvvAEeR/FvjDrplsOeuPUc4z4OriD+87KS2yppSzyYXGQ4U/WzAYR3AdDTLayL8bW+RSy22fWlh2OqlxgoQs1XXzv8vBFn4C2rw8DLOhZrwVzBLJEkCA6e4TX3cTlzz5TOmrMe4P1SKumoLecreFEtpZtEnEgNaE3rs+8s3/UMXaGKBr8VhDynGmMYneTVPA3qjzY+6iy/iGeFcxBfcN9fQUZRAiKbPFZQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:01:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Br2cInefEaO73bKJlcg8qy4WR+dPur+dBciUjYFXDLca/kyrVUnER8MUcNdpYGhYf0JGRz7y0q7lVc2efLGAcPpNPHxz0Y72mrgFjap7FkTpzesN5u89LEI9K/Ezvn529RYKn71hBdMV8ej3+Aiwab35wSPh02eyw/9WmPFVp9dxIummn/U8B3w0/Rxgj2y5rcRajXJffx6ZJR4/Bb1vtTpogJo6YmgKYIqvoQ6Jddgse9TjoBG7Ds+zqCXsQvXq+7iTp0fMJsKpkyFODcmbkSMtC/VhnJ+hOw+PrJuzUkJmhieCzFwe4PJyASy05pfmzC40jXyDXYn/Agu8eQ/Le8I7J7OZkK/uTdHZvS030A0+Sgc6gHkidKCcl3eJmUYRPtJZOopcR4pSeQtOs47qx3gibPJNUsaAOEMWjsVIXQztpC5tJOvAlVIbOjFKpRqiHn5PF78yIw0BPRNpceRe4w==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:11:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[7uSSOw/7PtsXPOJNZX/uaPJzmt0kJ9PpnRf4hndXw37Z1gwd9G9OGZI3WnH691PBQtsfFnVI42WxQitZR1F0sAlhLJVoCLVQ49PzC+4iTH+KJ+gMAKhfxEmCegpjrxv3uW9ogGC+gnupIg8ANBzeaH/zxVwvJUSwusO9PIl/EJAU9XEOix+5nRcv8roneZ2/ageLAsqxy8Z15/L7mwhgFzD5U/omKGissrmhtySoazonY1epUIZUA2Begym1qAzEfPqcCtEKjqCihDYh7dy0CCGsOCqW83LuJWCznFty2wMJZMVLmAnohWhd9uXw34SYY0RiDhb9vy7D1z6dHVnUiSuyiG2ZDCw+Lo+YZ0TnYVDKdlv37MSkPk+FuWjJtA148lqpAx1cV63Ebci7wklZADDwM/c2XTLilqbyVvRjY+Dw7BFARaOvjvzaLubE6xUK9eLgrz+nTvxlKPQFPOmIow==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:21:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[sYPSYKiTPTAEsYXOWQ9f48efMxbkArE6ynErYuc6hJiU3mQyzDiGONJa5V5CEudWZWt//zmwHPN5Vksffv55FoKF4Bqbvz5mkEj5ROIEtViH75vo31c85acj+4OSWalglzwy+vTPmEHnN5BGoMRilSgtuEin2wp6jLyHWjP9YlZ6LIz47xKGsheUQX6IpWqTfkSX5qmOFw8IBtjnmGVGlqWFVKt7dGSFROXCn+9ZLrexzHrVPBTfEMqPLR9iz0SLSIi+4BxU1L7xNicHWLuBNXaLbCzf1/RIzaI5bhkjcfnYmoTT7kQLxIFdjFthpVZJPaoYeGzhX7brqvqRgPc9xGxanunbpLUBubeGl/cXv3SS0GFskW/6eHJO+9uv/h3yzFBqdursCNokPNaB0JTeZqNLUhiEHdE7qlGIwMcdL9rwRUOln3jA3wODUQjVW/bm9zkAmq+c3zGXAANNN6abvw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:31:35 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Fa8otu8krA54XXIlw7hBzbbgSpbIjZiHQiHz4O7H5a+6BW/PayMARrpAJio1HH7G645btiiR6HKywTx4pBE/FMiS2KUlyVJMZXnNJ2Gi1w6EkxBEqGqkRxY3EPHC26BdOeMkSWAkxmo3ROUEq2tuiiYeLu6v5M67y0G9d/bQ2vTIA6WvQBFZ5Cj9V5FL/BDKbP/R8AEy0cq+JiVIcDduDDW8dyQkOxoE80h4CZbga9ltffNHEeX8OtGYGxTP6+D7p/gsB5wBjOcnLYE6KMydB43bmKLd0SNnSOVzqQy4jrwt+772ALr/lVggFpWV2hLEq6x2DhOl2GmKOMAREPcJCa6WeH/ULdAGHSCIhzBbrbtejiHZbxvoNLJAWoMtGrHI0Dyq9fDCYWPHSqVeooVPa0ewOfL4yzI3IFV9zw6Jp0a7mYl53djXKJNfXYRuPrdazzYhZxO2aPPNXCCIa8RZ/g==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:41:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[1rEqwDOpku7T9UtnN1T2Je1G/AD3fi805DuMRv/ZakgT48B6bvOS5+vL9tEDpPx6Iu5kyAeeGNuWpxP4T6+ysdO+eBdf8/uM9e9tcWSNgNF7+mu/g4JoPfE1ImmTC6nNVCG2GbF71HgPP7OUdkUHJgYz11QCbOcTYQ9qQSd/utYXEaMXZc/CVfqGKJwgpeop82AU7Fw8CQDSP5wGNFRZK09uYRZFHDpFF/WAzO3g+ULxMfhF1nfUHeDYmpJM/Hz4Qm8qNYRGWIiJhLbwdnJY81HQrHrqCx/PLlkNevaXI0378kACIqoIb84pRHNe7SQanbiBKRXfThO9HS9EtxojrpTMMZ0tyxgI7OWugTbGM8pbKiccADeFkgqEV9ZwEhQnWiwUYVI+B/RxQI0zI58cmLsWcj64xJC2Bc9l5LbfY9UFmS7PYXPA/ZWnSKkCNR5prwi+xwAm8cssPy+H1rxRDA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 17:51:03 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[X2UJCwZXhO+OhrUA2HlwUfNEMsSkhDaDBwjMbNXAw5qEd47gJMqj6fJBVQAchROrKj05+aQ4zIpT3gMsd7PMObgBnaSBsjxUC1JTzBc8qp5ZNFTfUDES7vAzLyMnq67KG68QlvZx6UAheYE8/oK2HJKaCDoD0T7b9YsGYJp4VzPY5aHRHzoudLS94+iLn0Zd5Fggj8fl/Eg4Gk9xvREvSp+zbN8cL/lQkPus9jUOQR0eoHw0RmDkUqiGoDGFZ2Ts4jO/6/CmBA20QeSGvm8qXua3hYd0gHD5YSjpEJ7Z3YdNQ2/pvHpC72D7vZjABt0r8Cbb8y5ihvdZVZzrpDRc2gBTL/WT3LwJczWI3yS5lCCUDewJTL/GoSJrlu7jEdLXutd7vWR3N87hyUO1I9tR/ZS9bzzmzl/sH07OR4HxcXuIWjOWF4dM0vohPTOfchdEseVFfZJMojMxmNCbX413Nw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:00:29 trace :
+------------
+Array:
+from : o49xAwpQXUOSyumSO-63MelZub_M ;
+to : gh_8a5f70a28b90 ;
+time : 1450692034 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwpQXUOSyumSO-63MelZub_M ;
+createtime : 1450692034 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 18:00:29 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 18:00:29 response :
+------------
+
+2015-12-21 18:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[s2Pg8Sw/9AfBX/aJwLkgC+eDjPMAFAE94vNeJ5KudEFZCfEa/jELcb9k/IvY2Q7UIxRLy12BVG7v+DW79rz/5kkXrLQIWLFM/IEWJnJlfs84Yh+SiKnpLwVUKpW+rDZJ1LDzi1Gf/65r0p4sr+RyluM5qsd/i2fhCjvNKqxD9I3XT+JSc1PTnX+LqSvLI7I9nPOFbyiBFh/xDvFXaXP5XQyttXKT4SXJjp9+3yCAcbvN6FUUqvHhHF7EmSzcIjg/icbQMGVfpu2lMVuPKWS8Ti7vMw0HkFiXc52XeJXKVomItgERpDxOXf2/bMSwDYjMKa2ONi5AkTDUgY1HzzQj9QFxjc6N3zXAILdyws/gfMt37KaLxiwl+RUsKcxWHS5kIB7TkwqlENOo48NAW88kwGeQs7cgb1VOnPbVUk/NYL6qwUe02blqoOwhERftIsCNivMWwMgWi6KsHk54B2lNhQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:11:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[76DFwKkWGGetD+78KFT+LkRR4xNQSLc54Uam107KZGPyIqCmrGy0eQZEYRy7SNr9lb2W4cBo5vsavApViGv6l+fRzwdPmNqGHjs/IXVkvT37Q20zPcDv7yRNh4WHhLTLmez3ifEOGhjqc+tg2jyvOxt9CLyOMMf+a463F1mSIW7eTgbxNFWZtNKY2CRip+jIQWUhDSeET0PiaW3WzRkNa6xNKivOrdR9WHv6rHyhWtsgXMHQW0au+9zRkWXnEF30KP6QpbitjW9YNOloTlnosS5mE7D8Z2c3fDdK9a8rcZe+1bMzbh5KzTQ59pBRtldLurmIwjLh1ZSqdkFdCYKiZ2Y6Xxww/+kIka8h8kIG8D4n7kSqKRFaH67QSE2IIvvo6TmVYcxG+OLx7ZaS8UEQfDuCEYwdt2jeyJGhSK71Mb8jAZH7r0hRaSsjsqZ20hBOoQUXvs4fC8hEQvYT+LZ6ow==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Vp9UUV0EuIi1sCBFozZ/iPEYhjJMPgOdRsqMpz9MYp5CjOGRCSKHjxLTihao27eQbBh3RxHxx4X9V6ib/TZXVfDSzK6xNfEcIA1CgfsNQSw1PC13yTJe51HEJ0zhdsBykRvstLos3chD0uDsglwgIV9ptDSTPHmYkvynSXmcz0M6i4Dfoj4QRhHoA7rKGN9+0hOkq/8453E1UGwGalRQlTTHVZrFX4Pmweh8bFN0+8evRPDfuA6p+wQl9PPyIt1YQ30m+7MhhjYVWm/5zqqdVqIAsa6+UalJNfd8zzbFbJfXs6U2QgVR3y43YvT/7jxwLRyuVljz1fqtcGhgt20rlip48uwGbulFUp6KXklUapjzWwjU2zXYAWJ+ldAxAzhYCoWaY07IAD7Bg3iBnR/3OYCgaFjeXDMx+lmpddYxf5XGnFrPUr0yQKTzgm2HOU64tE9DIsHLanTQ7ryOkSfyWQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:31:08 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[McsNJAy12rYlql0l0vm34GLJFtFZG7MkKIV5A16h4iK4ROqZtOUcDdRQcLnBhEBnGjbA00eNgyEEn1u0+/gvfRXsp+quQyssGqR4MpJql76hkUpqkWbKbidOCjKLSBKGZVmo8HLalNuLIZHC93NIvhA3r0fA5JnVPi3KQBa96/X9OeFF9MCZHoLrfLx2ikgOzPEehgrceqnM6ujLTHlSxhWGYhTFAadY62MY55aTYx8cNlX/7bWVXvcnS9XboHBQXIKktas6tjcqDtZD/YUgyRcHQ75EKgg60giGtBYaBtEyJnWmnmOKh9g13wnqvTt8Lv+5XIWKQ9w66ybZCm1kL2XR/y3wuyHQPVdMsvePHY7yE/BgmW76LGYhYmA1nSGdXFFz6IWGM531WvknXh06z0RBST2A5GYKC/T8W5ZqqJHavrmdrWN1xiKxSxHpaWmSls2aiXzKct0Iv7C3eZmbJg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:31:19 trace :
+------------
+Array:
+from : o49xAwpQXUOSyumSO-63MelZub_M ;
+to : gh_8a5f70a28b90 ;
+time : 1450693883 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwpQXUOSyumSO-63MelZub_M ;
+createtime : 1450693883 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 18:31:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 18:31:19 response :
+------------
+
+2015-12-21 18:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[DCwirhtv/TiOqvZ+boR15gc+KM92TLCUPmbW30j7+Ol2PA3SLLOgeRC5YUtOuxiey6H60wmXdcBugvlOiFU5Vtkf3BBEGv7KZAn5qxzgW8SLK7IXIxO0gIzmOd+wjbwF1//aPQlnMcPltd6R0gkuos+J7vBZlyuMh9JBepMytRWMPd4eXd1ulsxq57koNYdsIhb9Bz8qNHju9EMkXmY1Vk1o6t3pQsh3Ugdvoo2yGVrqhmIbx29WxF0jPGv3qofwxkcoy8taj65GlLBUsw9YIaPUzgoEpdYuqP0PG9vqpOIP4HfkEQzOwJ1d0IlarUV4iFO/yTGqawyMe02okiQOtzPmD9Ug9999HrgWupXOybVyql+zCJT5+5OzCbomG4eRMPbDbLTq3650/72Cs2lZJpYkEkIcys8yX84Oy5nZDHIGObdtmdfDA9ziX/+g2Q5WhMyqiuD43Me397aa688kJw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 18:51:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[6+q86FVDKtZCMMkwuFvkg1hy3aUAZ6t+63aPGY5/Mtxj76Upv+zZheBg/F4/mp5fBASmselGLLpOdoQ9CJrIRiUcagcG1EZ9zEOxDJI3WRcMl1dDfe5FBiDj9GqUO5CMhAmQFQWr4fE6wKvCDPO6vTpyFa8KG0/aXRq/eccems/x1uyA3zu1gqp/NBiait5UvAMc0TDA4xE0fRUmzcLAjYD050/XuU8NgE8IzblUzOxF1xbKUfOG4DQj6qoAix6u4OAxDl8gw0s9nhqK99Cup81EzN9JCpS86WlWn1Fds6Vc3T9wj0toi6zdPDPHzi1N3ZqU7UBT1TnzvJsKdzgG7rSGxTp/44fUHSP/eXIKrdDQWGKW82h2EgihuuWkRzB+M++e9rePYZTTNkiW4HvMocEt2Gcz/3v7cjbg5eFC0d+ZpPjUOT5FFz2wMUbva/dHid5ufLaUHALjs+4iOwUjKA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:01:12 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[1oBFUmPe1J7kEh4+VBo8xChXEFxeOS9I7VFza+oBBpgK5uVJasfK+gCXZv/xf2B3XY9mn0h+8MYXp3LnUqesqPLNONVBqOR/T0+i5PgPsNbWF8tb7rps8Lx3Xvx77103HfPEBc+W+L1oSQiZk3iav1FP4g85Dl4OPHBUo6WbIA2MarEftCHMpcKSnRxPCZnVykILRET+8T6VIAp46fbC8zUW5++VhFg4EtTnWsuZC52HJnXXpPLCFCM5aHDjk2Iyu+t1MnDopTrTtLf+Y5P8Jfrx+7xU0VtFtG/H2oiPHEXLbeZJh7DXKvTuuVeAoU6U6137GGwPkU/sITeQIro/oB2TXAUHDgmfBhPyxQJ0o03N6HluI4DH63GzI5DWPU31ye+JYAud4ZCZ8lSqKVpY9b3LN3t7xsox5Qso1441swu+Co+YaBTOtwnnWpVeP3l7MMsal4jV1upcT78ESHoUwg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[ffed+sKY85bbe5xf6F6Dr0HswmkoTn1bjwcDIEDFPTwRH5xOIwYWDNg+Vn0CGdrlon6cu34yCMkxpZY/xsNPzLmRrrZ8+cSEoauISJoUD11OZOiT97+YLObiBUOK9JQ7qJXDKFkQbHwaa1fNrRZEH6OqBwElLNZIX48fVzzMvt9uq0Ku6HvyzdDPggKudOyhnbTiLQCR3t5gtLFY+td/0a4Fu2CWzNCY1Zf8idSCLpH0htMYarw+R4Z9yuhKVXX3LjagQRswJLtaWpgKn3xDsr4UgWycJVlKDQyLrPmtsRIVroR9prJmq+64+r8/eSSz91Nib2mOKCl0rKeU+vr4njj5vkiZwZlyXruh2uUwYiAvDa6WlrLL4W/EzaOLqJGyMNmjhOV5wQlTkTtW3s7Q/pBQKDKhl4X5aYIcToDb6MfdMQTPJBG0ocLMhgvb+jZWrA/c9jihqMHTuBFqVeZ7Sw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:21:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[hC4paDkfhYeBQYQE2mDz3Q03WNZ4Frq4RYMGNcELT6LxPW34gECs7nEOXGGngQf/hhVYsaWyT+xNmJWytSU5H6C0Ucgyy7qlmV/GDNOj0iUru+9rL2+ZY9igsqVxRDP8Z8LharGIyajavuZUXw+goACbW1ILNShDfzpSkbq6be2Hfo4GHKO7efz/GMaEHJRvn3JZKfb3tJEFeQC73OwNuDLAUL6X86iMb0DRx1uMCioUXz/5CdItMXp0Eu78ZIh0rZ4nZbkRMtPThhK966d+8ZgwCaqmMcivQHYL1eHRrXJUqAWRoCHzuFE+m/iuBfbwCet7saO+zcKbZmYYsLd9lM/F1fjAyz1GikqYR6Mx995dDa8GuehCuEu245HRu554jwDdGIyJzy3rbBGYg4lLe47svhqTc9NjAk49NS5utdIvS6Vr27n8EvvBEocopftWT6mxjO82VZ0cBJGGwk1zSw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:31:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[H+ScQoEqmT/V6QMI6RVqNqHGF0mHCMlxz8cgT9S5oZOfULvN+7ZXcwZAQdir5mLfboPFHlREQsn8QqUjHbaTt2LR2l0QuESFCkR56KPVMT6DbQPDCFIMtN0QMoQDJhoe3DtbSednhV1VFtkwDV9ZUjoJXFxJNW25L8v/HLnVWm4DYwkVnRzfcSpO6L7TsrvibxGUQjCTtRHTkJ2B3sa6Kmnc+smp/ik7WPU1QzA+5gMpaq1S+rSaQ6cA3O0shIUlO2qugp/h9dsuEpQVWntQjE8ToEqNx+LdNjncvY7OV/7KN0GG7XlcIo8ua6Mc5G/8PHpk5ibPTVDtOW8+nb2jxe5gJcK2YFU/fSCUFUr/fph3rkvl6C/DKy1lb0opLsS0ENZXpWhiALt4lAGDoHiHzB4ufC3EZ6AI93d5t0iT728sWnLlh6vOcO5XRrHlL9sbIlwIgw0ffFRTT5hBdxCb5Q==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Sq8WYWY5I5l6vjun74ruirX9fpX1dNxclLqNk7rv0PwqogNB7rYtYJvUhH5xtrAMhE+iRJTWdsixYwyQzzb/Imv8XmMgClj5TIctGgqXZDPgOnx0KMgmkRrL0FDvbd70Uhd5HK/lTCQ8Jwtl4C7p9C1jmiScJp/vcOus26JYxaFvDSsPddm4xh4DDCX7W8W+ByhfbgomTgj6UbwkJowSXGbi3EiM2vLZdrIYjUhaWxDGDhKi1HBWDNyUM3DGQ2FRiMYHEWwWTK7/mlLtQETmOfAdwR56WGjz02Sxa4bRjrKU4wz/cbzaBeQWADW/BAVcwp0RnE/yL9fKmGt2Ht7eW5gQFV6uHj58R1EtpPib7Yn+jkTuVan1dxs272AVgYMYG8g4M4JlbC+A0QzI5L6infkB/GxuhyUaN+CMx53ykgQc1gUDatpWH+hAmYBblsvNgsPSi6lLMTovyTM9kUnZnQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 19:51:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[IG3v7La/dVmlkI5BDPSpnhuSYP8OU7CfjTTn4SOarLPNzyPCFYpwpe2BMhlIhSlx9k38Zbv6lWhB1pww8vdY9u2FoZM7j92kQk5eQKK0JDD/ZBDfsDCIgtUmSZcS59m5jtJyo757Hb5GofdKYZWY5aNLhQb1GBpbIMAOr6duDywHzrKoyLbaDL28V657Yo8Kf/AgQT4EmlZIFmy2lBBwa3rBfU+HbgioDgf4wtLMdCPj/7OwZe6JwaigmkvND9jhyX/qgHlEVAgPrhiyfgfmag0DqaCoVLLPPcIaBQ4HrM0AluMMDQWi9AcBwiqZsx7C11OIfuL6U1C0DtZBl01j514w2gRvDWHXUFOs5YFjz4seGe47C9rlMhcD44hSgBgcYG6OOQhvHWfi95Xl+Yg23yPIzNJvE6ilBAUkbaPLZWeqOjvJ91XKzF72oJD0BZo23C5Ltt5SyWOlfhZEn7vvMw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:01:11 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[n28kouNlgxLuurWf/30QFypbC390o7m1WD4N93gzyfD8tR9y5k4pbOAJ4NZ8c6Y90nkNbeeZ4S3LUz0ks/I7DyDoK6dJTqbNw0csgEDutMybhhiJyi1HfBZdw7aApHjOAA7cqlp4hXh/UMR+ZcmMxRMUSfaXMgIV7oK3iiR6u0CVmw/zrGwj+GHSknQt53dtt5mRyDsLTRvUPeoNESxea+7ycFIWrSEW1TDVUEiiVLplcy1fpA1eNgqzSuJCxUNc9GQRkieejd1DzFqG6It51ZzAPghyIGfRphRhthTd3wCwCtqxxQ7uBYBu9nKbUJi2mQEZ2YIx1L0V4KWazJY4nKixtr1NQPPsiciSAOAPwA1kfB5Iy76xmdkQBg36gkie6NSq0+eyrfvvd4Z4xX3/pgNiuG3LVEWBVezS27Hhh+VMFqjfCRXHFvTTOAonu7qLe7EpshpLPGmefR2laQyytg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[18g7VSN1v3auTipmWHL50vnMRQEiBvC2RvYDVGv3YPmjJifmcv3gtSEHhbtQn0q8tS5eLCa4vIgJr8CJrxdfLz3AoEgu2R1InASfwyJ1HZCoj4wL99kZsrbtBpRChYrPIoHsB4HhF9U/gbblPqSAOU/JShXgmDFU6ERoN7NMep7aV2INcd0P2n2eO6bJbh9GHfzzqJTzTgnGALKM0ZxyDClsHsJxbFaEx4j6TgTFPdw32CpRbG7hkntiVLufEVE5t5nNohEMEiYGw3E6QuoeaBjAEMH1YU8MJOUSm8HKwIw154XC7UwLxTDXZAU7fbevcUFRft7RcEDoxH7+Pr1YDA7TXb1Z3TUQCLtI7Ktz7f0TzrEtc8OiNz5GXphf82NzXK2JtRNxMoS2J20iuEZp4M/J3fcdVvns7bqTPk3oAggvcbhdOud0SGDhJpezjV+nfgEHRhUgLdlg9koeRt/Y7w==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:17:01 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450700226 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450700226 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 20:17:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:17:01 response :
+------------
+
+2015-12-21 20:17:45 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450700270 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450700270 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:17:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:17:46 response :
+------------
+
+2015-12-21 20:18:10 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450700295 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450700295 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 20:18:10 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:18:10 response :
+------------
+
+2015-12-21 20:18:14 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450700298 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450700298 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 20:18:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:18:14 response :
+------------
+
+2015-12-21 20:18:23 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450700308 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450700308 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 20:18:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:18:23 response :
+------------
+
+2015-12-21 20:18:47 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450700332 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450700332 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 20:18:47 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:18:47 response :
+------------
+
+2015-12-21 20:18:59 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450700343 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450700343 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:18:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:18:59 response :
+------------
+
+2015-12-21 20:21:06 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[Uszo6/xyQA0zDCbnHFQBs99PY/ZLvhbmiVChvFSDsiT3oVTAB78TYrjiVLfSVcmywvVkOKozho5M7ADg0Ia9aOaFO55Rp0bZJp4cONlCBzTLO5GQHt7hNYu88+UU7TmbMH49bw0/yFklH6pId5idlvB3/ROZN9yq0j0IdJ079x6eK+k2ljciJqFkudnElvqrEKQwexDO2/uaUrhUp5jD50LBG7/gCj9jg2AJ+q8RxJGHjkWcJl16Lvi3sAjMHwaB3nhNPNr7P86Vri9NrUdpdz/RfJYQur5xOPYmHrbJq4Q4ZJZOJoP5eZ/AOG5Eiu7AXkPmB8p6RUJPYHW4ZWcRVh5pm9JUul/pMCwfhZIgo+FBOBJnjq9M58fxfBesx74VCaBHyD72P6ZeiTHDkAht5NWpjhsM+3e/IF/IUZ+YoeO99pvgyF6YeeVBKb2K0fwY//4Y10/tq43jP7ROV9lZtQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:21:58 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450700522 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450700522 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:21:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:21:58 response :
+------------
+
+2015-12-21 20:25:09 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450700713 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450700713 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:25:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:25:09 response :
+------------
+
+2015-12-21 20:31:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[6jNd5A0KjIIPQHq0iLezCetuwYmUmfZFkl+pNA+UYK/7jCsbYijdMLl9XZmaxZDzyklEDWVe/8JAu3sjcN1c8MO7BkMqfuBQR3QtDoLEXwdifmr9Py2ozOy183otLW2a7QEyv34z1uXC0dB/Ppek/vhnvQcm6BH5lqWO0TZdoodhjH+RjSvgoP1RYEglFYn9e9NHQ/kAm0vxGq9hiYZiXTfgK1C/tkChgqYZWN7Y20uV8faVfHBuLRGd+IG5s3XlYsckH9n4z6Eog0Icrpn7SQ+BnInR7bYV34guaem5v9xY/wPOotLbDUemTBaitQVSg5OuF5FdOI+aDUHJ05mFUWu7ZKkTPu2tJS2NHvzACdq5Qrg75naae3+wxqkvbsrIk5UYAezmPlERdyh5tyn1sfG8rGjDOraNqG0NOCU2RfmqjFOEfX5ip+YPWltm8/a8iW02dW7n6hTfE4vW7RXFgQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:41:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[WDkFLn5fJRMv/rzvYuVCRoAofvFxKsN6dxYw1EeA5fx8mQn+HnAowUfEtNSV0eJPuJy2K9eeaYlx9qmPSVsmLJJ3tHv50Nc11ELopccah1CTnBM8suMwSUjnDMNqWSNs+mglPZVcS4gqjVCUzqFYgFidYXYiJnhNIzEEt3gzIZraQfbF1j7kiHUWZ6lXrIKvuWwSkaGRwrU8hdWqR7T4zLNyKtCxVGU5+jmqhjTbHQ36v6VhSwJ46/Ywh7hx35oxu3dqac+XwuO9nQ93Cuw5e5Vi/YFFhY2fnmgJwOWhl9aqrHJywDoW0dToB6LeUEhL4qxzIOpxo2rxbGTum//p0IVt7bbyEHd4yt025XBc7vrVTzTAIo7nvHJI7dNs1BhY7LimOG+qWzTAxgUz7Cg7QWuVUmzVmUiZfPjyPLQbA1xlaVtFKRHPC8XkGRipoU7taXR25vLuxUZFSBCM1kVCJg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:51:15 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[7pL+pn0h4t8SXeBVJvVtTwXDIS8gFGJjqZYGgJpvdrNrH/p7acZttRCQGEeNCLRwb/1817Ep4wafz7RkuR/h1gMUtraps/It9yXozi4KpKB0dU+esTi+ySOCx0yRdJd7/cxQ6DgWkNo3NHT9s4bcr5wBMTiZChwXiNJ6M44fqUWx3sU+KTZwYAbYVeJXiVoQIAKkJicpYSMEi/Ue62y8TzAnt4Paez8c21C5G/6LQTnRLxhW+E2E4PekMpueSXY+nY/dbmAabEsKQEDw4t/DNNZQxQiI+6eaiwqM4srUYNMxOQJOD54taqpPUpMY9Exuwm7o6KAEyiIPZTMcf/i5nyBKkfdbKYn1AA73ayoR4Le70veVSuPt8fqaxTE5xTVgBlFm2t28rdF+sv25nkQfK9I+NwTuLkxIsuiCVFUZjZXkh6E9YulRwV5ulLrLfT+DQnWVyXpTQ0s2jYhV0WSmLQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 20:51:30 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450702294 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450702294 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:51:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:51:30 response :
+------------
+
+2015-12-21 20:51:40 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450702304 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450702304 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:51:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:51:40 response :
+------------
+
+2015-12-21 20:52:02 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450702326 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450702326 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:52:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:52:02 response :
+------------
+
+2015-12-21 20:52:31 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450702356 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450702356 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:52:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:52:31 response :
+------------
+
+2015-12-21 20:56:48 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450702613 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450702613 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:56:48 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:56:48 response :
+------------
+
+2015-12-21 20:58:21 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450702705 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450702705 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 20:58:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 20:58:21 response :
+------------
+
+2015-12-21 21:01:07 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[IRZdieBTXE6WjFlUMX5pVx+ugtcEzNk6Nh+e0hqBE+8eFA57RgqhIJ7WTK6CcrQvclNI/QdhoUlc4JP6mWq/VG5hWZb100gFgXydQOgSlNDOUmx5dt+wF0ezY3O0xFTUNG3wYUrx2u/Qm/vWRBhPxxRVV2/CPaAblvvkZO2iVYhArVIfQ4Wv4Aj4g5fQyJK+PfZtOb6hD8ftRVQlWh0k4IexwgyxolKplCkXT6Dv0CQll9czeGd5LVwNhZsLw5xpbAYSOL7TZSicfeErIbb6VJGKDtcY5aZxWELfgnhc3gO0zxMs1voJtmZ8RL8QGM4BS2s2inl4ihqr32j0PC5UGUCMEU2AOe9mpsgVeAae4yeaIuK9dMwI3nKqrtRa4qfbUuEyGknqZ/vBIIOnSyBoYurEai830bMHgTpPYLYIlD/adkF7BxDJn2+s0FC0wqPB3DjWEEDdHNZy+H5S9nu13g==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[N8P1sik8f/decEvlJhNqdM8xl2gd+ZFKrtYcnapOIFMVsqmazv00mmkpOoLIEBO73TfkEwYoSw9Du4LlpgLpJp5963eA63SMPikpke7b8ruo56IgXgeGjpF+w8F9Kp8OJKkS1X9b4jEW+iM1YsQ4n4Y4AIRCUsGG8oV4qz3zCGJpFwdEUqatBZzEY/dpqle1bFHSMWQXrEG1Z5b5Dn0/elYepv1A56feWDje96ccposCcZnhHl+zfG6y4NJv3JrCYLauC/QcnpH2naMSIhVHK6J4pwAOBHTwfHDkEnWF1pN8UAk82eUu9Nxgwzs9AMmIakYSyR+eAfFnOU5sfRuWkHrFFx0sy69H7tFHoM5f+/T0LNjSjc1+xWZeWr1KJjGS/ghndZLb7z117u46fJpfR/GH7gC+UkxaqTxs+R/809DukeeiXZYH1ZDmEeM7S8v3je2KC1X7HxxMqtmhNb2XpA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:11:12 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703477 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703477 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:12:52 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703577 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703577 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:13:40 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703625 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703625 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 21:13:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:13:40 response :
+------------
+
+2015-12-21 21:13:44 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703629 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703629 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:13:55 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703639 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703639 ;
+msgtype : event ;
+eventkey : 2 ;
+ticket : gQFL7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL1hUblh2WGJsMXNldjg4bHNJQlVuAAIEaGH6VQMEAAAAAA== ;
+scene : 2 ;
+
+2015-12-21 21:13:55 params :
+------------
+Array:
+message : Array ;
+module : ewei_shop ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 21:13:55 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-21 21:18:04 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450703889 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450703889 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401170027&idx=1&sn=00d33a3f6c9b3d79242e5adfa37457ac&scene=18#rd ;
+
+2015-12-21 21:18:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:18:04 response :
+------------
+
+2015-12-21 21:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[xeyNmYAMLcS22zxRatKnbmkm2NhHNqmG0/8u/Yl5gXAa4qwJTosE7YfAwwUv8nqVlu5YYXbFZ5gnpLGscmgGZmfKSaZ3STGbDohCGklo7ftn0iMloWsF2OFnE5H5GzQ59CQ1yBH8TJas4ijNrpcuZwp8H04SEMGjQ7zwuq9RBfy3wIk54CYeinkFqM96xinvDFvwa708lQXPPbU+SBLOM63AfEAi0YPn9qbLHS7hn3sowi+0ILL3uNgby4mntg20u76TGfta7MWeUeh1lZjML4ZX8QX9NYMi1H6NsUW/WwrutJZvT5kOhKCWcnkVCZajfTvhiY2XOYp5nsGpqni4940FhXE7ZDIVCF0gum7bIB1YxX1upDpIbKfzAfVMvcqzmlchZ5LYFMFPbCjaNzJay6Bilznn3enNx3ZLRVLeuAyoeM0H7lIlpH4bNsglMiILtzlnKurQ3Lml+wJhER3ZzQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:31:09 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[H2WW6sgoXl7Sjp1kaZ9TMJmmnp5iPOoGHfgHLlHOR49+Y4LgrLrGfgaCLyMWaqHY+ZtnuaGZJQMcjktzi0yzT4ebu0hPRMvgJzk/8egdoIfSkyMPxYDOzbKQpm3FBHeOp8vwhA7ISJDWscV2NJTt+Q4vNTTHyM4gXfVdPlJvTYmG7Nhu7zS2h0kHOPU4XFtLJYFnEzKf7NPVu59jLX8y8PtqoMTCwzfl2tXjZ0/DSEzuqR3y/OR9n+C+TECAeblw0qHO3uewKpDmJug/TwsOX+sAuOX0QOMpTVdTO+emq6ad4nEbcmD+lCvNOh+A6s3BNhcSVQ3Y45z6YwQgVZu4PrIdgUnD+my90Xii/0WnuX+Mdj4eBuWHYYNfzgzRArNfKqk33CQOzvLhTihAa5PCvlZg47fTyv0Lqmf5BYPZ3wKjZ39dwZp5Umtqcj7D65lC1E6QE/LlvB0weK9Pi4WeYA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:41:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[tcshi0thUaHuFvUDz74EIoIJqgBCo2NgMAKDIcQxSgM+hIJHfb3dQa/wlrNmdCzzfzOoZvx2Tjzhr1/ooDEfjH6Dak76ZpM7VWHE3eKgKbOX6+8KpGZckkv0L/4TS2ZILaRviDV/FX0lxdMzHxxBKG/p+A36T4IJ3f12Dqk8Z1X/1V2WTaPmrXg6EPegiA9nCeV+m/0GkZ5l99DCZAZ3HGBOgDxfAhlegcjWKVvjGzAcSGgIzWQa/1dWaKAizzBRZTAdXa/SMb/gtaD/ybrWNhU0eXecjFqbLyi4+0QnPq98RU9qxqKlVgrELsoE616vR1E7j9htZXEDjtAFZGpaqbLmKlVLSijiQVgi8khzwwj++2qnxZqKTjAK50akVDkhrKsBrlbG+lsFrLJO4nvB8K+AKY+27Tp7KD1QAl3Mz2rwuzpe2eA1yS4AAxVxxzsOp4/w1zCpZjJd7hOZXNrSqg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:42:06 trace :
+------------
+Array:
+from : o49xAwvgDe8xOCyd-apYcqbpDmQY ;
+to : gh_8a5f70a28b90 ;
+time : 1450705331 ;
+type : event ;
+event : MASSSENDJOBFINISH ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvgDe8xOCyd-apYcqbpDmQY ;
+createtime : 1450705331 ;
+msgtype : event ;
+msgid : 401201413 ;
+status : send success ;
+totalcount : 1071 ;
+filtercount : 1071 ;
+sentcount : 1070 ;
+errorcount : 0 ;
+
+2015-12-21 21:42:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:42:06 response :
+------------
+
+2015-12-21 21:43:07 trace :
+------------
+Array:
+from : o49xAwoGaFogmiJzOAgRwSQ7c9go ;
+to : gh_8a5f70a28b90 ;
+time : 1450705391 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwoGaFogmiJzOAgRwSQ7c9go ;
+createtime : 1450705391 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:43:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:43:07 response :
+------------
+
+2015-12-21 21:43:20 trace :
+------------
+Array:
+from : o49xAwidx3Va8mP8YPhtjIaGH2_4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450705404 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwidx3Va8mP8YPhtjIaGH2_4 ;
+createtime : 1450705404 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:43:20 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:43:20 response :
+------------
+
+2015-12-21 21:43:21 trace :
+------------
+Array:
+from : o49xAwg0WSqV_tACsRXj2tisF59g ;
+to : gh_8a5f70a28b90 ;
+time : 1450705405 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwg0WSqV_tACsRXj2tisF59g ;
+createtime : 1450705405 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:43:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:43:21 response :
+------------
+
+2015-12-21 21:43:44 trace :
+------------
+Array:
+from : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+to : gh_8a5f70a28b90 ;
+time : 1450705428 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+createtime : 1450705428 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:43:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:43:44 response :
+------------
+
+2015-12-21 21:44:55 trace :
+------------
+Array:
+from : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+to : gh_8a5f70a28b90 ;
+time : 1450705500 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+createtime : 1450705500 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:44:56 trace :
+------------
+Array:
+from : o49xAwvKXOqD7yfv9QMkMtX4-Cnk ;
+to : gh_8a5f70a28b90 ;
+time : 1450705500 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvKXOqD7yfv9QMkMtX4-Cnk ;
+createtime : 1450705500 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:44:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:44:56 response :
+------------
+
+2015-12-21 21:45:19 trace :
+------------
+Array:
+from : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+to : gh_8a5f70a28b90 ;
+time : 1450705523 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+createtime : 1450705523 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:45:19 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:45:19 response :
+------------
+
+2015-12-21 21:45:30 trace :
+------------
+Array:
+from : o49xAwo7O506eZiudXTBDpDUqKI0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450705535 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwo7O506eZiudXTBDpDUqKI0 ;
+createtime : 1450705535 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:45:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:45:30 response :
+------------
+
+2015-12-21 21:45:39 trace :
+------------
+Array:
+from : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+to : gh_8a5f70a28b90 ;
+time : 1450705543 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+createtime : 1450705543 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:45:39 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:45:39 response :
+------------
+
+2015-12-21 21:45:39 trace :
+------------
+Array:
+from : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+to : gh_8a5f70a28b90 ;
+time : 1450705544 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+createtime : 1450705544 ;
+msgtype : event ;
+eventkey : 9 ;
+ticket : gQG57zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL0dUazlJa25sT2NkQUY0MzJ5aFVuAAIEXQJ4VgMEAAAAAA== ;
+scene : 9 ;
+
+2015-12-21 21:45:39 params :
+------------
+Array:
+message : Array ;
+module : ewei_shop ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 21:45:39 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwlily1V6SPdRYpq5GnPLlEg ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-21 21:46:26 trace :
+------------
+Array:
+from : o49xAwtVpQ-n05yyXne4BZsCCCpA ;
+to : gh_8a5f70a28b90 ;
+time : 1450705591 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtVpQ-n05yyXne4BZsCCCpA ;
+createtime : 1450705591 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:46:26 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:46:26 response :
+------------
+
+2015-12-21 21:46:31 trace :
+------------
+Array:
+from : o49xAwgUcJMUP6Jhm9Oo9sQYNsnA ;
+to : gh_8a5f70a28b90 ;
+time : 1450705595 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwgUcJMUP6Jhm9Oo9sQYNsnA ;
+createtime : 1450705595 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:46:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:46:31 response :
+------------
+
+2015-12-21 21:47:21 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450705645 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450705645 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:47:25 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450705650 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450705650 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:47:25 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:47:25 response :
+------------
+
+2015-12-21 21:47:39 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450705664 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450705664 ;
+msgtype : event ;
+eventkey : 6 ;
+ticket : gQHN7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL3hEa0lNVWZsUDhkRzExRFcteFVuAAIETWQ9VgMEAAAAAA== ;
+scene : 6 ;
+
+2015-12-21 21:47:40 params :
+------------
+Array:
+message : Array ;
+module : ewei_shop ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 21:47:40 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-21 21:47:42 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450705667 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450705667 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=400542524&idx=1&sn=42d92f3e459355da21e86a5aee336bc6&scene=18#rd ;
+
+2015-12-21 21:47:42 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:47:42 response :
+------------
+
+2015-12-21 21:47:50 trace :
+------------
+Array:
+from : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+to : gh_8a5f70a28b90 ;
+time : 1450705675 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwqYIW2eHTiry-zMbE0bviuk ;
+createtime : 1450705675 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 21:47:50 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:47:50 response :
+------------
+
+2015-12-21 21:48:18 trace :
+------------
+Array:
+from : o49xAwvhg95VP3ovPpj2hgKlMigg ;
+to : gh_8a5f70a28b90 ;
+time : 1450705702 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwvhg95VP3ovPpj2hgKlMigg ;
+createtime : 1450705702 ;
+msgtype : event ;
+eventkey : https://hd.faisco.cn/7599080/18/load.html?style=9 ;
+
+2015-12-21 21:48:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:48:18 response :
+------------
+
+2015-12-21 21:48:24 trace :
+------------
+Array:
+from : o49xAwryKHrrFd_0IcgZiw9p6OH8 ;
+to : gh_8a5f70a28b90 ;
+time : 1450705709 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwryKHrrFd_0IcgZiw9p6OH8 ;
+createtime : 1450705709 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:48:24 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:48:24 response :
+------------
+
+2015-12-21 21:49:15 trace :
+------------
+Array:
+from : o49xAwkdzhc9LCLJ2EHuHDvqma9g ;
+to : gh_8a5f70a28b90 ;
+time : 1450705760 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkdzhc9LCLJ2EHuHDvqma9g ;
+createtime : 1450705760 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 21:49:17 trace :
+------------
+Array:
+from : o49xAwmncWELWo_zYeSNiaJKZStg ;
+to : gh_8a5f70a28b90 ;
+time : 1450705762 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwmncWELWo_zYeSNiaJKZStg ;
+createtime : 1450705762 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:49:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:49:17 response :
+------------
+
+2015-12-21 21:50:34 trace :
+------------
+Array:
+from : o49xAwnYnuCHCFdK8TsKPoUvmEUY ;
+to : gh_8a5f70a28b90 ;
+time : 1450705838 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwnYnuCHCFdK8TsKPoUvmEUY ;
+createtime : 1450705838 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:50:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:50:34 response :
+------------
+
+2015-12-21 21:50:40 trace :
+------------
+Array:
+from : o49xAwlN0ptvkaiJIZvyJcdNyTlQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450705844 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwlN0ptvkaiJIZvyJcdNyTlQ ;
+createtime : 1450705844 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:50:40 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:50:40 response :
+------------
+
+2015-12-21 21:51:00 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[AwVlNQZcBcKIAcoSjE5OWH7J+qtTyAQL/bHvoEucLSg1y4oh89RuXCDWh7aUYjyqPsqv5fDUKDWTv5EgxYjkno7/8AOWl3+imddbQIlAJKNi7Q2rfEJxNQTGszpLZ2esjUmIHwA9Y1kiibAGpA3AzqQqfusbwFHqEYW2rWwRnvnlLABxRLmcsK0LnYxFGHE21Cg/nGnvo50U0H9yRHo1mUBebXVt6xHjh/oDMm+5JxWQP70OuIClCS4yu0SCAulHLApBGKI+fxnORerAgl4wfYDuPZFvKUqIW+ovfdBq3PXIgCr1bGosN27FpYd3TJh26yognWI+UJ7Ufthz8arx2jEJk5AlaevkKj2+drC1sh4+Q/ZXHGqIO3HvMQ9TwgXfQrlA7Zw5FzoEi6MJAsoA4W078VYyDfBCWVVMs0dCDSDiHscJL7LVCI26KfF4aWma4Pju4kzIVQv7/Nscz0AXdw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 21:51:22 trace :
+------------
+Array:
+from : o49xAwik_dX8bld7LWE7XmvTek1o ;
+to : gh_8a5f70a28b90 ;
+time : 1450705887 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwik_dX8bld7LWE7XmvTek1o ;
+createtime : 1450705887 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:51:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:51:22 response :
+------------
+
+2015-12-21 21:52:00 trace :
+------------
+Array:
+from : o49xAwhN3cjgBktLkUiWz9mzSm1g ;
+to : gh_8a5f70a28b90 ;
+time : 1450705924 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwhN3cjgBktLkUiWz9mzSm1g ;
+createtime : 1450705924 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:52:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:52:00 response :
+------------
+
+2015-12-21 21:52:18 trace :
+------------
+Array:
+from : o49xAwua92-tr3V_h-UR8ABGwL2M ;
+to : gh_8a5f70a28b90 ;
+time : 1450705943 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwua92-tr3V_h-UR8ABGwL2M ;
+createtime : 1450705943 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:52:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:52:18 response :
+------------
+
+2015-12-21 21:55:01 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706106 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706106 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 21:55:01 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 21:55:01 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 21:55:02 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706106 ;
+type : event ;
+event : kf_create_session ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706106 ;
+msgtype : event ;
+kfaccount : 01@yuguoshenghuo ;
+
+2015-12-21 21:55:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:55:02 response :
+------------
+
+2015-12-21 21:55:07 trace :
+------------
+Array:
+from : o49xAwkUZfOLIAwSxsubeA6nd7bM ;
+to : gh_8a5f70a28b90 ;
+time : 1450706111 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkUZfOLIAwSxsubeA6nd7bM ;
+createtime : 1450706111 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:55:07 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:55:07 response :
+------------
+
+2015-12-21 21:55:11 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706115 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706115 ;
+msgtype : event ;
+eventkey : 你好～ ;
+
+2015-12-21 21:55:11 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 49 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 21:55:11 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+MsgType : transfer_customer_service ;
+
+2015-12-21 21:55:12 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706116 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706116 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 21:55:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:55:12 response :
+------------
+
+2015-12-21 21:55:36 trace :
+------------
+Array:
+from : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+to : gh_8a5f70a28b90 ;
+time : 1450706140 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwm64JuyGQfqTbfKE_NpswHU ;
+createtime : 1450706140 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaiuser/orderhistory&adminId=28555 ;
+
+2015-12-21 21:55:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:55:36 response :
+------------
+
+2015-12-21 21:55:52 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706157 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706157 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=400542524&idx=1&sn=42d92f3e459355da21e86a5aee336bc6&scene=18#rd ;
+
+2015-12-21 21:55:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:55:52 response :
+------------
+
+2015-12-21 21:56:06 trace :
+------------
+Array:
+from : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+to : gh_8a5f70a28b90 ;
+time : 1450706170 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwiXaSXmslIRQ6eFgor8Et1A ;
+createtime : 1450706170 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=208460137&idx=1&sn=4d326745a4586ea178acdc106474cf7f&scene=18#rd ;
+
+2015-12-21 21:56:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:56:06 response :
+------------
+
+2015-12-21 21:58:59 trace :
+------------
+Array:
+from : o49xAwsaHGDqW0j-Yb-x7yrFwAN0 ;
+to : gh_8a5f70a28b90 ;
+time : 1450706343 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwsaHGDqW0j-Yb-x7yrFwAN0 ;
+createtime : 1450706343 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 21:58:59 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 21:58:59 response :
+------------
+
+2015-12-21 22:00:03 trace :
+------------
+Array:
+from : o49xAwlN0ptvkaiJIZvyJcdNyTlQ ;
+to : gh_8a5f70a28b90 ;
+time : 1450706408 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwlN0ptvkaiJIZvyJcdNyTlQ ;
+createtime : 1450706408 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 22:00:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:00:03 response :
+------------
+
+2015-12-21 22:01:02 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[P1BWcgQJrph0X1gm3lXe3j4oiQXribeTmtClwyr/2t4BHpkC99HgAFBRRFFlXOW1hPEaqqiVhaJ04pZwyBtk72+ZbmVEaAs3csT2L85y3RoUMNEXzdIUqzL7p4mmpULJA7p9k8XmJtBKvxb7y4z7Mzphiq2DOcxPjKefl0GVZBIFNuM3quz6nbFWbw3h0Lladbr9kdbGe87hcy34zC1Jx2YUzrQUAqN38o2/Aazy7lzbgQ9EzLB/CCzWWgBAP5gEE6zg1TLIYEZ74Nx+4ts7QpaNd0tU07ioM1I5I23AzQ6Wgx0Bo3UgIF7ougQLlnhTAZZ0E6Ozbqcu79BGoBRXImKU1URVtjsSO6p8/eVQ64KSxB1Olw2ML6z3uJVnPGgEZMPTbtggLsgwZmi9+tcoAkLnpnLUu7EzIIMhNUtG/bz+Kzow9RqIV9uVGV6LP4EtklNockIZEuhFmp8A4M2Ylg==]]></Encrypt>
+</xml>
+
+
+2015-12-21 22:04:56 trace :
+------------
+Array:
+from : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+to : gh_8a5f70a28b90 ;
+time : 1450706701 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwueHrxAz2hVH4oJ3AxXPpXc ;
+createtime : 1450706701 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:04:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:04:56 response :
+------------
+
+2015-12-21 22:10:33 trace :
+------------
+Array:
+from : o49xAwmL6moNDEACcfW5ULDEDsGM ;
+to : gh_8a5f70a28b90 ;
+time : 1450707037 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwmL6moNDEACcfW5ULDEDsGM ;
+createtime : 1450707037 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:10:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:10:33 response :
+------------
+
+2015-12-21 22:11:05 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[WfPaPsG545orDxhdZLLzbI7qNcT5LEe4MYcgeQQHGSpachyhCaFIXJh2tNJeBzoqR+80/CwVmviijr7YJKnP2BsY6JrpZBpS1tDAYu3hh4BIgB610F2V4s+RUrVZxfo4hiXV5xFhEGTQ8vU7aTkvMfaFoEHWfpval1fAsKSkR3cIduJ2AlxiGae3Zevg6l/N4ovAqdKTbdKiNEAsqe7Epscmau/NY2i+Y65LhgxzK5dTqTbtg6/8OV6GS21Yp8vtnoBbM3gJ0nPwBcNz6ZrnH6vIELzPpMySthn/sopBIqjl/xwDkor8UkbLmqoTK2Oy20sURSMZHgW8q43evc6aYbsR9qk3mMarLAZSfo0zJvC8Q5VFEj5i4ERz+f5LylWtjVFmI35xzmL4WyLIfYS94Lr9va/YTqMtZ0kW3CQDKjC8DsxgL9gHa30PyArgGlRUnsxua3wEzZ7mdqRRyaj8AA==]]></Encrypt>
+</xml>
+
+
+2015-12-21 22:11:53 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707117 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707117 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:11:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:11:53 response :
+------------
+
+2015-12-21 22:12:17 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707142 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707142 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=400450873&idx=1&sn=df734667c2ef5790883a23c171be4d1f&scene=18#rd ;
+
+2015-12-21 22:12:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:12:17 response :
+------------
+
+2015-12-21 22:13:18 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707202 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707202 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=208460137&idx=1&sn=4d326745a4586ea178acdc106474cf7f&scene=18#rd ;
+
+2015-12-21 22:13:18 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:13:18 response :
+------------
+
+2015-12-21 22:13:25 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707210 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707210 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 22:13:36 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707220 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707220 ;
+msgtype : event ;
+eventkey : https://hd.faisco.cn/7599080/18/load.html?style=9 ;
+
+2015-12-21 22:13:36 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:13:36 response :
+------------
+
+2015-12-21 22:14:16 trace :
+------------
+Array:
+from : o49xAwgSAtJvMhiJLvxwzGjCnmnw ;
+to : gh_8a5f70a28b90 ;
+time : 1450707260 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwgSAtJvMhiJLvxwzGjCnmnw ;
+createtime : 1450707260 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:14:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:14:16 response :
+------------
+
+2015-12-21 22:14:16 trace :
+------------
+Array:
+from : o49xAwtZTFc5CUdkVNVjG0Y_oeXU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707260 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwtZTFc5CUdkVNVjG0Y_oeXU ;
+createtime : 1450707260 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:14:16 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:14:16 response :
+------------
+
+2015-12-21 22:14:44 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707288 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707288 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 22:14:44 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:14:44 response :
+------------
+
+2015-12-21 22:15:02 trace :
+------------
+Array:
+from : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707306 ;
+type : qr ;
+event : SCAN ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+createtime : 1450707306 ;
+msgtype : event ;
+eventkey : 10 ;
+ticket : gQHp7joAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL2V6a1ZQYkxsRk1kdGtlLXM0aFVuAAIEaWQ9VgMEAAAAAA== ;
+scene : 10 ;
+
+2015-12-21 22:15:02 params :
+------------
+Array:
+message : Array ;
+module : ewei_shop ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-12-21 22:15:02 response :
+------------
+Array:
+FromUserName : gh_8a5f70a28b90 ;
+ToUserName : o49xAwn2JYVysCAwxPMWVXPteAGU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-12-21 22:17:30 trace :
+------------
+Array:
+from : o49xAwk2jTVmG_NC43R0UEs3zuEk ;
+to : gh_8a5f70a28b90 ;
+time : 1450707454 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwk2jTVmG_NC43R0UEs3zuEk ;
+createtime : 1450707454 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:17:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:17:30 response :
+------------
+
+2015-12-21 22:20:14 trace :
+------------
+Array:
+from : o49xAwpzMkvKusLkkeTk-_8YJYfU ;
+to : gh_8a5f70a28b90 ;
+time : 1450707619 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwpzMkvKusLkkeTk-_8YJYfU ;
+createtime : 1450707619 ;
+msgtype : event ;
+eventkey : https://hd.faisco.cn/7599080/18/load.html?style=9 ;
+
+2015-12-21 22:20:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:20:14 response :
+------------
+
+2015-12-21 22:21:04 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[qNQ0A6zTp/E/VbM04dsaO0EIeqoz69QHKYWJgQSNXBHVQL7is/Isw9b3Bkzd2PHJX+HQQ9opJ90TRcKfQAhlwnc4uFyIYL8ywsIUfhqrglkDDHQTIe3SwwCa8XMttaKGzfttCztKw8uiZmGtdczFNtk8zi2gpFFgqBeRZ7p4yJzFoAXGSoPzDzCqd9f+jsksxMpiw8e/BqpQoWhg0GRQn54NA0RP4UuKBKYJWoiqObqqUtjtup2jB5vd0419imC6KqaR4bO1gVSaKpXJJNnCVGxf4OgEfIkp6wUy0jAJU8nQ1ExQ4EnnMKy9+ZkaN6atOm6EMUHRUbTd95XCYxhuCMFQihQ9Pq5+lFJul4lfZSw5MPQPU33SbovNIlvoukAGlfDMEvj9GLg2QUAAg/Q31pdb2mMo+c3hKG9mZjFLZ/Qt43hJMPONwY2RpwIElWQCXd6bBREmEiVqJQ42V44b4Q==]]></Encrypt>
+</xml>
+
+
+2015-12-21 22:22:22 trace :
+------------
+Array:
+from : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+to : gh_8a5f70a28b90 ;
+time : 1450707747 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+createtime : 1450707747 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 22:22:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:22:22 response :
+------------
+
+2015-12-21 22:22:36 trace :
+------------
+Array:
+from : o49xAwkdzhc9LCLJ2EHuHDvqma9g ;
+to : gh_8a5f70a28b90 ;
+time : 1450707760 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkdzhc9LCLJ2EHuHDvqma9g ;
+createtime : 1450707760 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 22:22:43 trace :
+------------
+Array:
+from : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+to : gh_8a5f70a28b90 ;
+time : 1450707767 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+createtime : 1450707767 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 22:23:11 trace :
+------------
+Array:
+from : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+to : gh_8a5f70a28b90 ;
+time : 1450707795 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+createtime : 1450707795 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 22:23:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 22:23:11 response :
+------------
+
+2015-12-21 23:35:37 trace :
+------------
+Array:
+from : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+to : gh_8a5f70a28b90 ;
+time : 1450712142 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+createtime : 1450712142 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 23:35:41 trace :
+------------
+Array:
+from : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+to : gh_8a5f70a28b90 ;
+time : 1450712145 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwrap1CwDlH-xzwY_1kZbhbk ;
+createtime : 1450712145 ;
+msgtype : event ;
+eventkey : http://we7.cc/app/index.php?i=12&c=mc&a=bond&do=card& ;
+
+2015-12-21 23:35:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 23:35:41 response :
+------------
+
+2015-12-21 23:37:04 trace :
+------------
+Array:
+from : o49xAwmHqn8qsxcnWOtGHzOPuW64 ;
+to : gh_8a5f70a28b90 ;
+time : 1450712228 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwmHqn8qsxcnWOtGHzOPuW64 ;
+createtime : 1450712228 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 23:37:04 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 23:37:04 response :
+------------
+
+2015-12-21 23:38:23 trace :
+------------
+Array:
+from : o49xAws8s7Z5wbxZuGxZ-ACSPowA ;
+to : gh_8a5f70a28b90 ;
+time : 1450712308 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAws8s7Z5wbxZuGxZ-ACSPowA ;
+createtime : 1450712308 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 23:38:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 23:38:23 response :
+------------
+
+2015-12-21 23:40:59 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[OG83Ztd5kCPjrDMEnRWeOjAMbuyPWG8S1zwasdt2lhLtslDBSj3iMmTlNf3PMDMrOgusH3gAyCR2jc3m7vovP9FuJsW28cFgatz43XokePKa5HiYr7Dj6TP3yG7jzRJLlcpAjQsDDEyThZTfbrOK0j+ndytpUdyE1UXPonT6UhXGATqTaVFUo59Y90jtuZtfR296T0jKAp7kCzH1WwnfmXrDEEcLvYMviReDH9UqIYRjP9t7fX5f3GE8rnKgfuvE0wJBeQhLdR7RuMgxdY/I6xezq6MxyBwVBWH1W/jRoSlw9ai1IVBm9E1daHuiC99dXck6778lgeHxicgzPesw/zwYYRVQrBs2nO1/wwGMdXuv3nltHgQCLXf8LIsnwCgx7k9gWNGcbycAmlB3f42Cbl/+Vw6WKUUHlql/s4MU8e33dEWWm8arH5rPkmU2GXDhGPUaSST0b7DK7Q/iV54wiQ==]]></Encrypt>
+</xml>
+
+
+2015-12-21 23:50:57 debug :
+------------
+String:
+account-ticket<xml>
+    <AppId><![CDATA[wxe5b18b9bd7e3626b]]></AppId>
+    <Encrypt><![CDATA[LOUFv1XisKLtMQcpi604MVTGsJbF/3sDqbE/gB7nTXMB6EEyOKAR1QlQ00pm8B2Y3suqqWQH2uyOLkvPCwCKbsQZyep5/54g1IT8+TOwhlDMgQyeCZu8t12AqxvLsHL06Phi4OjTslZnx81Y/9Quh20ZHSJgj8zEkByYKj8+KOH6/imip00veyKzkLfX0ekBekuR5IS7VRJ6BISHCNhdwtW72WKGzNBzMh6nKfuN6Oasa68sufOVA7IZ1D9ufgumhVjtQQyBvJD8jCAwAUivesj4w6++D5ytRruZesxefk+HlSJWpqUqinbijGMWai/PB/vGgy8u+yYTx+FTecZqotOJiAAW7IYqgeVa/BKSvaj5O+Sqzjay9uL3QZ7WrqknRXWzJiCBIvsTAsE0jn3rtoqEDC1pL7aQJE+nk3bQsixnGxBaQMS21ezIoIRFaoPjG3bc/dA+OMDqkZmz7Uj6lw==]]></Encrypt>
+</xml>
+
+
+2015-12-21 23:51:07 trace :
+------------
+Array:
+from : o49xAwitmCLoyotqrQC0c_jArv8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450713071 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwitmCLoyotqrQC0c_jArv8A ;
+createtime : 1450713071 ;
+msgtype : event ;
+eventkey : a ;
+
+2015-12-21 23:54:14 trace :
+------------
+Array:
+from : o49xAwitmCLoyotqrQC0c_jArv8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450713259 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwitmCLoyotqrQC0c_jArv8A ;
+createtime : 1450713259 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzI1OTAzMDc1NQ==&mid=401182862&idx=1&sn=1641648c675046da343d13cb97b200d2&scene=18#rd ;
+
+2015-12-21 23:54:14 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 23:54:14 response :
+------------
+
+2015-12-21 23:55:02 trace :
+------------
+Array:
+from : o49xAwitmCLoyotqrQC0c_jArv8A ;
+to : gh_8a5f70a28b90 ;
+time : 1450713307 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwitmCLoyotqrQC0c_jArv8A ;
+createtime : 1450713307 ;
+msgtype : event ;
+eventkey : http://front.lewaimai.com/index.php?r=lewaimaishow/lewaimaigod&adminId=28555&shopId=80400 ;
+
+2015-12-21 23:55:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2015-12-21 23:55:02 response :
+------------
+
+2015-12-21 23:59:17 trace :
+------------
+Array:
+from : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+to : gh_8a5f70a28b90 ;
+time : 1450713561 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8a5f70a28b90 ;
+fromusername : o49xAwkzK7iKsmiHce8iJf7N6SN4 ;
+createtime : 1450713561 ;
+msgtype : event ;
+eventkey : a ;
+

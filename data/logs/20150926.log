@@ -1,0 +1,521 @@
+2015-09-26 10:46:21 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443235581 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443235581 ;
+msgtype : text ;
+content : 好好 ;
+msgid : 6198649621035525490 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 10:46:21 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 10:46:21 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 11:26:09 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443237969 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443237969 ;
+msgtype : text ;
+content : 点餐 ;
+msgid : 6198659877417429038 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 11:26:09 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 11:26:09 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 11:59:44 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443239984 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443239984 ;
+msgtype : text ;
+content : 微点餐 ;
+msgid : 6198668531776531069 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 11:59:44 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 11:59:44 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 12:21:27 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443241287 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443241287 ;
+msgtype : text ;
+content : 酒店 ;
+msgid : 6198674128118918330 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:21:27 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 15 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:21:27 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 12:22:28 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443241348 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443241348 ;
+msgtype : text ;
+content : 微酒店 ;
+msgid : 6198674390111923430 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:22:28 params :
+------------
+Array:
+message : Array ;
+module : ewei_hotel ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:22:28 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 12:40:42 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443242442 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443242442 ;
+msgtype : text ;
+content : 微相亲 ;
+msgid : 6198679088806145607 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:40:42 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 18 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:40:42 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 12:43:11 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443242591 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443242591 ;
+msgtype : text ;
+content : 上去 ;
+msgid : 6198679728756272771 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:43:11 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:43:11 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 12:51:21 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443243081 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443243081 ;
+msgtype : text ;
+content : 微现场 ;
+msgid : 6198681833290248020 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:51:22 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 19 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:51:22 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : text ;
+Content : 您已经录入基本信息！直接回复任意内容即可上墙！请输入您的真实姓名以及联系方式，验证您的真实身份！
+<a target="_blank" href="http://wx.nx456.cn/app/index.php?i=3&c=auth&a=forward&uniacid=3&__auth=eyJvcGVuaWQiOiJvaHdzQ3Q3bzRZWFFCTVFidHlCRnVra3JtZlZjIiwiYWNpZCI6IjMiLCJ0aW1lIjoxNDQzMjQzMDgxLCJoYXNoIjoiNDk4N2JiMWJhNWM2MDVhYTQ0OTk3NzhmMzgxOGYyMTUifQ%3D%3D&forward=Li9pbmRleC5waHA%2FaT0zJmo9MyZjPWVudHJ5JnJpZD0xOSZkbz1nZXRtb2JpbGVyZWFsbmFtZSZtPW1lZXBvX2JpZ3dhbGw%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击进入</a> ;
+
+2015-09-26 12:51:49 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443243109 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443243109 ;
+msgtype : text ;
+content : 现在 ;
+msgid : 6198681953549332316 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:51:49 params :
+------------
+Array:
+message : Array ;
+module : meepo_bigwall ;
+rule : 19 ;
+priority : 0 ;
+context : 1 ;
+
+2015-09-26 12:51:49 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : text ;
+Content : 上墙成功，再次回复任意内容或图片即可再次上墙哦！ ;
+
+2015-09-26 12:53:26 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443243206 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443243206 ;
+msgtype : text ;
+content : 上墙 ;
+msgid : 6198682370161160069 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:53:26 params :
+------------
+Array:
+message : Array ;
+module : we7_wxwall ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:53:26 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : text ;
+Content : 发表话题前请完善您的基本信息，<a target="_blank" href="http://wx.nx456.cn/app/index.php?i=3&c=auth&a=forward&uniacid=3&__auth=eyJvcGVuaWQiOiJvaHdzQ3Q3bzRZWFFCTVFidHlCRnVra3JtZlZjIiwiYWNpZCI6IjMiLCJ0aW1lIjoxNDQzMjQzMjA2LCJoYXNoIjoiMGZiNjAwMjkyZjMyNGZjNmMxMzJmMzQ1MWMyNDRkZjUifQ%3D%3D&forward=Li9pbmRleC5waHA%2FaT0zJmo9MyZjPWVudHJ5JmRvPXJlZ2lzdGVyJm09d2U3X3d4d2FsbA%3D%3D&wxref=mp.weixin.qq.com#wechat_redirect">点击完善</a>。 ;
+
+2015-09-26 12:57:22 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443243442 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443243442 ;
+msgtype : text ;
+content : 上墙 ;
+msgid : 6198683383773441996 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:57:22 params :
+------------
+Array:
+message : Array ;
+module : we7_wxwall ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 12:57:22 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : text ;
+Content : 进入成功 ;
+
+2015-09-26 12:57:27 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443243447 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443243447 ;
+msgtype : text ;
+content : 统计 ;
+msgid : 6198683405248278479 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 12:57:27 params :
+------------
+Array:
+message : Array ;
+module : we7_wxwall ;
+rule : 20 ;
+priority : 0 ;
+context : 1 ;
+
+2015-09-26 12:57:27 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : text ;
+Content : 请在此发动 ;
+
+2015-09-26 13:16:50 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443244610 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443244610 ;
+msgtype : text ;
+content : 微房产 ;
+msgid : 6198688400295244213 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 13:16:50 params :
+------------
+Array:
+message : Array ;
+module : lxy_buildpro ;
+rule : 23 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 13:16:50 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 13:25:31 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443245131 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443245131 ;
+msgtype : text ;
+content : 喜帖 ;
+msgid : 6198690637973205701 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 13:25:31 params :
+------------
+Array:
+message : Array ;
+module : bm_marry ;
+rule : 24 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 13:25:31 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-09-26 13:41:22 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1443246082 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1443246082 ;
+msgtype : text ;
+content : 婚礼 ;
+msgid : 6198694722487104546 ;
+redirection :  ;
+source :  ;
+
+2015-09-26 13:41:22 params :
+------------
+Array:
+message : Array ;
+module : czt_marry ;
+rule : 25 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-09-26 13:41:22 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

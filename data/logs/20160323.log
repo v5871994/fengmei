@@ -1,0 +1,233 @@
+2016-03-23 01:33:03 trace :
+------------
+Array:
+from : oywoswCj_RYiLRcb88erlCAEhVIY ;
+to : gh_594b4a77030d ;
+time : 1458667992 ;
+type : event ;
+event : subscribe ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswCj_RYiLRcb88erlCAEhVIY ;
+createtime : 1458667992 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-23 01:33:03 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 01:33:03 response :
+------------
+
+2016-03-23 01:33:04 trace :
+------------
+Array:
+from : oywoswCj_RYiLRcb88erlCAEhVIY ;
+to : gh_594b4a77030d ;
+time : 1458667995 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswCj_RYiLRcb88erlCAEhVIY ;
+createtime : 1458667995 ;
+msgtype : event ;
+latitude : 22.680481 ;
+longitude : 114.149475 ;
+precision : 70.000000 ;
+location_x : 22.680481 ;
+location_y : 114.149475 ;
+
+2016-03-23 01:33:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-23 01:33:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-23 01:33:08 trace :
+------------
+Array:
+from : oywoswCj_RYiLRcb88erlCAEhVIY ;
+to : gh_594b4a77030d ;
+time : 1458668000 ;
+type : event ;
+event : VIEW ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswCj_RYiLRcb88erlCAEhVIY ;
+createtime : 1458668000 ;
+msgtype : event ;
+eventkey : http://mp.weixin.qq.com/s?__biz=MzIyNDExMTgxOQ==&mid=401378263&idx=1&sn=28306028b044d9258843211986a56cf1&scene=18#wechat_redirect ;
+menuid : 401824823 ;
+
+2016-03-23 01:33:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 01:33:09 response :
+------------
+
+2016-03-23 01:33:27 trace :
+------------
+Array:
+from : oywoswCj_RYiLRcb88erlCAEhVIY ;
+to : gh_594b4a77030d ;
+time : 1458668019 ;
+type : trace ;
+event : LOCATION ;
+tousername : gh_594b4a77030d ;
+fromusername : oywoswCj_RYiLRcb88erlCAEhVIY ;
+createtime : 1458668019 ;
+msgtype : event ;
+latitude : 22.680481 ;
+longitude : 114.149475 ;
+precision : 70.000000 ;
+location_x : 22.680481 ;
+location_y : 114.149475 ;
+
+2016-03-23 01:33:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2016-03-23 01:33:27 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-03-23 14:04:34 trace :
+------------
+Array:
+from : oIJh1jrME1fl6Rv05NxQLCKRr5m8 ;
+to : gh_8792052896c2 ;
+time : 1458713085 ;
+type : event ;
+event : CLICK ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jrME1fl6Rv05NxQLCKRr5m8 ;
+createtime : 1458713085 ;
+msgtype : event ;
+eventkey : 相册 ;
+
+2016-03-23 14:04:34 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 14:04:34 response :
+------------
+
+2016-03-23 14:04:43 trace :
+------------
+Array:
+from : oIJh1jrME1fl6Rv05NxQLCKRr5m8 ;
+to : gh_8792052896c2 ;
+time : 1458713095 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1jrME1fl6Rv05NxQLCKRr5m8 ;
+createtime : 1458713095 ;
+msgtype : event ;
+eventkey : http://www.wepower365.com/app.php/module/3g/mobile/view/10669/7021/ ;
+menuid : 209874298 ;
+
+2016-03-23 14:04:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 14:04:43 response :
+------------
+
+2016-03-23 15:01:11 trace :
+------------
+Array:
+from : oIJh1juSICMB527PVD0cwM15W2UI ;
+to : gh_8792052896c2 ;
+time : 1458716483 ;
+type : event ;
+event : VIEW ;
+tousername : gh_8792052896c2 ;
+fromusername : oIJh1juSICMB527PVD0cwM15W2UI ;
+createtime : 1458716483 ;
+msgtype : event ;
+eventkey : http://www.wepower365.com/app.php/module/3g/mobile/view/10669/7021/ ;
+menuid : 209874298 ;
+
+2016-03-23 15:01:11 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 15:01:11 response :
+------------
+
+2016-03-23 16:30:21 trace :
+------------
+Array:
+from : od9jLwkXbgRvbe0rpPjdHq18Zw3I ;
+to : gh_ed9cc7248212 ;
+time : 1458721833 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ed9cc7248212 ;
+fromusername : od9jLwkXbgRvbe0rpPjdHq18Zw3I ;
+createtime : 1458721833 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-23 16:30:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 16:30:21 response :
+------------
+
+2016-03-23 16:35:01 trace :
+------------
+Array:
+from : od9jLwnE0Mz85VRzL34rDmrR4NNU ;
+to : gh_ed9cc7248212 ;
+time : 1458722113 ;
+type : event ;
+event : subscribe ;
+tousername : gh_ed9cc7248212 ;
+fromusername : od9jLwnE0Mz85VRzL34rDmrR4NNU ;
+createtime : 1458722113 ;
+msgtype : event ;
+eventkey :  ;
+
+2016-03-23 16:35:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-03-23 16:35:01 response :
+------------
+

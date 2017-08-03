@@ -1,0 +1,3000 @@
+2015-10-13 10:02:43 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444701763 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444701763 ;
+msgtype : text ;
+content : 嗯 ;
+msgid : 6204946824778671786 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 10:02:43 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 10:02:43 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 10:14:36 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444702476 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444702476 ;
+msgtype : text ;
+content : 微场景 ;
+msgid : 6204949887090359409 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 10:14:36 params :
+------------
+Array:
+message : Array ;
+module : jdg_xffapp ;
+rule : 105 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 10:14:36 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 10:29:35 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444703375 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444703375 ;
+msgtype : text ;
+content : 积分签到 ;
+msgid : 6204953748265965445 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 10:29:35 params :
+------------
+Array:
+message : Array ;
+module : mon_sign ;
+rule : 107 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 10:29:35 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 10:43:33 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444704213 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444704213 ;
+msgtype : text ;
+content : 零元 ;
+msgid : 6204957347448565277 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 10:43:33 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 108 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 10:43:33 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 10:58:55 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444705135 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444705135 ;
+msgtype : text ;
+content : 微助力 ;
+msgid : 6204961307408418531 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 10:58:55 params :
+------------
+Array:
+message : Array ;
+module : mon_weishare ;
+rule : 109 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 10:58:55 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:18:47 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444706327 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444706327 ;
+msgtype : text ;
+content : 加粉神器 ;
+msgid : 6204966427009443165 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:18:47 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 110 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:18:47 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:31:10 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444707070 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444707070 ;
+msgtype : text ;
+content : 炒股 ;
+msgid : 6204969618170148829 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:31:10 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:31:10 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:31:28 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444707087 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444707087 ;
+msgtype : text ;
+content : 股票 ;
+msgid : 6204969691184592971 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:31:28 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 55 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:31:28 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:34:27 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444707267 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444707267 ;
+msgtype : text ;
+content : 积分充值 ;
+msgid : 6204970464278707406 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:34:27 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 112 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:34:27 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:48:07 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444708087 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444708087 ;
+msgtype : text ;
+content : 阅读 ;
+msgid : 6204973986151895160 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:48:07 params :
+------------
+Array:
+message : Array ;
+module : ju_read ;
+rule : 113 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:48:07 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:48:27 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444708107 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444708107 ;
+msgtype : text ;
+content : 阅读 ;
+msgid : 6204974072051241191 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:48:27 params :
+------------
+Array:
+message : Array ;
+module : ju_read ;
+rule : 113 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:48:27 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 11:55:35 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444708535 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444708535 ;
+msgtype : text ;
+content : 餐饮 ;
+msgid : 6204975910297246614 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 11:55:35 params :
+------------
+Array:
+message : Array ;
+module : amouse_shopping3 ;
+rule : 33 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 11:55:35 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : text ;
+Content : 您没权限,请在后台授权
+您的openid为:
+ohwsCtxALncMJS0-B98tcv3bzhnA ;
+
+2015-10-13 12:00:08 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444708808 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444708808 ;
+msgtype : text ;
+content : http://www.nx165.com/jiaoyou/plugin.php?id=tom_kanjia&mod=list ;
+msgid : 6204977082823320175 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 12:00:08 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 12:00:08 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 13:10:34 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444713034 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444713034 ;
+msgtype : text ;
+content : 酷炫微砍价 ;
+msgid : 6204995233355142735 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 13:10:34 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 13:10:34 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 13:10:53 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444713053 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444713053 ;
+msgtype : text ;
+content : 炫酷微砍价 ;
+msgid : 6204995314959521465 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 13:10:53 params :
+------------
+Array:
+message : Array ;
+module : mon_xkwkj ;
+rule : 114 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 13:10:53 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 14:13:09 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444716788 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444716788 ;
+msgtype : text ;
+content : 微相册 ;
+msgid : 6205011356662393241 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:13:09 params :
+------------
+Array:
+message : Array ;
+module : we7_album ;
+rule : 120 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 14:13:09 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 14:15:00 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444716900 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444716900 ;
+msgtype : text ;
+content : 街拍 ;
+msgid : 6205011837698730986 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:15:00 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 119 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 14:15:00 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 14:21:21 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717281 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717281 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013474081272443 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:21:21 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717281","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717281","msgtype":"text","content":"\u7801\u4e0a\u6da8\u7c89","msgid":"6205013474081272443","redirection":false,"source":null}
+
+2015-10-13 14:21:21 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:21:21 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717281 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717281 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013474081272443 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:21:21 step1 :
+------------
+String:
+
+
+2015-10-13 14:21:21 step3 :
+------------
+String:
+<1443412280
+
+2015-10-13 14:21:21 step3.0 :
+------------
+String:
+ohwsCtxALncMJS0-B98tcv3bzhnA
+
+2015-10-13 14:21:21 begin send text :
+------------
+String:
+
+
+2015-10-13 14:21:21 end send text :
+------------
+String:
+
+
+2015-10-13 14:21:21 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:21:22 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [Hv6aia0282age6] ;
+
+2015-10-13 14:21:22 end send res :
+------------
+String:
+
+
+2015-10-13 14:21:22 step3.1 :
+------------
+String:
+
+
+2015-10-13 14:21:22 sc :
+------------
+String:
+2
+
+2015-10-13 14:21:22 sc ok :
+------------
+String:
+2
+
+2015-10-13 14:21:22 begin get limit scene scene id :
+------------
+
+2015-10-13 14:21:22 QR data :
+------------
+String:
+{"action_name":"QR_LIMIT_SCENE","action_info":{"scene":{"scene_id":3}}}
+
+2015-10-13 14:21:22 QR content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [3X9svA0282vr18] ;
+
+2015-10-13 14:21:22 step merge 1 :
+------------
+String:
+merge bgfile http://wx.nx456.cn/attachment/images/3/2015/09/K6Nn6OO6lztNjI22zI9bnmMi66iimN.jpg and qrfile 
+
+2015-10-13 14:21:22 step merge 1 done :
+------------
+String:
+
+
+2015-10-13 14:21:22 step wirte text 1 :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:21:23 step wirte text 1 done :
+------------
+String:
+
+
+2015-10-13 14:21:23 step merge 2 :
+------------
+String:
+http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/96
+
+2015-10-13 14:21:25 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"errno":1,"message":"Operation timed out after 4015 milliseconds with 0 bytes received"}
+
+2015-10-13 14:21:45 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717305 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717305 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013577160487653 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:21:45 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717305","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717305","msgtype":"text","content":"\u7801\u4e0a\u6da8\u7c89","msgid":"6205013577160487653","redirection":false,"source":null}
+
+2015-10-13 14:21:45 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:21:45 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717305 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717305 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013577160487653 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:21:45 step1 :
+------------
+String:
+
+
+2015-10-13 14:21:45 step3 :
+------------
+String:
+<1443412280
+
+2015-10-13 14:21:45 step3.0 :
+------------
+String:
+ohwsCtxALncMJS0-B98tcv3bzhnA
+
+2015-10-13 14:21:45 begin send text :
+------------
+String:
+
+
+2015-10-13 14:21:45 end send text :
+------------
+String:
+
+
+2015-10-13 14:21:45 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:21:45 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [QdyWFA0305age4] ;
+
+2015-10-13 14:21:45 end send res :
+------------
+String:
+
+
+2015-10-13 14:21:45 step3.1 :
+------------
+String:
+
+
+2015-10-13 14:21:45 sc :
+------------
+String:
+3
+
+2015-10-13 14:21:45 sc ok :
+------------
+String:
+3
+
+2015-10-13 14:21:45 begin get limit scene scene id :
+------------
+
+2015-10-13 14:21:45 QR data :
+------------
+String:
+{"action_name":"QR_LIMIT_SCENE","action_info":{"scene":{"scene_id":4}}}
+
+2015-10-13 14:21:45 QR content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [GQ5DJa0305vr22] ;
+
+2015-10-13 14:21:45 step merge 1 :
+------------
+String:
+merge bgfile http://wx.nx456.cn/attachment/images/3/2015/09/K6Nn6OO6lztNjI22zI9bnmMi66iimN.jpg and qrfile 
+
+2015-10-13 14:21:46 step merge 1 done :
+------------
+String:
+
+
+2015-10-13 14:21:46 step wirte text 1 :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:21:46 step wirte text 1 done :
+------------
+String:
+
+
+2015-10-13 14:21:46 step merge 2 :
+------------
+String:
+http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/96
+
+2015-10-13 14:21:49 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"errno":1,"message":"Operation timed out after 4000 milliseconds with 0 bytes received"}
+
+2015-10-13 14:21:53 step merge 2 done :
+------------
+String:
+
+
+2015-10-13 14:21:53 IamInMergeFile :
+------------
+String:
+D:/wwwroot/chengmao/attachment/qr-image-ohwsCtxALncMJS0-B98tcv3bzhnA26638.jpghttp://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/96
+
+2015-10-13 14:21:53 step upload 1 :
+------------
+String:
+
+
+2015-10-13 14:21:53 uploadurl :
+------------
+String:
+http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg&type=image
+
+2015-10-13 14:21:53 postparam :
+------------
+Array:
+media : @D:/wwwroot/chengmao/attachment/qr-image-ohwsCtxALncMJS0-B98tcv3bzhnA26638.jpg ;
+
+2015-10-13 14:21:54 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [dFG3nA0314ent2] ;
+
+2015-10-13 14:21:54 step upload 1 done :
+------------
+String:
+
+
+2015-10-13 14:21:54 genImage :
+------------
+
+2015-10-13 14:21:54 begin send text :
+------------
+String:
+
+
+2015-10-13 14:21:54 end send text :
+------------
+String:
+
+
+2015-10-13 14:21:54 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:21:54 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [llFVtA0315age8] ;
+
+2015-10-13 14:21:54 end send res :
+------------
+String:
+
+
+2015-10-13 14:21:54 begin setQR :
+------------
+String:
+
+
+2015-10-13 14:21:54 cc2.2 :
+------------
+String:
+
+
+2015-10-13 14:21:54 end setQR :
+------------
+String:
+
+
+2015-10-13 14:21:54 step4 :
+------------
+
+2015-10-13 14:21:54 begin send text :
+------------
+String:
+
+
+2015-10-13 14:21:54 end send text :
+------------
+String:
+
+
+2015-10-13 14:21:54 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:21:55 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [rcVwCa0315age6] ;
+
+2015-10-13 14:21:55 end send res :
+------------
+String:
+
+
+2015-10-13 14:21:55 begin send text :
+------------
+String:
+
+
+2015-10-13 14:21:55 end send text :
+------------
+String:
+
+
+2015-10-13 14:21:55 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:21:55 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [q6ZYYa0315age6] ;
+
+2015-10-13 14:21:55 end send res :
+------------
+String:
+
+
+2015-10-13 14:21:55 step5 :
+------------
+String:
+
+
+2015-10-13 14:22:04 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717324 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717324 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013658764866377 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:22:05 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717324","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717324","msgtype":"text","content":"\u7801\u4e0a\u6da8\u7c89","msgid":"6205013658764866377","redirection":false,"source":null}
+
+2015-10-13 14:22:05 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:22:05 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717324 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717324 ;
+msgtype : text ;
+content : 码上涨粉 ;
+msgid : 6205013658764866377 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:22:05 step1 :
+------------
+String:
+
+
+2015-10-13 14:22:05 step3 :
+------------
+String:
+1444717314<1443412280
+
+2015-10-13 14:22:05 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:05 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [XFUJTA0325age5] ;
+
+2015-10-13 14:22:05 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:05 step3.2 :
+------------
+String:
+
+
+2015-10-13 14:22:05 step4 :
+------------
+String:
+
+
+2015-10-13 14:22:05 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:05 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [_ENGga0325age6] ;
+
+2015-10-13 14:22:05 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:05 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:05 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:05 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [tM9oXa0325age7] ;
+
+2015-10-13 14:22:05 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:05 step5 :
+------------
+String:
+
+
+2015-10-13 14:22:05 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"code":"200","status":"OK","responseline":"HTTP\/1.1 200 OK","headers":{"Date":"Tue, 13 Oct 2015 06:22:05 GMT","Server":"Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9","X-Powered-By":"PHP\/5.4.33","Expires":"Thu, 19 Nov 1981 08:52:00 GMT","Cache-Control":"no-store, no-cache, must-revalidate, post-check=0, pre-check=0","Pragma":"no-cache","Set-Cookie":"PHPSESSID=b54b76a18fd6e140bec5f479d21bdda0; path=\/","Transfer-Encoding":"chunked","Content-Type":"text\/html; charset=utf-8"},"content":"\n","meta":"HTTP\/1.1 200 OK\r\nDate: Tue, 13 Oct 2015 06:22:05 GMT\r\nServer: Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9\r\nX-Powered-By: PHP\/5.4.33\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nSet-Cookie: PHPSESSID=b54b76a18fd6e140bec5f479d21bdda0; path=\/\r\nTransfer-Encoding: chunked\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n\n"}
+
+2015-10-13 14:22:17 step merge 2 done :
+------------
+String:
+
+
+2015-10-13 14:22:17 IamInMergeFile :
+------------
+String:
+D:/wwwroot/chengmao/attachment/qr-image-ohwsCtxALncMJS0-B98tcv3bzhnA20136.jpghttp://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/96
+
+2015-10-13 14:22:17 step upload 1 :
+------------
+String:
+
+
+2015-10-13 14:22:17 uploadurl :
+------------
+String:
+http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg&type=image
+
+2015-10-13 14:22:17 postparam :
+------------
+Array:
+media : @D:/wwwroot/chengmao/attachment/qr-image-ohwsCtxALncMJS0-B98tcv3bzhnA20136.jpg ;
+
+2015-10-13 14:22:18 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [BxGWIa0338ent2] ;
+
+2015-10-13 14:22:18 step upload 1 done :
+------------
+String:
+
+
+2015-10-13 14:22:18 genImage :
+------------
+
+2015-10-13 14:22:18 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:18 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [NenErA0338age6] ;
+
+2015-10-13 14:22:18 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:18 begin setQR :
+------------
+String:
+
+
+2015-10-13 14:22:18 cc2.2 :
+------------
+String:
+
+
+2015-10-13 14:22:18 end setQR :
+------------
+String:
+
+
+2015-10-13 14:22:18 step4 :
+------------
+
+2015-10-13 14:22:18 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:18 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [_9oMQa0338age6] ;
+
+2015-10-13 14:22:18 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:18 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:18 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:18 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [HLivfa0338age1] ;
+
+2015-10-13 14:22:18 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:18 step5 :
+------------
+String:
+
+
+2015-10-13 14:22:35 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717355 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717355 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205013791908852679 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:22:35 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717355","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717355","msgtype":"text","content":"\u6da8\u7c89","msgid":"6205013791908852679","redirection":false,"source":null}
+
+2015-10-13 14:22:35 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:22:35 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717355 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717355 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205013791908852679 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:22:35 step1 :
+------------
+String:
+
+
+2015-10-13 14:22:35 step3 :
+------------
+String:
+1444717338<1443412280
+
+2015-10-13 14:22:35 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:35 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [vinI3a0355age6] ;
+
+2015-10-13 14:22:35 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:35 step3.2 :
+------------
+String:
+
+
+2015-10-13 14:22:35 step4 :
+------------
+String:
+
+
+2015-10-13 14:22:35 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:35 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [eMvsqa0355age3] ;
+
+2015-10-13 14:22:35 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:35 begin send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 end send text :
+------------
+String:
+
+
+2015-10-13 14:22:35 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:22:35 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [Ffb9SA0355age8] ;
+
+2015-10-13 14:22:35 end send res :
+------------
+String:
+
+
+2015-10-13 14:22:35 step5 :
+------------
+String:
+
+
+2015-10-13 14:22:35 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"code":"200","status":"OK","responseline":"HTTP\/1.1 200 OK","headers":{"Date":"Tue, 13 Oct 2015 06:22:35 GMT","Server":"Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9","X-Powered-By":"PHP\/5.4.33","Expires":"Thu, 19 Nov 1981 08:52:00 GMT","Cache-Control":"no-store, no-cache, must-revalidate, post-check=0, pre-check=0","Pragma":"no-cache","Set-Cookie":"PHPSESSID=f18a5ee20286f9b1612dd345f0bd784d; path=\/","Transfer-Encoding":"chunked","Content-Type":"text\/html; charset=utf-8"},"content":"\n","meta":"HTTP\/1.1 200 OK\r\nDate: Tue, 13 Oct 2015 06:22:35 GMT\r\nServer: Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9\r\nX-Powered-By: PHP\/5.4.33\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nSet-Cookie: PHPSESSID=f18a5ee20286f9b1612dd345f0bd784d; path=\/\r\nTransfer-Encoding: chunked\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n\n"}
+
+2015-10-13 14:23:01 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717381 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717381 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205013903578002505 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:23:01 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717381","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717381","msgtype":"text","content":"\u6da8\u7c89","msgid":"6205013903578002505","redirection":false,"source":null}
+
+2015-10-13 14:23:01 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:23:01 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717381 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717381 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205013903578002505 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:23:02 step1 :
+------------
+String:
+
+
+2015-10-13 14:23:02 step3 :
+------------
+String:
+1444717338<1443412280
+
+2015-10-13 14:23:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [jF_Bra0382age6] ;
+
+2015-10-13 14:23:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:02 step3.2 :
+------------
+String:
+
+
+2015-10-13 14:23:02 step4 :
+------------
+String:
+
+
+2015-10-13 14:23:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [UUv_Oa0382age1] ;
+
+2015-10-13 14:23:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [7ktRUA0382age4] ;
+
+2015-10-13 14:23:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:02 step5 :
+------------
+String:
+
+
+2015-10-13 14:23:02 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"code":"200","status":"OK","responseline":"HTTP\/1.1 200 OK","headers":{"Date":"Tue, 13 Oct 2015 06:23:01 GMT","Server":"Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9","X-Powered-By":"PHP\/5.4.33","Expires":"Thu, 19 Nov 1981 08:52:00 GMT","Cache-Control":"no-store, no-cache, must-revalidate, post-check=0, pre-check=0","Pragma":"no-cache","Set-Cookie":"PHPSESSID=4ae2ced2d3dbbb065cbb6608b4c551f9; path=\/","Transfer-Encoding":"chunked","Content-Type":"text\/html; charset=utf-8"},"content":"\n","meta":"HTTP\/1.1 200 OK\r\nDate: Tue, 13 Oct 2015 06:23:01 GMT\r\nServer: Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9\r\nX-Powered-By: PHP\/5.4.33\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nSet-Cookie: PHPSESSID=4ae2ced2d3dbbb065cbb6608b4c551f9; path=\/\r\nTransfer-Encoding: chunked\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n\n"}
+
+2015-10-13 14:23:39 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717419 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717419 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205014066786759911 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:23:39 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717419","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717419","msgtype":"text","content":"\u6da8\u7c89","msgid":"6205014066786759911","redirection":false,"source":null}
+
+2015-10-13 14:23:39 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:23:39 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717419 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717419 ;
+msgtype : text ;
+content : 涨粉 ;
+msgid : 6205014066786759911 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:23:39 step1 :
+------------
+String:
+
+
+2015-10-13 14:23:39 step3 :
+------------
+String:
+1444717338<1443412280
+
+2015-10-13 14:23:39 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:39 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [LdQUkA0419ge10] ;
+
+2015-10-13 14:23:39 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:39 step3.2 :
+------------
+String:
+
+
+2015-10-13 14:23:39 step4 :
+------------
+String:
+
+
+2015-10-13 14:23:39 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:39 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [y7jCba0419age8] ;
+
+2015-10-13 14:23:39 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:39 begin send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 end send text :
+------------
+String:
+
+
+2015-10-13 14:23:39 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:23:39 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [FzXxZa0419ge10] ;
+
+2015-10-13 14:23:39 end send res :
+------------
+String:
+
+
+2015-10-13 14:23:39 step5 :
+------------
+String:
+
+
+2015-10-13 14:23:39 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"code":"200","status":"OK","responseline":"HTTP\/1.1 200 OK","headers":{"Date":"Tue, 13 Oct 2015 06:23:39 GMT","Server":"Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9","X-Powered-By":"PHP\/5.4.33","Expires":"Thu, 19 Nov 1981 08:52:00 GMT","Cache-Control":"no-store, no-cache, must-revalidate, post-check=0, pre-check=0","Pragma":"no-cache","Set-Cookie":"PHPSESSID=76ef5f21cf143632434e174a918bc154; path=\/","Transfer-Encoding":"chunked","Content-Type":"text\/html; charset=utf-8"},"content":"\n","meta":"HTTP\/1.1 200 OK\r\nDate: Tue, 13 Oct 2015 06:23:39 GMT\r\nServer: Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9\r\nX-Powered-By: PHP\/5.4.33\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nSet-Cookie: PHPSESSID=76ef5f21cf143632434e174a918bc154; path=\/\r\nTransfer-Encoding: chunked\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n\n"}
+
+2015-10-13 14:24:37 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717477 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717477 ;
+msgtype : text ;
+content : 123 ;
+msgid : 6205014315894863324 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:24:37 message xx :
+------------
+String:
+{"from":"ohwsCtxALncMJS0-B98tcv3bzhnA","to":"gh_3d8df4f58672","time":"1444717477","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCtxALncMJS0-B98tcv3bzhnA","createtime":"1444717477","msgtype":"text","content":"123","msgid":"6205014315894863324","redirection":false,"source":null}
+
+2015-10-13 14:24:37 refresh :
+------------
+Array:
+uid : 1 ;
+nickname : 浓眼 ;
+avatar : http://wx.qlogo.cn/mmopen/wzJhLVPsrd2fzqPFBYRShTOLV83icfljViaCickLOOK4kJ08yhiaqAB977mlkWApvICvOZqCdFZUVJEiapWrR7rmNog3A7vvcCSX9/0 ;
+
+2015-10-13 14:24:37 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717477 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717477 ;
+msgtype : text ;
+content : 123 ;
+msgid : 6205014315894863324 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:24:37 step1 :
+------------
+String:
+
+
+2015-10-13 14:24:37 step3 :
+------------
+String:
+1444717338<1443412280
+
+2015-10-13 14:24:37 begin send text :
+------------
+String:
+
+
+2015-10-13 14:24:37 end send text :
+------------
+String:
+
+
+2015-10-13 14:24:37 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:24:38 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [1BLySA0478age8] ;
+
+2015-10-13 14:24:38 end send res :
+------------
+String:
+
+
+2015-10-13 14:24:38 step3.2 :
+------------
+String:
+
+
+2015-10-13 14:24:38 step4 :
+------------
+String:
+
+
+2015-10-13 14:24:38 begin send text :
+------------
+String:
+
+
+2015-10-13 14:24:38 end send text :
+------------
+String:
+
+
+2015-10-13 14:24:38 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:24:38 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [bbxutA0478age4] ;
+
+2015-10-13 14:24:38 end send res :
+------------
+String:
+
+
+2015-10-13 14:24:38 begin send text :
+------------
+String:
+
+
+2015-10-13 14:24:38 end send text :
+------------
+String:
+
+
+2015-10-13 14:24:38 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:24:38 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [ltw0EA0478age3] ;
+
+2015-10-13 14:24:38 end send res :
+------------
+String:
+
+
+2015-10-13 14:24:38 step5 :
+------------
+String:
+
+
+2015-10-13 14:24:38 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCtxALncMJS0-B98tcv3bzhnA&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"code":"200","status":"OK","responseline":"HTTP\/1.1 200 OK","headers":{"Date":"Tue, 13 Oct 2015 06:24:37 GMT","Server":"Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9","X-Powered-By":"PHP\/5.4.33","Expires":"Thu, 19 Nov 1981 08:52:00 GMT","Cache-Control":"no-store, no-cache, must-revalidate, post-check=0, pre-check=0","Pragma":"no-cache","Set-Cookie":"PHPSESSID=8db455c77b06368322cc5fd2d018000c; path=\/","Transfer-Encoding":"chunked","Content-Type":"text\/html; charset=utf-8"},"content":"\n","meta":"HTTP\/1.1 200 OK\r\nDate: Tue, 13 Oct 2015 06:24:37 GMT\r\nServer: Apache\/2.4.10 (Win32) OpenSSL\/0.9.8zb mod_fcgid\/2.3.9\r\nX-Powered-By: PHP\/5.4.33\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nSet-Cookie: PHPSESSID=8db455c77b06368322cc5fd2d018000c; path=\/\r\nTransfer-Encoding: chunked\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n\n"}
+
+2015-10-13 14:25:28 trace :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444717528 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444717528 ;
+msgtype : text ;
+content : 123 ;
+msgid : 6205014534938195634 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:25:28 message xx :
+------------
+String:
+{"from":"ohwsCt7o4YXQBMQbtyBFukkrmfVc","to":"gh_3d8df4f58672","time":"1444717528","type":"text","event":"","tousername":"gh_3d8df4f58672","fromusername":"ohwsCt7o4YXQBMQbtyBFukkrmfVc","createtime":"1444717528","msgtype":"text","content":"123","msgid":"6205014534938195634","redirection":false,"source":null}
+
+2015-10-13 14:25:28 refresh :
+------------
+Array:
+uid : 2 ;
+nickname : A宁夏成茂科技 ;
+avatar : http://wx.qlogo.cn/mmopen/eEoahOIiagBlRYXFJQPPMiaKU0axKauBzzQTSM9597EDM3oIh0yfCBDzqUwibodOkiaXdeEOSTibQXJRonAmmibdhJ8Psf12Via9ibuO/0 ;
+
+2015-10-13 14:25:28 Processor:SUBSCRIBE :
+------------
+Array:
+from : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+to : gh_3d8df4f58672 ;
+time : 1444717528 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCt7o4YXQBMQbtyBFukkrmfVc ;
+createtime : 1444717528 ;
+msgtype : text ;
+content : 123 ;
+msgid : 6205014534938195634 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:25:28 step1 :
+------------
+String:
+
+
+2015-10-13 14:25:28 step3 :
+------------
+String:
+<1443412280
+
+2015-10-13 14:25:28 step3.0 :
+------------
+String:
+ohwsCt7o4YXQBMQbtyBFukkrmfVc
+
+2015-10-13 14:25:28 begin send text :
+------------
+String:
+
+
+2015-10-13 14:25:28 end send text :
+------------
+String:
+
+
+2015-10-13 14:25:28 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:25:28 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [xPhxKA0528age3] ;
+
+2015-10-13 14:25:28 end send res :
+------------
+String:
+
+
+2015-10-13 14:25:28 step3.1 :
+------------
+String:
+
+
+2015-10-13 14:25:28 sc :
+------------
+String:
+4
+
+2015-10-13 14:25:28 sc ok :
+------------
+String:
+4
+
+2015-10-13 14:25:28 begin get limit scene scene id :
+------------
+
+2015-10-13 14:25:28 QR data :
+------------
+String:
+{"action_name":"QR_LIMIT_SCENE","action_info":{"scene":{"scene_id":5}}}
+
+2015-10-13 14:25:28 QR content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [epzqeA0528vr22] ;
+
+2015-10-13 14:25:28 step merge 1 :
+------------
+String:
+merge bgfile http://wx.nx456.cn/attachment/images/3/2015/09/K6Nn6OO6lztNjI22zI9bnmMi66iimN.jpg and qrfile 
+
+2015-10-13 14:25:29 step merge 1 done :
+------------
+String:
+
+
+2015-10-13 14:25:29 step wirte text 1 :
+------------
+Array:
+uid : 2 ;
+nickname : A宁夏成茂科技 ;
+avatar : http://wx.qlogo.cn/mmopen/eEoahOIiagBlRYXFJQPPMiaKU0axKauBzzQTSM9597EDM3oIh0yfCBDzqUwibodOkiaXdeEOSTibQXJRonAmmibdhJ8Psf12Via9ibuO/0 ;
+
+2015-10-13 14:25:29 step wirte text 1 done :
+------------
+String:
+
+
+2015-10-13 14:25:29 step merge 2 :
+------------
+String:
+http://wx.qlogo.cn/mmopen/eEoahOIiagBlRYXFJQPPMiaKU0axKauBzzQTSM9597EDM3oIh0yfCBDzqUwibodOkiaXdeEOSTibQXJRonAmmibdhJ8Psf12Via9ibuO/96
+
+2015-10-13 14:25:32 Running task :
+------------
+String:
+http://wx.nx456.cn/./app/index.php?i=3&c=entry&from_user=ohwsCt7o4YXQBMQbtyBFukkrmfVc&do=RunTask&m=quickspread&wxref=mp.weixin.qq.com#wechat_redirect==>{"errno":1,"message":"Operation timed out after 4015 milliseconds with 0 bytes received"}
+
+2015-10-13 14:26:01 step merge 2 done :
+------------
+String:
+
+
+2015-10-13 14:26:01 IamInMergeFile :
+------------
+String:
+D:/wwwroot/chengmao/attachment/qr-image-ohwsCt7o4YXQBMQbtyBFukkrmfVc23298.jpghttp://wx.qlogo.cn/mmopen/eEoahOIiagBlRYXFJQPPMiaKU0axKauBzzQTSM9597EDM3oIh0yfCBDzqUwibodOkiaXdeEOSTibQXJRonAmmibdhJ8Psf12Via9ibuO/96
+
+2015-10-13 14:26:01 step upload 1 :
+------------
+String:
+
+
+2015-10-13 14:26:01 uploadurl :
+------------
+String:
+http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg&type=image
+
+2015-10-13 14:26:01 postparam :
+------------
+Array:
+media : @D:/wwwroot/chengmao/attachment/qr-image-ohwsCt7o4YXQBMQbtyBFukkrmfVc23298.jpg ;
+
+2015-10-13 14:26:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [f5PyLa0562ent3] ;
+
+2015-10-13 14:26:02 step upload 1 done :
+------------
+String:
+
+
+2015-10-13 14:26:02 genImage :
+------------
+
+2015-10-13 14:26:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:26:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [3FQa80562age9] ;
+
+2015-10-13 14:26:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:26:02 begin setQR :
+------------
+String:
+
+
+2015-10-13 14:26:02 cc2.2 :
+------------
+String:
+
+
+2015-10-13 14:26:02 end setQR :
+------------
+String:
+
+
+2015-10-13 14:26:02 step4 :
+------------
+
+2015-10-13 14:26:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:26:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [SbRtuA0563age3] ;
+
+2015-10-13 14:26:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:26:02 begin send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 end send text :
+------------
+String:
+
+
+2015-10-13 14:26:02 sendResurl :
+------------
+String:
+https://api.weixin.qq.com/cgi-bin/message/custom/send?access_token=dFVq5UEKCTIl95p4QYnTttp5ULVW1QJjxjVhPUJmoqsk-CdpVdkLXJnKWNeSAYZPoBG0_nbDYHskuKqQ7-aPdnujsaEgdYEir8BKK7AoNDg
+
+2015-10-13 14:26:02 content :
+------------
+Array:
+errcode : 40001 ;
+errmsg : invalid credential, access_token is invalid or not latest hint: [jGhmga0562age5] ;
+
+2015-10-13 14:26:02 end send res :
+------------
+String:
+
+
+2015-10-13 14:26:02 step5 :
+------------
+String:
+
+
+2015-10-13 14:29:32 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717772 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717772 ;
+msgtype : text ;
+content : 微房产 ;
+msgid : 6205015582910217042 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:29:32 params :
+------------
+Array:
+message : Array ;
+module : lxy_buildpro ;
+rule : 23 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 14:29:32 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 14:31:21 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444717881 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444717881 ;
+msgtype : text ;
+content : 1 ;
+msgid : 6205016051061652870 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 14:31:22 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 14:31:22 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 15:07:12 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444720032 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444720032 ;
+msgtype : text ;
+content : 微医疗 ;
+msgid : 6205025289536315681 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 15:07:12 params :
+------------
+Array:
+message : Array ;
+module : bm_hospital ;
+rule : 123 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 15:07:12 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 15:12:03 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444720323 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444720323 ;
+msgtype : text ;
+content : 通用表单 ;
+msgid : 6205026539371799926 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 15:12:03 params :
+------------
+Array:
+message : Array ;
+module : fwei_forms ;
+rule : 124 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 15:12:03 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 15:17:59 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444720679 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444720679 ;
+msgtype : text ;
+content : 来吧来吧 ;
+msgid : 6205028068380158505 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 15:17:59 params :
+------------
+Array:
+message : Array ;
+module : ewei_comeon ;
+rule : 125 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 15:17:59 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 15:23:16 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444720996 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444720996 ;
+msgtype : text ;
+content : 嗯 ;
+msgid : 6205029429884792501 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 15:23:16 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 15:23:16 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:01:52 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444730512 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444730512 ;
+msgtype : text ;
+content :  集分享 ;
+msgid : 6205070300793604407 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:01:52 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:01:52 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:16:01 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444731361 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444731361 ;
+msgtype : text ;
+content : 接力棒 ;
+msgid : 6205073947220840152 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:16:01 params :
+------------
+Array:
+message : Array ;
+module : mon_baton ;
+rule : 127 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:16:01 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:17:41 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444731461 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444731461 ;
+msgtype : text ;
+content : 接力棒 ;
+msgid : 6205074376717569917 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:17:41 params :
+------------
+Array:
+message : Array ;
+module : mon_baton ;
+rule : 127 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:17:41 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:21:45 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444731705 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444731705 ;
+msgtype : text ;
+content : 嗯 ;
+msgid : 6205075424689590479 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:21:45 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:21:45 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:28:14 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444732094 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444732094 ;
+msgtype : text ;
+content : 女神投票 ;
+msgid : 6205077095431869206 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:28:14 params :
+------------
+Array:
+message : Array ;
+module : fm_photosvote ;
+rule : 128 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:28:14 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:41:56 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444732916 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444732916 ;
+msgtype : text ;
+content : 集分享 ;
+msgid : 6205080625894987863 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:44:47 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444733087 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444733087 ;
+msgtype : text ;
+content : 集分享 ;
+msgid : 6205081360334395749 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:49:10 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444733350 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444733350 ;
+msgtype : text ;
+content : 全民抢红包 ;
+msgid : 6205082489910794988 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:49:10 params :
+------------
+Array:
+message : Array ;
+module : stonefish_redenvelope ;
+rule : 132 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:49:10 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 18:52:17 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444733537 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444733537 ;
+msgtype : text ;
+content : 全民抢红包 ;
+msgid : 6205083293069679667 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 18:52:17 params :
+------------
+Array:
+message : Array ;
+module : stonefish_redenvelope ;
+rule : 132 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 18:52:17 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:00:54 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444734054 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444734054 ;
+msgtype : text ;
+content : 拼团 ;
+msgid : 6205085513567772556 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:00:54 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 133 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:00:54 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:08:53 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444734532 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444734532 ;
+msgtype : text ;
+content : 嗯 ;
+msgid : 6205087566562140844 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:08:53 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:08:53 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:13:58 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444734838 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444734838 ;
+msgtype : text ;
+content : 我画你猜 ;
+msgid : 6205088880822133929 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:13:58 params :
+------------
+Array:
+message : Array ;
+module : wdl_hchighguess ;
+rule : 137 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:13:58 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:18:17 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444735097 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444735097 ;
+msgtype : text ;
+content : 摇一摇 ;
+msgid : 6205089993218664087 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:18:17 params :
+------------
+Array:
+message : Array ;
+module : mon_qmshake ;
+rule : 138 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:18:17 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:20:10 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444735210 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444735210 ;
+msgtype : text ;
+content : 嗯
+ ;
+msgid : 6205090478549968743 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:20:10 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:20:10 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:26:40 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444735599 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444735599 ;
+msgtype : text ;
+content : 幸运抽大奖 ;
+msgid : 6205092149292247463 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:26:40 params :
+------------
+Array:
+message : Array ;
+module : news ;
+rule : 9 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:26:40 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:27:10 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444735630 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444735630 ;
+msgtype : text ;
+content : 抽奖 ;
+msgid : 6205092282436233682 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:27:10 params :
+------------
+Array:
+message : Array ;
+module : hx_lottery ;
+rule : 139 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:27:10 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2015-10-13 19:33:52 trace :
+------------
+Array:
+from : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+to : gh_3d8df4f58672 ;
+time : 1444736031 ;
+type : text ;
+event :  ;
+tousername : gh_3d8df4f58672 ;
+fromusername : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+createtime : 1444736031 ;
+msgtype : text ;
+content : 幸运九宫格 ;
+msgid : 6205094004718119993 ;
+redirection :  ;
+source :  ;
+
+2015-10-13 19:33:52 params :
+------------
+Array:
+message : Array ;
+module : mon_jgg ;
+rule : 140 ;
+priority : 0 ;
+keyword : Array ;
+
+2015-10-13 19:33:52 response :
+------------
+Array:
+FromUserName : gh_3d8df4f58672 ;
+ToUserName : ohwsCtxALncMJS0-B98tcv3bzhnA ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

@@ -1,0 +1,212 @@
+<?php 
+$openid=$_SESSION['openid'];
+	$data=pdo_fetch('SELECT * FROM ' . tablename('tiny_wmall_wemission').'where id >= 0');
+	if(empty($data)){
+		$res = file_get_contents('https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx827cca45aecf0366&secret=0c894c3194fcb36ba1f74b231db477c8');
+		$res = json_decode($res, true);
+        $data['token'] = $res['access_token'];
+        $url2 = "https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=".$data['token']."&type=jsapi";
+        $ress = file_get_contents($url2);
+        $ress = json_decode($ress, true);
+        $data['ticket'] = $ress['ticket'];
+        $data['time']=time();
+        pdo_insert('tiny_wmall_wemission', $data);
+	}else{
+		if(time()-$data['time']>=7199){
+			$datas=$data;
+			$data=null;
+			$res = file_get_contents('https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx827cca45aecf0366&secret=0c894c3194fcb36ba1f74b231db477c8');
+			$res = json_decode($res, true);
+        	$data['token'] = $res['access_token'];
+        	$url2 = "https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=".$data['token']."&type=jsapi";
+        	$ress = file_get_contents($url2);
+        	$ress = json_decode($ress, true);
+        	$data['ticket'] = $ress['ticket'];
+        	$data['time']=time();
+        	$huihi=pdo_update('tiny_wmall_wemission', $data,array('id'=>datas['id']));
+		}
+	}
+	$timestamp = time();
+    $wxnonceStr = rand(1000,9999);
+    $wxticket = $data['ticket'];
+    $url = "http://$protocol$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+    $wxOri = sprintf("jsapi_ticket=%s&noncestr=%s&timestamp=%s&url=%s", $wxticket, $wxnonceStr, $timestamp,$url);
+    $wxSha1 = sha1($wxOri); 
+//司机表ims_tiny_wmall_deliveryer
+$deliveryer = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_deliveryer"). " WHERE openid='".$openid."'");
+if(!empty($deliveryer)){
+	if(!empty($_GET['oid'])){
+			$go=pdo_update('tiny_wmall_order', array('status'=>4,'deliveryer_id'=>$deliveryer['id']), array('id' => $_GET['oid'],'status'=>3));
+		 	if($go!=0){
+		 		echo"<script>alert('上车成功');</script>";
+			}else{
+				echo"<script>alert('上车失败');</script>";
+			}
+
+			$is_new=pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order_alldetail"). " WHERE openid='$openid' ");
+			//司机订单未接收不能开启新一趟，接收后状态为5，为5时扫描开始新一趟，不为5时扫描更新状态和订单
+			if($is_new['status']==5){
+				//状态为5时说明已经完成运送一趟，则新建一趟，status默认为3-待配送，
+				pdo_insert("tiny_wmall_order_alldetail",array('openid'=>$openid,'nickname'=>$deliveryer['nickname'],'uid'=>$deliveryer['uid']));
+			}else{
+				$upd=pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order_alldetail"). " WHERE openid='$openid' and status=3");
+				//先将订单号取出，与新的订单号之间用逗号连接
+				if($upd['ordernum']==''){
+					$data=array(
+						'ordernum'=>$_GET['oid'].",",
+						'status'=>4,
+					);
+					$res=pdo_update("tiny_wmall_order_alldetail",$data,array('openid'=>$openid));
+						if($res!=0){
+							echo"<script>alert('订单号和状态更新成功');</script>";
+						}else{
+							echo"<script>alert('订单号和状态更新失败');</script>";
+						}
+				}else{
+					//若果订单号不为空 说明状态已经为4,则不再更新状态
+					$re=pdo_update("tiny_wmall_order_alldetail",array('ordernum'=>$upd['ordernum'].$_GET['oid'].","),array('openid'=>$openid));
+					if($re!=0){
+							echo"<script>alert('订单装车成功');</script>";
+						}else{
+							echo"<script>alert('订单装车失败');</script>";
+						}
+				}
+			}
+		 exit;
+	}
+}
+$myorder = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order"). " WHERE id='".$_GET['oid']."'");
+$clerk = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_clerk"). " WHERE openid='".$openid."' and sid='".$myorder['sid']."'");
+if(!empty($clerk)){
+	$my = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order"). " WHERE id='".$_GET['oid']."' and status='5'");
+	
+	if(empty($my)){
+		pdo_update('tiny_wmall_order', array('status'=>5), array( 'id' => $_GET['oid'],'status'=>4));
+
+	
+	//根据订单ID找出司机
+	$oid = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order"). " WHERE id='".$_GET['oid']."'");
+	$deliveryer_id=$oid['deliveryer_id'];
+	//通过司机id找出所有该司机的订单
+	$all=pdo_fetchall('SELECT * FROM ' . tablename('tiny_wmall_order')." WHERE deliveryer_id='".$deliveryer_id."'");
+	//判断所有订单状态是否为5，若为5则更改运送状态为5
+	foreach($all as $value){
+		if($value['status']==4){
+			$a=1;
+		}
+	}
+	if(!isset($a)){
+
+			//找到司机表的openid
+			$delivery=pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_deliveryer"). " WHERE id='".$deliveryer_id."'");
+			$opd=$delivery['openid'];
+			$time=time();
+			$now_m = date('Y-m',$time);//当天年月份
+			$now_m=strtotime($now_m);//年月int型
+
+			//更新司机趟数的状态,如果所有订单的状态不为4，那么司机的运送状态更新为5,更新时间
+			pdo_update('tiny_wmall_order_alldetail', array('status'=>5,'deliveryeredtime'=>$time), array( 'openid' => $opd,'status'=>4));
+			//根据openid查出所有该司机运送趟数	
+			//$allnum=pdo_fetchall('SELECT * FROM ' . tablename('tiny_wmall_order_alldetail')." WHERE openid='".$opd."'");
+			//根据时间查询出该司机当月所有的趟数
+			$beginThismonth=strtotime(date('Y-m-01', $time));//月初
+			$endThismonth=strtotime(date('Y-m-d', mktime(0, 0, 0,date('m')+1,1)-1));//月末
+			$nnum=pdo_fetchcolumn('SELECT COUNT(*) FROM ' . tablename('tiny_wmall_order_alldetail') ."where deliveryeredtime>='".$beginThismonth."' and deliveryeredtime<='".$endThismonth."'");
+				if($nnum!=0){
+					$deliverytime=pdo_fetchall("SELECT * FROM " . tablename('tiny_wmall_deliveryer_jiesuan')." WHERE openid='".$opd."'");
+					foreach($deliverytime as $v){
+					//更新当年年月一样的趟数
+						if(intval($v['deliveryeredtime'])==$now_m){
+							//当月存在这趟就更新
+							pdo_update('tiny_wmall_deliveryer_jiesuan', array('nnum'=>$nnum), array( 'deliveryeredtime' =>$v['deliveryeredtime'],'openid'=>$opd));
+							
+						}
+					}
+					
+				}else{
+					//当月不存在就新建
+					pdo_insert('tiny_wmall_deliveryer_jiesuan',array('name'=>$data['title'],'openid'=>$data['openid'],'nickname'=>$data['nickname'],'deliveryeredtime'=>$now_m));
+					
+				}
+			//如果不为5
+			//pdo_update('tiny_wmall_deliveryer_jiesuan', array('deliveryeredtime'=>$now_m), array( 'openid' =>$opd));
+	 }//else{
+	// 	echo"<script>alert('订单还未接收完');</script>";
+	// }
+		$order = order_fetch($_GET['oid']);
+		$store = store_fetch($order['sid'], array('title','address','telephone'));
+    	$acc = WeAccount::create($order['acid']);
+    	order_fetch_fansinfo();
+    	$datas= iunserializer($order['data']);
+    	foreach($datas as $key){
+    		$data=$key;
+    	}
+    	$title = "你购买的【{$data[0]['title']}】已达到【{$store['title']}】,地点在【{$store['address']}】, 请凭收获码准时取件";
+        $remark = array("门店名称: {$store['title']}",  "手机号: {$store['telephone']}",  "收货码: {$order['code']}");
+    	$url = $_W['siteroot'] . 'app' . ltrim(murl('entry', array('do' => 'order', 'm' => 'we7_wmall', 'op' => 'detail', 'sid' => $order['sid'], 'id' => $order['id'])), '.');
+        $remark = implode("\n", $remark);
+        $send = tpl_format($title, $order['ordersn'], '配送完成', $remark);
+        $status = $acc->sendTplNotice($order['openid'], $_W['we7_wmall']['config']['public_tpl'], $send, $url);
+		if($myorder['status']==7){
+			$mission=7;
+			$mes="已收货";
+			include $this->template('status');
+			exit;
+		}
+		$mission=7;
+			$mes="到店成功";
+			include $this->template('status');
+		exit;
+	}
+	if(!empty($my)&&!empty($_GET['code'])){
+		if($_GET['code']==$my['code']){
+			$amount = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_store_account"). " WHERE sid='".$my['sid']."'");
+			$date=array('amount'=>$amount['amount']+$amount['bymine']);
+			pdo_update('tiny_wmall_store_account', $date, array('id' => $amount['id'] ));
+		 	pdo_update('tiny_wmall_order', array('status'=>7,'code'=>"0000"), array('uniacid' => $_W['uniacid'], 'id' => $_GET['oid'], 'uid' => $_W['member']['uid']));
+		 	$mission=7;
+		 	$mes="取件成功";
+		 	// echo"<script>alert('取件成功');</script>";
+		 	 include $this->template('status');
+		 	exit;
+		}else{
+			$mission=2;
+			$mes="验证码错误，请重新输入";
+			 // echo"<script> alert('验证码错误，请重新输入');</script>";
+			 include $this->template('status');
+		}
+	}
+	if(!empty($my)&&empty($_GET['code'])){
+		$mission=3;
+		include $this->template('status');
+	}
+}
+// $my = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_order"). " WHERE id='".$_GET['oid']."' and status='5'");
+// if(!empty($my)&&!empty($_GET['code'])){
+// 	if($_GET['code']==$my['code'])
+// }
+// if(!empty($my)&&empty($_GET['code'])){
+// 	include $this->template('status');
+// }
+
+// if(!empty($my)){
+// 		$amount = pdo_fetch("SELECT * FROM ". tablename("tiny_wmall_store_account"). " WHERE sid='".$my['sid']."'");
+// 		$date=array('amount'=>$amount['amount']+$amount['bymine']);
+// 		pdo_update('tiny_wmall_store_account', $date, array('id' => $amount['id'] ));
+// 		 pdo_update('tiny_wmall_order', array('status'=>7), array('uniacid' => $_W['uniacid'], 'id' => $_GET['oid'], 'uid' => $_W['member']['uid']));
+		 
+// 		  echo"
+// 		 <script>
+// 		 alert('取件成功');
+// 		 </script>
+// 		 ";
+// 		 exit;
+// }else{
+// 	 echo"
+// 		 <script>
+// 		 alert('查找失败');
+// 		 </script>
+// 		 ";
+// }
+
+?>
